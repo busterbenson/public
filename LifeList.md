@@ -23,7 +23,7 @@ RE: health
 * Run a marathon before I turn 40
 * Do 100 pushups in a row before I turn 37
 
-RE: list maintenance
---------------------
-* Review this list every month, on the 28th.
+RE: course correction
+---------------------
+* Review my life list, beliefs, and manifesto every month, on the 28th.
 * Restart any lapsed habits on the 28th of every month.
