@@ -1,4 +1,4 @@
-/Public
+/public
 =======
 
 My public self.
