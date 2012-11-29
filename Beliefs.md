@@ -4,7 +4,6 @@ My beliefs
 On Morality
 -----------
 * Gay marriage should be legal everywhere
-* Marijuana should be legal
 * Being good is in our nature (being evil requires misinformation or partial information)
 * Abortion should be legal
 * Assisted suicide should be legal
@@ -12,6 +11,7 @@ On Morality
 * The death penalty should be used in extreme and certain cases to protect the public
 * Prisons should be about protecting the public, not about punishing the criminal
 * The world's average morality is improving as it becomes more connected
+* Marijuana should be legal to grow, sell, buy, and carry
 
 On Spirituality
 ---------------
@@ -20,7 +20,7 @@ On Spirituality
 * Intention can't create reality (it just changes our perception of it)
 * Astrology is entertainment
 * Magic and miracles don't exist
-* There is no afterlife
+* There is no heaven/hell
 * We don't have a purpose given to us, but we can make one up
 
 On Science
@@ -34,36 +34,37 @@ On Science
 
 On Health
 ---------
-* We can change our behavior and habits (it's not as easy as it seems)
+* We can change our behavior and habits (it requires a lot of energy)
 * Consistently eating well and exercising is the only way to be sustainably healthy
-* Acupuncture works, but I have no idea how
+* Acupuncture works, somehow
 * Vaccinations are good for babies and society
 
 On Technology
 -------------
 * Computers will be building better computers than humans by 2050 (the Singularity)
-* Humans, computers, and Earth will evolve into a super organism by 2200
+* Humans, computers, and Earth will evolve into a super organism by 2200 (if we're still around)
 * Humans that embrace change (and give up some of their humanity) will survive the Singularity
-* Technology will eventually disrupt all other human-created institutions (politics, religion, identity)
+* Technology will eventually disrupt all other human-created institutions (politics, religion, identity, economics)
 
 On The Self
 -----------
 * Free will is mostly an illusion (but does exist in limited form)
 * Pure altruism is an illusion (but kindness is not)
-* We tell stories in order to deduce and remember meaning
+* We tell stories in order to create and remember meaning
 * Consciousness is the result of a feedback loop between our story-making cortex and our subconscious (ain't it nice though?)
 * Giving up our privacy and individuality in exchange for better connection will be the norm by 2050
 
 On Logic
 --------
-* Most questions have no answer (asking them anyway is sometimes entertaining, but nothing else)
+* Most questions have no answer (asking them anyway is sometimes entertaining, but nothing else) 
 * Logic is a helpful tool, but has flaws and can't be relied on entirely
 
-On Aliens & Space Travel
-------------------------
+On Aliens & Time/Space Travel
+-----------------------------
 * Aliens exist
 * Non-carbon-based life forms exist
 * Space travel throughout the universe is probably entirely the domain of robots and cyborgs
+* Forwards time-travel is possible, but backwards is not
 * I haven't entirely ruled out a Matrix-like origin story for the universe
 
 On Education
@@ -72,9 +73,10 @@ On Education
 
 On Politics & The Economy
 -------------------------
-* Most jobs lost in 2008-present aren't going to come back, they have to be created from scratch
+* Most jobs lost in 2008-present aren't going to come back, new ones have to be created from scratch
+* In the future, working will be more thoroughly decoupled from having the means to live
 * We'll have a President that admits to being atheist or agnostic by 2025
-* Power should be redistributed when it gets too heavy at the top
+* Power will be more quickly redistributed when it gets too heavy at the top
 
 On Biases
 ---------
