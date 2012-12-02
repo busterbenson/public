@@ -3,19 +3,21 @@ My beliefs
 
 On Morality
 -----------
+* Underneath the facade, we are all lovable
 * Gay marriage should be legal everywhere
 * Being good is in our nature (being evil requires misinformation or partial information)
-* Abortion should be legal
-* Assisted suicide should be legal
+* Abortion should be legal everywhere
+* Assisted suicide should be legal everywhere
 * Health care should be available to everyone who needs it
 * The death penalty should be used in extreme and certain cases to protect the public
-* Prisons should be about protecting the public, not about punishing the criminal
+* Prisons should be about protecting the public, not about punishment
 * The world's average morality is improving as it becomes more connected
 * Marijuana should be legal to grow, sell, buy, and carry
 
 On Spirituality
 ---------------
-* Souls don't exist
+* Remember, we will die
+* Souls don't exist separate from the physical body
 * The Gods of organized religion don't exist
 * Intention can't create reality (it just changes our perception of it)
 * Astrology is entertainment
@@ -23,14 +25,20 @@ On Spirituality
 * There is no heaven/hell
 * We don't have a purpose given to us, but we can make one up
 
-On Science
-----------
+On Science & The Universe
+-------------------------
 * Other dimensions and universes exist
 * Micro and macro evolution happens
 * Something like the Big Bang happened
 * Something existed before the Big Bang (outside of time and space as we know them)
 * Nothing in our universe will travel faster than light
 * The human brain (in its current state of evolution) can't comprehend the universe
+* We have no cosmic significance
+* Aliens exist
+* Non-carbon-based life forms exist
+* Space travel throughout the universe is probably entirely the domain of robots and cyborgs
+* Forwards time-travel is possible, but backwards is not
+* Chances are, we live in a simulation
 
 On Health
 ---------
@@ -52,20 +60,13 @@ On The Self
 * Pure altruism is an illusion (but kindness is not)
 * We tell stories in order to create and remember meaning
 * Consciousness is the result of a feedback loop between our story-making cortex and our subconscious (ain't it nice though?)
+* Privacy is not a human right, just a temporary side effect of not being truly connected to others
 * Giving up our privacy and individuality in exchange for better connection will be the norm by 2050
 
 On Logic
 --------
 * Most questions have no answer (asking them anyway is sometimes entertaining, but nothing else) 
 * Logic is a helpful tool, but has flaws and can't be relied on entirely
-
-On Aliens & Time/Space Travel
------------------------------
-* Aliens exist
-* Non-carbon-based life forms exist
-* Space travel throughout the universe is probably entirely the domain of robots and cyborgs
-* Forwards time-travel is possible, but backwards is not
-* I haven't entirely ruled out a Matrix-like origin story for the universe
 
 On Education
 ------------
