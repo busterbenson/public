@@ -79,6 +79,16 @@ On Politics & The Economy
 * We'll have a President that admits to being atheist or agnostic by 2025
 * Power will be more quickly redistributed when it gets too heavy at the top
 
+On The Future Of Earth (2100)
+-----------------------------
+* Global warming is real and will continue to cause big problems
+* There will be 10 billion people
+* 80% of people will live in cities and new mega-cities by 2100
+* The number of living languages in the world will drop to under 100
+* Genetically modified foods will become the norm
+* Coral reefs and the ocean ecosystems are going to break with unknown consequences
+* Solar and wind will slowly replace gas and oil 
+
 On Biases
 ---------
 * We tend to favor the beautiful
