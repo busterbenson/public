@@ -13,6 +13,7 @@ On Morality
 * Prisons should be about protecting the public, not about punishment
 * The world's average morality is improving as it becomes more connected
 * Marijuana should be legal to grow, sell, buy, and carry
+* Buying or carrying a gun should require a semi-yearly permit verifying that they're free of criminal record, pass a psychological mental health check, and have a genuine reason (licensed sport, animal control, or employment requirements)
 
 On Spirituality
 ---------------
