@@ -1,14 +1,21 @@
-My goals
+Goals
 =======================================
 1. identify with supporting identity
-2. 5 or fewer objectives
-3. 4 or fewer key results per objective
+2. 5 or fewer stretch identities
+3. 4 or fewer key results per stretch identity
+
+
+"I am proactive"
+----------------
+* At least 5 days a week, start my day proactively by doing at least one of these 6 things before looking at my phone: drink a glass of water, stretch, do pushups, do lunges, do plank, review my [Look, Look, Look](http://www.haikudeck.com/p/u9qVHcR7Ts/look-look-look) haiku deck.
+* Rabbit rabbit on the first of every month
+** Review and revise my goals, beliefs, and manifesto
+** Restart any lapsed habits
 
 "I am a runner"
 ---------------
+* Run once a week
 * Run a marathon before Oct 15th, 2013
-* Lunges, pushups, plank, or meditation
-* Run a marathon before I turn 40
 
 "I am a quantified selfer"
 --------------------------
@@ -27,9 +34,3 @@ My goals
 * Track my weight at least once a week
 * At least 1 half-plants meal a day
 * Eat slow, stop eating before food is all gone
-
-"I restart when needed"
------------------------
-* Rabbit rabbit on the first of every month
-* Review my life list, beliefs, and manifesto every month, on the 1st.
-* Restart any lapsed habits on the 1st of every month.
