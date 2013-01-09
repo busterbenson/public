@@ -14,8 +14,8 @@ Grailbird.data.tweets_2006_08 =
   "id" : 20379,
   "created_at" : "Fri Aug 25 19:01:48 +0000 2006",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",

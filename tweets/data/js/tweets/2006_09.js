@@ -14,8 +14,8 @@ Grailbird.data.tweets_2006_09 =
   "id" : 36176,
   "created_at" : "Thu Sep 28 05:36:57 +0000 2006",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -37,8 +37,8 @@ Grailbird.data.tweets_2006_09 =
   "id" : 32769,
   "created_at" : "Wed Sep 20 04:40:47 +0000 2006",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -60,8 +60,8 @@ Grailbird.data.tweets_2006_09 =
   "id" : 28242,
   "created_at" : "Sun Sep 10 18:47:14 +0000 2006",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",

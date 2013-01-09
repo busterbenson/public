@@ -3,11 +3,11 @@ Grailbird.data.tweets_2012_03 =
   "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Buster Benson",
+      "name" : "Anti-Buster",
       "screen_name" : "busterbenson",
       "indices" : [ 41, 54 ],
-      "id_str" : "2185",
-      "id" : 2185
+      "id_str" : "1024917050",
+      "id" : 1024917050
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -25,8 +25,8 @@ Grailbird.data.tweets_2012_03 =
   "id" : 186327734509780992,
   "created_at" : "Sun Apr 01 05:42:48 +0000 2012",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -53,8 +53,8 @@ Grailbird.data.tweets_2012_03 =
   "id" : 186327378757287937,
   "created_at" : "Sun Apr 01 05:41:23 +0000 2012",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -81,8 +81,8 @@ Grailbird.data.tweets_2012_03 =
   "id" : 186226051934982144,
   "created_at" : "Sat Mar 31 22:58:45 +0000 2012",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -139,8 +139,8 @@ Grailbird.data.tweets_2012_03 =
   "id" : 186133140018958336,
   "created_at" : "Sat Mar 31 16:49:33 +0000 2012",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -169,8 +169,8 @@ Grailbird.data.tweets_2012_03 =
   "id" : 185934822772965376,
   "created_at" : "Sat Mar 31 03:41:30 +0000 2012",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -197,8 +197,8 @@ Grailbird.data.tweets_2012_03 =
   "id" : 185878881306284033,
   "created_at" : "Fri Mar 30 23:59:13 +0000 2012",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -237,8 +237,8 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "octavekitten",
   "in_reply_to_user_id_str" : "16366882",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -277,8 +277,8 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "the_april",
   "in_reply_to_user_id_str" : "16644937",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -290,7 +290,7 @@ Grailbird.data.tweets_2012_03 =
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
-      "expanded_url" : "http://twitter.com/busterbenson/status/185585315195531264/photo/1",
+      "expanded_url" : "http://twitter.com/buster/status/185585315195531264/photo/1",
       "indices" : [ 66, 86 ],
       "url" : "http://t.co/BrrWZzH7",
       "media_url" : "http://pbs.twimg.com/media/ApNU3GQCMAAZd1E.jpg",
@@ -332,8 +332,8 @@ Grailbird.data.tweets_2012_03 =
   "id" : 185585315195531264,
   "created_at" : "Fri Mar 30 04:32:42 +0000 2012",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -356,11 +356,11 @@ Grailbird.data.tweets_2012_03 =
       "id_str" : "250986038",
       "id" : 250986038
     }, {
-      "name" : "Buster Benson",
+      "name" : "Anti-Buster",
       "screen_name" : "busterbenson",
       "indices" : [ 66, 79 ],
-      "id_str" : "2185",
-      "id" : 2185
+      "id_str" : "1024917050",
+      "id" : 1024917050
     }, {
       "name" : "Amelia Greenhall",
       "screen_name" : "ameliagreenhall",
@@ -390,8 +390,8 @@ Grailbird.data.tweets_2012_03 =
   "id" : 185516939492335618,
   "created_at" : "Fri Mar 30 00:00:59 +0000 2012",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -437,8 +437,8 @@ Grailbird.data.tweets_2012_03 =
   "id" : 185512496080240641,
   "created_at" : "Thu Mar 29 23:43:20 +0000 2012",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -505,8 +505,8 @@ Grailbird.data.tweets_2012_03 =
   "id" : 185511621714644992,
   "created_at" : "Thu Mar 29 23:39:51 +0000 2012",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -539,8 +539,8 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "LilHossler",
   "in_reply_to_user_id_str" : "123116307",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -579,8 +579,8 @@ Grailbird.data.tweets_2012_03 =
   "id" : 185504526160240640,
   "created_at" : "Thu Mar 29 23:11:40 +0000 2012",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -597,11 +597,11 @@ Grailbird.data.tweets_2012_03 =
       "id_str" : "11822502",
       "id" : 11822502
     }, {
-      "name" : "Buster Benson",
+      "name" : "Anti-Buster",
       "screen_name" : "busterbenson",
       "indices" : [ 9, 22 ],
-      "id_str" : "2185",
-      "id" : 2185
+      "id_str" : "1024917050",
+      "id" : 1024917050
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -615,11 +615,11 @@ Grailbird.data.tweets_2012_03 =
     "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "Buster Benson",
+        "name" : "Anti-Buster",
         "screen_name" : "busterbenson",
         "indices" : [ 0, 13 ],
-        "id_str" : "2185",
-        "id" : 2185
+        "id_str" : "1024917050",
+        "id" : 1024917050
       } ],
       "media" : [ ],
       "hashtags" : [ ],
@@ -634,7 +634,7 @@ Grailbird.data.tweets_2012_03 =
     "id" : 185448880891117569,
     "in_reply_to_status_id" : 185445578702983168,
     "created_at" : "Thu Mar 29 19:30:33 +0000 2012",
-    "in_reply_to_screen_name" : "busterbenson",
+    "in_reply_to_screen_name" : "buster",
     "in_reply_to_user_id_str" : "2185",
     "user" : {
       "name" : "Michael Owens",
@@ -649,8 +649,8 @@ Grailbird.data.tweets_2012_03 =
   "id" : 185449068565233664,
   "created_at" : "Thu Mar 29 19:31:18 +0000 2012",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -683,8 +683,8 @@ Grailbird.data.tweets_2012_03 =
   "id" : 185448333102432256,
   "created_at" : "Thu Mar 29 19:28:22 +0000 2012",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -701,11 +701,11 @@ Grailbird.data.tweets_2012_03 =
       "id_str" : "6604252",
       "id" : 6604252
     }, {
-      "name" : "Buster Benson",
+      "name" : "Anti-Buster",
       "screen_name" : "busterbenson",
       "indices" : [ 15, 28 ],
-      "id_str" : "2185",
-      "id" : 2185
+      "id_str" : "1024917050",
+      "id" : 1024917050
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -719,11 +719,11 @@ Grailbird.data.tweets_2012_03 =
     "source" : "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "Buster Benson",
+        "name" : "Anti-Buster",
         "screen_name" : "busterbenson",
         "indices" : [ 0, 13 ],
-        "id_str" : "2185",
-        "id" : 2185
+        "id_str" : "1024917050",
+        "id" : 1024917050
       } ],
       "media" : [ ],
       "hashtags" : [ {
@@ -741,7 +741,7 @@ Grailbird.data.tweets_2012_03 =
     "id" : 185446673953202176,
     "in_reply_to_status_id" : 185445578702983168,
     "created_at" : "Thu Mar 29 19:21:47 +0000 2012",
-    "in_reply_to_screen_name" : "busterbenson",
+    "in_reply_to_screen_name" : "buster",
     "in_reply_to_user_id_str" : "2185",
     "user" : {
       "name" : "Jonathan Assink",
@@ -756,8 +756,8 @@ Grailbird.data.tweets_2012_03 =
   "id" : 185446770589958145,
   "created_at" : "Thu Mar 29 19:22:10 +0000 2012",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -774,11 +774,11 @@ Grailbird.data.tweets_2012_03 =
       "id_str" : "200236063",
       "id" : 200236063
     }, {
-      "name" : "Buster Benson",
+      "name" : "Anti-Buster",
       "screen_name" : "busterbenson",
       "indices" : [ 16, 29 ],
-      "id_str" : "2185",
-      "id" : 2185
+      "id_str" : "1024917050",
+      "id" : 1024917050
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -792,11 +792,11 @@ Grailbird.data.tweets_2012_03 =
     "source" : "<a href=\"http://hibariapp.com\" rel=\"nofollow\">Hibari</a>",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "Buster Benson",
+        "name" : "Anti-Buster",
         "screen_name" : "busterbenson",
         "indices" : [ 0, 13 ],
-        "id_str" : "2185",
-        "id" : 2185
+        "id_str" : "1024917050",
+        "id" : 1024917050
       } ],
       "media" : [ ],
       "hashtags" : [ ],
@@ -811,14 +811,14 @@ Grailbird.data.tweets_2012_03 =
     "id" : 185446175829266432,
     "in_reply_to_status_id" : 185445578702983168,
     "created_at" : "Thu Mar 29 19:19:48 +0000 2012",
-    "in_reply_to_screen_name" : "busterbenson",
+    "in_reply_to_screen_name" : "buster",
     "in_reply_to_user_id_str" : "2185",
     "user" : {
       "name" : "Samuel Fine",
       "screen_name" : "samuelfine",
       "protected" : false,
       "id_str" : "200236063",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/2989335158/d374bb5e1af8b3c4e7ec5172dd07fc03_normal.png",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3077691235/289b3982c19d4b79fbc04932743bfa49_normal.png",
       "id" : 200236063,
       "verified" : false
     }
@@ -826,8 +826,8 @@ Grailbird.data.tweets_2012_03 =
   "id" : 185446545909481473,
   "created_at" : "Thu Mar 29 19:21:16 +0000 2012",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -849,8 +849,8 @@ Grailbird.data.tweets_2012_03 =
   "id" : 185445578702983168,
   "created_at" : "Thu Mar 29 19:17:26 +0000 2012",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -883,8 +883,8 @@ Grailbird.data.tweets_2012_03 =
   "id" : 185444841143021570,
   "created_at" : "Thu Mar 29 19:14:30 +0000 2012",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -948,8 +948,8 @@ Grailbird.data.tweets_2012_03 =
   "id" : 185399173754003457,
   "created_at" : "Thu Mar 29 16:13:02 +0000 2012",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -972,11 +972,11 @@ Grailbird.data.tweets_2012_03 =
       "id_str" : "5511",
       "id" : 5511
     }, {
-      "name" : "Buster Benson",
+      "name" : "Anti-Buster",
       "screen_name" : "busterbenson",
       "indices" : [ 17, 30 ],
-      "id_str" : "2185",
-      "id" : 2185
+      "id_str" : "1024917050",
+      "id" : 1024917050
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -996,11 +996,11 @@ Grailbird.data.tweets_2012_03 =
         "id_str" : "5511",
         "id" : 5511
       }, {
-        "name" : "Buster Benson",
+        "name" : "Anti-Buster",
         "screen_name" : "busterbenson",
         "indices" : [ 3, 16 ],
-        "id_str" : "2185",
-        "id" : 2185
+        "id_str" : "1024917050",
+        "id" : 1024917050
       } ],
       "media" : [ ],
       "hashtags" : [ ],
@@ -1030,8 +1030,8 @@ Grailbird.data.tweets_2012_03 =
   "id" : 185398537536798720,
   "created_at" : "Thu Mar 29 16:10:30 +0000 2012",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -1048,11 +1048,11 @@ Grailbird.data.tweets_2012_03 =
       "id_str" : "5511",
       "id" : 5511
     }, {
-      "name" : "Buster Benson",
+      "name" : "Anti-Buster",
       "screen_name" : "busterbenson",
       "indices" : [ 7, 20 ],
-      "id_str" : "2185",
-      "id" : 2185
+      "id_str" : "1024917050",
+      "id" : 1024917050
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -1066,11 +1066,11 @@ Grailbird.data.tweets_2012_03 =
     "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "Buster Benson",
+        "name" : "Anti-Buster",
         "screen_name" : "busterbenson",
         "indices" : [ 0, 13 ],
-        "id_str" : "2185",
-        "id" : 2185
+        "id_str" : "1024917050",
+        "id" : 1024917050
       } ],
       "media" : [ ],
       "hashtags" : [ ],
@@ -1085,7 +1085,7 @@ Grailbird.data.tweets_2012_03 =
     "id" : 185398309211484160,
     "in_reply_to_status_id" : 185398131423322114,
     "created_at" : "Thu Mar 29 16:09:36 +0000 2012",
-    "in_reply_to_screen_name" : "busterbenson",
+    "in_reply_to_screen_name" : "buster",
     "in_reply_to_user_id_str" : "2185",
     "user" : {
       "name" : "Fred Oliveira",
@@ -1100,8 +1100,8 @@ Grailbird.data.tweets_2012_03 =
   "id" : 185398406850678784,
   "created_at" : "Thu Mar 29 16:09:59 +0000 2012",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -1118,11 +1118,11 @@ Grailbird.data.tweets_2012_03 =
       "id_str" : "2182141",
       "id" : 2182141
     }, {
-      "name" : "Buster Benson",
+      "name" : "Anti-Buster",
       "screen_name" : "busterbenson",
       "indices" : [ 9, 22 ],
-      "id_str" : "2185",
-      "id" : 2185
+      "id_str" : "1024917050",
+      "id" : 1024917050
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -1136,11 +1136,11 @@ Grailbird.data.tweets_2012_03 =
     "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "Buster Benson",
+        "name" : "Anti-Buster",
         "screen_name" : "busterbenson",
         "indices" : [ 0, 13 ],
-        "id_str" : "2185",
-        "id" : 2185
+        "id_str" : "1024917050",
+        "id" : 1024917050
       } ],
       "media" : [ ],
       "hashtags" : [ ],
@@ -1155,7 +1155,7 @@ Grailbird.data.tweets_2012_03 =
     "id" : 185398221177229313,
     "in_reply_to_status_id" : 185398131423322114,
     "created_at" : "Thu Mar 29 16:09:15 +0000 2012",
-    "in_reply_to_screen_name" : "busterbenson",
+    "in_reply_to_screen_name" : "buster",
     "in_reply_to_user_id_str" : "2185",
     "user" : {
       "name" : "Cap Watkins",
@@ -1170,8 +1170,8 @@ Grailbird.data.tweets_2012_03 =
   "id" : 185398386332155904,
   "created_at" : "Thu Mar 29 16:09:54 +0000 2012",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -1193,8 +1193,8 @@ Grailbird.data.tweets_2012_03 =
   "id" : 185398131423322114,
   "created_at" : "Thu Mar 29 16:08:53 +0000 2012",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -1239,8 +1239,8 @@ Grailbird.data.tweets_2012_03 =
   "id" : 185372967180582913,
   "created_at" : "Thu Mar 29 14:28:54 +0000 2012",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -1279,8 +1279,8 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "carinnatarvin",
   "in_reply_to_user_id_str" : "20833838",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -1309,8 +1309,8 @@ Grailbird.data.tweets_2012_03 =
   "id" : 185209775578030080,
   "created_at" : "Thu Mar 29 03:40:26 +0000 2012",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -1355,8 +1355,8 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "WilloToons",
   "in_reply_to_user_id_str" : "772386",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -1391,8 +1391,8 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "tonystubblebine",
   "in_reply_to_user_id_str" : "17",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -1425,8 +1425,8 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "tara",
   "in_reply_to_user_id_str" : "10959642",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -1471,8 +1471,8 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "tara",
   "in_reply_to_user_id_str" : "10959642",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -1505,8 +1505,8 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "k",
   "in_reply_to_user_id_str" : "11222",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -1539,8 +1539,8 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "irondavy",
   "in_reply_to_user_id_str" : "14986129",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -1573,8 +1573,8 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "irondavy",
   "in_reply_to_user_id_str" : "14986129",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -1607,8 +1607,8 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "k",
   "in_reply_to_user_id_str" : "11222",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -1647,8 +1647,8 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "k",
   "in_reply_to_user_id_str" : "11222",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -1681,8 +1681,8 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "amyjokim",
   "in_reply_to_user_id_str" : "780991",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -1715,8 +1715,8 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "rohanseth",
   "in_reply_to_user_id_str" : "66560735",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -1749,8 +1749,8 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "rohanseth",
   "in_reply_to_user_id_str" : "66560735",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -1783,8 +1783,8 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "e_ramirez",
   "in_reply_to_user_id_str" : "21135674",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -1817,8 +1817,8 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "trappermarkelz",
   "in_reply_to_user_id_str" : "1032241",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -1851,8 +1851,8 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "avantgame",
   "in_reply_to_user_id_str" : "681813",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -1874,8 +1874,8 @@ Grailbird.data.tweets_2012_03 =
   "id" : 185131040229163008,
   "created_at" : "Wed Mar 28 22:27:34 +0000 2012",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -1925,8 +1925,8 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "brennannovak",
   "in_reply_to_user_id_str" : "17958179",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -1949,11 +1949,11 @@ Grailbird.data.tweets_2012_03 =
       "id_str" : "19725644",
       "id" : 19725644
     }, {
-      "name" : "Buster Benson",
+      "name" : "Anti-Buster",
       "screen_name" : "busterbenson",
       "indices" : [ 89, 102 ],
-      "id_str" : "2185",
-      "id" : 2185
+      "id_str" : "1024917050",
+      "id" : 1024917050
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -1978,11 +1978,11 @@ Grailbird.data.tweets_2012_03 =
         "id_str" : "19725644",
         "id" : 19725644
       }, {
-        "name" : "Buster Benson",
+        "name" : "Anti-Buster",
         "screen_name" : "busterbenson",
         "indices" : [ 75, 88 ],
-        "id_str" : "2185",
-        "id" : 2185
+        "id_str" : "1024917050",
+        "id" : 1024917050
       } ],
       "media" : [ ],
       "hashtags" : [ ],
@@ -2012,8 +2012,8 @@ Grailbird.data.tweets_2012_03 =
   "id" : 185024078560759810,
   "created_at" : "Wed Mar 28 15:22:32 +0000 2012",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -2065,8 +2065,8 @@ Grailbird.data.tweets_2012_03 =
   "id" : 185019138597597185,
   "created_at" : "Wed Mar 28 15:02:54 +0000 2012",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -2099,8 +2099,8 @@ Grailbird.data.tweets_2012_03 =
   "id" : 185018986537304064,
   "created_at" : "Wed Mar 28 15:02:18 +0000 2012",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -2129,8 +2129,8 @@ Grailbird.data.tweets_2012_03 =
   "id" : 184989930592804864,
   "created_at" : "Wed Mar 28 13:06:51 +0000 2012",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -2165,8 +2165,8 @@ Grailbird.data.tweets_2012_03 =
   "id" : 184849853954793472,
   "created_at" : "Wed Mar 28 03:50:14 +0000 2012",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -2195,8 +2195,8 @@ Grailbird.data.tweets_2012_03 =
   "id" : 184832614090285056,
   "created_at" : "Wed Mar 28 02:41:43 +0000 2012",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -2235,8 +2235,8 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "AlexSalinsky",
   "in_reply_to_user_id_str" : "134531474",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -2263,8 +2263,8 @@ Grailbird.data.tweets_2012_03 =
   "id" : 184793341370703872,
   "created_at" : "Wed Mar 28 00:05:40 +0000 2012",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -2326,8 +2326,8 @@ Grailbird.data.tweets_2012_03 =
   "id" : 184790573738242048,
   "created_at" : "Tue Mar 27 23:54:40 +0000 2012",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -2365,8 +2365,8 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "cjlikearockstar",
   "in_reply_to_user_id_str" : "34383091",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -2399,8 +2399,8 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "cjlikearockstar",
   "in_reply_to_user_id_str" : "34383091",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -2439,8 +2439,8 @@ Grailbird.data.tweets_2012_03 =
   "id" : 184747862666645504,
   "created_at" : "Tue Mar 27 21:04:57 +0000 2012",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -2473,8 +2473,8 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "nwangelconf",
   "in_reply_to_user_id_str" : "397377701",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -2507,8 +2507,8 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "PattieFlint",
   "in_reply_to_user_id_str" : "419688322",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -2570,8 +2570,8 @@ Grailbird.data.tweets_2012_03 =
   "id" : 184708721530773504,
   "created_at" : "Tue Mar 27 18:29:25 +0000 2012",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -2604,8 +2604,8 @@ Grailbird.data.tweets_2012_03 =
   "id" : 184671151342100480,
   "created_at" : "Tue Mar 27 16:00:08 +0000 2012",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -2657,8 +2657,8 @@ Grailbird.data.tweets_2012_03 =
   "id" : 184643366494027776,
   "created_at" : "Tue Mar 27 14:09:43 +0000 2012",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -2670,7 +2670,7 @@ Grailbird.data.tweets_2012_03 =
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
-      "expanded_url" : "http://twitter.com/busterbenson/status/184485022009528320/photo/1",
+      "expanded_url" : "http://twitter.com/buster/status/184485022009528320/photo/1",
       "indices" : [ 83, 103 ],
       "url" : "http://t.co/jlHwvLlt",
       "media_url" : "http://pbs.twimg.com/media/Ao9sJmuCEAAyOF-.jpg",
@@ -2721,8 +2721,8 @@ Grailbird.data.tweets_2012_03 =
   "id" : 184485022009528320,
   "created_at" : "Tue Mar 27 03:40:32 +0000 2012",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -2755,8 +2755,8 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "jackiewolven",
   "in_reply_to_user_id_str" : "7413172",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -2789,8 +2789,8 @@ Grailbird.data.tweets_2012_03 =
   "id" : 184448152965890048,
   "created_at" : "Tue Mar 27 01:14:01 +0000 2012",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -2824,8 +2824,8 @@ Grailbird.data.tweets_2012_03 =
   "id" : 184446844703744002,
   "created_at" : "Tue Mar 27 01:08:49 +0000 2012",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -2858,8 +2858,8 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "carl_shan",
   "in_reply_to_user_id_str" : "202370111",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -2903,8 +2903,8 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "carl_shan",
   "in_reply_to_user_id_str" : "202370111",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -2937,8 +2937,8 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "carl_shan",
   "in_reply_to_user_id_str" : "202370111",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -2977,8 +2977,8 @@ Grailbird.data.tweets_2012_03 =
   "id" : 184351135665098752,
   "created_at" : "Mon Mar 26 18:48:30 +0000 2012",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -3011,8 +3011,8 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "scottnonnenberg",
   "in_reply_to_user_id_str" : "46940769",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -3074,8 +3074,8 @@ Grailbird.data.tweets_2012_03 =
   "id" : 184306517414133762,
   "created_at" : "Mon Mar 26 15:51:12 +0000 2012",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -3104,8 +3104,8 @@ Grailbird.data.tweets_2012_03 =
   "id" : 184123245111410689,
   "created_at" : "Mon Mar 26 03:42:57 +0000 2012",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -3132,8 +3132,8 @@ Grailbird.data.tweets_2012_03 =
   "id" : 184118561114042368,
   "created_at" : "Mon Mar 26 03:24:20 +0000 2012",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -3190,8 +3190,8 @@ Grailbird.data.tweets_2012_03 =
   "id" : 184108133432565761,
   "created_at" : "Mon Mar 26 02:42:54 +0000 2012",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -3224,8 +3224,8 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "Aubs",
   "in_reply_to_user_id_str" : "2781",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -3258,8 +3258,8 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "Aubs",
   "in_reply_to_user_id_str" : "2781",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -3287,8 +3287,8 @@ Grailbird.data.tweets_2012_03 =
   "id" : 184065337640222720,
   "created_at" : "Sun Mar 25 23:52:50 +0000 2012",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -3315,8 +3315,8 @@ Grailbird.data.tweets_2012_03 =
   "id" : 184060827903602688,
   "created_at" : "Sun Mar 25 23:34:55 +0000 2012",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -3349,8 +3349,8 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "helenjane",
   "in_reply_to_user_id_str" : "798542",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -3377,8 +3377,8 @@ Grailbird.data.tweets_2012_03 =
   "id" : 184050755345453057,
   "created_at" : "Sun Mar 25 22:54:54 +0000 2012",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -3417,8 +3417,8 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "harryh",
   "in_reply_to_user_id_str" : "4558",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -3445,8 +3445,8 @@ Grailbird.data.tweets_2012_03 =
   "id" : 183974205522575360,
   "created_at" : "Sun Mar 25 17:50:43 +0000 2012",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -3485,8 +3485,8 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "octavekitten",
   "in_reply_to_user_id_str" : "16366882",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -3515,8 +3515,8 @@ Grailbird.data.tweets_2012_03 =
   "id" : 183761675286097920,
   "created_at" : "Sun Mar 25 03:46:12 +0000 2012",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -3549,8 +3549,8 @@ Grailbird.data.tweets_2012_03 =
   "id" : 183750834247569408,
   "created_at" : "Sun Mar 25 03:03:07 +0000 2012",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -3583,8 +3583,8 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "cyrusbryan",
   "in_reply_to_user_id_str" : "755086",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -3614,8 +3614,8 @@ Grailbird.data.tweets_2012_03 =
   "id" : 183701397940862977,
   "created_at" : "Sat Mar 24 23:46:40 +0000 2012",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -3648,8 +3648,8 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "azumioinc",
   "in_reply_to_user_id_str" : "252827423",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -3682,8 +3682,8 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "allenmmurray",
   "in_reply_to_user_id_str" : "22118364",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -3721,8 +3721,8 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "ecologythinking",
   "in_reply_to_user_id_str" : "52667079",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -3749,8 +3749,8 @@ Grailbird.data.tweets_2012_03 =
   "id" : 183605118359441408,
   "created_at" : "Sat Mar 24 17:24:06 +0000 2012",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -3783,8 +3783,8 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "tempo",
   "in_reply_to_user_id_str" : "5814",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -3813,8 +3813,8 @@ Grailbird.data.tweets_2012_03 =
   "id" : 183398223870836737,
   "created_at" : "Sat Mar 24 03:41:58 +0000 2012",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -3878,8 +3878,8 @@ Grailbird.data.tweets_2012_03 =
   "id" : 183273918176567297,
   "created_at" : "Fri Mar 23 19:28:01 +0000 2012",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -3912,8 +3912,8 @@ Grailbird.data.tweets_2012_03 =
   "id" : 183221082738794496,
   "created_at" : "Fri Mar 23 15:58:04 +0000 2012",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -3946,8 +3946,8 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "harryh",
   "in_reply_to_user_id_str" : "4558",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -3982,8 +3982,8 @@ Grailbird.data.tweets_2012_03 =
   "id" : 183035852061020160,
   "created_at" : "Fri Mar 23 03:42:02 +0000 2012",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -4010,8 +4010,8 @@ Grailbird.data.tweets_2012_03 =
   "id" : 182947688898244609,
   "created_at" : "Thu Mar 22 21:51:42 +0000 2012",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -4038,8 +4038,8 @@ Grailbird.data.tweets_2012_03 =
   "id" : 182946973446455297,
   "created_at" : "Thu Mar 22 21:48:52 +0000 2012",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -4066,8 +4066,8 @@ Grailbird.data.tweets_2012_03 =
   "id" : 182944818241081344,
   "created_at" : "Thu Mar 22 21:40:18 +0000 2012",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -4129,8 +4129,8 @@ Grailbird.data.tweets_2012_03 =
   "id" : 182905700022886400,
   "created_at" : "Thu Mar 22 19:04:51 +0000 2012",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -4192,8 +4192,8 @@ Grailbird.data.tweets_2012_03 =
   "id" : 182832896732708865,
   "created_at" : "Thu Mar 22 14:15:34 +0000 2012",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -4228,8 +4228,8 @@ Grailbird.data.tweets_2012_03 =
   "id" : 182674546330054657,
   "created_at" : "Thu Mar 22 03:46:20 +0000 2012",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -4262,8 +4262,8 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "e_ramirez",
   "in_reply_to_user_id_str" : "21135674",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -4280,11 +4280,11 @@ Grailbird.data.tweets_2012_03 =
       "id_str" : "13368022",
       "id" : 13368022
     }, {
-      "name" : "Buster Benson",
+      "name" : "Anti-Buster",
       "screen_name" : "busterbenson",
       "indices" : [ 11, 24 ],
-      "id_str" : "2185",
-      "id" : 2185
+      "id_str" : "1024917050",
+      "id" : 1024917050
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -4298,11 +4298,11 @@ Grailbird.data.tweets_2012_03 =
     "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "Buster Benson",
+        "name" : "Anti-Buster",
         "screen_name" : "busterbenson",
         "indices" : [ 0, 13 ],
-        "id_str" : "2185",
-        "id" : 2185
+        "id_str" : "1024917050",
+        "id" : 1024917050
       } ],
       "media" : [ ],
       "hashtags" : [ ],
@@ -4317,7 +4317,7 @@ Grailbird.data.tweets_2012_03 =
     "id" : 182572955094614016,
     "in_reply_to_status_id" : 182571437901623296,
     "created_at" : "Wed Mar 21 21:02:39 +0000 2012",
-    "in_reply_to_screen_name" : "busterbenson",
+    "in_reply_to_screen_name" : "buster",
     "in_reply_to_user_id_str" : "2185",
     "user" : {
       "name" : "Bruno Mattarollo",
@@ -4332,8 +4332,8 @@ Grailbird.data.tweets_2012_03 =
   "id" : 182582114124955648,
   "created_at" : "Wed Mar 21 21:39:02 +0000 2012",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -4366,8 +4366,8 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "bmatt",
   "in_reply_to_user_id_str" : "13368022",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -4384,11 +4384,11 @@ Grailbird.data.tweets_2012_03 =
       "id_str" : "16644937",
       "id" : 16644937
     }, {
-      "name" : "Buster Benson",
+      "name" : "Anti-Buster",
       "screen_name" : "busterbenson",
       "indices" : [ 15, 28 ],
-      "id_str" : "2185",
-      "id" : 2185
+      "id_str" : "1024917050",
+      "id" : 1024917050
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -4402,11 +4402,11 @@ Grailbird.data.tweets_2012_03 =
     "source" : "web",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "Buster Benson",
+        "name" : "Anti-Buster",
         "screen_name" : "busterbenson",
         "indices" : [ 0, 13 ],
-        "id_str" : "2185",
-        "id" : 2185
+        "id_str" : "1024917050",
+        "id" : 1024917050
       } ],
       "media" : [ ],
       "hashtags" : [ ],
@@ -4421,7 +4421,7 @@ Grailbird.data.tweets_2012_03 =
     "id" : 182570895263543296,
     "in_reply_to_status_id" : 182567165185101824,
     "created_at" : "Wed Mar 21 20:54:28 +0000 2012",
-    "in_reply_to_screen_name" : "busterbenson",
+    "in_reply_to_screen_name" : "buster",
     "in_reply_to_user_id_str" : "2185",
     "user" : {
       "name" : "April Schiller",
@@ -4436,8 +4436,8 @@ Grailbird.data.tweets_2012_03 =
   "id" : 182571277104594944,
   "created_at" : "Wed Mar 21 20:55:59 +0000 2012",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -4459,8 +4459,8 @@ Grailbird.data.tweets_2012_03 =
   "id" : 182569146054213633,
   "created_at" : "Wed Mar 21 20:47:31 +0000 2012",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -4493,8 +4493,8 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "jeremymeyers",
   "in_reply_to_user_id_str" : "16818880",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -4527,8 +4527,8 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "ingopixel",
   "in_reply_to_user_id_str" : "7943892",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -4561,8 +4561,8 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "Serrenity",
   "in_reply_to_user_id_str" : "6626822",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -4595,8 +4595,8 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "jeremymeyers",
   "in_reply_to_user_id_str" : "16818880",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -4627,8 +4627,8 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "naunihalpublic",
   "in_reply_to_user_id_str" : "32232142",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -4661,8 +4661,8 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "Serrenity",
   "in_reply_to_user_id_str" : "6626822",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -4684,8 +4684,8 @@ Grailbird.data.tweets_2012_03 =
   "id" : 182567165185101824,
   "created_at" : "Wed Mar 21 20:39:38 +0000 2012",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -4718,8 +4718,8 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "allenmmurray",
   "in_reply_to_user_id_str" : "22118364",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -4746,8 +4746,8 @@ Grailbird.data.tweets_2012_03 =
   "id" : 182314914541613058,
   "created_at" : "Wed Mar 21 03:57:17 +0000 2012",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -4776,8 +4776,8 @@ Grailbird.data.tweets_2012_03 =
   "id" : 182310803746201600,
   "created_at" : "Wed Mar 21 03:40:57 +0000 2012",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -4810,8 +4810,8 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "aharbick",
   "in_reply_to_user_id_str" : "815996",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -4910,8 +4910,8 @@ Grailbird.data.tweets_2012_03 =
   "id" : 182209375925055488,
   "created_at" : "Tue Mar 20 20:57:55 +0000 2012",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -4944,8 +4944,8 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "the_april",
   "in_reply_to_user_id_str" : "16644937",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -4978,8 +4978,8 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "the_april",
   "in_reply_to_user_id_str" : "16644937",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -5012,8 +5012,8 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "dantebriones",
   "in_reply_to_user_id_str" : "62136032",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -5058,8 +5058,8 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "joshc",
   "in_reply_to_user_id_str" : "2015",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -5092,8 +5092,8 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "dantebriones",
   "in_reply_to_user_id_str" : "62136032",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -5126,8 +5126,8 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "dantebriones",
   "in_reply_to_user_id_str" : "62136032",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -5166,8 +5166,8 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "samantham",
   "in_reply_to_user_id_str" : "1771141",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -5196,8 +5196,8 @@ Grailbird.data.tweets_2012_03 =
   "id" : 181955527490801665,
   "created_at" : "Tue Mar 20 04:09:12 +0000 2012",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -5236,8 +5236,8 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "the_april",
   "in_reply_to_user_id_str" : "16644937",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -5276,8 +5276,8 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "azumioinc",
   "in_reply_to_user_id_str" : "252827423",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -5339,8 +5339,8 @@ Grailbird.data.tweets_2012_03 =
   "id" : 181847418676056064,
   "created_at" : "Mon Mar 19 20:59:37 +0000 2012",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -5379,8 +5379,8 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "the_april",
   "in_reply_to_user_id_str" : "16644937",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -5413,8 +5413,8 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "samantham",
   "in_reply_to_user_id_str" : "1771141",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -5453,8 +5453,8 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "the_april",
   "in_reply_to_user_id_str" : "16644937",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -5493,8 +5493,8 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "cathy_kerr",
   "in_reply_to_user_id_str" : "9905192",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -5527,8 +5527,8 @@ Grailbird.data.tweets_2012_03 =
   "id" : 181758891820974080,
   "created_at" : "Mon Mar 19 15:07:51 +0000 2012",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -5561,8 +5561,8 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "VictorMathieux",
   "in_reply_to_user_id_str" : "178841000",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -5591,8 +5591,8 @@ Grailbird.data.tweets_2012_03 =
   "id" : 181586938015395841,
   "created_at" : "Mon Mar 19 03:44:34 +0000 2012",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -5625,8 +5625,8 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "ellenthatcher",
   "in_reply_to_user_id_str" : "18999752",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -5659,8 +5659,8 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "joshc",
   "in_reply_to_user_id_str" : "2015",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -5693,8 +5693,8 @@ Grailbird.data.tweets_2012_03 =
   "id" : 181524231346069505,
   "created_at" : "Sun Mar 18 23:35:23 +0000 2012",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -5727,8 +5727,8 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "MichelleBee",
   "in_reply_to_user_id_str" : "1059951",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -5790,8 +5790,8 @@ Grailbird.data.tweets_2012_03 =
   "id" : 181520408749682690,
   "created_at" : "Sun Mar 18 23:20:12 +0000 2012",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -5830,8 +5830,8 @@ Grailbird.data.tweets_2012_03 =
   "id" : 181510679008776192,
   "created_at" : "Sun Mar 18 22:41:32 +0000 2012",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -5864,8 +5864,8 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "MichelleBee",
   "in_reply_to_user_id_str" : "1059951",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -5898,8 +5898,8 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "MichelleBee",
   "in_reply_to_user_id_str" : "1059951",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -5932,8 +5932,8 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "cjlikearockstar",
   "in_reply_to_user_id_str" : "34383091",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -5966,8 +5966,8 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "strickvl",
   "in_reply_to_user_id_str" : "14439930",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -6006,8 +6006,8 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "strickvl",
   "in_reply_to_user_id_str" : "14439930",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -6039,8 +6039,8 @@ Grailbird.data.tweets_2012_03 =
   "id" : 181502718844743680,
   "created_at" : "Sun Mar 18 22:09:54 +0000 2012",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -6072,8 +6072,8 @@ Grailbird.data.tweets_2012_03 =
   "id" : 181496569042968577,
   "created_at" : "Sun Mar 18 21:45:28 +0000 2012",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -6106,8 +6106,8 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "heatherquintal",
   "in_reply_to_user_id_str" : "12761252",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -6129,8 +6129,8 @@ Grailbird.data.tweets_2012_03 =
   "id" : 181478300684787712,
   "created_at" : "Sun Mar 18 20:32:53 +0000 2012",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -6163,8 +6163,8 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "dbabbage",
   "in_reply_to_user_id_str" : "12389752",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -6186,8 +6186,8 @@ Grailbird.data.tweets_2012_03 =
   "id" : 181477437346029569,
   "created_at" : "Sun Mar 18 20:29:27 +0000 2012",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -6220,8 +6220,8 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "dbabbage",
   "in_reply_to_user_id_str" : "12389752",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -6243,8 +6243,8 @@ Grailbird.data.tweets_2012_03 =
   "id" : 181475704830042112,
   "created_at" : "Sun Mar 18 20:22:34 +0000 2012",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -6277,8 +6277,8 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "dbabbage",
   "in_reply_to_user_id_str" : "12389752",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -6311,8 +6311,8 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "dbabbage",
   "in_reply_to_user_id_str" : "12389752",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -6345,8 +6345,8 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "dbabbage",
   "in_reply_to_user_id_str" : "12389752",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -6379,8 +6379,8 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "brianfay",
   "in_reply_to_user_id_str" : "15257124",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -6402,8 +6402,8 @@ Grailbird.data.tweets_2012_03 =
   "id" : 181471109181476865,
   "created_at" : "Sun Mar 18 20:04:18 +0000 2012",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -6425,8 +6425,8 @@ Grailbird.data.tweets_2012_03 =
   "id" : 181469579980177409,
   "created_at" : "Sun Mar 18 19:58:14 +0000 2012",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -6448,8 +6448,8 @@ Grailbird.data.tweets_2012_03 =
   "id" : 181468887773216770,
   "created_at" : "Sun Mar 18 19:55:29 +0000 2012",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -6471,8 +6471,8 @@ Grailbird.data.tweets_2012_03 =
   "id" : 181468169981018112,
   "created_at" : "Sun Mar 18 19:52:37 +0000 2012",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -6546,8 +6546,8 @@ Grailbird.data.tweets_2012_03 =
   "id" : 181446150551904256,
   "created_at" : "Sun Mar 18 18:25:08 +0000 2012",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -6580,8 +6580,8 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "MeganWelling",
   "in_reply_to_user_id_str" : "26166039",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -6608,8 +6608,8 @@ Grailbird.data.tweets_2012_03 =
   "id" : 181421457514037248,
   "created_at" : "Sun Mar 18 16:47:00 +0000 2012",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -6648,8 +6648,8 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "torrez",
   "in_reply_to_user_id_str" : "11604",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -6676,8 +6676,8 @@ Grailbird.data.tweets_2012_03 =
   "id" : 181265456336879616,
   "created_at" : "Sun Mar 18 06:27:07 +0000 2012",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -6706,8 +6706,8 @@ Grailbird.data.tweets_2012_03 =
   "id" : 181228868831686657,
   "created_at" : "Sun Mar 18 04:01:44 +0000 2012",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -6734,8 +6734,8 @@ Grailbird.data.tweets_2012_03 =
   "id" : 181122214077267968,
   "created_at" : "Sat Mar 17 20:57:55 +0000 2012",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -6762,8 +6762,8 @@ Grailbird.data.tweets_2012_03 =
   "id" : 181114834778193920,
   "created_at" : "Sat Mar 17 20:28:36 +0000 2012",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -6793,8 +6793,8 @@ Grailbird.data.tweets_2012_03 =
   "id" : 181099863889547264,
   "created_at" : "Sat Mar 17 19:29:06 +0000 2012",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -6811,11 +6811,11 @@ Grailbird.data.tweets_2012_03 =
       "id_str" : "16952268",
       "id" : 16952268
     }, {
-      "name" : "Buster Benson",
+      "name" : "Anti-Buster",
       "screen_name" : "busterbenson",
       "indices" : [ 13, 26 ],
-      "id_str" : "2185",
-      "id" : 2185
+      "id_str" : "1024917050",
+      "id" : 1024917050
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -6829,11 +6829,11 @@ Grailbird.data.tweets_2012_03 =
     "source" : "<a href=\"http://www.twittergadget.com\" rel=\"nofollow\">tGadget</a>",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "Buster Benson",
+        "name" : "Anti-Buster",
         "screen_name" : "busterbenson",
         "indices" : [ 0, 13 ],
-        "id_str" : "2185",
-        "id" : 2185
+        "id_str" : "1024917050",
+        "id" : 1024917050
       } ],
       "media" : [ ],
       "hashtags" : [ ],
@@ -6848,7 +6848,7 @@ Grailbird.data.tweets_2012_03 =
     "id" : 180916865038680064,
     "in_reply_to_status_id" : 180915776474202113,
     "created_at" : "Sat Mar 17 07:21:56 +0000 2012",
-    "in_reply_to_screen_name" : "busterbenson",
+    "in_reply_to_screen_name" : "buster",
     "in_reply_to_user_id_str" : "2185",
     "user" : {
       "name" : "powkang",
@@ -6863,8 +6863,8 @@ Grailbird.data.tweets_2012_03 =
   "id" : 180917480498270208,
   "created_at" : "Sat Mar 17 07:24:23 +0000 2012",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -6886,8 +6886,8 @@ Grailbird.data.tweets_2012_03 =
   "id" : 180915776474202113,
   "created_at" : "Sat Mar 17 07:17:37 +0000 2012",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -6912,8 +6912,8 @@ Grailbird.data.tweets_2012_03 =
   "id" : 180913922864451585,
   "created_at" : "Sat Mar 17 07:10:15 +0000 2012",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -6942,8 +6942,8 @@ Grailbird.data.tweets_2012_03 =
   "id" : 180861084247396353,
   "created_at" : "Sat Mar 17 03:40:17 +0000 2012",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -6976,8 +6976,8 @@ Grailbird.data.tweets_2012_03 =
   "id" : 180734806366236672,
   "created_at" : "Fri Mar 16 19:18:30 +0000 2012",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -7010,8 +7010,8 @@ Grailbird.data.tweets_2012_03 =
   "id" : 180676986526633984,
   "created_at" : "Fri Mar 16 15:28:45 +0000 2012",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -7049,8 +7049,8 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "heyamberrae",
   "in_reply_to_user_id_str" : "15019184",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -7083,8 +7083,8 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "the_april",
   "in_reply_to_user_id_str" : "16644937",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -7136,8 +7136,8 @@ Grailbird.data.tweets_2012_03 =
   "id" : 180508398259933184,
   "created_at" : "Fri Mar 16 04:18:50 +0000 2012",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -7166,8 +7166,8 @@ Grailbird.data.tweets_2012_03 =
   "id" : 180498184257273857,
   "created_at" : "Fri Mar 16 03:38:15 +0000 2012",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -7200,8 +7200,8 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "LaurenS_Watkins",
   "in_reply_to_user_id_str" : "175011927",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -7228,8 +7228,8 @@ Grailbird.data.tweets_2012_03 =
   "id" : 180316542070820865,
   "created_at" : "Thu Mar 15 15:36:28 +0000 2012",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -7246,11 +7246,11 @@ Grailbird.data.tweets_2012_03 =
       "id_str" : "5814",
       "id" : 5814
     }, {
-      "name" : "Buster Benson",
+      "name" : "Anti-Buster",
       "screen_name" : "busterbenson",
       "indices" : [ 11, 24 ],
-      "id_str" : "2185",
-      "id" : 2185
+      "id_str" : "1024917050",
+      "id" : 1024917050
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -7264,11 +7264,11 @@ Grailbird.data.tweets_2012_03 =
     "source" : "web",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "Buster Benson",
+        "name" : "Anti-Buster",
         "screen_name" : "busterbenson",
         "indices" : [ 0, 13 ],
-        "id_str" : "2185",
-        "id" : 2185
+        "id_str" : "1024917050",
+        "id" : 1024917050
       } ],
       "media" : [ ],
       "hashtags" : [ ],
@@ -7283,7 +7283,7 @@ Grailbird.data.tweets_2012_03 =
     "id" : 180190366866223104,
     "in_reply_to_status_id" : 180189581847695360,
     "created_at" : "Thu Mar 15 07:15:05 +0000 2012",
-    "in_reply_to_screen_name" : "busterbenson",
+    "in_reply_to_screen_name" : "buster",
     "in_reply_to_user_id_str" : "2185",
     "user" : {
       "name" : "Thor Muller",
@@ -7298,8 +7298,8 @@ Grailbird.data.tweets_2012_03 =
   "id" : 180190781955514368,
   "created_at" : "Thu Mar 15 07:16:44 +0000 2012",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -7332,8 +7332,8 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "tempo",
   "in_reply_to_user_id_str" : "5814",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -7355,8 +7355,8 @@ Grailbird.data.tweets_2012_03 =
   "id" : 180189581847695360,
   "created_at" : "Thu Mar 15 07:11:58 +0000 2012",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -7378,8 +7378,8 @@ Grailbird.data.tweets_2012_03 =
   "id" : 180188960721600512,
   "created_at" : "Thu Mar 15 07:09:30 +0000 2012",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -7396,11 +7396,11 @@ Grailbird.data.tweets_2012_03 =
       "id_str" : "681813",
       "id" : 681813
     }, {
-      "name" : "Buster Benson",
+      "name" : "Anti-Buster",
       "screen_name" : "busterbenson",
       "indices" : [ 15, 28 ],
-      "id_str" : "2185",
-      "id" : 2185
+      "id_str" : "1024917050",
+      "id" : 1024917050
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -7414,11 +7414,11 @@ Grailbird.data.tweets_2012_03 =
     "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "Buster Benson",
+        "name" : "Anti-Buster",
         "screen_name" : "busterbenson",
         "indices" : [ 0, 13 ],
-        "id_str" : "2185",
-        "id" : 2185
+        "id_str" : "1024917050",
+        "id" : 1024917050
       } ],
       "media" : [ ],
       "hashtags" : [ ],
@@ -7433,7 +7433,7 @@ Grailbird.data.tweets_2012_03 =
     "id" : 180179906397872128,
     "in_reply_to_status_id" : 180161255636602880,
     "created_at" : "Thu Mar 15 06:33:31 +0000 2012",
-    "in_reply_to_screen_name" : "busterbenson",
+    "in_reply_to_screen_name" : "buster",
     "in_reply_to_user_id_str" : "2185",
     "user" : {
       "name" : "Jane McGonigal",
@@ -7448,8 +7448,8 @@ Grailbird.data.tweets_2012_03 =
   "id" : 180180868088856577,
   "created_at" : "Thu Mar 15 06:37:21 +0000 2012",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -7482,8 +7482,8 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "avantgame",
   "in_reply_to_user_id_str" : "681813",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -7500,11 +7500,11 @@ Grailbird.data.tweets_2012_03 =
       "id_str" : "14095370",
       "id" : 14095370
     }, {
-      "name" : "Buster Benson",
+      "name" : "Anti-Buster",
       "screen_name" : "busterbenson",
       "indices" : [ 18, 31 ],
-      "id_str" : "2185",
-      "id" : 2185
+      "id_str" : "1024917050",
+      "id" : 1024917050
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -7518,11 +7518,11 @@ Grailbird.data.tweets_2012_03 =
     "source" : "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "Buster Benson",
+        "name" : "Anti-Buster",
         "screen_name" : "busterbenson",
         "indices" : [ 0, 13 ],
-        "id_str" : "2185",
-        "id" : 2185
+        "id_str" : "1024917050",
+        "id" : 1024917050
       } ],
       "media" : [ ],
       "hashtags" : [ ],
@@ -7537,7 +7537,7 @@ Grailbird.data.tweets_2012_03 =
     "id" : 180164215041040384,
     "in_reply_to_status_id" : 180161255636602880,
     "created_at" : "Thu Mar 15 05:31:10 +0000 2012",
-    "in_reply_to_screen_name" : "busterbenson",
+    "in_reply_to_screen_name" : "buster",
     "in_reply_to_user_id_str" : "2185",
     "user" : {
       "name" : "ArielMeadowStallings",
@@ -7552,8 +7552,8 @@ Grailbird.data.tweets_2012_03 =
   "id" : 180171610630795264,
   "created_at" : "Thu Mar 15 06:00:34 +0000 2012",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -7570,11 +7570,11 @@ Grailbird.data.tweets_2012_03 =
       "id_str" : "28838912",
       "id" : 28838912
     }, {
-      "name" : "Buster Benson",
+      "name" : "Anti-Buster",
       "screen_name" : "busterbenson",
       "indices" : [ 11, 24 ],
-      "id_str" : "2185",
-      "id" : 2185
+      "id_str" : "1024917050",
+      "id" : 1024917050
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -7588,11 +7588,11 @@ Grailbird.data.tweets_2012_03 =
     "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "Buster Benson",
+        "name" : "Anti-Buster",
         "screen_name" : "busterbenson",
         "indices" : [ 0, 13 ],
-        "id_str" : "2185",
-        "id" : 2185
+        "id_str" : "1024917050",
+        "id" : 1024917050
       } ],
       "media" : [ ],
       "hashtags" : [ ],
@@ -7607,7 +7607,7 @@ Grailbird.data.tweets_2012_03 =
     "id" : 180165600881016832,
     "in_reply_to_status_id" : 180161255636602880,
     "created_at" : "Thu Mar 15 05:36:41 +0000 2012",
-    "in_reply_to_screen_name" : "busterbenson",
+    "in_reply_to_screen_name" : "buster",
     "in_reply_to_user_id_str" : "2185",
     "user" : {
       "name" : "Kav Latiolais",
@@ -7622,8 +7622,8 @@ Grailbird.data.tweets_2012_03 =
   "id" : 180171377599463424,
   "created_at" : "Thu Mar 15 05:59:38 +0000 2012",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -7645,8 +7645,8 @@ Grailbird.data.tweets_2012_03 =
   "id" : 180161255636602880,
   "created_at" : "Thu Mar 15 05:19:25 +0000 2012",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -7708,8 +7708,8 @@ Grailbird.data.tweets_2012_03 =
   "id" : 180161065492021249,
   "created_at" : "Thu Mar 15 05:18:39 +0000 2012",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -7731,8 +7731,8 @@ Grailbird.data.tweets_2012_03 =
   "id" : 180156446481195008,
   "created_at" : "Thu Mar 15 05:00:18 +0000 2012",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -7765,8 +7765,8 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "tikkers",
   "in_reply_to_user_id_str" : "1054551",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -7799,8 +7799,8 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "tikkers",
   "in_reply_to_user_id_str" : "1054551",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -7833,8 +7833,8 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "arainert",
   "in_reply_to_user_id_str" : "7482",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -7867,8 +7867,8 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "cap",
   "in_reply_to_user_id_str" : "2182141",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -7897,8 +7897,8 @@ Grailbird.data.tweets_2012_03 =
   "id" : 180136339126226944,
   "created_at" : "Thu Mar 15 03:40:24 +0000 2012",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -7931,8 +7931,8 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "webwright",
   "in_reply_to_user_id_str" : "786818",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -7943,7 +7943,7 @@ Grailbird.data.tweets_2012_03 =
   "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "michelle attah",
+      "name" : "MICHELLE",
       "screen_name" : "itsninson",
       "indices" : [ 3, 13 ],
       "id_str" : "124363227",
@@ -7993,11 +7993,11 @@ Grailbird.data.tweets_2012_03 =
     "in_reply_to_screen_name" : "budge",
     "in_reply_to_user_id_str" : "286384512",
     "user" : {
-      "name" : "michelle attah",
+      "name" : "MICHELLE",
       "screen_name" : "itsninson",
-      "protected" : false,
+      "protected" : true,
       "id_str" : "124363227",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/1772235945/photo_normal.JPG",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3010499148/f29eee04672f225586079b372a260686_normal.jpeg",
       "id" : 124363227,
       "verified" : false
     }
@@ -8005,8 +8005,8 @@ Grailbird.data.tweets_2012_03 =
   "id" : 180118885629050881,
   "created_at" : "Thu Mar 15 02:31:03 +0000 2012",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -8045,8 +8045,8 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "damon",
   "in_reply_to_user_id_str" : "756264",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -8085,8 +8085,8 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "damon",
   "in_reply_to_user_id_str" : "756264",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -8120,8 +8120,8 @@ Grailbird.data.tweets_2012_03 =
   "id" : 180108188975235074,
   "created_at" : "Thu Mar 15 01:48:33 +0000 2012",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -8148,8 +8148,8 @@ Grailbird.data.tweets_2012_03 =
   "id" : 180038256224780288,
   "created_at" : "Wed Mar 14 21:10:39 +0000 2012",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -8182,8 +8182,8 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "octavekitten",
   "in_reply_to_user_id_str" : "16366882",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -8216,8 +8216,8 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "CaptainPJ",
   "in_reply_to_user_id_str" : "9719882",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -8234,11 +8234,11 @@ Grailbird.data.tweets_2012_03 =
       "id_str" : "8461972",
       "id" : 8461972
     }, {
-      "name" : "Buster Benson",
+      "name" : "Anti-Buster",
       "screen_name" : "busterbenson",
       "indices" : [ 14, 27 ],
-      "id_str" : "2185",
-      "id" : 2185
+      "id_str" : "1024917050",
+      "id" : 1024917050
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -8252,11 +8252,11 @@ Grailbird.data.tweets_2012_03 =
     "source" : "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "Buster Benson",
+        "name" : "Anti-Buster",
         "screen_name" : "busterbenson",
         "indices" : [ 0, 13 ],
-        "id_str" : "2185",
-        "id" : 2185
+        "id_str" : "1024917050",
+        "id" : 1024917050
       } ],
       "media" : [ ],
       "hashtags" : [ ],
@@ -8271,7 +8271,7 @@ Grailbird.data.tweets_2012_03 =
     "id" : 179960383132545024,
     "in_reply_to_status_id" : 179957469953523712,
     "created_at" : "Wed Mar 14 16:01:13 +0000 2012",
-    "in_reply_to_screen_name" : "busterbenson",
+    "in_reply_to_screen_name" : "buster",
     "in_reply_to_user_id_str" : "2185",
     "user" : {
       "name" : "Andres Moran",
@@ -8286,8 +8286,8 @@ Grailbird.data.tweets_2012_03 =
   "id" : 179960689459335168,
   "created_at" : "Wed Mar 14 16:02:26 +0000 2012",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -8320,8 +8320,8 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "DreMoran",
   "in_reply_to_user_id_str" : "8461972",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -8352,8 +8352,8 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "CaptainPJ",
   "in_reply_to_user_id_str" : "9719882",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -8375,8 +8375,8 @@ Grailbird.data.tweets_2012_03 =
   "id" : 179957469953523712,
   "created_at" : "Wed Mar 14 15:49:38 +0000 2012",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -8404,8 +8404,8 @@ Grailbird.data.tweets_2012_03 =
   "id" : 179951394898452480,
   "created_at" : "Wed Mar 14 15:25:30 +0000 2012",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -8432,8 +8432,8 @@ Grailbird.data.tweets_2012_03 =
   "id" : 179779175035576320,
   "created_at" : "Wed Mar 14 04:01:10 +0000 2012",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -8462,8 +8462,8 @@ Grailbird.data.tweets_2012_03 =
   "id" : 179762775155933186,
   "created_at" : "Wed Mar 14 02:56:00 +0000 2012",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -8496,8 +8496,8 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "brianfay",
   "in_reply_to_user_id_str" : "15257124",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -8528,8 +8528,8 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "Brethren",
   "in_reply_to_user_id_str" : "9857922",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -8558,8 +8558,8 @@ Grailbird.data.tweets_2012_03 =
   "id" : 179412519847346178,
   "created_at" : "Tue Mar 13 03:44:12 +0000 2012",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -8586,8 +8586,8 @@ Grailbird.data.tweets_2012_03 =
   "id" : 179348505427574784,
   "created_at" : "Mon Mar 12 23:29:50 +0000 2012",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -8614,8 +8614,8 @@ Grailbird.data.tweets_2012_03 =
   "id" : 179336730212712449,
   "created_at" : "Mon Mar 12 22:43:03 +0000 2012",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -8642,8 +8642,8 @@ Grailbird.data.tweets_2012_03 =
   "id" : 179282149063667713,
   "created_at" : "Mon Mar 12 19:06:09 +0000 2012",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -8710,8 +8710,8 @@ Grailbird.data.tweets_2012_03 =
   "id" : 179269280339206145,
   "created_at" : "Mon Mar 12 18:15:01 +0000 2012",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -8743,8 +8743,8 @@ Grailbird.data.tweets_2012_03 =
   "id" : 179248116665548800,
   "created_at" : "Mon Mar 12 16:50:55 +0000 2012",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -8818,8 +8818,8 @@ Grailbird.data.tweets_2012_03 =
   "id" : 179208375140233217,
   "created_at" : "Mon Mar 12 14:13:00 +0000 2012",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -8852,8 +8852,8 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "jimmyjacobson",
   "in_reply_to_user_id_str" : "17545050",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -8876,11 +8876,11 @@ Grailbird.data.tweets_2012_03 =
       "id_str" : "6953672",
       "id" : 6953672
     }, {
-      "name" : "Buster Benson",
+      "name" : "Anti-Buster",
       "screen_name" : "busterbenson",
       "indices" : [ 27, 40 ],
-      "id_str" : "2185",
-      "id" : 2185
+      "id_str" : "1024917050",
+      "id" : 1024917050
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -8900,11 +8900,11 @@ Grailbird.data.tweets_2012_03 =
         "id_str" : "6953672",
         "id" : 6953672
       }, {
-        "name" : "Buster Benson",
+        "name" : "Anti-Buster",
         "screen_name" : "busterbenson",
         "indices" : [ 14, 27 ],
-        "id_str" : "2185",
-        "id" : 2185
+        "id_str" : "1024917050",
+        "id" : 1024917050
       } ],
       "media" : [ ],
       "hashtags" : [ ],
@@ -8934,8 +8934,8 @@ Grailbird.data.tweets_2012_03 =
   "id" : 178929453085364224,
   "created_at" : "Sun Mar 11 19:44:40 +0000 2012",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -8952,11 +8952,11 @@ Grailbird.data.tweets_2012_03 =
       "id_str" : "7565162",
       "id" : 7565162
     }, {
-      "name" : "Buster Benson",
+      "name" : "Anti-Buster",
       "screen_name" : "busterbenson",
       "indices" : [ 21, 34 ],
-      "id_str" : "2185",
-      "id" : 2185
+      "id_str" : "1024917050",
+      "id" : 1024917050
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -8970,11 +8970,11 @@ Grailbird.data.tweets_2012_03 =
     "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "Buster Benson",
+        "name" : "Anti-Buster",
         "screen_name" : "busterbenson",
         "indices" : [ 0, 13 ],
-        "id_str" : "2185",
-        "id" : 2185
+        "id_str" : "1024917050",
+        "id" : 1024917050
       } ],
       "media" : [ ],
       "hashtags" : [ ],
@@ -8989,7 +8989,7 @@ Grailbird.data.tweets_2012_03 =
     "id" : 178918080456556544,
     "in_reply_to_status_id" : 178887788320657408,
     "created_at" : "Sun Mar 11 18:59:29 +0000 2012",
-    "in_reply_to_screen_name" : "busterbenson",
+    "in_reply_to_screen_name" : "buster",
     "in_reply_to_user_id_str" : "2185",
     "user" : {
       "name" : "Michael McDaniel",
@@ -9004,8 +9004,8 @@ Grailbird.data.tweets_2012_03 =
   "id" : 178929418151014400,
   "created_at" : "Sun Mar 11 19:44:32 +0000 2012",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -9038,8 +9038,8 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "trappermarkelz",
   "in_reply_to_user_id_str" : "1032241",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -9072,8 +9072,8 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "geoffclapp",
   "in_reply_to_user_id_str" : "12118392",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -9106,8 +9106,8 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "geoffclapp",
   "in_reply_to_user_id_str" : "12118392",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -9124,11 +9124,11 @@ Grailbird.data.tweets_2012_03 =
       "id_str" : "1032241",
       "id" : 1032241
     }, {
-      "name" : "Buster Benson",
+      "name" : "Anti-Buster",
       "screen_name" : "busterbenson",
       "indices" : [ 20, 33 ],
-      "id_str" : "2185",
-      "id" : 2185
+      "id_str" : "1024917050",
+      "id" : 1024917050
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -9142,11 +9142,11 @@ Grailbird.data.tweets_2012_03 =
     "source" : "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "Buster Benson",
+        "name" : "Anti-Buster",
         "screen_name" : "busterbenson",
         "indices" : [ 0, 13 ],
-        "id_str" : "2185",
-        "id" : 2185
+        "id_str" : "1024917050",
+        "id" : 1024917050
       } ],
       "media" : [ ],
       "hashtags" : [ ],
@@ -9161,14 +9161,14 @@ Grailbird.data.tweets_2012_03 =
     "id" : 178896044778721280,
     "in_reply_to_status_id" : 178887788320657408,
     "created_at" : "Sun Mar 11 17:31:55 +0000 2012",
-    "in_reply_to_screen_name" : "busterbenson",
+    "in_reply_to_screen_name" : "buster",
     "in_reply_to_user_id_str" : "2185",
     "user" : {
       "name" : "Trapper Markelz",
       "screen_name" : "trappermarkelz",
       "protected" : false,
       "id_str" : "1032241",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/512763658/portrait-square-128_normal.jpg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3025341826/2d7fa654f59dac4badbb416d8a267625_normal.jpeg",
       "id" : 1032241,
       "verified" : false
     }
@@ -9176,8 +9176,8 @@ Grailbird.data.tweets_2012_03 =
   "id" : 178900631656992768,
   "created_at" : "Sun Mar 11 17:50:09 +0000 2012",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -9210,8 +9210,8 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "coryjcampbell",
   "in_reply_to_user_id_str" : "54029411",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -9233,8 +9233,8 @@ Grailbird.data.tweets_2012_03 =
   "id" : 178887788320657408,
   "created_at" : "Sun Mar 11 16:59:06 +0000 2012",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -9267,8 +9267,8 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "garychou",
   "in_reply_to_user_id_str" : "29058287",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -9290,8 +9290,8 @@ Grailbird.data.tweets_2012_03 =
   "id" : 178883575867899904,
   "created_at" : "Sun Mar 11 16:42:22 +0000 2012",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -9324,8 +9324,8 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "li3n3",
   "in_reply_to_user_id_str" : "498467901",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -9358,8 +9358,8 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "li3n3",
   "in_reply_to_user_id_str" : "498467901",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -9392,8 +9392,8 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "li3n3",
   "in_reply_to_user_id_str" : "498467901",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -9410,11 +9410,11 @@ Grailbird.data.tweets_2012_03 =
       "id_str" : "498467901",
       "id" : 498467901
     }, {
-      "name" : "Buster Benson",
+      "name" : "Anti-Buster",
       "screen_name" : "busterbenson",
       "indices" : [ 11, 24 ],
-      "id_str" : "2185",
-      "id" : 2185
+      "id_str" : "1024917050",
+      "id" : 1024917050
     } ],
     "media" : [ ],
     "hashtags" : [ {
@@ -9431,11 +9431,11 @@ Grailbird.data.tweets_2012_03 =
     "source" : "web",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "Buster Benson",
+        "name" : "Anti-Buster",
         "screen_name" : "busterbenson",
         "indices" : [ 0, 13 ],
-        "id_str" : "2185",
-        "id" : 2185
+        "id_str" : "1024917050",
+        "id" : 1024917050
       } ],
       "media" : [ ],
       "hashtags" : [ {
@@ -9451,7 +9451,7 @@ Grailbird.data.tweets_2012_03 =
     "text" : "@busterbenson Buster! I feel super meta today, because it's my 750th day in a row on #750words. Thank you so much for planting the seeds!",
     "id" : 178875577191759872,
     "created_at" : "Sun Mar 11 16:10:35 +0000 2012",
-    "in_reply_to_screen_name" : "busterbenson",
+    "in_reply_to_screen_name" : "buster",
     "in_reply_to_user_id_str" : "2185",
     "user" : {
       "name" : "Liene Verzemnieks",
@@ -9466,8 +9466,8 @@ Grailbird.data.tweets_2012_03 =
   "id" : 178875832457117697,
   "created_at" : "Sun Mar 11 16:11:36 +0000 2012",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -9498,8 +9498,8 @@ Grailbird.data.tweets_2012_03 =
   "id" : 178860807898136576,
   "created_at" : "Sun Mar 11 15:11:54 +0000 2012",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -9528,8 +9528,8 @@ Grailbird.data.tweets_2012_03 =
   "id" : 178731913807265792,
   "created_at" : "Sun Mar 11 06:39:43 +0000 2012",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -9562,8 +9562,8 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "thatbird1",
   "in_reply_to_user_id_str" : "520700557",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -9601,8 +9601,8 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "chloester",
   "in_reply_to_user_id_str" : "14275066",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -9654,8 +9654,8 @@ Grailbird.data.tweets_2012_03 =
   "id" : 178532521229815808,
   "created_at" : "Sat Mar 10 17:27:24 +0000 2012",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -9685,8 +9685,8 @@ Grailbird.data.tweets_2012_03 =
   "id" : 178528822038233090,
   "created_at" : "Sat Mar 10 17:12:42 +0000 2012",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -9719,8 +9719,8 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "CarlaBevs",
   "in_reply_to_user_id_str" : "49834038",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -9747,8 +9747,8 @@ Grailbird.data.tweets_2012_03 =
   "id" : 178339186489823232,
   "created_at" : "Sat Mar 10 04:39:10 +0000 2012",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -9781,8 +9781,8 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "endquote",
   "in_reply_to_user_id_str" : "408",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -9840,8 +9840,8 @@ Grailbird.data.tweets_2012_03 =
   "id" : 178266725480017920,
   "created_at" : "Fri Mar 09 23:51:14 +0000 2012",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -9874,8 +9874,8 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "samuelfine",
   "in_reply_to_user_id_str" : "200236063",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -9920,8 +9920,8 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "agaricus",
   "in_reply_to_user_id_str" : "21678279",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -9954,8 +9954,8 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "the_april",
   "in_reply_to_user_id_str" : "16644937",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -9994,8 +9994,8 @@ Grailbird.data.tweets_2012_03 =
   "id" : 178212948211286016,
   "created_at" : "Fri Mar 09 20:17:32 +0000 2012",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -10022,8 +10022,8 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "jesserburns",
   "in_reply_to_user_id_str" : "236919349",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -10056,8 +10056,8 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "dantebriones",
   "in_reply_to_user_id_str" : "62136032",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -10119,8 +10119,8 @@ Grailbird.data.tweets_2012_03 =
   "id" : 178200955249115136,
   "created_at" : "Fri Mar 09 19:29:53 +0000 2012",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -10158,8 +10158,8 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "mikebodge",
   "in_reply_to_user_id_str" : "19344531",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -10186,8 +10186,8 @@ Grailbird.data.tweets_2012_03 =
   "id" : 178198824152604673,
   "created_at" : "Fri Mar 09 19:21:25 +0000 2012",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -10214,8 +10214,8 @@ Grailbird.data.tweets_2012_03 =
   "id" : 178180701567459328,
   "created_at" : "Fri Mar 09 18:09:24 +0000 2012",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -10277,8 +10277,8 @@ Grailbird.data.tweets_2012_03 =
   "id" : 178146626039324673,
   "created_at" : "Fri Mar 09 15:54:00 +0000 2012",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -10307,8 +10307,8 @@ Grailbird.data.tweets_2012_03 =
   "id" : 177980256320360448,
   "created_at" : "Fri Mar 09 04:52:54 +0000 2012",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -10341,8 +10341,8 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "AlaiaWilliams",
   "in_reply_to_user_id_str" : "6515802",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -10369,8 +10369,8 @@ Grailbird.data.tweets_2012_03 =
   "id" : 177897511225274368,
   "created_at" : "Thu Mar 08 23:24:06 +0000 2012",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -10407,8 +10407,8 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "amimran",
   "in_reply_to_user_id_str" : "14639162",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -10441,8 +10441,8 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "geoffclapp",
   "in_reply_to_user_id_str" : "12118392",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -10481,8 +10481,8 @@ Grailbird.data.tweets_2012_03 =
   "id" : 177831606248148994,
   "created_at" : "Thu Mar 08 19:02:13 +0000 2012",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -10515,8 +10515,8 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "geoffclapp",
   "in_reply_to_user_id_str" : "12118392",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -10545,8 +10545,8 @@ Grailbird.data.tweets_2012_03 =
   "id" : 177635853940686850,
   "created_at" : "Thu Mar 08 06:04:22 +0000 2012",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -10579,8 +10579,8 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "spangley",
   "in_reply_to_user_id_str" : "776429",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -10609,8 +10609,8 @@ Grailbird.data.tweets_2012_03 =
   "id" : 177614784840204288,
   "created_at" : "Thu Mar 08 04:40:39 +0000 2012",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -10668,8 +10668,8 @@ Grailbird.data.tweets_2012_03 =
   "id" : 177582076017647616,
   "created_at" : "Thu Mar 08 02:30:40 +0000 2012",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -10702,8 +10702,8 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "geoffclapp",
   "in_reply_to_user_id_str" : "12118392",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -10736,8 +10736,8 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "geoffclapp",
   "in_reply_to_user_id_str" : "12118392",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -10768,8 +10768,8 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "geoffclapp",
   "in_reply_to_user_id_str" : "12118392",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -10802,8 +10802,8 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "heyamberrae",
   "in_reply_to_user_id_str" : "15019184",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -10833,8 +10833,8 @@ Grailbird.data.tweets_2012_03 =
   "id" : 177488365669724160,
   "created_at" : "Wed Mar 07 20:18:18 +0000 2012",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -10867,8 +10867,8 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "geoffclapp",
   "in_reply_to_user_id_str" : "12118392",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -10938,8 +10938,8 @@ Grailbird.data.tweets_2012_03 =
   "id" : 177475165335203841,
   "created_at" : "Wed Mar 07 19:25:51 +0000 2012",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -10972,8 +10972,8 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "michaelmcgee",
   "in_reply_to_user_id_str" : "18114290",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -11002,11 +11002,11 @@ Grailbird.data.tweets_2012_03 =
       "id_str" : "14258044",
       "id" : 14258044
     }, {
-      "name" : "Buster Benson",
+      "name" : "Anti-Buster",
       "screen_name" : "busterbenson",
       "indices" : [ 62, 75 ],
-      "id_str" : "2185",
-      "id" : 2185
+      "id_str" : "1024917050",
+      "id" : 1024917050
     }, {
       "name" : "Chamath Palihapitiya",
       "screen_name" : "chamath",
@@ -11044,11 +11044,11 @@ Grailbird.data.tweets_2012_03 =
         "id_str" : "14258044",
         "id" : 14258044
       }, {
-        "name" : "Buster Benson",
+        "name" : "Anti-Buster",
         "screen_name" : "busterbenson",
         "indices" : [ 45, 58 ],
-        "id_str" : "2185",
-        "id" : 2185
+        "id_str" : "1024917050",
+        "id" : 1024917050
       }, {
         "name" : "Chamath Palihapitiya",
         "screen_name" : "chamath",
@@ -11115,8 +11115,8 @@ Grailbird.data.tweets_2012_03 =
   "id" : 177474205045104640,
   "created_at" : "Wed Mar 07 19:22:02 +0000 2012",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -11145,11 +11145,11 @@ Grailbird.data.tweets_2012_03 =
       "id_str" : "190292949",
       "id" : 190292949
     }, {
-      "name" : "Buster Benson",
+      "name" : "Anti-Buster",
       "screen_name" : "busterbenson",
       "indices" : [ 66, 79 ],
-      "id_str" : "2185",
-      "id" : 2185
+      "id_str" : "1024917050",
+      "id" : 1024917050
     }, {
       "name" : "Jen S. McCabe",
       "screen_name" : "jensmccabe",
@@ -11181,11 +11181,11 @@ Grailbird.data.tweets_2012_03 =
         "id_str" : "190292949",
         "id" : 190292949
       }, {
-        "name" : "Buster Benson",
+        "name" : "Anti-Buster",
         "screen_name" : "busterbenson",
         "indices" : [ 50, 63 ],
-        "id_str" : "2185",
-        "id" : 2185
+        "id_str" : "1024917050",
+        "id" : 1024917050
       }, {
         "name" : "Jen S. McCabe",
         "screen_name" : "jensmccabe",
@@ -11216,8 +11216,8 @@ Grailbird.data.tweets_2012_03 =
   "id" : 177474146165469186,
   "created_at" : "Wed Mar 07 19:21:48 +0000 2012",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -11255,8 +11255,8 @@ Grailbird.data.tweets_2012_03 =
   "id" : 177462928616861696,
   "created_at" : "Wed Mar 07 18:37:13 +0000 2012",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -11285,8 +11285,8 @@ Grailbird.data.tweets_2012_03 =
   "id" : 177421426989613056,
   "created_at" : "Wed Mar 07 15:52:19 +0000 2012",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -11315,8 +11315,8 @@ Grailbird.data.tweets_2012_03 =
   "id" : 177296680163618817,
   "created_at" : "Wed Mar 07 07:36:37 +0000 2012",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -11347,8 +11347,8 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "allenmmurray",
   "in_reply_to_user_id_str" : "22118364",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -11381,8 +11381,8 @@ Grailbird.data.tweets_2012_03 =
   "id" : 177261884817412096,
   "created_at" : "Wed Mar 07 05:18:21 +0000 2012",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -11415,8 +11415,8 @@ Grailbird.data.tweets_2012_03 =
   "id" : 177261884280541184,
   "created_at" : "Wed Mar 07 05:18:21 +0000 2012",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -11460,8 +11460,8 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "OffbeatAriel",
   "in_reply_to_user_id_str" : "14095370",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -11494,8 +11494,8 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "mikebodge",
   "in_reply_to_user_id_str" : "19344531",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -11528,8 +11528,8 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "mikebodge",
   "in_reply_to_user_id_str" : "19344531",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -11562,8 +11562,8 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "harryh",
   "in_reply_to_user_id_str" : "4558",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -11590,8 +11590,8 @@ Grailbird.data.tweets_2012_03 =
   "id" : 177133724280958976,
   "created_at" : "Tue Mar 06 20:49:05 +0000 2012",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -11620,8 +11620,8 @@ Grailbird.data.tweets_2012_03 =
   "id" : 177066188092878849,
   "created_at" : "Tue Mar 06 16:20:43 +0000 2012",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -11654,8 +11654,8 @@ Grailbird.data.tweets_2012_03 =
   "id" : 177018348037619712,
   "created_at" : "Tue Mar 06 13:10:37 +0000 2012",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -11688,8 +11688,8 @@ Grailbird.data.tweets_2012_03 =
   "id" : 177017930654031872,
   "created_at" : "Tue Mar 06 13:08:58 +0000 2012",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -11722,8 +11722,8 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "tara",
   "in_reply_to_user_id_str" : "10959642",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -11752,8 +11752,8 @@ Grailbird.data.tweets_2012_03 =
   "id" : 176912984650686464,
   "created_at" : "Tue Mar 06 06:11:57 +0000 2012",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -11786,8 +11786,8 @@ Grailbird.data.tweets_2012_03 =
   "id" : 176909979364761600,
   "created_at" : "Tue Mar 06 06:00:00 +0000 2012",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -11820,8 +11820,8 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "iamdonte",
   "in_reply_to_user_id_str" : "17977759",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -11854,8 +11854,8 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "daveschappell",
   "in_reply_to_user_id_str" : "820661",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -11877,8 +11877,8 @@ Grailbird.data.tweets_2012_03 =
   "id" : 176869427491512321,
   "created_at" : "Tue Mar 06 03:18:52 +0000 2012",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -11911,8 +11911,8 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "AlexSteffen",
   "in_reply_to_user_id_str" : "14106829",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -11945,8 +11945,8 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "AlexSteffen",
   "in_reply_to_user_id_str" : "14106829",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -11985,8 +11985,8 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "AlexSteffen",
   "in_reply_to_user_id_str" : "14106829",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -12019,8 +12019,8 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "AlexSteffen",
   "in_reply_to_user_id_str" : "14106829",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -12051,8 +12051,8 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "AlexSteffen",
   "in_reply_to_user_id_str" : "14106829",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -12085,8 +12085,8 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "AlexSteffen",
   "in_reply_to_user_id_str" : "14106829",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -12122,8 +12122,8 @@ Grailbird.data.tweets_2012_03 =
   "id" : 176841362870771712,
   "created_at" : "Tue Mar 06 01:27:21 +0000 2012",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -12150,8 +12150,8 @@ Grailbird.data.tweets_2012_03 =
   "id" : 176800770480553985,
   "created_at" : "Mon Mar 05 22:46:03 +0000 2012",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -12184,8 +12184,8 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "timoni",
   "in_reply_to_user_id_str" : "12615",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -12207,8 +12207,8 @@ Grailbird.data.tweets_2012_03 =
   "id" : 176793529564151808,
   "created_at" : "Mon Mar 05 22:17:16 +0000 2012",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -12235,8 +12235,8 @@ Grailbird.data.tweets_2012_03 =
   "id" : 176724817754591232,
   "created_at" : "Mon Mar 05 17:44:14 +0000 2012",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -12263,8 +12263,8 @@ Grailbird.data.tweets_2012_03 =
   "id" : 176713077255970817,
   "created_at" : "Mon Mar 05 16:57:35 +0000 2012",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -12297,8 +12297,8 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "tara",
   "in_reply_to_user_id_str" : "10959642",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -12327,8 +12327,8 @@ Grailbird.data.tweets_2012_03 =
   "id" : 176548258624188416,
   "created_at" : "Mon Mar 05 06:02:39 +0000 2012",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -12361,8 +12361,8 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "tylepard",
   "in_reply_to_user_id_str" : "18297300",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -12395,8 +12395,8 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "tylepard",
   "in_reply_to_user_id_str" : "18297300",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -12429,8 +12429,8 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "tylepard",
   "in_reply_to_user_id_str" : "18297300",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -12463,8 +12463,8 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "Brethren",
   "in_reply_to_user_id_str" : "9857922",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -12497,8 +12497,8 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "Brethren",
   "in_reply_to_user_id_str" : "9857922",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -12537,8 +12537,8 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "Brethren",
   "in_reply_to_user_id_str" : "9857922",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -12582,8 +12582,8 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "Brethren",
   "in_reply_to_user_id_str" : "9857922",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -12610,8 +12610,8 @@ Grailbird.data.tweets_2012_03 =
   "id" : 176447074487894017,
   "created_at" : "Sun Mar 04 23:20:35 +0000 2012",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -12647,8 +12647,8 @@ Grailbird.data.tweets_2012_03 =
   "id" : 176442941693366272,
   "created_at" : "Sun Mar 04 23:04:10 +0000 2012",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -12681,8 +12681,8 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "tara",
   "in_reply_to_user_id_str" : "10959642",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -12711,8 +12711,8 @@ Grailbird.data.tweets_2012_03 =
   "id" : 176383755374698496,
   "created_at" : "Sun Mar 04 19:08:58 +0000 2012",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -12746,8 +12746,8 @@ Grailbird.data.tweets_2012_03 =
   "id" : 176202029872594944,
   "created_at" : "Sun Mar 04 07:06:52 +0000 2012",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -12769,8 +12769,8 @@ Grailbird.data.tweets_2012_03 =
   "id" : 176201199224233984,
   "created_at" : "Sun Mar 04 07:03:34 +0000 2012",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -12798,8 +12798,8 @@ Grailbird.data.tweets_2012_03 =
   "id" : 176200269141512192,
   "created_at" : "Sun Mar 04 06:59:52 +0000 2012",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -12828,8 +12828,8 @@ Grailbird.data.tweets_2012_03 =
   "id" : 176198673263370240,
   "created_at" : "Sun Mar 04 06:53:31 +0000 2012",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -12892,8 +12892,8 @@ Grailbird.data.tweets_2012_03 =
   "id" : 175970508251201536,
   "created_at" : "Sat Mar 03 15:46:53 +0000 2012",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -12922,8 +12922,8 @@ Grailbird.data.tweets_2012_03 =
   "id" : 175816854403690496,
   "created_at" : "Sat Mar 03 05:36:19 +0000 2012",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -12985,8 +12985,8 @@ Grailbird.data.tweets_2012_03 =
   "id" : 175696557566468097,
   "created_at" : "Fri Mar 02 21:38:18 +0000 2012",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -13019,8 +13019,8 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "webwright",
   "in_reply_to_user_id_str" : "786818",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -13048,8 +13048,8 @@ Grailbird.data.tweets_2012_03 =
   "id" : 175640260011769856,
   "created_at" : "Fri Mar 02 17:54:35 +0000 2012",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -13071,8 +13071,8 @@ Grailbird.data.tweets_2012_03 =
   "id" : 175638771600064512,
   "created_at" : "Fri Mar 02 17:48:41 +0000 2012",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -13105,8 +13105,8 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "kernelsandseeds",
   "in_reply_to_user_id_str" : "174538822",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -13135,8 +13135,8 @@ Grailbird.data.tweets_2012_03 =
   "id" : 175440137931603970,
   "created_at" : "Fri Mar 02 04:39:23 +0000 2012",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -13174,8 +13174,8 @@ Grailbird.data.tweets_2012_03 =
   "in_reply_to_screen_name" : "octavekitten",
   "in_reply_to_user_id_str" : "16366882",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -13202,8 +13202,8 @@ Grailbird.data.tweets_2012_03 =
   "id" : 175252832168050688,
   "created_at" : "Thu Mar 01 16:15:05 +0000 2012",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",
@@ -13265,8 +13265,8 @@ Grailbird.data.tweets_2012_03 =
   "id" : 175130449125982208,
   "created_at" : "Thu Mar 01 08:08:47 +0000 2012",
   "user" : {
-    "name" : "Buster Benson",
-    "screen_name" : "busterbenson",
+    "name" : "@buster",
+    "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
     "profile_image_url_https" : "https://si0.twimg.com/profile_images/2838651436/77b0889c446d55a0faddda6c5fd0ed85_normal.jpeg",

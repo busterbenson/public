@@ -8,9 +8,7 @@ Goals
 "I am proactive"
 ----------------
 * At least 5 days a week, start my day proactively by doing at least one of these 6 things before looking at my phone: drink a glass of water, stretch, do pushups, do lunges, do plank, review my [Look, Look, Look](http://www.haikudeck.com/p/u9qVHcR7Ts/look-look-look) haiku deck.
-* Rabbit rabbit on the first of every month
-** Review and revise my goals, beliefs, and manifesto
-** Restart any lapsed habits
+* Rabbit rabbit on the first of every month (review and revise my goals, beliefs, and manifesto; restart any lapsed habits)
 
 "I am a runner"
 ---------------
