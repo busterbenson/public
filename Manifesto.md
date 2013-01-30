@@ -1,6 +1,13 @@
+Momento Mori (review every morning)
+===================================
+1. Look, look, look
+2. Love your family
+3. Live by example
+4. Each mostly plants
+5. Remember, you will die
+
 Rules I try to live by
 ======================
-
 1. You must not dilly-dally, so that your fears don’t trick you.
 2. You must be your word, so that you speak confidently.
 3. You must have good intentions, so that you don’t betray yourself.
