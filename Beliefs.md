@@ -107,3 +107,7 @@ Meta
 * Some of my beliefs will be proven wrong
 * I'm willing to be convinced that my beliefs are wrong
 * Making and maintaining this list is useful and fun (you should do it too)
+
+Wagers
+------
+* With Carinna. By 2028, the equivalent of a college education (both in breadth of knowledge and value to career) will be available to anyone with an internet connection.
