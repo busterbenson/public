@@ -1,20 +1,18 @@
 # My beliefs
 
 ## On Morality
-- Underneath the facade, we're all lovable
-- Being good is in our nature (being evil requires misinformation or partial information)
+- Being good/moral increasingly becomes our default state as we learn more about the world and are more connected with others
 - Gay marriage should be legal everywhere
 - Abortion should be legal everywhere
 - Assisted suicide should be legal everywhere
 - Health care should be available to everyone who needs it
 - The death penalty should be used in extreme and certain cases to protect the public
 - Prisons should be about protecting the public, not about punishment
-- The world's average morality is improving as it becomes more connected
 - Marijuana should be legal to grow, sell, buy, and carry
 - Owning a gun should require certification from a firearms officer verifying that they've taken a safety course, are free of criminal record, and pass a psychological mental health check every few years
 
 ## On Spirituality
-- Remember, we will die
+- Frequently remembering we will die increases the quality of our life
 - Souls don't exist separate from the physical body
 - The Gods of organized religion don't exist
 - Intention can't create reality (it just primes our perception of it)
@@ -24,6 +22,7 @@
 - We don't have a purpose given to us, but we can make one up
 
 ## On Science & The Universe
+- Chances are, we live in a simulation
 - Other dimensions and universes exist
 - Micro and macro evolution happens
 - Something like the Big Bang happened, and will probably happen again
@@ -35,7 +34,6 @@
 - Non-carbon-based life forms exist
 - Space travel throughout the universe is probably entirely the domain of robots and cyborgs
 - Perception of time can be sped up or slowed down, but not reversed (forwards time travel is allowed, backwards is not)
-- Chances are, we live in a simulation
 
 ## On Health
 - We can change our behavior and habits (it requires a lot of energy)
@@ -53,7 +51,7 @@
 - Free will is mostly an illusion (but does exist in limited form)
 - Pure altruism is an illusion (but kindness is not)
 - We tell stories in order to create and remember meaning
-- Consciousness is the result of a feedback loop between our story-making cortex and our subconscious (ain't it nice though?)
+- Consciousness is the result of a feedback loop between our story-making cortex and our subconscious, so that it can better predict/act on long-term threats
 - Privacy is just a side effect of people not being truly connected
 - Giving up our privacy and individuality in exchange for better connection will be the norm by 2050
 
