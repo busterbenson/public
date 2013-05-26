@@ -8,15 +8,13 @@ Grailbird.data.tweets_2010_02 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 47.612333, -122.347167 ]
   },
   "id_str" : "9810419735",
   "text" : "8:36pm Finishing up work before heading to the Waterfront for happy hour http://flic.kr/p/7Gwjgx",
   "id" : 9810419735,
   "created_at" : "Mon Mar 01 04:38:02 +0000 2010",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -39,7 +37,7 @@ Grailbird.data.tweets_2010_02 =
   "id" : 9792837483,
   "created_at" : "Sun Feb 28 21:31:56 +0000 2010",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -68,15 +66,13 @@ Grailbird.data.tweets_2010_02 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 47.612333, -122.347167 ]
   },
   "id_str" : "9762356594",
   "text" : "8:36pm Lazy day at home with @Kellianne and @RickWebb http://flic.kr/p/7Gidud",
   "id" : 9762356594,
   "created_at" : "Sun Feb 28 04:38:56 +0000 2010",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -105,7 +101,7 @@ Grailbird.data.tweets_2010_02 =
   "id" : 9760063502,
   "created_at" : "Sun Feb 28 03:38:45 +0000 2010",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -170,7 +166,7 @@ Grailbird.data.tweets_2010_02 =
   "id" : 9740693846,
   "created_at" : "Sat Feb 27 18:46:45 +0000 2010",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -187,15 +183,13 @@ Grailbird.data.tweets_2010_02 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 47.5951, -122.333 ]
   },
   "id_str" : "9736605692",
   "text" : "My weight: 173.7 lb. Weekly weigh in. http://withings.com",
   "id" : 9736605692,
   "created_at" : "Sat Feb 27 17:00:18 +0000 2010",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -212,15 +206,13 @@ Grailbird.data.tweets_2010_02 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 47.614166, -122.316834 ]
   },
   "id_str" : "9723202386",
   "text" : "A picture full of happy faces! http://flic.kr/p/7G33Ur",
   "id" : 9723202386,
   "created_at" : "Sat Feb 27 09:48:05 +0000 2010",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -243,7 +235,7 @@ Grailbird.data.tweets_2010_02 =
   "id" : 9714721181,
   "created_at" : "Sat Feb 27 04:42:26 +0000 2010",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -275,7 +267,7 @@ Grailbird.data.tweets_2010_02 =
   "in_reply_to_screen_name" : "carinnatarvin",
   "in_reply_to_user_id_str" : "20833838",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -298,7 +290,7 @@ Grailbird.data.tweets_2010_02 =
   "id" : 9707049425,
   "created_at" : "Sat Feb 27 01:32:29 +0000 2010",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -315,15 +307,13 @@ Grailbird.data.tweets_2010_02 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 47.614166, -122.3165 ]
   },
   "id_str" : "9662487295",
   "text" : "8:36pm At Unicorn with some old friends http://flic.kr/p/7FRVFL",
   "id" : 9662487295,
   "created_at" : "Fri Feb 26 04:38:09 +0000 2010",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -346,7 +336,7 @@ Grailbird.data.tweets_2010_02 =
   "id" : 9653797454,
   "created_at" : "Fri Feb 26 01:23:44 +0000 2010",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -380,7 +370,7 @@ Grailbird.data.tweets_2010_02 =
   "in_reply_to_screen_name" : "ingopixel",
   "in_reply_to_user_id_str" : "7943892",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -392,7 +382,7 @@ Grailbird.data.tweets_2010_02 =
   "source" : "<a href=\"http://itunes.apple.com/app/twitter/id333903271?mt=8\" rel=\"nofollow\">Twitter for iPhone</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "♥s photography!",
+      "name" : "\u2665s photography!",
       "screen_name" : "Photojojo",
       "indices" : [ 23, 33 ],
       "id_str" : "2521001",
@@ -420,7 +410,7 @@ Grailbird.data.tweets_2010_02 =
   "in_reply_to_screen_name" : "Photojojo",
   "in_reply_to_user_id_str" : "2521001",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -443,7 +433,7 @@ Grailbird.data.tweets_2010_02 =
   "id" : 9643529418,
   "created_at" : "Thu Feb 25 21:12:17 +0000 2010",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -472,7 +462,7 @@ Grailbird.data.tweets_2010_02 =
   "id" : 9641553827,
   "created_at" : "Thu Feb 25 20:19:34 +0000 2010",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -489,15 +479,13 @@ Grailbird.data.tweets_2010_02 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 47.6135, -122.344667 ]
   },
   "id_str" : "9615771177",
   "text" : "I'm a fan of Fanfarlo http://flic.kr/p/7FEpYS",
   "id" : 9615771177,
   "created_at" : "Thu Feb 25 07:10:51 +0000 2010",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -514,15 +502,13 @@ Grailbird.data.tweets_2010_02 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 47.612833, -122.3455 ]
   },
   "id_str" : "9611412104",
   "text" : "8:36pm Learning about Be Extra app from Carinna right before realizing I left my ID in my running shorts http://flic.kr/p/7FDfQy",
   "id" : 9611412104,
   "created_at" : "Thu Feb 25 04:44:07 +0000 2010",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -556,7 +542,7 @@ Grailbird.data.tweets_2010_02 =
   "in_reply_to_screen_name" : "lesinski",
   "in_reply_to_user_id_str" : "14084454",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -579,7 +565,7 @@ Grailbird.data.tweets_2010_02 =
   "id" : 9589780162,
   "created_at" : "Wed Feb 24 19:48:48 +0000 2010",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -602,7 +588,7 @@ Grailbird.data.tweets_2010_02 =
   "id" : 9589474475,
   "created_at" : "Wed Feb 24 19:40:15 +0000 2010",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -619,15 +605,13 @@ Grailbird.data.tweets_2010_02 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 47.612333, -122.347167 ]
   },
   "id_str" : "9511611366",
   "text" : "8:36pm Think I found the last song for my February mix tape before February ended http://flic.kr/p/7F6DHa",
   "id" : 9511611366,
   "created_at" : "Tue Feb 23 04:38:32 +0000 2010",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -661,7 +645,7 @@ Grailbird.data.tweets_2010_02 =
   "in_reply_to_screen_name" : "michaelbkim",
   "in_reply_to_user_id_str" : "2915391",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -705,7 +689,7 @@ Grailbird.data.tweets_2010_02 =
   "in_reply_to_screen_name" : "MeganWelling",
   "in_reply_to_user_id_str" : "26166039",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -728,7 +712,7 @@ Grailbird.data.tweets_2010_02 =
   "id" : 9462005634,
   "created_at" : "Mon Feb 22 04:38:17 +0000 2010",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -754,7 +738,7 @@ Grailbird.data.tweets_2010_02 =
   "id" : 9459062711,
   "created_at" : "Mon Feb 22 03:20:22 +0000 2010",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -780,7 +764,7 @@ Grailbird.data.tweets_2010_02 =
   "id" : 9452124619,
   "created_at" : "Mon Feb 22 00:30:47 +0000 2010",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -809,7 +793,7 @@ Grailbird.data.tweets_2010_02 =
   "id" : 9446729429,
   "created_at" : "Sun Feb 21 22:07:27 +0000 2010",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -832,7 +816,7 @@ Grailbird.data.tweets_2010_02 =
   "id" : 9445665463,
   "created_at" : "Sun Feb 21 21:38:43 +0000 2010",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -864,7 +848,7 @@ Grailbird.data.tweets_2010_02 =
   "in_reply_to_screen_name" : "joshc",
   "in_reply_to_user_id_str" : "2015",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -887,7 +871,7 @@ Grailbird.data.tweets_2010_02 =
   "id" : 9415077700,
   "created_at" : "Sun Feb 21 04:38:48 +0000 2010",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -910,7 +894,7 @@ Grailbird.data.tweets_2010_02 =
   "id" : 9390484090,
   "created_at" : "Sat Feb 20 17:00:19 +0000 2010",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -933,7 +917,7 @@ Grailbird.data.tweets_2010_02 =
   "id" : 9370311985,
   "created_at" : "Sat Feb 20 04:56:31 +0000 2010",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -962,7 +946,7 @@ Grailbird.data.tweets_2010_02 =
   "id" : 9367137911,
   "created_at" : "Sat Feb 20 03:27:36 +0000 2010",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -985,7 +969,7 @@ Grailbird.data.tweets_2010_02 =
   "id" : 9349473395,
   "created_at" : "Fri Feb 19 19:38:57 +0000 2010",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -1019,7 +1003,7 @@ Grailbird.data.tweets_2010_02 =
   "in_reply_to_screen_name" : "supaspoida",
   "in_reply_to_user_id_str" : "14205289",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -1042,7 +1026,7 @@ Grailbird.data.tweets_2010_02 =
   "id" : 9319816251,
   "created_at" : "Fri Feb 19 04:38:53 +0000 2010",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -1077,7 +1061,7 @@ Grailbird.data.tweets_2010_02 =
   "id" : 9309198949,
   "created_at" : "Fri Feb 19 00:19:47 +0000 2010",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -1100,7 +1084,7 @@ Grailbird.data.tweets_2010_02 =
   "id" : 9297971199,
   "created_at" : "Thu Feb 18 19:44:00 +0000 2010",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -1123,7 +1107,7 @@ Grailbird.data.tweets_2010_02 =
   "id" : 9296385641,
   "created_at" : "Thu Feb 18 19:01:25 +0000 2010",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -1152,7 +1136,7 @@ Grailbird.data.tweets_2010_02 =
   "id" : 9288746364,
   "created_at" : "Thu Feb 18 15:50:36 +0000 2010",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -1186,7 +1170,7 @@ Grailbird.data.tweets_2010_02 =
   "in_reply_to_screen_name" : "andreakremer",
   "in_reply_to_user_id_str" : "7594282",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -1220,7 +1204,7 @@ Grailbird.data.tweets_2010_02 =
   "in_reply_to_screen_name" : "andreakremer",
   "in_reply_to_user_id_str" : "7594282",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -1249,7 +1233,7 @@ Grailbird.data.tweets_2010_02 =
   "id" : 9269110078,
   "created_at" : "Thu Feb 18 04:41:35 +0000 2010",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -1272,7 +1256,7 @@ Grailbird.data.tweets_2010_02 =
   "id" : 9266094153,
   "created_at" : "Thu Feb 18 03:25:00 +0000 2010",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -1295,7 +1279,7 @@ Grailbird.data.tweets_2010_02 =
   "id" : 9256812344,
   "created_at" : "Wed Feb 17 23:32:04 +0000 2010",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -1329,7 +1313,7 @@ Grailbird.data.tweets_2010_02 =
   "in_reply_to_screen_name" : "tannerc",
   "in_reply_to_user_id_str" : "9161482",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -1352,7 +1336,7 @@ Grailbird.data.tweets_2010_02 =
   "id" : 9219737075,
   "created_at" : "Wed Feb 17 04:38:52 +0000 2010",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -1364,7 +1348,7 @@ Grailbird.data.tweets_2010_02 =
   "source" : "<a href=\"http://itunes.apple.com/app/twitter/id333903271?mt=8\" rel=\"nofollow\">Twitter for iPhone</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Tara Tiger Brown ",
+      "name" : "Tara Tiger Brown",
       "screen_name" : "tara",
       "indices" : [ 0, 5 ],
       "id_str" : "10959642",
@@ -1386,7 +1370,7 @@ Grailbird.data.tweets_2010_02 =
   "in_reply_to_screen_name" : "tara",
   "in_reply_to_user_id_str" : "10959642",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -1420,7 +1404,7 @@ Grailbird.data.tweets_2010_02 =
   "in_reply_to_screen_name" : "ticjones",
   "in_reply_to_user_id_str" : "12865002",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -1454,7 +1438,7 @@ Grailbird.data.tweets_2010_02 =
   "in_reply_to_screen_name" : "brownthings",
   "in_reply_to_user_id_str" : "15360225",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -1480,7 +1464,7 @@ Grailbird.data.tweets_2010_02 =
   "id" : 9194791583,
   "created_at" : "Tue Feb 16 17:58:37 +0000 2010",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -1503,7 +1487,7 @@ Grailbird.data.tweets_2010_02 =
   "id" : 9171249142,
   "created_at" : "Tue Feb 16 04:39:00 +0000 2010",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -1526,7 +1510,7 @@ Grailbird.data.tweets_2010_02 =
   "id" : 9127105127,
   "created_at" : "Mon Feb 15 04:38:59 +0000 2010",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -1549,7 +1533,7 @@ Grailbird.data.tweets_2010_02 =
   "id" : 9085147588,
   "created_at" : "Sun Feb 14 04:39:43 +0000 2010",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -1572,7 +1556,7 @@ Grailbird.data.tweets_2010_02 =
   "id" : 9074271369,
   "created_at" : "Sat Feb 13 23:21:34 +0000 2010",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -1595,7 +1579,7 @@ Grailbird.data.tweets_2010_02 =
   "id" : 9062333339,
   "created_at" : "Sat Feb 13 17:00:16 +0000 2010",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -1618,7 +1602,7 @@ Grailbird.data.tweets_2010_02 =
   "id" : 9044157138,
   "created_at" : "Sat Feb 13 05:27:15 +0000 2010",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -1641,7 +1625,7 @@ Grailbird.data.tweets_2010_02 =
   "id" : 9043597472,
   "created_at" : "Sat Feb 13 05:10:13 +0000 2010",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -1664,7 +1648,7 @@ Grailbird.data.tweets_2010_02 =
   "id" : 9016715291,
   "created_at" : "Fri Feb 12 17:00:08 +0000 2010",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -1687,7 +1671,7 @@ Grailbird.data.tweets_2010_02 =
   "id" : 8994625968,
   "created_at" : "Fri Feb 12 04:38:42 +0000 2010",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -1710,7 +1694,7 @@ Grailbird.data.tweets_2010_02 =
   "id" : 8990390595,
   "created_at" : "Fri Feb 12 02:43:15 +0000 2010",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -1733,7 +1717,7 @@ Grailbird.data.tweets_2010_02 =
   "id" : 8975484092,
   "created_at" : "Thu Feb 11 20:05:04 +0000 2010",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -1756,7 +1740,7 @@ Grailbird.data.tweets_2010_02 =
   "id" : 8947037490,
   "created_at" : "Thu Feb 11 04:42:26 +0000 2010",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -1779,7 +1763,7 @@ Grailbird.data.tweets_2010_02 =
   "id" : 8920575586,
   "created_at" : "Wed Feb 10 21:49:58 +0000 2010",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -1813,7 +1797,7 @@ Grailbird.data.tweets_2010_02 =
   "in_reply_to_screen_name" : "arainert",
   "in_reply_to_user_id_str" : "7482",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -1842,7 +1826,7 @@ Grailbird.data.tweets_2010_02 =
   "id" : 8917693722,
   "created_at" : "Wed Feb 10 20:34:53 +0000 2010",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -1876,7 +1860,7 @@ Grailbird.data.tweets_2010_02 =
   "in_reply_to_screen_name" : "scottmilling",
   "in_reply_to_user_id_str" : "786310",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -1899,7 +1883,7 @@ Grailbird.data.tweets_2010_02 =
   "id" : 8893452603,
   "created_at" : "Wed Feb 10 08:07:45 +0000 2010",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -1922,7 +1906,7 @@ Grailbird.data.tweets_2010_02 =
   "id" : 8893451960,
   "created_at" : "Wed Feb 10 08:07:43 +0000 2010",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -1945,7 +1929,7 @@ Grailbird.data.tweets_2010_02 =
   "id" : 8888012264,
   "created_at" : "Wed Feb 10 04:38:15 +0000 2010",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -1973,7 +1957,7 @@ Grailbird.data.tweets_2010_02 =
   "in_reply_to_screen_name" : "CraftNations",
   "in_reply_to_user_id_str" : "101448041",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -2007,7 +1991,7 @@ Grailbird.data.tweets_2010_02 =
   "in_reply_to_screen_name" : "ScottieYahtzee",
   "in_reply_to_user_id_str" : "15486015",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -2035,7 +2019,7 @@ Grailbird.data.tweets_2010_02 =
   "in_reply_to_screen_name" : "CraftNations",
   "in_reply_to_user_id_str" : "101448041",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -2064,7 +2048,7 @@ Grailbird.data.tweets_2010_02 =
   "id" : 8863056091,
   "created_at" : "Tue Feb 09 17:26:28 +0000 2010",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -2098,7 +2082,7 @@ Grailbird.data.tweets_2010_02 =
   "in_reply_to_screen_name" : "DaveCurry",
   "in_reply_to_user_id_str" : "1905521",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -2132,7 +2116,7 @@ Grailbird.data.tweets_2010_02 =
   "in_reply_to_screen_name" : "brycethornton",
   "in_reply_to_user_id_str" : "11859732",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -2155,7 +2139,7 @@ Grailbird.data.tweets_2010_02 =
   "id" : 8841178562,
   "created_at" : "Tue Feb 09 04:37:33 +0000 2010",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -2178,7 +2162,7 @@ Grailbird.data.tweets_2010_02 =
   "id" : 8841038496,
   "created_at" : "Tue Feb 09 04:33:21 +0000 2010",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -2201,7 +2185,7 @@ Grailbird.data.tweets_2010_02 =
   "id" : 8835894402,
   "created_at" : "Tue Feb 09 02:13:51 +0000 2010",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -2235,7 +2219,7 @@ Grailbird.data.tweets_2010_02 =
   "in_reply_to_screen_name" : "dkr",
   "in_reply_to_user_id_str" : "10877",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -2269,7 +2253,7 @@ Grailbird.data.tweets_2010_02 =
   "in_reply_to_screen_name" : "emmarocks",
   "in_reply_to_user_id_str" : "766566",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -2292,7 +2276,7 @@ Grailbird.data.tweets_2010_02 =
   "id" : 8827797706,
   "created_at" : "Mon Feb 08 22:35:16 +0000 2010",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -2321,7 +2305,7 @@ Grailbird.data.tweets_2010_02 =
   "id" : 8826500160,
   "created_at" : "Mon Feb 08 21:59:48 +0000 2010",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -2355,7 +2339,7 @@ Grailbird.data.tweets_2010_02 =
   "in_reply_to_screen_name" : "octavekitten",
   "in_reply_to_user_id_str" : "16366882",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -2384,7 +2368,7 @@ Grailbird.data.tweets_2010_02 =
   "id" : 8796565801,
   "created_at" : "Mon Feb 08 04:42:03 +0000 2010",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -2407,7 +2391,7 @@ Grailbird.data.tweets_2010_02 =
   "id" : 8751651779,
   "created_at" : "Sun Feb 07 04:41:13 +0000 2010",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -2430,7 +2414,7 @@ Grailbird.data.tweets_2010_02 =
   "id" : 8736958207,
   "created_at" : "Sat Feb 06 21:25:02 +0000 2010",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -2459,7 +2443,7 @@ Grailbird.data.tweets_2010_02 =
   "id" : 8736958000,
   "created_at" : "Sat Feb 06 21:25:01 +0000 2010",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -2488,7 +2472,7 @@ Grailbird.data.tweets_2010_02 =
   "id" : 8734260909,
   "created_at" : "Sat Feb 06 19:57:10 +0000 2010",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -2511,7 +2495,7 @@ Grailbird.data.tweets_2010_02 =
   "id" : 8709566058,
   "created_at" : "Sat Feb 06 04:38:38 +0000 2010",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -2534,7 +2518,7 @@ Grailbird.data.tweets_2010_02 =
   "id" : 8699235112,
   "created_at" : "Fri Feb 05 23:51:42 +0000 2010",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -2557,7 +2541,7 @@ Grailbird.data.tweets_2010_02 =
   "id" : 8693565529,
   "created_at" : "Fri Feb 05 21:11:27 +0000 2010",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -2586,7 +2570,7 @@ Grailbird.data.tweets_2010_02 =
   "id" : 8693438266,
   "created_at" : "Fri Feb 05 21:07:42 +0000 2010",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -2609,7 +2593,7 @@ Grailbird.data.tweets_2010_02 =
   "id" : 8690567208,
   "created_at" : "Fri Feb 05 19:42:21 +0000 2010",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -2632,7 +2616,7 @@ Grailbird.data.tweets_2010_02 =
   "id" : 8668163742,
   "created_at" : "Fri Feb 05 07:23:55 +0000 2010",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -2666,7 +2650,7 @@ Grailbird.data.tweets_2010_02 =
   "in_reply_to_screen_name" : "carinnatarvin",
   "in_reply_to_user_id_str" : "20833838",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -2689,7 +2673,7 @@ Grailbird.data.tweets_2010_02 =
   "id" : 8663842198,
   "created_at" : "Fri Feb 05 04:38:04 +0000 2010",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -2721,7 +2705,7 @@ Grailbird.data.tweets_2010_02 =
   "in_reply_to_screen_name" : "joshc",
   "in_reply_to_user_id_str" : "2015",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -2744,7 +2728,7 @@ Grailbird.data.tweets_2010_02 =
   "id" : 8660715524,
   "created_at" : "Fri Feb 05 03:08:21 +0000 2010",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -2767,7 +2751,7 @@ Grailbird.data.tweets_2010_02 =
   "id" : 8655070491,
   "created_at" : "Fri Feb 05 00:34:07 +0000 2010",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -2790,7 +2774,7 @@ Grailbird.data.tweets_2010_02 =
   "id" : 8619236738,
   "created_at" : "Thu Feb 04 04:38:05 +0000 2010",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -2813,7 +2797,7 @@ Grailbird.data.tweets_2010_02 =
   "id" : 8579698152,
   "created_at" : "Wed Feb 03 08:00:56 +0000 2010",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -2836,7 +2820,7 @@ Grailbird.data.tweets_2010_02 =
   "id" : 8574697960,
   "created_at" : "Wed Feb 03 04:38:37 +0000 2010",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -2870,7 +2854,7 @@ Grailbird.data.tweets_2010_02 =
   "in_reply_to_screen_name" : "codeodor",
   "in_reply_to_user_id_str" : "7853992",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -2893,7 +2877,7 @@ Grailbird.data.tweets_2010_02 =
   "id" : 8564175320,
   "created_at" : "Tue Feb 02 23:59:18 +0000 2010",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -2927,7 +2911,7 @@ Grailbird.data.tweets_2010_02 =
   "in_reply_to_screen_name" : "ellenthatcher",
   "in_reply_to_user_id_str" : "18999752",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -2973,7 +2957,7 @@ Grailbird.data.tweets_2010_02 =
   "in_reply_to_screen_name" : "arainert",
   "in_reply_to_user_id_str" : "7482",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -2996,7 +2980,7 @@ Grailbird.data.tweets_2010_02 =
   "id" : 8545229311,
   "created_at" : "Tue Feb 02 14:59:52 +0000 2010",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -3019,7 +3003,7 @@ Grailbird.data.tweets_2010_02 =
   "id" : 8530253115,
   "created_at" : "Tue Feb 02 04:59:14 +0000 2010",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -3053,7 +3037,7 @@ Grailbird.data.tweets_2010_02 =
   "in_reply_to_screen_name" : "Moka",
   "in_reply_to_user_id_str" : "754980",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -3087,7 +3071,7 @@ Grailbird.data.tweets_2010_02 =
   "in_reply_to_screen_name" : "hudlines",
   "in_reply_to_user_id_str" : "13417582",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -3121,7 +3105,7 @@ Grailbird.data.tweets_2010_02 =
   "in_reply_to_screen_name" : "visnup",
   "in_reply_to_user_id_str" : "6121912",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -3155,7 +3139,7 @@ Grailbird.data.tweets_2010_02 =
   "in_reply_to_screen_name" : "bwalsh",
   "in_reply_to_user_id_str" : "1174501",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -3167,7 +3151,7 @@ Grailbird.data.tweets_2010_02 =
   "source" : "<a href=\"http://itunes.apple.com/app/twitter/id333903271?mt=8\" rel=\"nofollow\">Twitter for iPhone</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "[tɕʰø hwan dʑun]",
+      "name" : "Hwan-Joon Choi",
       "screen_name" : "hc5duke",
       "indices" : [ 0, 8 ],
       "id_str" : "17076398",
@@ -3189,7 +3173,7 @@ Grailbird.data.tweets_2010_02 =
   "in_reply_to_screen_name" : "hc5duke",
   "in_reply_to_user_id_str" : "17076398",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -3215,7 +3199,7 @@ Grailbird.data.tweets_2010_02 =
   "id" : 8512733404,
   "created_at" : "Mon Feb 01 20:36:06 +0000 2010",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -3244,7 +3228,7 @@ Grailbird.data.tweets_2010_02 =
   "id" : 8494189928,
   "created_at" : "Mon Feb 01 10:55:17 +0000 2010",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",

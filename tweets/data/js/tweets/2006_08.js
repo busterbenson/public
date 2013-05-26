@@ -14,7 +14,7 @@ Grailbird.data.tweets_2006_08 =
   "id" : 20379,
   "created_at" : "Fri Aug 25 19:01:48 +0000 2006",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",

@@ -25,7 +25,7 @@ Grailbird.data.tweets_2010_08 =
   "in_reply_to_screen_name" : "mathowie",
   "in_reply_to_user_id_str" : "761975",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -42,15 +42,13 @@ Grailbird.data.tweets_2010_08 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 47.612666, -122.347667 ]
   },
   "id_str" : "22675674748",
   "text" : "8:36pm Finalizing my September healthmonth.com rules. Last chance! http://flic.kr/p/8x8HdZ",
   "id" : 22675674748,
   "created_at" : "Wed Sep 01 03:40:57 +0000 2010",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -103,7 +101,7 @@ Grailbird.data.tweets_2010_08 =
   "id" : 22663771572,
   "created_at" : "Wed Sep 01 00:42:23 +0000 2010",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -156,7 +154,7 @@ Grailbird.data.tweets_2010_08 =
   "id" : 22628115104,
   "created_at" : "Tue Aug 31 15:54:58 +0000 2010",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -190,7 +188,7 @@ Grailbird.data.tweets_2010_08 =
   "in_reply_to_screen_name" : "robbmonn",
   "in_reply_to_user_id_str" : "812214",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -230,7 +228,7 @@ Grailbird.data.tweets_2010_08 =
   "in_reply_to_screen_name" : "robbmonn",
   "in_reply_to_user_id_str" : "812214",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -264,7 +262,7 @@ Grailbird.data.tweets_2010_08 =
   "in_reply_to_screen_name" : "ironfroggy",
   "in_reply_to_user_id_str" : "5622042",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -281,15 +279,13 @@ Grailbird.data.tweets_2010_08 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 47.6125, -122.3475 ]
   },
   "id_str" : "22584025794",
   "text" : "8:36pm Researching food myths and deciding I like the nutrient density philosophy best http://flic.kr/p/8wRgA8",
   "id" : 22584025794,
   "created_at" : "Tue Aug 31 03:38:51 +0000 2010",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -312,7 +308,7 @@ Grailbird.data.tweets_2010_08 =
   "id" : 22582205869,
   "created_at" : "Tue Aug 31 03:12:40 +0000 2010",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -341,7 +337,7 @@ Grailbird.data.tweets_2010_08 =
   "id" : 22569342199,
   "created_at" : "Tue Aug 31 00:17:02 +0000 2010",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -434,7 +430,7 @@ Grailbird.data.tweets_2010_08 =
       "screen_name" : "mriceguy",
       "protected" : false,
       "id_str" : "14129314",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/2863213140/e053c20224b00f83b295417e4b0712b9_normal.png",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3633897454/c37cf0cc48c49ffcba6975561a88afe2_normal.jpeg",
       "id" : 14129314,
       "verified" : false
     }
@@ -442,7 +438,7 @@ Grailbird.data.tweets_2010_08 =
   "id" : 22568946727,
   "created_at" : "Tue Aug 31 00:11:31 +0000 2010",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -476,7 +472,7 @@ Grailbird.data.tweets_2010_08 =
   "in_reply_to_screen_name" : "FlitterbyG",
   "in_reply_to_user_id_str" : "14579490",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -488,7 +484,7 @@ Grailbird.data.tweets_2010_08 =
   "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Tweetie for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "ʎǝʞɔıɥ ʇʇɐɯ",
+      "name" : "\u028E\u01DD\u029E\u0254\u0131\u0265 \u0287\u0287\u0250\u026F",
       "screen_name" : "matthickey",
       "indices" : [ 0, 11 ],
       "id_str" : "8710082",
@@ -510,7 +506,7 @@ Grailbird.data.tweets_2010_08 =
   "in_reply_to_screen_name" : "matthickey",
   "in_reply_to_user_id_str" : "8710082",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -533,7 +529,7 @@ Grailbird.data.tweets_2010_08 =
   "id" : 22561942032,
   "created_at" : "Mon Aug 30 22:32:35 +0000 2010",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -556,7 +552,7 @@ Grailbird.data.tweets_2010_08 =
   "id" : 22548635846,
   "created_at" : "Mon Aug 30 19:06:34 +0000 2010",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -609,7 +605,7 @@ Grailbird.data.tweets_2010_08 =
   "id" : 22532157247,
   "created_at" : "Mon Aug 30 15:11:43 +0000 2010",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -632,7 +628,7 @@ Grailbird.data.tweets_2010_08 =
   "id" : 22503752949,
   "created_at" : "Mon Aug 30 06:56:25 +0000 2010",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -649,15 +645,13 @@ Grailbird.data.tweets_2010_08 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 47.612666, -122.3475 ]
   },
   "id_str" : "22493734984",
-  "text" : "8:36pm Went to Zoë while cousin Marla babysat. He wasn't crying when we returned = win. http://flic.kr/p/8wzJhG",
+  "text" : "8:36pm Went to Zo\u00EB while cousin Marla babysat. He wasn't crying when we returned = win. http://flic.kr/p/8wzJhG",
   "id" : 22493734984,
   "created_at" : "Mon Aug 30 03:42:28 +0000 2010",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -680,7 +674,7 @@ Grailbird.data.tweets_2010_08 =
   "id" : 22479706378,
   "created_at" : "Mon Aug 30 00:18:53 +0000 2010",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -714,7 +708,7 @@ Grailbird.data.tweets_2010_08 =
   "in_reply_to_screen_name" : "dannynewman",
   "in_reply_to_user_id_str" : "8273",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -737,7 +731,7 @@ Grailbird.data.tweets_2010_08 =
   "id" : 22463818775,
   "created_at" : "Sun Aug 29 20:06:14 +0000 2010",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -760,7 +754,7 @@ Grailbird.data.tweets_2010_08 =
   "id" : 22395429620,
   "created_at" : "Sun Aug 29 00:34:55 +0000 2010",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -793,7 +787,7 @@ Grailbird.data.tweets_2010_08 =
   "id_str" : "22371603148",
   "text" : "RT @50cent: Man @ev just called me and said I'm the best thing that happen to twitter for you motherfuckers who don't know he started tw ...",
   "retweeted_status" : {
-    "source" : "<a href=\"http://www.ubertwitter.com/bb/download.php\" rel=\"nofollow\">ÜberSocialOrig</a>",
+    "source" : "<a href=\"http://www.ubertwitter.com/bb/download.php\" rel=\"nofollow\">\u00DCberSocialOrig</a>",
     "entities" : {
       "user_mentions" : [ {
         "name" : "Evan Williams",
@@ -817,7 +811,7 @@ Grailbird.data.tweets_2010_08 =
       "screen_name" : "50cent",
       "protected" : false,
       "id_str" : "18222378",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3026283636/7eec4a7737f4d579a7e60e17d8e54076_normal.jpeg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3226093889/f21e95027261a21458bed194ac122962_normal.jpeg",
       "id" : 18222378,
       "verified" : true
     }
@@ -825,7 +819,7 @@ Grailbird.data.tweets_2010_08 =
   "id" : 22371603148,
   "created_at" : "Sat Aug 28 17:47:50 +0000 2010",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -859,7 +853,7 @@ Grailbird.data.tweets_2010_08 =
   "in_reply_to_screen_name" : "BinuPaulose",
   "in_reply_to_user_id_str" : "14888105",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -876,15 +870,13 @@ Grailbird.data.tweets_2010_08 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 47.612666, -122.3475 ]
   },
   "id_str" : "22325907875",
   "text" : "8:36pm I was bathing a guy and he accidentally breathed some water. How do you teach not to do that? http://flic.kr/p/8vWVg8",
   "id" : 22325907875,
   "created_at" : "Sat Aug 28 04:12:34 +0000 2010",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -896,11 +888,11 @@ Grailbird.data.tweets_2010_08 =
   "source" : "<a href=\"http://twitter.com/tweetbutton\" rel=\"nofollow\">Tweet Button</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dowling Duncan",
+      "name" : "Rob Duncan",
       "screen_name" : "dowlingduncan",
       "indices" : [ 74, 88 ],
-      "id_str" : "109591994",
-      "id" : 109591994
+      "id_str" : "1337063040",
+      "id" : 1337063040
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -908,7 +900,7 @@ Grailbird.data.tweets_2010_08 =
       "indices" : [ 50, 69 ],
       "url" : "http://t.co/WZSrUZ6",
       "expanded_url" : "http://dowlingduncan.com/dowling-duncan-redesign-us-bank-notes/",
-      "display_url" : "dowlingduncan.com/dowling-duncan…"
+      "display_url" : "dowlingduncan.com/dowling-duncan\u2026"
     } ]
   },
   "geo" : {
@@ -918,7 +910,7 @@ Grailbird.data.tweets_2010_08 =
   "id" : 22293952735,
   "created_at" : "Fri Aug 27 19:56:19 +0000 2010",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -952,7 +944,7 @@ Grailbird.data.tweets_2010_08 =
   "in_reply_to_screen_name" : "gorgeousnerd",
   "in_reply_to_user_id_str" : "2080451",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -986,7 +978,7 @@ Grailbird.data.tweets_2010_08 =
   "in_reply_to_screen_name" : "gorgeousnerd",
   "in_reply_to_user_id_str" : "2080451",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -1020,7 +1012,7 @@ Grailbird.data.tweets_2010_08 =
   "in_reply_to_screen_name" : "ehabbandar",
   "in_reply_to_user_id_str" : "14604251",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -1054,7 +1046,7 @@ Grailbird.data.tweets_2010_08 =
   "in_reply_to_screen_name" : "livlab",
   "in_reply_to_user_id_str" : "769920",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -1071,15 +1063,13 @@ Grailbird.data.tweets_2010_08 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 47.612666, -122.347667 ]
   },
   "id_str" : "22236018132",
   "text" : "8:36pm Watching Dr. Horrible's Sing Along Blog and we just learned about Captain Hammer's hammer http://flic.kr/p/8vL5QJ",
   "id" : 22236018132,
   "created_at" : "Fri Aug 27 03:40:40 +0000 2010",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -1091,7 +1081,7 @@ Grailbird.data.tweets_2010_08 =
   "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "ʎǝʞɔıɥ ʇʇɐɯ",
+      "name" : "\u028E\u01DD\u029E\u0254\u0131\u0265 \u0287\u0287\u0250\u026F",
       "screen_name" : "matthickey",
       "indices" : [ 0, 11 ],
       "id_str" : "8710082",
@@ -1113,7 +1103,7 @@ Grailbird.data.tweets_2010_08 =
   "in_reply_to_screen_name" : "matthickey",
   "in_reply_to_user_id_str" : "8710082",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -1125,7 +1115,7 @@ Grailbird.data.tweets_2010_08 =
   "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Tweetie for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "ʎǝʞɔıɥ ʇʇɐɯ",
+      "name" : "\u028E\u01DD\u029E\u0254\u0131\u0265 \u0287\u0287\u0250\u026F",
       "screen_name" : "matthickey",
       "indices" : [ 0, 11 ],
       "id_str" : "8710082",
@@ -1147,7 +1137,7 @@ Grailbird.data.tweets_2010_08 =
   "in_reply_to_screen_name" : "matthickey",
   "in_reply_to_user_id_str" : "8710082",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -1159,7 +1149,7 @@ Grailbird.data.tweets_2010_08 =
   "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Tweetie for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "ʎǝʞɔıɥ ʇʇɐɯ",
+      "name" : "\u028E\u01DD\u029E\u0254\u0131\u0265 \u0287\u0287\u0250\u026F",
       "screen_name" : "matthickey",
       "indices" : [ 0, 11 ],
       "id_str" : "8710082",
@@ -1181,7 +1171,7 @@ Grailbird.data.tweets_2010_08 =
   "in_reply_to_screen_name" : "matthickey",
   "in_reply_to_user_id_str" : "8710082",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -1215,7 +1205,7 @@ Grailbird.data.tweets_2010_08 =
   "in_reply_to_screen_name" : "ironfroggy",
   "in_reply_to_user_id_str" : "5622042",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -1249,7 +1239,7 @@ Grailbird.data.tweets_2010_08 =
   "in_reply_to_screen_name" : "thesunbreakmvb",
   "in_reply_to_user_id_str" : "17850085",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -1324,7 +1314,7 @@ Grailbird.data.tweets_2010_08 =
       "screen_name" : "berkun",
       "protected" : false,
       "id_str" : "30495974",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/1650114946/gravatar_normal.png",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3473773522/4b23b27d77b27987333372676452e488_normal.png",
       "id" : 30495974,
       "verified" : false
     }
@@ -1332,7 +1322,7 @@ Grailbird.data.tweets_2010_08 =
   "id" : 22196215997,
   "created_at" : "Thu Aug 26 17:33:14 +0000 2010",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -1350,7 +1340,7 @@ Grailbird.data.tweets_2010_08 =
       "id_str" : "123116307",
       "id" : 123116307
     }, {
-      "name" : "ʎǝʞɔıɥ ʇʇɐɯ",
+      "name" : "\u028E\u01DD\u029E\u0254\u0131\u0265 \u0287\u0287\u0250\u026F",
       "screen_name" : "matthickey",
       "indices" : [ 93, 104 ],
       "id_str" : "8710082",
@@ -1372,7 +1362,7 @@ Grailbird.data.tweets_2010_08 =
   "in_reply_to_screen_name" : "LilHossler",
   "in_reply_to_user_id_str" : "123116307",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -1395,7 +1385,7 @@ Grailbird.data.tweets_2010_08 =
   "id" : 22194643204,
   "created_at" : "Thu Aug 26 17:10:18 +0000 2010",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -1429,7 +1419,7 @@ Grailbird.data.tweets_2010_08 =
   "in_reply_to_screen_name" : "heatherquintal",
   "in_reply_to_user_id_str" : "12761252",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -1441,11 +1431,11 @@ Grailbird.data.tweets_2010_08 =
   "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Tweetie for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Sarah Jurado",
+      "name" : "sarah jurado ",
       "screen_name" : "sarahjurado",
       "indices" : [ 0, 12 ],
-      "id_str" : "15074951",
-      "id" : 15074951
+      "id_str" : "1252060596",
+      "id" : 1252060596
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -1460,10 +1450,10 @@ Grailbird.data.tweets_2010_08 =
   "id" : 22189282970,
   "in_reply_to_status_id" : 22188831959,
   "created_at" : "Thu Aug 26 16:00:13 +0000 2010",
-  "in_reply_to_screen_name" : "sarahjurado",
+  "in_reply_to_screen_name" : "sarah_lightness",
   "in_reply_to_user_id_str" : "15074951",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -1497,7 +1487,7 @@ Grailbird.data.tweets_2010_08 =
   "in_reply_to_screen_name" : "heatherquintal",
   "in_reply_to_user_id_str" : "12761252",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -1531,7 +1521,7 @@ Grailbird.data.tweets_2010_08 =
   "in_reply_to_screen_name" : "octavekitten",
   "in_reply_to_user_id_str" : "16366882",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -1565,7 +1555,7 @@ Grailbird.data.tweets_2010_08 =
   "in_reply_to_screen_name" : "heatherquintal",
   "in_reply_to_user_id_str" : "12761252",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -1582,15 +1572,13 @@ Grailbird.data.tweets_2010_08 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 47.6128494, -122.3466518 ]
   },
   "id_str" : "22187301745",
   "text" : "I'm looking for 100-500 beta testers for healthmonth.com. September's game starts in 5 days. Interested? http://goo.gl/fb/og7dF",
   "id" : 22187301745,
   "created_at" : "Thu Aug 26 15:34:56 +0000 2010",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -1613,7 +1601,7 @@ Grailbird.data.tweets_2010_08 =
   "id" : 22184233786,
   "created_at" : "Thu Aug 26 14:56:38 +0000 2010",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -1647,7 +1635,7 @@ Grailbird.data.tweets_2010_08 =
   "in_reply_to_screen_name" : "alicetiara",
   "in_reply_to_user_id_str" : "784078",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -1664,15 +1652,13 @@ Grailbird.data.tweets_2010_08 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 47.612666, -122.347667 ]
   },
   "id_str" : "22147335140",
   "text" : "8:36pm Let Kellianne go out for some self-date time while I multitask http://flic.kr/p/8vw7nf",
   "id" : 22147335140,
   "created_at" : "Thu Aug 26 03:46:15 +0000 2010",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -1695,7 +1681,7 @@ Grailbird.data.tweets_2010_08 =
   "id" : 22111947965,
   "created_at" : "Wed Aug 25 19:07:01 +0000 2010",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -1729,7 +1715,7 @@ Grailbird.data.tweets_2010_08 =
   "in_reply_to_screen_name" : "MeganWelling",
   "in_reply_to_user_id_str" : "26166039",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -1752,7 +1738,7 @@ Grailbird.data.tweets_2010_08 =
   "id" : 22110811162,
   "created_at" : "Wed Aug 25 18:48:26 +0000 2010",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -1786,7 +1772,7 @@ Grailbird.data.tweets_2010_08 =
   "in_reply_to_screen_name" : "aharbick",
   "in_reply_to_user_id_str" : "815996",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -1820,7 +1806,7 @@ Grailbird.data.tweets_2010_08 =
   "in_reply_to_screen_name" : "eringiglia",
   "in_reply_to_user_id_str" : "160796300",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -1837,15 +1823,13 @@ Grailbird.data.tweets_2010_08 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 47.612666, -122.347667 ]
   },
   "id_str" : "22058358227",
   "text" : "8:36pm Bathing the little guy http://flic.kr/p/8vg4Kq",
   "id" : 22058358227,
   "created_at" : "Wed Aug 25 03:41:27 +0000 2010",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -1879,7 +1863,7 @@ Grailbird.data.tweets_2010_08 =
   "in_reply_to_screen_name" : "octavekitten",
   "in_reply_to_user_id_str" : "16366882",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -1913,7 +1897,7 @@ Grailbird.data.tweets_2010_08 =
   "in_reply_to_screen_name" : "octavekitten",
   "in_reply_to_user_id_str" : "16366882",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -1947,7 +1931,7 @@ Grailbird.data.tweets_2010_08 =
   "in_reply_to_screen_name" : "octavekitten",
   "in_reply_to_user_id_str" : "16366882",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -1981,7 +1965,7 @@ Grailbird.data.tweets_2010_08 =
   "in_reply_to_screen_name" : "octavekitten",
   "in_reply_to_user_id_str" : "16366882",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -2015,7 +1999,7 @@ Grailbird.data.tweets_2010_08 =
   "in_reply_to_screen_name" : "melinachan",
   "in_reply_to_user_id_str" : "13985502",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -2038,7 +2022,7 @@ Grailbird.data.tweets_2010_08 =
   "id" : 22008980433,
   "created_at" : "Tue Aug 24 15:25:15 +0000 2010",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -2055,15 +2039,13 @@ Grailbird.data.tweets_2010_08 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 47.609, -122.340334 ]
   },
   "id_str" : "21971814092",
   "text" : "8:36pm Took Kathy and Patrick to Matt's for their last night http://flic.kr/p/8uZqnu",
   "id" : 21971814092,
   "created_at" : "Tue Aug 24 04:00:35 +0000 2010",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -2092,7 +2074,7 @@ Grailbird.data.tweets_2010_08 =
   "id" : 21925694323,
   "created_at" : "Mon Aug 23 16:19:51 +0000 2010",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -2109,15 +2091,13 @@ Grailbird.data.tweets_2010_08 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 47.613166, -122.34 ]
   },
   "id_str" : "21883619025",
   "text" : "8:36pm Party in the Monarch Suite at Hotel Andra http://flic.kr/p/8uBEye",
   "id" : 21883619025,
   "created_at" : "Mon Aug 23 03:40:47 +0000 2010",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -2140,7 +2120,7 @@ Grailbird.data.tweets_2010_08 =
   "id" : 21857654851,
   "created_at" : "Sun Aug 22 20:54:39 +0000 2010",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -2174,7 +2154,7 @@ Grailbird.data.tweets_2010_08 =
   "in_reply_to_screen_name" : "buzz",
   "in_reply_to_user_id_str" : "528",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -2197,7 +2177,7 @@ Grailbird.data.tweets_2010_08 =
   "id" : 21853801372,
   "created_at" : "Sun Aug 22 19:47:34 +0000 2010",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -2214,15 +2194,13 @@ Grailbird.data.tweets_2010_08 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 47.623333, -122.512167 ]
   },
   "id_str" : "21804005393",
   "text" : "8:36pm Boarding the Bainbridge -&gt; Seattle ferry. Niko is pissed. http://flic.kr/p/8umad1",
   "id" : 21804005393,
   "created_at" : "Sun Aug 22 04:37:50 +0000 2010",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -2239,15 +2217,13 @@ Grailbird.data.tweets_2010_08 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 47.925833, -122.808667 ]
   },
   "id_str" : "21799254518",
   "text" : "Single rainbow. So intense! http://flic.kr/p/8uhhgF",
   "id" : 21799254518,
   "created_at" : "Sun Aug 22 03:22:34 +0000 2010",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -2264,15 +2240,13 @@ Grailbird.data.tweets_2010_08 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 48.061166, -123.795 ]
   },
   "id_str" : "21794098499",
   "text" : "Lake Crescent Lodge! http://flic.kr/p/8ugnR4",
   "id" : 21794098499,
   "created_at" : "Sun Aug 22 02:01:31 +0000 2010",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -2289,15 +2263,13 @@ Grailbird.data.tweets_2010_08 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 48.061166, -123.795 ]
   },
   "id_str" : "21790854845",
   "text" : "Patrick braved the waters http://flic.kr/p/8ufLKX",
   "id" : 21790854845,
   "created_at" : "Sun Aug 22 01:07:53 +0000 2010",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -2320,15 +2292,13 @@ Grailbird.data.tweets_2010_08 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 47.948306, -124.385248 ]
   },
   "id_str" : "21780772332",
   "text" : "Totally in Twilight land. Staying in the car. (@ Forks Coffee Shop w/ @kellianne) http://4sq.com/aPAC5i",
   "id" : 21780772332,
   "created_at" : "Sat Aug 21 22:07:36 +0000 2010",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -2345,15 +2315,13 @@ Grailbird.data.tweets_2010_08 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 47.467166, -123.8485 ]
   },
   "id_str" : "21719422406",
   "text" : "8:36pm Fussy World War II while we enjoy the otherwise peaceful Olympics at Lake Quinnault Lodge http://flic.kr/p/8u5wWh",
   "id" : 21719422406,
   "created_at" : "Sat Aug 21 03:43:15 +0000 2010",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -2370,15 +2338,13 @@ Grailbird.data.tweets_2010_08 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 47.467166, -123.848334 ]
   },
   "id_str" : "21708249022",
   "text" : "On Lake Quinnault. Not very ugly here. http://flic.kr/p/8tZSbt",
   "id" : 21708249022,
   "created_at" : "Sat Aug 21 00:52:01 +0000 2010",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -2401,7 +2367,7 @@ Grailbird.data.tweets_2010_08 =
   "id" : 21673204031,
   "created_at" : "Fri Aug 20 15:31:38 +0000 2010",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -2418,15 +2384,13 @@ Grailbird.data.tweets_2010_08 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 47.612666, -122.347667 ]
   },
   "id_str" : "21633799537",
   "text" : "8:36pm Dinner with Kathy and Patrick from Florida! http://flic.kr/p/8tMvRX",
   "id" : 21633799537,
   "created_at" : "Fri Aug 20 03:43:57 +0000 2010",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -2443,15 +2407,13 @@ Grailbird.data.tweets_2010_08 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 47.612666, -122.3475 ]
   },
   "id_str" : "21546547342",
   "text" : "8:36pm Watching Happy Go Lucky. Noting how dark it is. http://flic.kr/p/8tzJqw",
   "id" : 21546547342,
   "created_at" : "Thu Aug 19 03:40:13 +0000 2010",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -2474,7 +2436,7 @@ Grailbird.data.tweets_2010_08 =
   "id" : 21508049453,
   "created_at" : "Wed Aug 18 17:44:38 +0000 2010",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -2491,15 +2453,13 @@ Grailbird.data.tweets_2010_08 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 47.608833, -122.309667 ]
   },
   "id_str" : "21460029976",
   "text" : "8:36pm Scottie and baby at Josh's impromptu bday bash http://flic.kr/p/8tj9xy",
   "id" : 21460029976,
   "created_at" : "Wed Aug 18 03:48:34 +0000 2010",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -2516,15 +2476,13 @@ Grailbird.data.tweets_2010_08 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 47.612666, -122.3475 ]
   },
   "id_str" : "21371895961",
   "text" : "8:36pm Eating his hat for lack of a better thing to do while the rest of us come up with other options http://flic.kr/p/8sYnM8",
   "id" : 21371895961,
   "created_at" : "Tue Aug 17 03:42:06 +0000 2010",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -2558,7 +2516,7 @@ Grailbird.data.tweets_2010_08 =
   "in_reply_to_screen_name" : "jennyjimenez",
   "in_reply_to_user_id_str" : "37855521",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -2575,15 +2533,13 @@ Grailbird.data.tweets_2010_08 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 47.615882, -122.323532 ]
   },
   "id_str" : "21347521826",
   "text" : "Trying out this office nomadic thing. Air conditioning alone makes it worthwhile today. &ams,15:working (@ Office Nomads)",
   "id" : 21347521826,
   "created_at" : "Mon Aug 16 21:47:35 +0000 2010",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -2606,7 +2562,7 @@ Grailbird.data.tweets_2010_08 =
   "id" : 21328275662,
   "created_at" : "Mon Aug 16 16:36:59 +0000 2010",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -2623,15 +2579,13 @@ Grailbird.data.tweets_2010_08 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 47.617833, -122.3525 ]
   },
   "id_str" : "21284530446",
   "text" : "8:36pm Watching Mad Men with Lia, Mark, and Oren http://flic.kr/p/8sDCBx",
   "id" : 21284530446,
   "created_at" : "Mon Aug 16 03:42:37 +0000 2010",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -2654,7 +2608,7 @@ Grailbird.data.tweets_2010_08 =
   "id" : 21266043347,
   "created_at" : "Sun Aug 15 22:57:27 +0000 2010",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -2707,7 +2661,7 @@ Grailbird.data.tweets_2010_08 =
   "id" : 21245485750,
   "created_at" : "Sun Aug 15 17:07:24 +0000 2010",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -2730,7 +2684,7 @@ Grailbird.data.tweets_2010_08 =
   "id" : 21243445771,
   "created_at" : "Sun Aug 15 16:35:22 +0000 2010",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -2747,15 +2701,13 @@ Grailbird.data.tweets_2010_08 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 47.6145, -122.346334 ]
   },
   "id_str" : "21201539462",
   "text" : "8:36pm Best seat at the Belltown Founder's Festival http://flic.kr/p/8sji5n",
   "id" : 21201539462,
   "created_at" : "Sun Aug 15 03:43:12 +0000 2010",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -2808,7 +2760,7 @@ Grailbird.data.tweets_2010_08 =
   "id" : 21168966021,
   "created_at" : "Sat Aug 14 18:16:42 +0000 2010",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -2831,7 +2783,7 @@ Grailbird.data.tweets_2010_08 =
   "id" : 21161737467,
   "created_at" : "Sat Aug 14 16:24:33 +0000 2010",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -2884,7 +2836,7 @@ Grailbird.data.tweets_2010_08 =
   "id" : 21161000588,
   "created_at" : "Sat Aug 14 16:14:10 +0000 2010",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -2901,15 +2853,13 @@ Grailbird.data.tweets_2010_08 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 47.624666, -122.325167 ]
   },
   "id_str" : "21120900407",
   "text" : "8:36pm Multi-celebratory BBQ on the Susie, Cory, Brett, Lucy rooftop extravaganza http://flic.kr/p/8s7CaL",
   "id" : 21120900407,
   "created_at" : "Sat Aug 14 03:45:42 +0000 2010",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -2926,15 +2876,13 @@ Grailbird.data.tweets_2010_08 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 47.61458224, -122.51466268 ]
   },
   "id_str" : "21090633134",
   "text" : "I just mowed a lawn for the first time in maybe 20 years. How many points do I get?",
   "id" : 21090633134,
   "created_at" : "Fri Aug 13 19:46:40 +0000 2010",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -2968,7 +2916,7 @@ Grailbird.data.tweets_2010_08 =
   "in_reply_to_screen_name" : "TheCulprit",
   "in_reply_to_user_id_str" : "6726182",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -3002,7 +2950,7 @@ Grailbird.data.tweets_2010_08 =
   "in_reply_to_screen_name" : "heatherquintal",
   "in_reply_to_user_id_str" : "12761252",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -3025,7 +2973,7 @@ Grailbird.data.tweets_2010_08 =
   "id" : 21085464687,
   "created_at" : "Fri Aug 13 18:22:03 +0000 2010",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -3090,7 +3038,7 @@ Grailbird.data.tweets_2010_08 =
   "id" : 21066494308,
   "created_at" : "Fri Aug 13 14:06:50 +0000 2010",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -3143,7 +3091,7 @@ Grailbird.data.tweets_2010_08 =
   "id" : 21065314282,
   "created_at" : "Fri Aug 13 13:51:22 +0000 2010",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -3177,7 +3125,7 @@ Grailbird.data.tweets_2010_08 =
   "in_reply_to_screen_name" : "Quazie",
   "in_reply_to_user_id_str" : "7389212",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -3200,7 +3148,7 @@ Grailbird.data.tweets_2010_08 =
   "id" : 21040040415,
   "created_at" : "Fri Aug 13 05:46:47 +0000 2010",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -3234,7 +3182,7 @@ Grailbird.data.tweets_2010_08 =
   "in_reply_to_screen_name" : "Quazie",
   "in_reply_to_user_id_str" : "7389212",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -3268,7 +3216,7 @@ Grailbird.data.tweets_2010_08 =
   "in_reply_to_screen_name" : "livlab",
   "in_reply_to_user_id_str" : "769920",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -3285,15 +3233,13 @@ Grailbird.data.tweets_2010_08 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 47.598, -122.541167 ]
   },
   "id_str" : "21038368324",
   "text" : "8:36pm Heading home from the beach http://flic.kr/p/8rTpQo",
   "id" : 21038368324,
   "created_at" : "Fri Aug 13 05:16:21 +0000 2010",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -3310,15 +3256,13 @@ Grailbird.data.tweets_2010_08 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 47.5965, -122.541667 ]
   },
   "id_str" : "21029270332",
   "text" : "The Greg Spils beach could be less beautiful http://flic.kr/p/8rS5k1",
   "id" : 21029270332,
   "created_at" : "Fri Aug 13 02:57:04 +0000 2010",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -3335,15 +3279,13 @@ Grailbird.data.tweets_2010_08 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 47.614666, -122.514834 ]
   },
   "id_str" : "20944129413",
   "text" : "8:36pm Making dinner with Loren and Tyler http://flic.kr/p/8rBPdY",
   "id" : 20944129413,
   "created_at" : "Thu Aug 12 03:50:44 +0000 2010",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -3377,7 +3319,7 @@ Grailbird.data.tweets_2010_08 =
   "in_reply_to_screen_name" : "emmarocks",
   "in_reply_to_user_id_str" : "766566",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -3411,7 +3353,7 @@ Grailbird.data.tweets_2010_08 =
   "in_reply_to_screen_name" : "sippey",
   "in_reply_to_user_id_str" : "4711",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -3428,15 +3370,13 @@ Grailbird.data.tweets_2010_08 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 47.6145, -122.5145 ]
   },
   "id_str" : "20854487131",
   "text" : "8:36pm Playing games that involve turning his face into various noise-making buttons http://flic.kr/p/8riw8R",
   "id" : 20854487131,
   "created_at" : "Wed Aug 11 04:00:13 +0000 2010",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -3470,7 +3410,7 @@ Grailbird.data.tweets_2010_08 =
   "in_reply_to_screen_name" : "heatherquintal",
   "in_reply_to_user_id_str" : "12761252",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -3504,7 +3444,7 @@ Grailbird.data.tweets_2010_08 =
   "in_reply_to_screen_name" : "heatherquintal",
   "in_reply_to_user_id_str" : "12761252",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -3527,7 +3467,7 @@ Grailbird.data.tweets_2010_08 =
   "id" : 20836682180,
   "created_at" : "Tue Aug 10 23:53:36 +0000 2010",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -3561,7 +3501,7 @@ Grailbird.data.tweets_2010_08 =
   "in_reply_to_screen_name" : "heatherquintal",
   "in_reply_to_user_id_str" : "12761252",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -3584,7 +3524,7 @@ Grailbird.data.tweets_2010_08 =
   "id" : 20811267093,
   "created_at" : "Tue Aug 10 17:21:18 +0000 2010",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -3618,7 +3558,7 @@ Grailbird.data.tweets_2010_08 =
   "in_reply_to_screen_name" : "FailedImitator",
   "in_reply_to_user_id_str" : "14210174",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -3641,7 +3581,7 @@ Grailbird.data.tweets_2010_08 =
   "id" : 20808397537,
   "created_at" : "Tue Aug 10 16:39:57 +0000 2010",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -3664,7 +3604,7 @@ Grailbird.data.tweets_2010_08 =
   "id" : 20802293805,
   "created_at" : "Tue Aug 10 15:15:49 +0000 2010",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -3681,15 +3621,13 @@ Grailbird.data.tweets_2010_08 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 47.6265, -122.521834 ]
   },
   "id_str" : "20763995588",
   "text" : "8:36pm Mexican food outting with this spitty baby http://flic.kr/p/8r1Y5k",
   "id" : 20763995588,
   "created_at" : "Tue Aug 10 03:42:20 +0000 2010",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -3706,15 +3644,13 @@ Grailbird.data.tweets_2010_08 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 47.614666, -122.514667 ]
   },
   "id_str" : "20678565091",
   "text" : "8:36pm My paparazzi flash catches Niko guilty at a bottle http://flic.kr/p/8qKjby",
   "id" : 20678565091,
   "created_at" : "Mon Aug 09 03:39:53 +0000 2010",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -3737,7 +3673,7 @@ Grailbird.data.tweets_2010_08 =
   "id" : 20612800010,
   "created_at" : "Sun Aug 08 07:35:47 +0000 2010",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -3754,15 +3690,13 @@ Grailbird.data.tweets_2010_08 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 47.6145, -122.514667 ]
   },
   "id_str" : "20604956541",
   "text" : "8:36pm Niko doesn't want to sleep. Bainbridge is too much fun when the Madsens visit. http://flic.kr/p/8qnXzV",
   "id" : 20604956541,
   "created_at" : "Sun Aug 08 04:57:44 +0000 2010",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -3786,8 +3720,6 @@ Grailbird.data.tweets_2010_08 =
   },
   "in_reply_to_status_id_str" : "20549999022",
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 47.6150724, -122.5150522 ]
   },
   "id_str" : "20591293054",
   "in_reply_to_user_id" : 2080451,
@@ -3798,7 +3730,7 @@ Grailbird.data.tweets_2010_08 =
   "in_reply_to_screen_name" : "gorgeousnerd",
   "in_reply_to_user_id_str" : "2080451",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -3832,7 +3764,7 @@ Grailbird.data.tweets_2010_08 =
   "in_reply_to_screen_name" : "kstar",
   "in_reply_to_user_id_str" : "2038",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -3885,7 +3817,7 @@ Grailbird.data.tweets_2010_08 =
   "id" : 20532864807,
   "created_at" : "Sat Aug 07 06:35:52 +0000 2010",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -3902,15 +3834,13 @@ Grailbird.data.tweets_2010_08 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 47.656166, -122.570167 ]
   },
   "id_str" : "20524531214",
   "text" : "8:36pm At Moonlodge Meadows on Bainbridge celebrating Ariel and Dre's anniversary! http://flic.kr/p/8q7uMk",
   "id" : 20524531214,
   "created_at" : "Sat Aug 07 04:05:17 +0000 2010",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -3927,15 +3857,13 @@ Grailbird.data.tweets_2010_08 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 47.614666, -122.514667 ]
   },
   "id_str" : "20438364162",
   "text" : "8:36pm Just starting to wind down. First day on Bainbridge was mostly spent working http://flic.kr/p/8pVss7",
   "id" : 20438364162,
   "created_at" : "Fri Aug 06 03:41:17 +0000 2010",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -4000,7 +3928,7 @@ Grailbird.data.tweets_2010_08 =
   "id" : 20368171000,
   "created_at" : "Thu Aug 05 06:39:23 +0000 2010",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -4017,15 +3945,13 @@ Grailbird.data.tweets_2010_08 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 47.6145, -122.514667 ]
   },
   "id_str" : "20358874683",
   "text" : "8:36pm Learning the ropes of the Opalka estate http://flic.kr/p/8pEtN7",
   "id" : 20358874683,
   "created_at" : "Thu Aug 05 03:45:11 +0000 2010",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -4051,7 +3977,7 @@ Grailbird.data.tweets_2010_08 =
   "id" : 20340873683,
   "created_at" : "Wed Aug 04 23:10:08 +0000 2010",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -4085,7 +4011,7 @@ Grailbird.data.tweets_2010_08 =
   "in_reply_to_screen_name" : "mparber",
   "in_reply_to_user_id_str" : "26603116",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -4119,7 +4045,7 @@ Grailbird.data.tweets_2010_08 =
   "in_reply_to_screen_name" : "filmgeek",
   "in_reply_to_user_id_str" : "1567931",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -4136,15 +4062,13 @@ Grailbird.data.tweets_2010_08 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 47.618166, -122.352834 ]
   },
   "id_str" : "20275378915",
   "text" : "8:36pm Catching up on Mad Men http://flic.kr/p/8poQ71",
   "id" : 20275378915,
   "created_at" : "Wed Aug 04 03:39:28 +0000 2010",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -4161,15 +4085,13 @@ Grailbird.data.tweets_2010_08 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 47.574, -122.314167 ]
   },
   "id_str" : "20192782720",
   "text" : "8:36pm Took baby to the Zwickdeans! http://flic.kr/p/8p6Yu5",
   "id" : 20192782720,
   "created_at" : "Tue Aug 03 03:46:24 +0000 2010",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -4203,7 +4125,7 @@ Grailbird.data.tweets_2010_08 =
   "in_reply_to_screen_name" : "livlab",
   "in_reply_to_user_id_str" : "769920",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -4237,7 +4159,7 @@ Grailbird.data.tweets_2010_08 =
   "in_reply_to_screen_name" : "arainert",
   "in_reply_to_user_id_str" : "7482",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -4290,7 +4212,7 @@ Grailbird.data.tweets_2010_08 =
   "id" : 20121006427,
   "created_at" : "Mon Aug 02 06:58:25 +0000 2010",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -4324,7 +4246,7 @@ Grailbird.data.tweets_2010_08 =
   "in_reply_to_screen_name" : "arainert",
   "in_reply_to_user_id_str" : "7482",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -4341,15 +4263,13 @@ Grailbird.data.tweets_2010_08 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 47.612666, -122.347667 ]
   },
   "id_str" : "20111362784",
   "text" : "8:36pm Seriously exhausted are all of us. http://flic.kr/p/8oLBPS",
   "id" : 20111362784,
   "created_at" : "Mon Aug 02 03:43:03 +0000 2010",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -4375,7 +4295,7 @@ Grailbird.data.tweets_2010_08 =
   "id" : 20106344414,
   "created_at" : "Mon Aug 02 02:22:22 +0000 2010",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",

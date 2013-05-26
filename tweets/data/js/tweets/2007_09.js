@@ -14,7 +14,7 @@ Grailbird.data.tweets_2007_09 =
   "id" : 303609212,
   "created_at" : "Sun Sep 30 21:15:09 +0000 2007",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -48,7 +48,7 @@ Grailbird.data.tweets_2007_09 =
   "in_reply_to_screen_name" : "alicetiara",
   "in_reply_to_user_id_str" : "784078",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -71,7 +71,7 @@ Grailbird.data.tweets_2007_09 =
   "id" : 299551562,
   "created_at" : "Fri Sep 28 18:40:05 +0000 2007",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -94,7 +94,7 @@ Grailbird.data.tweets_2007_09 =
   "id" : 297877402,
   "created_at" : "Fri Sep 28 01:32:28 +0000 2007",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -117,7 +117,7 @@ Grailbird.data.tweets_2007_09 =
   "id" : 287493462,
   "created_at" : "Sun Sep 23 08:01:41 +0000 2007",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -140,7 +140,7 @@ Grailbird.data.tweets_2007_09 =
   "id" : 275481782,
   "created_at" : "Tue Sep 18 00:12:57 +0000 2007",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -163,7 +163,7 @@ Grailbird.data.tweets_2007_09 =
   "id" : 261710622,
   "created_at" : "Tue Sep 11 17:42:55 +0000 2007",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -186,7 +186,7 @@ Grailbird.data.tweets_2007_09 =
   "id" : 259032632,
   "created_at" : "Mon Sep 10 15:08:11 +0000 2007",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",

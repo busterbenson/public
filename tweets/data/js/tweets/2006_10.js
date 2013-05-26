@@ -14,7 +14,7 @@ Grailbird.data.tweets_2006_10 =
   "id" : 51328,
   "created_at" : "Sun Oct 29 05:30:24 +0000 2006",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -37,7 +37,7 @@ Grailbird.data.tweets_2006_10 =
   "id" : 43505,
   "created_at" : "Sun Oct 15 04:43:34 +0000 2006",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -60,7 +60,7 @@ Grailbird.data.tweets_2006_10 =
   "id" : 40851,
   "created_at" : "Tue Oct 10 03:12:26 +0000 2006",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -83,7 +83,7 @@ Grailbird.data.tweets_2006_10 =
   "id" : 39520,
   "created_at" : "Fri Oct 06 15:13:29 +0000 2006",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -112,7 +112,7 @@ Grailbird.data.tweets_2006_10 =
   "id" : 38915,
   "created_at" : "Thu Oct 05 03:00:23 +0000 2006",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
