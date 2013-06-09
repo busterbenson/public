@@ -111,4 +111,4 @@ Meta
 Wagers
 ------
 * With Carinna. By 2028, the equivalent of a college education (both in breadth of knowledge and value to career) will be available to anyone with an internet connection.
-* With Rick Webb. By March 1st, 2016, descendants of Google Glass will be seen regularly in the wild (in the same way that Fitbits, NikeFuel bands, and retina MacBook Pros are in 2013)
+* With Rick Webb. By March 1st, 2016, descendants of Google Glass will be seen regularly in the wild (in the same way that Fitbits, NikeFuel bands, and retina MacBook Pros are in 2013).
