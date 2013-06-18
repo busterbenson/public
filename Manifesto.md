@@ -1,5 +1,5 @@
-Rules I try to live by
-======================
+# Rules I try to live by
+
 1. You must not dilly-dally
 2. You must be your word
 3. You must have good intentions

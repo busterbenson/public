@@ -1,5 +1,4 @@
-/public
-=======
+# /public
 
 My public self.
 
