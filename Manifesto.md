@@ -1,12 +1,3 @@
-Momento Mori (review every morning)
-===================================
-1. Look, look, look
-2. Love your family
-3. Live by example
-4. Eat mostly plants
-5. Remember, you will die
-6. Levitas!
-
 Rules I try to live by
 ======================
 1. You must not dilly-dally
