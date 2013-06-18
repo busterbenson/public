@@ -1,3 +1,6 @@
+37: More kiloslogs
+http://wayoftheduck.com/37
+
 36: Talk it out
 http://bustr.me/post/23934784635/on-being-36
 

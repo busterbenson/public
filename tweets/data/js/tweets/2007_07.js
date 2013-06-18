@@ -14,7 +14,7 @@ Grailbird.data.tweets_2007_07 =
   "id" : 172073612,
   "created_at" : "Fri Jul 27 21:29:16 +0000 2007",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -37,7 +37,7 @@ Grailbird.data.tweets_2007_07 =
   "id" : 170137162,
   "created_at" : "Thu Jul 26 20:13:26 +0000 2007",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -60,7 +60,7 @@ Grailbird.data.tweets_2007_07 =
   "id" : 170136322,
   "created_at" : "Thu Jul 26 20:12:38 +0000 2007",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -83,7 +83,7 @@ Grailbird.data.tweets_2007_07 =
   "id" : 166446062,
   "created_at" : "Tue Jul 24 20:30:45 +0000 2007",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -106,7 +106,7 @@ Grailbird.data.tweets_2007_07 =
   "id" : 161633832,
   "created_at" : "Sat Jul 21 22:52:43 +0000 2007",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -129,7 +129,7 @@ Grailbird.data.tweets_2007_07 =
   "id" : 150654522,
   "created_at" : "Sun Jul 15 06:51:08 +0000 2007",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -152,7 +152,7 @@ Grailbird.data.tweets_2007_07 =
   "id" : 149261832,
   "created_at" : "Sat Jul 14 05:09:36 +0000 2007",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -175,7 +175,7 @@ Grailbird.data.tweets_2007_07 =
   "id" : 138920952,
   "created_at" : "Sat Jul 07 17:32:12 +0000 2007",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -198,7 +198,7 @@ Grailbird.data.tweets_2007_07 =
   "id" : 137690112,
   "created_at" : "Fri Jul 06 19:55:47 +0000 2007",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -221,7 +221,7 @@ Grailbird.data.tweets_2007_07 =
   "id" : 135840952,
   "created_at" : "Thu Jul 05 16:49:52 +0000 2007",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -244,7 +244,7 @@ Grailbird.data.tweets_2007_07 =
   "id" : 134571172,
   "created_at" : "Wed Jul 04 21:30:02 +0000 2007",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -267,7 +267,7 @@ Grailbird.data.tweets_2007_07 =
   "id" : 131754782,
   "created_at" : "Tue Jul 03 04:26:38 +0000 2007",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",

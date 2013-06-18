@@ -14,7 +14,7 @@ Grailbird.data.tweets_2007_01 =
   "id" : 3077623,
   "created_at" : "Wed Jan 17 01:31:07 +0000 2007",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -37,7 +37,7 @@ Grailbird.data.tweets_2007_01 =
   "id" : 2964193,
   "created_at" : "Tue Jan 16 03:00:41 +0000 2007",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -60,7 +60,7 @@ Grailbird.data.tweets_2007_01 =
   "id" : 1949563,
   "created_at" : "Mon Jan 01 20:02:27 +0000 2007",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",

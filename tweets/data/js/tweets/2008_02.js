@@ -14,7 +14,7 @@ Grailbird.data.tweets_2008_02 =
   "id" : 761910022,
   "created_at" : "Tue Feb 26 19:31:00 +0000 2008",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -37,7 +37,7 @@ Grailbird.data.tweets_2008_02 =
   "id" : 682519172,
   "created_at" : "Wed Feb 06 05:03:47 +0000 2008",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -60,7 +60,7 @@ Grailbird.data.tweets_2008_02 =
   "id" : 679124402,
   "created_at" : "Tue Feb 05 08:01:53 +0000 2008",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -83,7 +83,7 @@ Grailbird.data.tweets_2008_02 =
   "id" : 670933502,
   "created_at" : "Sat Feb 02 20:26:03 +0000 2008",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -106,7 +106,7 @@ Grailbird.data.tweets_2008_02 =
   "id" : 669227252,
   "created_at" : "Sat Feb 02 07:57:46 +0000 2008",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -129,7 +129,7 @@ Grailbird.data.tweets_2008_02 =
   "id" : 668403232,
   "created_at" : "Sat Feb 02 01:41:31 +0000 2008",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -152,7 +152,7 @@ Grailbird.data.tweets_2008_02 =
   "id" : 667893302,
   "created_at" : "Fri Feb 01 22:14:33 +0000 2008",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
@@ -175,7 +175,7 @@ Grailbird.data.tweets_2008_02 =
   "id" : 667798532,
   "created_at" : "Fri Feb 01 21:42:29 +0000 2008",
   "user" : {
-    "name" : "@buster",
+    "name" : "Buster",
     "screen_name" : "buster",
     "protected" : false,
     "id_str" : "2185",
