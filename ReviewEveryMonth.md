@@ -1,5 +1,5 @@
 # Slowgoer File
-*[Learn about Slowgoer here](https://medium.com/@buster).*
+Review every month, on the 1st. *[Learn about Slowgoer here](https://medium.com/@buster).*
 
 # My Goals
 
@@ -10,7 +10,7 @@ I want to track at least 5 "quality times" a week. Quality times that count: qua
 * *Self Mode:* meditation
 * *Flow Mode:* meditation, work
 * *People Mode:* Kellianne, Niko
-* *Chaos Monkey:* Got sick, app confusion
+* *Chaos Monkey:* got sick, app confusion
 
 ##### Jul 2013 : MISS (-)
 Meditate at least 5 minutes 5 days a week.
