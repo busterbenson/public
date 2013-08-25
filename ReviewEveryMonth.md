@@ -1,5 +1,5 @@
-# Slowgoer File
-Review every month, on the 1st. *[Learn about Slowgoer here](https://medium.com/@buster).*
+# Hydra File
+Review every month, on the 1st. *[Learn about Hydra here](https://medium.com/better-humans/c02337782a89).*
 
 # My Goals
 
