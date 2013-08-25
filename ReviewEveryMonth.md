@@ -10,13 +10,13 @@ I want to track at least 5 "quality times" a week. Quality times that count: qua
 * *Self Mode:* meditation
 * *Flow Mode:* meditation, work
 * *People Mode:* Kellianne, Niko
-* *Chaos Monkey:* got sick, app confusion
+* *Chaos Monkey:* get sick, get confused about apps
 
 ##### Jul 2013 : MISS (-)
 Meditate at least 5 minutes 5 days a week.
 * *Self Mode:* meditation
 * *Flow Mode:* meditation
-* *Chaos Monkey:* app confusion
+* *Chaos Monkey:* get confused about apps
 
 ##### Jun 2013 : MISS (-)
 I want to do at least 1 thing a day (no days off) that A) gets me closer to being a marathoner B) I do on purpose for this resolution (no retroactive counting), and C) isn't "normal" for me to do. Meditation, running, other exercise, etc all count. I'm tracking my slogs on peabrain.co which has been working for me for a while now.
@@ -71,8 +71,8 @@ At least 5 days a week, start my day proactively by doing at least one of these 
 
 # Chaos Monkey Tricks
 
-##### Got sick
-Coughing up gross stuff, bad sleep, dry throat, headaches. Drank lots of water, took lots of naps, tried to lay low for the most part.
+##### Get sick
+Coughing up gross stuff, bad sleep, dry throat, headaches. Couldn't really get out of bed. Drank lots of water, took lots of naps, tried to lay low for the most part.
 
-##### App confusion
+##### Get confused about apps
 I got confused about tracking meditation and quality time in my apps. I tried Lift, and another one called The Way of Life (that turned out to be not so great).
