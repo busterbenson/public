@@ -46,7 +46,7 @@ At least 5 days a week, start my day proactively by doing at least one of these 
 # Chaos Monkey Tricks
 
 ##### Got sick
-**Aug 21-24, 2013.** Coughing up gross stuff, bad sleep, dry throat, headaches. Drank lots of water, took lots of naps, tried to lay low for the most part.
+*Aug 21-24, 2013.* Coughing up gross stuff, bad sleep, dry throat, headaches. Drank lots of water, took lots of naps, tried to lay low for the most part.
 
 ##### App confusion
-**July 2013, Aug 2013.** I got confused about tracking meditation and quality time in my apps. I tried Lift, and another one called The Way of Life (that turned out to be not so great).
+*July 2013, Aug 2013.* I got confused about tracking meditation and quality time in my apps. I tried Lift, and another one called The Way of Life (that turned out to be not so great).
