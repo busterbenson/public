@@ -53,6 +53,8 @@
 - We tell stories in order to create and remember meaning
 - Consciousness is the result of a feedback loop between our story-making cortex and our subconscious, so that it can better predict/act on long-term threats
 - Privacy is just a side effect of people not being truly connected
+- People, organizations, and governments will exchange privacy for connection when they trust each other
+- Future-thinking people, organizations, and governments will make great strides towards being more trustworthy in order to earn this privilege of connection by 2050
 - Giving up our privacy and individuality in exchange for better connection will be the norm by 2050
 
 ## On Logic
