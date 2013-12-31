@@ -5,7 +5,10 @@
 
 ### 2013 Progress: -++++---+--
 
-##### Dec 2013 : INPROGRESS
+#### End of 2013 : HIT (+) ####
+Come up with a plan for next year's version of Rabbit Rabbit.
+
+##### Dec 2013 : HIT (+)
 I want to continue to track my modes through Lift at least 5 days a week. Write a blog post sometime in the month about finding the signal for quality time.
 
 ##### Nov 2013 : MISS (-)
@@ -42,16 +45,21 @@ At least 5 days a week, start my day proactively by doing at least one of these 
 At least 5 days a week, start my day proactively by doing at least one of these 6 things before looking at my phone: drink a glass of water, stretch, do pushups, do lunges, do plank, review my look, look, look haiku deck.
 
 # My Interests
+* Raising Niko
 * How do we change ourselves?
-* Work at Twitter
+* Doing good work at Twitter
 * Meditation
 * Long bike rides
+* Writing
+* Delicious eating experiences
+* Exploring our city, country, world
+* Comedy
 
 # My People
 * Kellianne
 * Niko
-* Etsuko (Mom)
-* Kristy (Sis)
+* Mom
+* Sister
 
 # My Beliefs
 *See my [Beliefs File](Beliefs.md).*
