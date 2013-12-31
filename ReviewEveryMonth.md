@@ -38,6 +38,7 @@ On the 1st of every month: Update interests, people, beliefs. Report on the prev
 * 16th: Made a Thomas train out of construction paper with Niko. Big hit.
 * 17th: Inspiring product manager Christmas party, going away party for Mark (our intern)
 * 19th: Twitter holiday party: biggest fanciest party we've ever been to (at City Hall)
+* 20th: Closed on sale of my Belltown loft! Paid off all credit cards and the car as well. Stoked.
 * 21st: Christmas Tree Lane in Alameda
 * 24th: Christmas Eve at Kristy's house with Mom, Ryan and Adelyn (Ryan's reading of The Night Before Christmas went over especially well)
 * 25th: Adelyn saying "I'm feeling really good right now!" after opening gifts
