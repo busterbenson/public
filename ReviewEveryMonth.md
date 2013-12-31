@@ -27,7 +27,7 @@ On the 1st of every month: Update interests, people, beliefs. Report on the prev
 
 *Outcome of previous goal:* Hit
 
-*New goal:* Do pushups at least 4 days a week.
+*New goal:* Do pushups at least 4 days a week. I need to do at least the minimal amount of exercise other than bike riding because I feel like my energy levels are really low. Admittedly, none of my interests have anything to do with pushups... I just choose them because they're the easiest. But there's no internal motivation beyond easiness pushing me forward. Is it possible to enjoy pushups for themselves? If this doesn't work I may need to rely on biking more as my outlet for exercise.
 
 *Quality moments from previous month:* 
 * 1st: Went to Scribe with Katie, met up with Mira and Tom
