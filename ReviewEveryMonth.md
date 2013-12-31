@@ -30,6 +30,19 @@ On the 1st of every month: Update interests, people, beliefs. Report on the prev
 *New goal:* 
 
 *Quality moments from previous month:* 
+* 1st: Went to Scribe with Katie, met up with Mira and Tom
+* 6th: Katie stayed with us, we played Cards Against Humanity
+* 7th: Picked out a Christmas tree with Bojee and Alycah
+* 8th: Hilarious dinner at Paisan with Katie and Jimmy James
+* 15th: Went to Tilden Park Carousel with Brasa, Bojee, and friends
+* 16th: Made a Thomas train out of construction paper with Niko. Big hit.
+* 17th: Inspiring product manager Christmas party, going away party for Mark (our intern)
+* 19th: Twitter holiday party: biggest fanciest party we've ever been to (at City Hall)
+* 21st: Christmas Tree Lane in Alameda
+* 24th: Christmas Eve at Kristy's house with Mom, Ryan and Adelyn (Ryan's reading of The Night Before Christmas went over especially well)
+* 25th: Adelyn saying "I'm feeling really good right now!" after opening gifts
+* 26th: Delicious dinner at Sushi Kimo
+* 27th: Great bike ride to Corona del Mar with Kellianne
 
 ### 2013: -++++---+--++ 
 
