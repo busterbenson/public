@@ -45,6 +45,10 @@ On the 1st of every month: Update interests, people, beliefs. Report on the prev
 * 26th: Delicious dinner at Sushi Kimo
 * 27th: Great bike ride to Corona del Mar with Kellianne
 
+*Self-declared badges:*
+* Sold The House Badge
+* Debt Free Badge
+
 ### 2013: -++++---+--++ 
 
 ##### Dec 1st 2013:
