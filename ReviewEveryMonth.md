@@ -1,76 +1,115 @@
-# Hydra File
-*[Learn about Hydra here](https://medium.com/better-humans/c02337782a89).*
+# Review Every Month
+On the 1st of every month: Update interests, people, beliefs. Report on the previous month (my weight, my progress on my resolutions, updated resolutions, quality times, and any other notes).
 
-# My Goals
-
-### 2013 Progress: -++++---+--++
-
-##### End of 2013 : HIT (+) #####
-Come up with a plan for next year's version of Rabbit Rabbit.
-
-##### Dec 2013 : HIT (+)
-I want to continue to track my modes through Lift at least 5 days a week. Write a blog post sometime in the month about finding the signal for quality time.
-
-##### Nov 2013 : MISS (-)
-I want to continue to track my modes through Lift at least 5 days a week. And also, I want to write a blog post sometime in the month about finding a signal for quality time that isn’t so ambiguous.
-
-##### Oct 2013 : MISS (-)
-I want to continue to track my modes through Lift at least 5 days a week, and in addition track whether or not I experience quality time that matches the given mode. For example, quality sleep in recovery mode, meditation in self mode, quality time with someone in people mode, etc. 
-
-##### Sep 2013 : HIT (+)
-I want to take a step back from static goals and instead have mode-specific goals. First step, track my modes for a month (from Live Like a Hydra) to see how they break down.
-
-##### Aug 2013 : MISS (-)
-I want to track at least 5 "quality times" a week. Quality times that count: quality time with Kellianne, Niko, myself, and work. I'm using a new app to track this, that my friend April passed along to me, it's called The Way of Life (iPhone). It's worth checking out.
-
-##### Jul 2013 : MISS (-)
-Meditate at least 5 minutes 5 days a week.
-
-##### Jun 2013 : MISS (-)
-I want to do at least 1 thing a day (no days off) that A) gets me closer to being a marathoner B) I do on purpose for this resolution (no retroactive counting), and C) isn't "normal" for me to do. Meditation, running, other exercise, etc all count. I'm tracking my slogs on peabrain.co which has been working for me for a while now.
-
-##### May 2013 : HIT (+)
-Meditate for at least 5 minutes a day, at least 6 days a week.
-
-##### Apr 2013 : HIT (+)
-Do my morning routine at least 5 days a week: drink a glass of water, choose one item from my memento mori as my day's theme (look look look, love your family, live by example, remember you will die, bring levitas), do a sun salutation, meditate 5 minutes.
-
-##### Mar 2013 : HIT (+)
-At least 5 days a week, do the following immediately upon waking up. 1) drink a glass of water, mentally recite "memento mori" 2) do at least 1 sun salutation while contemplating ways to be proactive in the day. 3) meditate for 5 minutes.
-
-##### Feb 2013 : HIT (+)
-At least 5 days a week, start my day proactively by doing at least one of these 5 things before looking at my phone: drink a glass of water, stretch, do pushups, review my look, look, look haiku deck, hold my breath and meditate as long as I can.
-
-##### Jan 2013 : MISS (-)
-At least 5 days a week, start my day proactively by doing at least one of these 6 things before looking at my phone: drink a glass of water, stretch, do pushups, do lunges, do plank, review my look, look, look haiku deck.
-
-# My Interests
+## Top Interests
 * Raising Niko
-* How do we change ourselves?
 * Doing good work at Twitter
-* Meditation
+* How do we change ourselves?
 * Long bike rides
 * Writing
 * Delicious eating experiences
 * Exploring our city, country, world
-* Comedy
 
-# My People
+## Top People
 * Kellianne
 * Niko
 * Mom
 * Sister
 
-# My Beliefs
+## My Beliefs
 *See my [Beliefs File](Beliefs.md).*
 
-# Chaos Monkey Tricks
+## Monthly Reports
+### 2014: 
 
-##### Separated by travel
-Kellianne and I traveled to Delaware and NYC for Rick's wedding, so quality time with Niko has been limited. They also stayed an extra week while I came back to Berkeley.
+##### Jan 1st 2014:
+*Weight:* 173.2 (+1.6)
 
-##### Sick
-Coughing up gross stuff, bad sleep, dry throat, headaches. Couldn't really get out of bed. Drank lots of water, took lots of naps, tried to lay low for the most part.
+*Outcome of previous goal:* Hit
+
+*New goal:* 
+
+*Quality moments from previous month:* 
+
+### 2013: -++++---+--++ 
+
+##### Dec 1st 2013:
+*Weight:* 171.6 (+0.0)
+
+*Outcome of previous goal:* Hit
+
+*New goal:* Come up with a plan for next year's version of Rabbit Rabbit.
+
+*Quality moments from previous month:* 
+* 7th: Twitter IPO, celebrated with coworkers and Kellianne at Ryan Sarver’s get together at Tradition. I feel grateful for a chance to participate in Twitter’s history.
+* 8th: Dinner with Brasa, Bojee, and Alycka at their house. I can tell we’re going to become friends.
+* 10th: Took the training wheels off Niko’s bike, and discovered that he was able to ride it after only about 15 minutes of practice!
+* 16-17th: Kellianne’s in Seattle so Niko and I had the weekend to ourselves. A first? Took the opportunity to super-bond with the little guy. Fave moments include biking to the Farmer’s Market, having him read The Giving Tree to me, letting him be boss and come up with rules, tossing kettle corn into each others’ mouths while relaxing on the hammock, the Muppets dance party in our living room, and the long uphill bike ride up to College Ave for an ice cream.
+* 21st: Highly enjoyable conversation with Tony Stubblebine at Smuggler’s Cove.
+* 23rd: A fun birthday party for Niko’s friend Alykah, wherein we solidify our friendship with the neighbors down the street.
+* 25th: Good conversation about work with Reeve.
+* 28th: Kellianne hosted an amazing Thanksgiving with Marla, Max, Annaka, Casey, and kids.
+* 30th: Katie visits and amongst other things a beautiful golden hour bike ride at the park.
+
+##### Nov 2013:
+*Weight:* 171.6 (+0.5)
+
+*Outcome of previous goal:* Miss
+
+*New goal:* I want to continue to track my modes through Lift at least 5 days a week. Write a blog post sometime in the month about finding the signal for quality time.
+
+##### Oct 2013:
+*Weight:* 171.1 (+0.9)
+
+*Outcome of previous goal:* Miss
+
+*New goal:* I want to continue to track my modes through Lift at least 5 days a week. And also, I want to write a blog post sometime in the month about finding a signal for quality time that isn’t so ambiguous.
+
+##### Sep 2013:
+*Weight:* 170.2
+
+*Outcome of previous goal:* Hit
+
+*New goal:* I want to continue to track my modes through Lift at least 5 days a week, and in addition track whether or not I experience quality time that matches the given mode. For example, quality sleep in recovery mode, meditation in self mode, quality time with someone in people mode, etc. 
+
+##### Aug 2013:
+*Outcome of previous goal:* Miss
+
+*New goal:* I want to take a step back from static goals and instead have mode-specific goals. First step, track my modes for a month (from Live Like a Hydra) to see how they break down.
+
+##### Jul 2013:
+*Outcome of previous goal:* Miss
+
+*New goal:* I want to track at least 5 "quality times" a week. Quality times that count: quality time with Kellianne, Niko, myself, and work. I'm using a new app to track this, that my friend April passed along to me, it's called The Way of Life (iPhone). It's worth checking out.
+
+##### Jun 2013:
+*Outcome of previous goal:* Miss
+
+*New goal:** Meditate at least 5 minutes 5 days a week.
+
+##### May 2013:
+*Outcome of previous goal:* Hit
+
+*New goal:* I want to do at least 1 thing a day (no days off) that A) gets me closer to being a marathoner B) I do on purpose for this resolution (no retroactive counting), and C) isn't "normal" for me to do. Meditation, running, other exercise, etc all count. I'm tracking my slogs on peabrain.co which has been working for me for a while now.
+
+##### Apr 2013:
+*Outcome of previous goal:* Hit
+
+*New goal:* Meditate for at least 5 minutes a day, at least 6 days a week.
+
+##### Mar 2013:
+*Outcome of previous goal:* Hit
+
+*New goal:* At least 5 days a week, do the following immediately upon waking up. 1) drink a glass of water, mentally recite "memento mori" 2) do at least 1 sun salutation while contemplating ways to be proactive in the day. 3) meditate for 5 minutes.
+
+##### Feb 2013:
+*Outcome of previous goal:* Miss
+
+*New goal:* At least 5 days a week, start my day proactively by doing at least one of these 5 things before looking at my phone: drink a glass of water, stretch, do pushups, review my look, look, look haiku deck, hold my breath and meditate as long as I can.
+
+##### Jan 2013:
+*New goal:* At least 5 days a week, start my day proactively by doing at least one of these 6 things before looking at my phone: drink a glass of water, stretch, do pushups, do lunges, do plank, review my look, look, look haiku deck.
+
 
 ##### Confused about apps
 I got confused about tracking meditation and quality time in my apps. I tried Lift, and another one called The Way of Life (that turned out to be not so great).
