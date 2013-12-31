@@ -5,7 +5,7 @@ On the 1st of every month: Update interests, people, beliefs. Report on the prev
 * Raising Niko
 * Doing good work at Twitter
 * How do we change ourselves?
-* Long bike rides
+* Riding bikes
 * Writing
 * Delicious eating experiences
 * Exploring our city, country, world
