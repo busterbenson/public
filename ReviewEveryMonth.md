@@ -27,7 +27,7 @@ On the 1st of every month: Update interests, people, beliefs. Report on the prev
 
 *Outcome of previous goal:* Hit
 
-*New goal:* 
+*New goal:* Do pushups at least 4 days a week.
 
 *Quality moments from previous month:* 
 * 1st: Went to Scribe with Katie, met up with Mira and Tom
