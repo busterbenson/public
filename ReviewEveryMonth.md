@@ -3,9 +3,9 @@
 
 # My Goals
 
-### 2013 Progress: -++++---+--
+### 2013 Progress: -++++---+--++
 
-#### End of 2013 : HIT (+) ####
+##### End of 2013 : HIT (+) #####
 Come up with a plan for next year's version of Rabbit Rabbit.
 
 ##### Dec 2013 : HIT (+)
