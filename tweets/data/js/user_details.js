@@ -1,11 +1,11 @@
 var user_details =  {
-  "expanded_url" : "http://wayoftheduck.com",
+  "expanded_url" : "http:\/\/busterbenson.com",
   "screen_name" : "buster",
-  "location" : "Newly in SF",
-  "url" : "http://t.co/nEb6UnFCgE",
+  "location" : "Berkeley, CA",
+  "url" : "http:\/\/t.co\/JghZ8d7hCO",
   "full_name" : "Buster",
-  "bio" : "Helping build things at @Twitter, aspiring marathoner. http://t.co/kO4I77Bqss",
+  "bio" : "Helping build things at @Twitter. Soul in the game. Tell me how to tweet here: http:\/\/t.co\/ymBGP7vtOs See results here: http:\/\/t.co\/gLPyw54OlB",
   "id" : "2185",
-  "created_at" : "Tue Jul 18 04:35:07 +0000 2006",
-  "display_url" : "wayoftheduck.com"
+  "created_at" : "2006-07-18 04:35:07 +0000",
+  "display_url" : "busterbenson.com"
 }
