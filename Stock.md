@@ -4,7 +4,7 @@
 > 
 > **Stock is the durable stuff.** It’s the content you produce that’s as interesting in two months (or two years) as it is today. It’s what people discover via search. It’s what spreads slowly but surely, building fans over time.
 > 
-> * -- from [stock and flow](http://snarkmarket.com/2010/4890) by Robin Sloan*
+> -- *from [stock and flow](http://snarkmarket.com/2010/4890) by Robin Sloan*
 
 ## Writing I've done
 
