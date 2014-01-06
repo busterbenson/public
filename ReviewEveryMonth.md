@@ -22,12 +22,22 @@ On the 1st of every month: Update interests, people, beliefs. Report on the prev
 ## Monthly Reports
 ### 2014: 
 
+##### Feb 1st 2014: 
+*Weight:*
+
+*Outcome of previous goal:*
+
+*New goal:*
+
+*Quality moments from previous month:*
+* 3rd-5th: Nursing Kellianne with her healing foot post-surgery. Fun for Niko and I to take care of her and watch her watch all of Doctor Who.
+
 ##### Jan 1st 2014:
 *Weight:* 173.2 (+1.6)
 
 *Outcome of previous goal:* Hit
 
-*New goal:* Do pushups at least 4 days a week. I need to do at least the minimal amount of exercise other than bike riding because I feel like my energy levels are really low. Admittedly, none of my interests have anything to do with pushups... I just choose them because they're the easiest. But there's no internal motivation beyond easiness pushing me forward. Is it possible to enjoy pushups for themselves? If this doesn't work I may need to rely on biking more as my outlet for exercise.
+*New goal:* Do pushups at least 4 days a week, find a baseline for pushups in a month that I can try to beat next month. I need to do at least the minimal amount of exercise other than bike riding because I feel like my energy levels are really low. Admittedly, none of my interests have anything to do with pushups... I just choose them because they're the easiest. But there's no internal motivation beyond easiness pushing me forward. Is it possible to enjoy pushups for themselves? If this doesn't work I may need to rely on biking more as my outlet for exercise.
 
 *Quality moments from previous month:* 
 * 1st: Went to Scribe with Katie, met up with Mira and Tom
