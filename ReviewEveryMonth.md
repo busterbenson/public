@@ -31,6 +31,8 @@ On the 1st of every month: Update interests, people, beliefs. Report on the prev
 
 *Quality moments from previous month:*
 * 3rd-5th: Nursing Kellianne with her healing foot post-surgery. Fun for Niko and I to take care of her and watch her watch all of Doctor Who.
+* 10th: Hack week at work, won. 
+* 12th: Went to Children's Fairyland with Niko, Brasa, Bode, Alykah, Zuri, Spike, Indy, Juniper.
 
 ##### Jan 1st 2014:
 *Weight:* 173.2 (+1.6)
