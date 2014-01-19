@@ -15,6 +15,7 @@
 
 ## Writing that has changed me
 
+* [Navigating Stuckness](http://transom.org/?p=41667) - Jonathan Harris
 * [Antifragile](http://www.amazon.com/Antifragile-Things-That-Gain-Disorder/dp/1400067820/) - Nassim Nicholas Taleb
 * [Thinking Fast and Slow](http://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555) - Daniel Kahneman
 * [Strangers To Ourselves](http://www.amazon.com/Strangers-Ourselves-Discovering-Adaptive-Unconscious/dp/0674013824) - Timothy D. Wilson
