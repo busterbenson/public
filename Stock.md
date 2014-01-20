@@ -18,10 +18,10 @@
 * [Navigating Stuckness](http://transom.org/?p=41667) - Jonathan Harris
 * [Antifragile](http://www.amazon.com/Antifragile-Things-That-Gain-Disorder/dp/1400067820/) - Nassim Nicholas Taleb
 * [Thinking Fast and Slow](http://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555) - Daniel Kahneman
+* [Stock and Flow](http://snarkmarket.com/2010/4890) - Robin Sloan
 * [Strangers To Ourselves](http://www.amazon.com/Strangers-Ourselves-Discovering-Adaptive-Unconscious/dp/0674013824) - Timothy D. Wilson
-* [The Beginning of Infinity](http://www.amazon.com/The-Beginning-Infinity-Explanations-Transform/dp/0143121359) - David Deutsch
+Deutsch
 * [WWIC](http://www.ftrain.com/wwic.html) - Paul Ford
 * [Top of Mind](http://www.paulgraham.com/top.html) - Paul Graham
-* [Stock and Flow](http://snarkmarket.com/2010/4890) - Robin Sloan
 * [Fish](http://www.robinsloan.com/fish/) - Robin Sloan
 
