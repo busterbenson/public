@@ -34,6 +34,7 @@ On the 1st of every month: Update interests, people, beliefs. Report on the prev
 * 10th: Hack week at work, won. 
 * 12th: Went to Children's Fairyland with Niko, Brasa, Bode, Alykah, Zuri, Spike, Indy, Juniper.
 * 18th: Dinner at Anneke and Casey's (first time at their place)
+* 20th: Long bike ride with Niko where he biked up the pedestrian bridge (both ways) without stopping!
 
 ##### Jan 1st 2014:
 *Weight:* 173.2 (+1.6)
