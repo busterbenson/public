@@ -23,11 +23,11 @@ On the 1st of every month: Update interests, people, beliefs. Report on the prev
 ### 2014: 
 
 ##### Feb 1st 2014: 
-*Weight:*
+*Weight:* 172.7 (-0.5)
 
-*Outcome of previous goal:*
+*Outcome of previous goal:* Hit
 
-*New goal:*
+*New goal:* Do more pushups than last month.
 
 *Quality moments from previous month:*
 * 3rd-5th: Nursing Kellianne with her healing foot post-surgery. Fun for Niko and I to take care of her and watch her watch all of Doctor Who.
