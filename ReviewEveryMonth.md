@@ -25,9 +25,9 @@ On the 1st of every month: Update interests, people, beliefs. Report on the prev
 ##### Feb 1st 2014: 
 *Weight:* 172.7 (-0.5)
 
-*Outcome of previous goal:* Hit
+*Outcome of previous goal:* Hit. I'm only counting the first set of the day, as I found I'm more likely to find the time if I only focus on 1 set. Did 192 last month on 20 out of 28 days. I'm also using pushup bars and doing them in as close to perfect form as I can, very slowly. Finding that 10 slow, good posture pushups is pretty tough. On days when I'm not feeling it, I am fine with doing only a couple -- doing them every day (eventually) is more important than doing a whole bunch on a single day. I want to make this a life-long goal, something I do every day even when I'm 80 years old.
 
-*New goal:* Do more pushups than last month.
+*New goal:* Do more than 192 pushups (only count first set) on 20 or more days.
 
 *Quality moments from previous month:*
 * 3rd-5th: Nursing Kellianne with her healing foot post-surgery. Fun for Niko and I to take care of her and watch her watch all of Doctor Who.
@@ -35,6 +35,12 @@ On the 1st of every month: Update interests, people, beliefs. Report on the prev
 * 12th: Went to Children's Fairyland with Niko, Brasa, Bode, Alykah, Zuri, Spike, Indy, Juniper.
 * 18th: Dinner at Anneke and Casey's (first time at their place)
 * 20th: Long bike ride with Niko where he biked up the pedestrian bridge (both ways) without stopping!
+* 23rd: My work project launched: analytics.twitter.com (super smooth launch, team is in high spirits)
+* 23rd: First date night in a long time: Wood Tavern. Funny conversations with the bartender and other guests.
+* 25th: Quality neighbor dinner time with Bode and Brasa while kids watched movies
+* 26th: Went to the steam trains with Niko, went on the trains 3 times!
+* 29th: Quality friend times with Tony Stubblebine and Sarah. They brought dinner to us.
+* 30th: ModelViewCulture launch party, got to celebrate Amelia's new thing
 
 ##### Jan 1st 2014:
 *Weight:* 173.2 (+1.6)
