@@ -22,6 +22,14 @@ On the 1st of every month: Update interests, people, beliefs. Report on the prev
 ## Monthly Reports
 ### 2014: 
 
+##### Apr 1st 2014: 
+*Weight:* 173.3 (-0.8) 
+
+*Outcome of previous goal:* Miss. I did 148 slow pushups in Feb (13 out of 31 days: 42%), but I went from a best of 15 to a best of 18, for a 20% improvement. Totally fell off the wagon (and so far in the first few days of April still off the wagon). Also got sick and didn't get down to 167.1 lbs -- still hovering above 170. Sort of a loser of a month for me all around. Oops!
+
+*New goal:* Do more than 148 slow pushups (only count first set) on 14 or more days. 
+
+
 ##### Mar 1st 2014: 
 *Weight:* 174.1 (+1.6) 
 
