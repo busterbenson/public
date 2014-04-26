@@ -8,6 +8,7 @@
 
 ## Writing I've done
 
+* [How I track my life](https://medium.com/buster-benson/7da6f22b8e2c): Tracking quality of life with Reporter
 * [Live Like a Hydra](https://medium.com/better-humans/c02337782a89): Thoughts on how to get stronger when things are chaotic.
 * [The Death Bed Game](https://medium.com/better-humans/20cc8d9c7494): He/she who dies with the most death bed points, wins.
 * [If You Live 100 Times](https://readtapestry.com/s/RVwPvalHq/): A tappable essay that plays out 100 lives that you could live.
@@ -15,6 +16,7 @@
 
 ## Articles that have changed me
 
+* [The Crossroads of Should and Must](https://medium.com/medium-long/90c75eb7c5b0) - Elle Luna
 * [UX and the Civilizing Process](http://kevinsimler.quora.com/UX-and-the-Civilizing-Process) - Kevin Simler, "The concept of a person is arguably the most important interface ever developed."
 * [Navigating Stuckness](http://transom.org/?p=41667) - Jonathan Harris
 * [Stock and Flow](http://snarkmarket.com/2010/4890) - Robin Sloan
@@ -23,6 +25,7 @@
 * [Fish](http://www.robinsloan.com/fish/) - Robin Sloan
 
 ## Books that have changed me
+
 * [Antifragile](http://www.amazon.com/Antifragile-Things-That-Gain-Disorder/dp/1400067820/) - Nassim Nicholas Taleb
 * [Thinking Fast and Slow](http://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555) - Daniel Kahneman
 * [Strangers To Ourselves](http://www.amazon.com/Strangers-Ourselves-Discovering-Adaptive-Unconscious/dp/0674013824) - Timothy D. Wilson
