@@ -1,5 +1,10 @@
 # My beliefs
 
+## On the purpose of life
+- It's all about increasing quality time (with yourself, with others, and with your interests)
+- The best strategy to increase quality time: reduce the circumstances that hinder quality time, and grow the circumstances that encourage quality time
+- He who dies having experienced the most quality time wins
+
 ## On Morality
 - Being good/moral increasingly becomes our default state as we learn more about the world and are more connected with others
 - Gay marriage should be legal everywhere
@@ -10,6 +15,7 @@
 - Prisons should be about protecting the public, not about punishment
 - Marijuana should be legal to grow, sell, buy, and carry
 - Owning a gun should require certification from a firearms officer verifying that they've taken a safety course, are free of criminal record, and pass a psychological mental health check every few years
+- You don't need to ask permission to take responsibility for something that you find important (but you may not get credit)
 
 ## On Spirituality
 - Frequently remembering we will die increases the quality of our life
@@ -17,7 +23,7 @@
 - The Gods of organized religion don't exist
 - Intention can't create reality (it just primes our perception of it)
 - Astrology is entertainment
-- Magic and miracles don't exist
+- Magic and miracles don't exist outside the explanations of science
 - There is no heaven/hell
 - We don't have a purpose given to us, but we can make one up
 
@@ -27,13 +33,13 @@
 - Micro and macro evolution happens
 - Something like the Big Bang happened, and will probably happen again
 - Something existed before the Big Bang (outside of time and space as we know them)
-- Nothing in our universe will travel faster than light
+- Nothing in our universe can travel faster than light
 - The human brain (in its current state of evolution) can't comprehend the universe
 - We have no cosmic significance
 - Aliens exist
 - Non-carbon-based life forms exist
 - Space travel throughout the universe is probably entirely the domain of robots and cyborgs
-- Perception of time can be sped up or slowed down, but not reversed (forwards time travel is allowed, backwards is not)
+- Perception of time can be sped up or slowed down, but not reversed (forwards time travel is possible, backwards is not)
 
 ## On Health
 - We can change our behavior and habits (it requires a lot of energy)
@@ -53,7 +59,7 @@
 - We tell stories in order to create and remember meaning
 - Consciousness is the result of a feedback loop between our story-making cortex and our subconscious, so that it can better predict/act on long-term threats
 - Privacy is just a side effect of people not being truly connected
-- People, organizations, and governments will exchange privacy for connection when they trust each other
+- People, organizations, and governments will exchange privacy for connection when/if they eventually trust each other
 - Future-thinking people, organizations, and governments will make great strides towards being more trustworthy in order to earn this privilege of connection by 2050
 - Giving up our privacy and individuality in exchange for better connection will be the norm by 2050
 
@@ -65,13 +71,13 @@
 - Something will replace universities as we currently know them by 2030
 
 ## On Politics & The Economy
-- Most jobs lost in 2008-present aren't going to come back, new ones have to be created from scratch (or not)
+- Most jobs lost between 2008-2012 aren't going to come back, new ones have to be created from scratch (or not)
 - In the future, working will be more thoroughly decoupled from having the means to live (see disability trends as proxy for this)
 - We'll have a President that admits to being atheist or agnostic by 2025
 - Power will be more quickly redistributed when it gets too heavy at the top
 
 ## On The Future Of Earth (2100)
-- Global warming is real and will continue to cause big problems
+- Global warming is real and will continue to cause bigger and bigger problems
 - There will be 10 billion people
 - 80% of people will live in cities and new mega-cities by 2100
 - The number of living languages in the world will drop to under 100
