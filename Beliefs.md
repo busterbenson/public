@@ -1,7 +1,8 @@
 # My beliefs
 
 ## On the purpose of life
-- It's all about increasing quality time (with yourself, with others, and with your interests)
+- We don't have a purpose given to us, but we can make one up
+- I believe our meta-purpose is to increase quality time (with myself, with others, and with my interests)
 - The best strategy to increase quality time: reduce the circumstances that hinder quality time, and grow the circumstances that encourage quality time
 - He who dies having experienced the most quality time wins
 
@@ -25,7 +26,6 @@
 - Astrology is entertainment
 - Magic and miracles don't exist outside the explanations of science
 - There is no heaven/hell
-- We don't have a purpose given to us, but we can make one up
 
 ## On Science & The Universe
 - Chances are, we live in a simulation
