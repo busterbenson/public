@@ -22,10 +22,17 @@ On the 1st of every month: Update interests, people, beliefs. Report on the prev
 ## Monthly Reports
 ### 2014: 
 
+##### May 1st 2014: 
+*Weight:* 174.7 (+1.4) 
+
+*Outcome of previous goal:* Miss. I did 129 slow pushups in April (12 out of 30 days: 40%). My 4 month streak of doing fewer pushups each month continues... but this month I did switch it up to do even slower pushups than the month before. Instead of resting at the bottom and top of each pushup, I'm trying to keep a constant slow speed at all times. I learned this in slow weights a few years ago and it makes them much harder while also making it harder to "cheat" by hopping up and down too fast.
+
+*New goal:* Do more than 129 slow pushups (only count first set) on 13 or more days. 
+
 ##### Apr 1st 2014: 
 *Weight:* 173.3 (-0.8) 
 
-*Outcome of previous goal:* Miss. I did 148 slow pushups in Feb (13 out of 31 days: 42%), but I went from a best of 15 to a best of 18, for a 20% improvement. Totally fell off the wagon (and so far in the first few days of April still off the wagon). Also got sick and didn't get down to 167.1 lbs -- still hovering above 170. Sort of a loser of a month for me all around. Oops!
+*Outcome of previous goal:* Miss. I did 148 slow pushups in March (13 out of 31 days: 42%), but I went from a best of 15 to a best of 18, for a 20% improvement. Totally fell off the wagon (and so far in the first few days of April still off the wagon). Also got sick and didn't get down to 167.1 lbs -- still hovering above 170. Sort of a loser of a month for me all around. Oops!
 
 *New goal:* Do more than 148 slow pushups (only count first set) on 14 or more days. 
 
