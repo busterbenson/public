@@ -16,6 +16,7 @@
 
 ## Articles that have changed me
 
+* [Touching the Wild](https://seriouspony.exposure.co/touching-the-wild) - Kathy Sierra
 * [The Crossroads of Should and Must](https://medium.com/medium-long/90c75eb7c5b0) - Elle Luna
 * [UX and the Civilizing Process](http://kevinsimler.quora.com/UX-and-the-Civilizing-Process) - Kevin Simler, "The concept of a person is arguably the most important interface ever developed."
 * [Navigating Stuckness](http://transom.org/?p=41667) - Jonathan Harris
