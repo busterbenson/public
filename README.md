@@ -6,9 +6,8 @@ My public self. AKA my attempt to discover how I view the world and express it a
 Things I'd like to have primed in my brain every morning.
 
 1. Be wholehearted
-2. Love my family
-3. Ride a bike on my 100th birthday
-4. Remember, I will die
+2. Ride a bike on my 100th birthday
+3. Remember, I will die
 
 # Review Every Month 
 Things I'd like to check in on at the beginning of every month.
