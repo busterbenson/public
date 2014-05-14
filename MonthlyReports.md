@@ -1,25 +1,6 @@
-# Review Every Month
-On the 1st of every month: Update interests, people, beliefs. Report on the previous month (my weight, my progress on my resolutions, updated resolutions, quality times, and any other notes).
+# Monthly Reports
+Updates on changes to my weight, daily primes, and goals. Review on the 1st of every month ([README](README.md)) and share each month's update with close friends.
 
-## Top Interests
-* Raising Niko
-* Doing good work at Twitter
-* How do we change ourselves?
-* Riding bikes
-* Writing
-* Delicious eating experiences
-* Exploring our city, country, world
-
-## Top People
-* Kellianne
-* Niko
-* Mom
-* Sister
-
-## My Beliefs
-*See my [Beliefs File](Beliefs.md).*
-
-## Monthly Reports
 ### 2014: 
 
 ##### May 1st 2014: 

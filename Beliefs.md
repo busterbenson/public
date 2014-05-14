@@ -1,4 +1,5 @@
 # My beliefs
+Review every year on my birthday ([README](README.md)).
 
 ## On the purpose of life
 - We don't have a purpose given to us, but we can make one up
