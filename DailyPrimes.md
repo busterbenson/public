@@ -4,9 +4,6 @@ Things I'd like to have primed in my brain every morning. Review on the 1st of e
 ### Be wholehearted
 Remove conditions that hinder wholeheartedness, create conditions that encourage it.
 
-### Love my family
-They are my people.
-
 ### Ride a bike on my 100th birthday
 Eat mostly plants. Exercise regularly. Think decades, not days.
 
