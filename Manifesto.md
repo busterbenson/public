@@ -1,5 +1,5 @@
-# Rules I try to live by
-Review every year on my birthday ([README](README.md)).
+# Manifesto for extraordinary living
+Rules I try to live by. Review every year on my birthday ([README](README.md)).
 
 1. You must not dilly-dally
 2. You must be your word
