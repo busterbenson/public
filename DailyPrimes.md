@@ -1,8 +1,8 @@
 # Daily Primes
 Things I'd like to have primed in my brain every morning. Review on the 1st of every month ([README](README.md)).
 
-### Be wholehearted
-Remove conditions that hinder wholeheartedness, create conditions that encourage it.
+### Resolve internal conflicts
+A path to being internally consistent. 
 
 ### Ride a bike on my 100th birthday
 Eat mostly plants. Exercise regularly. Think decades, not days.
