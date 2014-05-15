@@ -5,7 +5,7 @@ My public self. AKA my attempt to discover how I view the world and express it a
 # Review Every Day
 Things I'd like to have primed in my brain every morning.
 
-1. Be wholehearted
+1. Resolve internal conflicts
 2. Ride a bike on my 100th birthday
 3. Remember, I will die
 
