@@ -48,6 +48,7 @@ Material that I have come back to a lot and which has influenced some of the thi
 
 ### Articles I've read a bunch of times
 
+* [We Aren't the World](http://www.psmag.com/magazines/magazine-feature-story-magazines/joe-henrich-weird-ultimatum-game-shaking-up-psychology-economics-53135/) - Ethan Watters
 * [The Elephants](https://medium.com/health-the-future/182870501589) - Nick Crocker
 * [Touching the Wild](https://seriouspony.exposure.co/touching-the-wild) - Kathy Sierra
 * [The Crossroads of Should and Must](https://medium.com/medium-long/90c75eb7c5b0) - Elle Luna
