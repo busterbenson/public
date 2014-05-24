@@ -33,129 +33,129 @@ Things I've learned and want to remind myself of every year on my birthday (May 
 ## Beliefs
 
 ### On the purpose of life
-- We don't have a purpose given to us, but we are allowed to make one up
-- My meta-purpose is to increase quality time (with myself, with others, and with my interests)
-- The best strategy to increase quality time: weaken the circumstances that hinder quality time, and strengthen the circumstances that encourage quality time
-- He who dies having experienced the most quality time wins
+1. We don't have a purpose given to us, but we are allowed to make one up
+2. My meta-purpose is to increase quality time (with myself, with others, and with my interests)
+3. The best strategy to increase quality time: weaken the circumstances that hinder quality time, and strengthen the circumstances that encourage quality time
+4. He who dies having experienced the most quality time wins
 
 ### On personal conduct
-- I must strive to know what I really believe
-- I must not dilly-dally
-- I must be my word
-- I must have good intentions
-- I must admit to being the maker of my own meaning
-- I must not feel sorry for myself
-- I must have a vision that I'm are striving for
-- I must rally others with my vision
-- I must tie creativity and experimentation with survival
-- I must be the change I want to see
-- I must stake my reputation on my better self
-- I must be comfortable with the consequences of being who I am
-- I must make my own advice and take it
-- I must manage my stress, health, and clarity
-- I must study my mistakes
-- I must retry things I don’t like every once in a while
-- I must go slow, work hard, and avoid shortcuts
-- I must cultivate quality time with myself, with others, and with my interests
-- I must face things that make me uncomfortable
+1. I must strive to know what I really believe
+2. I must not dilly-dally
+3. I must be my word
+4. I must have good intentions
+5. I must admit to being the maker of my own meaning
+6. I must not feel sorry for myself
+7. I must have a vision that I'm are striving for
+8. I must rally others with my vision
+9. I must tie creativity and experimentation with survival
+10. I must be the change I want to see
+11. I must stake my reputation on my better self
+12. I must be comfortable with the consequences of being who I am
+13. I must make my own advice and take it
+14. I must manage my stress, health, and clarity
+15. I must study my mistakes
+16. I must retry things I don’t like every once in a while
+17. I must go slow, work hard, and avoid shortcuts
+18. I must cultivate quality time with myself, with others, and with my interests
+19. I must face things that make me uncomfortable
 
 ### On Morality
-- Being good/moral increasingly becomes our default state as we learn more about the world and are more connected with others
-- Gay marriage should be legal everywhere
-- Abortion should be legal everywhere
-- Assisted suicide should be legal everywhere
-- Health care should be available to everyone who needs it
-- The death penalty should be used in extreme and certain cases to protect the public
-- Prisons should be about protecting the public, not about punishment
-- Marijuana should be legal to grow, sell, buy, and carry
-- Owning a gun should require certification from a firearms officer verifying that they've taken a safety course, are free of criminal record, and pass a psychological mental health check every few years
-- You don't need to ask permission to take responsibility for something that you find important (but you may not get credit)
+1. Being good/moral increasingly becomes our default state as we learn more about the world and are more connected with others
+2. Gay marriage should be legal everywhere
+3. Abortion should be legal everywhere
+4. Assisted suicide should be legal everywhere
+5. Health care should be available to everyone who needs it
+6. The death penalty should be used in extreme and certain cases to protect the public
+7. Prisons should be about protecting the public, not about punishment
+8. Marijuana should be legal to grow, sell, buy, and carry
+9. Owning a gun should require certification from a firearms officer verifying that they've taken a safety course, are free of criminal record, and pass a psychological mental health check every few years
+10. You don't need to ask permission to take responsibility for something that you find important (but you may not get credit)
 
 ### On Spirituality
-- Frequently remembering we will die increases the quality of our life
-- Souls don't exist separate from the physical body
-- The Gods of organized religion don't exist
-- Intention can't create reality (it just primes our perception of it)
-- Astrology is entertainment
-- Magic and miracles don't exist outside the explanations of science
-- There is no heaven/hell
+1. Frequently remembering we will die increases the quality of our life
+2. Souls don't exist separate from the physical body
+3. The Gods of organized religion don't exist
+4. Intention can't create reality (it just primes our perception of it)
+5. Astrology is entertainment
+6. Magic and miracles don't exist outside the explanations of science
+7. There is no heaven/hell
 
 ### On Science & The Universe
-- Chances are, we live in a simulation
-- Other dimensions and universes exist
-- Micro and macro evolution happens
-- Something like the Big Bang happened, and will probably happen again
-- Something existed before the Big Bang (outside of time and space as we know them)
-- Nothing in our universe can travel faster than light
-- The human brain (in its current state of evolution) can't comprehend the universe
-- We have no cosmic significance
-- Aliens exist
-- Non-carbon-based life forms exist
-- Space travel throughout the universe is probably entirely the domain of robots and cyborgs
-- Perception of time can be sped up or slowed down, but not reversed (forwards time travel is possible, backwards is not)
+1. Chances are, we live in a simulation
+2. Other dimensions and universes exist
+3. Micro and macro evolution happens
+4. Something like the Big Bang happened, and will probably happen again
+5. Something existed before the Big Bang (outside of time and space as we know them)
+6. Nothing in our universe can travel faster than light
+7. The human brain (in its current state of evolution) can't comprehend the universe
+8. We have no cosmic significance
+9. Aliens exist
+10. Non-carbon-based life forms exist
+11. Space travel throughout the universe is probably entirely the domain of robots and cyborgs
+12. Perception of time can be sped up or slowed down, but not reversed (forwards time travel is possible, backwards is not)
 
 ### On Health
-- We can change our behavior and habits (it requires a lot of energy)
-- Consistently eating well and exercising is the only way to be sustainably healthy
-- Acupuncture works, somehow
-- Vaccinations are good for babies and society
+1. We can change our behavior and habits (it requires a lot of energy)
+2. Consistently eating well and exercising is the only way to be sustainably healthy
+3. Acupuncture works, somehow
+4. Vaccinations are good for babies and society
 
 ### On Technology
-- Computers will be building better computers than humans by 2050 (the Singularity)
-- Humans, computers, and Earth will evolve into a super organism by 2200 (if we're still around)
-- Humans that embrace change (and give up some of their humanity) will survive the Singularity
-- Technology will eventually disrupt all other human-created institutions (politics, religion, identity, economics)
+1. Computers will be building better computers than humans by 2050 (the Singularity)
+2. Humans, computers, and Earth will evolve into a super organism by 2200 (if we're still around)
+3. Humans that embrace change (and give up some of their humanity) will survive the Singularity
+4. Technology will eventually disrupt all other human-created institutions (politics, religion, identity, economics)
 
 ### On The Self
-- Free will is mostly an illusion (but does exist in limited form)
-- Pure altruism is an illusion (but kindness is not)
-- We tell stories in order to create and remember meaning
-- Consciousness is the result of a feedback loop between our story-making cortex and our subconscious, so that it can better predict/act on long-term threats
-- Privacy is just a side effect of people not being truly connected
-- People, organizations, and governments will exchange privacy for connection when/if they eventually trust each other
-- Future-thinking people, organizations, and governments will make great strides towards being more trustworthy in order to earn this privilege of connection by 2050
-- Giving up our privacy and individuality in exchange for better connection will be the norm by 2050
+1. Free will is mostly an illusion (but does exist in limited form)
+2. Pure altruism is an illusion (but kindness is not)
+3. We tell stories in order to create and remember meaning
+4. Consciousness is the result of a feedback loop between our story-making cortex and our subconscious, so that it can better predict/act on long-term threats
+5. Privacy is just a side effect of people not being truly connected
+6. People, organizations, and governments will exchange privacy for connection when/if they eventually trust each other
+7. Future-thinking people, organizations, and governments will make great strides towards being more trustworthy in order to earn this privilege of connection by 2050
+8. Giving up our privacy and individuality in exchange for better connection will be the norm by 2050
 
 ### On Logic
-- Most questions have no answer (asking them anyway is sometimes entertaining, but nothing else) 
-- Logic is a helpful tool, but has flaws and can't be relied on entirely
+1. Most questions have no answer (asking them anyway is sometimes entertaining, but nothing else) 
+2. Logic is a helpful tool, but has flaws and can't be relied on entirely
 
 ### On Education
-- Something will replace universities as we currently know them by 2030
+1. Something will replace universities as we currently know them by 2030
 
 ### On Politics & The Economy
-- Most jobs lost between 2008-2012 aren't going to come back, new ones have to be created from scratch (or not)
-- In the future, working will be more thoroughly decoupled from having the means to live (see disability trends as proxy for this)
-- We'll have a President that admits to being atheist or agnostic by 2025
-- Power will be more quickly redistributed when it gets too heavy at the top
+1. Most jobs lost between 2008-2012 aren't going to come back, new ones have to be created from scratch (or not)
+2. In the future, working will be more thoroughly decoupled from having the means to live (see disability trends as proxy for this)
+3. We'll have a President that admits to being atheist or agnostic by 2025
+4. Power will be more quickly redistributed when it gets too heavy at the top
 
 ### On The Future Of Earth (2100)
-- Global warming is real and will continue to cause bigger and bigger problems
-- There will be 10 billion people
-- 80% of people will live in cities and new mega-cities by 2100
-- The number of living languages in the world will drop to under 100
-- Genetically modified foods will become the norm
-- Coral reefs and the ocean ecosystems are going to break with unknown consequences
-- Solar and wind will slowly replace gas and oil 
+1. Global warming is real and will continue to cause bigger and bigger problems
+2. There will be 10 billion people
+3. 80% of people will live in cities and new mega-cities by 2100
+4. The number of living languages in the world will drop to under 100
+5. Genetically modified foods will become the norm
+6. Coral reefs and the ocean ecosystems are going to break with unknown consequences
+7. Solar and wind will slowly replace gas and oil 
 
 ### On Biases
-- We tend to favor the beautiful
-- We tend to see what we expect to see
-- We tend to attribute too much credit to success (and under-credit luck)
+1. We tend to favor the beautiful
+2. We tend to see what we expect to see
+3. We tend to attribute too much credit to success (and under-credit luck)
 
 ### On Love
-- Soulmates exist
-- Love at first sight happens
+1. Soulmates exist
+2. Love at first sight happens
 
 ### Meta
-- We have very little control over what we believe in
-- Some of my beliefs will be proven wrong
-- I'm willing to be convinced that my beliefs are wrong
-- Making and maintaining this list is useful and fun (you should do it too)
+1. We have very little control over what we believe in
+2. Some of my beliefs will be proven wrong
+3. I'm willing to be convinced that my beliefs are wrong
+4. Making and maintaining this list is useful and fun (you should do it too)
 
 ### Wagers
-- With Carinna. By 2028, the equivalent of a college education (both in breadth of knowledge and value to career) will be available to anyone with an internet connection.
-- With Rick Webb. By March 1st, 2016, descendants of Google Glass will be seen regularly in the wild (in the same way that Fitbits, NikeFuel bands, and retina MacBook Pros are in 2013).
+1. With Carinna. By 2028, the equivalent of a college education (both in breadth of knowledge and value to career) will be available to anyone with an internet connection.
+2. With Rick Webb. By March 1st, 2016, descendants of Google Glass will be seen regularly in the wild (in the same way that Fitbits, NikeFuel bands, and retina MacBook Pros are in 2013).
 
 
 ## Personal Canon
