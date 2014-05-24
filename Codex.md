@@ -16,19 +16,19 @@ Things I'd like to have primed in my brain every morning.
 ## Review Every Month 
 Things I'd like to check in on at the beginning of every month.
 
-1. Review/edit my list to Review Every Day
-2. Review/edit the Lexicon
+1. Review items in the list to Review Every Day
+2. Review the Lexicon
 3. Write a new Monthly Report and share
 
 ## Review Every Year
 Things I've learned and want to remind myself of every year on my birthday (May 28).
 
-1. Review/edit my list to Review Every Month
-2. Review/edit my Beliefs File
-3. Review/edit my Personal Canon
-4. Review/edit my Lexicon
+1. Review items in the list to Review Every Month
+2. Review my Beliefs File
+3. Review my Personal Canon
+4. Review my Lexicon
 5. Write a new Yearly Review and share
-6. Review/edit this list to Review Every Year
+6. Review items in the list to Review Every Year
 
 ## Lexicon
 This is an list of ideas that have gotten hopelessly stuck in my brain. 
