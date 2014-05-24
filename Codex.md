@@ -1,6 +1,8 @@
-# How to play 
+# Codex Vitae
 
-1. **Every day:** When you wake up, scroll down to Review Every Day
+## How to play
+
+1. **Every day:** In the morning, scroll down to Review Every Day
 2. **Every month:** On the 1st of every month, scroll down to Review Every Month
 3. **Every year:** On your birthday, scroll down to Review Every Year
 
@@ -25,33 +27,46 @@ Things I've learned and want to remind myself of every year on my birthday (May 
 2. Review/edit my Beliefs File
 3. Review/edit my Personal Canon
 4. Review/edit my Lexicon
-5. Write a new Yearly Review
+5. Write a new Yearly Review and share
 6. Review/edit this list to Review Every Year
 
 ## Lexicon
+This is an list of ideas that have gotten hopelessly stuck in my brain. 
 
 ### Codex Vitae
-* This document's purpose was inspired by Robin Sloan's book, *Mr Penumbra's 24-Hour Bookstore*. I wrote up some notes on [Way of the Duck](http://wayoftheduck.com/codex-vitae).
-* Quote from the book: "And this is the other treasure. Following in the Founder’s footsteps, every member of this fellowship produces his or her own codex vitae, or book of life. It is the task of the unbound. Fedorov, for example, who you know"—he nods to me—"is one of these. When he is finished, he will have poured everything he has learned, all his knowledge, into a book like these."
-* Related to the [Beliefs File](Beliefs.md) and the great essay from Elle Luna, [The Crossroads of Should and Must](https://medium.com/medium-long/90c75eb7c5b0).
+
+The idea is simple: write a book that, to the best of its ability, contains the most concise yet accurate essence of the things that I learned about myself and the universe during my life. When the essence of a thing can't be captured, resort to sign posts, bread crumbs, whatever is the closest hint or clue about the thing that I *could* capture. I have pretty much lifted this idea wholesale from Robin Sloan's book, *Mr Penumbra's 24-Hour Bookstore*. A quote from the book: "And this is the other treasure. Following in the Founder’s footsteps, every member of this fellowship produces his or her own codex vitae, or book of life. It is the task of the unbound. Fedorov, for example, who you know"—he nods to me—"is one of these. When he is finished, he will have poured everything he has learned, all his knowledge, into a book like these." I wrote up some notes on [Way of the Duck](http://wayoftheduck.com/codex-vitae) shortly after reading the book, and I haven't really been able to stop thinking about it since. Hence this entire codex itself.
+
+In order to write a codex vitae, I'd have to first learn things about myself and the universe. In this way, a prerequisite for even getting started is that I spend some quality time in my own head and eventually "[find my must](https://medium.com/medium-long/90c75eb7c5b0)" as Elle Luna would say.
+
+If the Singularity ever happens and the technology to download our brains ever comes about, you could say that the riddle of the codex vitae will have been solved. Until then, silly projects like <a href="http://wayoftheduck.com/diy-horse-ebooks">@buster_ebooks</a> will sprout up, and I'll keep working on this somewhat more primitive attempt.
 
 ### Umwelt
-* Here's the [Wikipedia article](http://en.wikipedia.org/wiki/Umwelt) on this really fascinating idea.
-* The [XKCD comic about it](http://xkcd.com/1037/), and an [explanation](http://www.explainxkcd.com/wiki/index.php/1037:_Umwelt).
-* My original write-up about it on [Way of the Duck](http://wayoftheduck.com/know-thy-umwelt).
-* Related to this idea: mental models, systems thinking (from [The Fifth Discipline](http://www.amazon.com/The-Fifth-Discipline-Practice-Organization/dp/0553456342))
-* Related to this great post, [UX and the Civilizing Process](http://kevinsimler.quora.com/UX-and-the-Civilizing-Process) by Kevin Simler, specifically the quote, "The concept of a person is arguably the most important interface ever developed."
+
+They say that the brain is the only thing to ever name itself. Emily Dickenson also says, "The Brain — is wider than the Sky — For — put them side by side — The one the other will contain With ease — and You — beside." The simplest way for me to describe what "umwelt" means to me: it is the representation of the universe in our brain. The mental model of not only the universe, but the self, and of even the concept of an umwelt itself. As humans, we are fully contained in our umwelt, and we can't think outside the umwelt.
+
+It's a super fascinating idea once you dive into it a bit. A couple links: [Wikipedia](http://en.wikipedia.org/wiki/Umwelt), the [XKCD comic about it](http://xkcd.com/1037/) (with [explanation](http://www.explainxkcd.com/wiki/index.php/1037:_Umwelt)), my [original blog post](http://wayoftheduck.com/know-thy-umwelt) about it, and this great post, [UX and the Civilizing Process](http://kevinsimler.quora.com/UX-and-the-Civilizing-Process) by Kevin Simler, specifically the quote, "The concept of a person is arguably the most important interface ever developed."
+
+Mental models are explored in pretty good depth in a couple books I've read: [The Fifth Discipline](http://www.amazon.com/The-Fifth-Discipline-Practice-Organization/dp/0553456342), [Creativity, Inc](http://www.amazon.com/Creativity-Inc-Overcoming-Unseen-Inspiration/dp/0804127441), and [Thinking Fast and Slow](http://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555).
+
+Emily Dickenson is actually a bit misleading in her poem. The actual universe is made up of not only the sea, but also all of our ideas of the sea, our mental models of the sea, and our mental models of the universe. But the quirks involved in how we *seem* to fit the universe in our heads is the trail head for a ton of super interesting ideas: mental models, systems thinking, concept of the self, the manufactured normalcy field, priming, and pattern matching. 
 
 ### Quality Time
+
+**Notes:**
 * I'm circling around the idea in several posts: [How I track my life](https://medium.com/buster-benson/7da6f22b8e2c), [Live like a hydra](https://medium.com/better-humans/c02337782a89), [Make better resolutions](https://medium.com/buster-benson/69cda443d387), [Experimenting with subjectivity](http://wayoftheduck.com/subjectivity), [If you lived 100 times](https://readtapestry.com/s/RVwPvalHq/).
 * 3 kinds: quality time with your self, with your people, and with your interests
 
 ### Antifragility
+
+**Notes:**
 * Basically a combination of several great ideas: optionality, feedback loops, and natural selection.
 * Explored in great clarity and depth in [Antifragile](http://www.amazon.com/Antifragile-Things-That-Gain-Disorder/dp/1400067820/).
 * I wrote about several of the ideas in [Live like a hydra](https://medium.com/better-humans/c02337782a89).
 
 ### Kiloslog
+
+**Notes:**
 * My original thoughts posted on [Way of the Duck](https://medium.com/better-humans/52167e196771).
 * It's the flip side of the Quality Time coin. Before you can be in the flow, you need to dig the trenches... that's the slog. 
 * Related to belief-change, identity-change, and circumstance-change.
