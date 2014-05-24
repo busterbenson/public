@@ -41,6 +41,26 @@ In order to write a codex vitae, I'd have to first learn things about myself and
 
 If the Singularity ever happens and the technology to download our brains ever comes about, you could say that the riddle of the codex vitae will have been solved. Until then, silly projects like <a href="http://wayoftheduck.com/diy-horse-ebooks">@buster_ebooks</a> will sprout up, and I'll keep working on this somewhat more primitive attempt.
 
+### Quality Time
+
+**Notes:**
+* I'm circling around the idea in several posts: [How I track my life](https://medium.com/buster-benson/7da6f22b8e2c), [Live like a hydra](https://medium.com/better-humans/c02337782a89), [Make better resolutions](https://medium.com/buster-benson/69cda443d387), [Experimenting with subjectivity](http://wayoftheduck.com/subjectivity), [If you lived 100 times](https://readtapestry.com/s/RVwPvalHq/).
+* 3 kinds: quality time with your self, with your people, and with your interests
+
+### Kiloslog
+
+**Notes:**
+* My original thoughts posted on [Way of the Duck](https://medium.com/better-humans/52167e196771).
+* It's the flip side of the Quality Time coin. Before you can be in the flow, you need to dig the trenches... that's the slog. 
+* Related to belief-change, identity-change, and circumstance-change.
+
+### Antifragility
+
+**Notes:**
+* Basically a combination of several great ideas: optionality, feedback loops, and natural selection.
+* Explored in great clarity and depth in [Antifragile](http://www.amazon.com/Antifragile-Things-That-Gain-Disorder/dp/1400067820/).
+* I wrote about several of the ideas in [Live like a hydra](https://medium.com/better-humans/c02337782a89).
+
 ### Umwelt
 
 They say that the brain is the only thing to ever name itself. Emily Dickenson also says, "The Brain — is wider than the Sky — For — put them side by side — The one the other will contain With ease — and You — beside." The simplest way for me to describe what "umwelt" means to me: it is the representation of the universe in our brain. The mental model of not only the universe, but the self, and of even the concept of an umwelt itself. As humans, we are fully contained in our umwelt, and we can't think outside the umwelt.
@@ -50,26 +70,6 @@ It's a super fascinating idea once you dive into it a bit. A couple links: [Wiki
 Mental models are explored in pretty good depth in a couple books I've read: [The Fifth Discipline](http://www.amazon.com/The-Fifth-Discipline-Practice-Organization/dp/0553456342), [Creativity, Inc](http://www.amazon.com/Creativity-Inc-Overcoming-Unseen-Inspiration/dp/0804127441), and [Thinking Fast and Slow](http://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555).
 
 Emily Dickenson is actually a bit misleading in her poem. The actual universe is made up of not only the sea, but also all of our ideas of the sea, our mental models of the sea, and our mental models of the universe. But the quirks involved in how we *seem* to fit the universe in our heads is the trail head for a ton of super interesting ideas: mental models, systems thinking, concept of the self, the manufactured normalcy field, priming, and pattern matching. 
-
-### Quality Time
-
-**Notes:**
-* I'm circling around the idea in several posts: [How I track my life](https://medium.com/buster-benson/7da6f22b8e2c), [Live like a hydra](https://medium.com/better-humans/c02337782a89), [Make better resolutions](https://medium.com/buster-benson/69cda443d387), [Experimenting with subjectivity](http://wayoftheduck.com/subjectivity), [If you lived 100 times](https://readtapestry.com/s/RVwPvalHq/).
-* 3 kinds: quality time with your self, with your people, and with your interests
-
-### Antifragility
-
-**Notes:**
-* Basically a combination of several great ideas: optionality, feedback loops, and natural selection.
-* Explored in great clarity and depth in [Antifragile](http://www.amazon.com/Antifragile-Things-That-Gain-Disorder/dp/1400067820/).
-* I wrote about several of the ideas in [Live like a hydra](https://medium.com/better-humans/c02337782a89).
-
-### Kiloslog
-
-**Notes:**
-* My original thoughts posted on [Way of the Duck](https://medium.com/better-humans/52167e196771).
-* It's the flip side of the Quality Time coin. Before you can be in the flow, you need to dig the trenches... that's the slog. 
-* Related to belief-change, identity-change, and circumstance-change.
 
 
 ## Beliefs
