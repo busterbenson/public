@@ -2,10 +2,31 @@
 Review every year on my birthday ([README](README.md)).
 
 ## On the purpose of life
-- We don't have a purpose given to us, but we can make one up
-- I believe our meta-purpose is to increase quality time (with myself, with others, and with my interests)
-- The best strategy to increase quality time: reduce the circumstances that hinder quality time, and grow the circumstances that encourage quality time
+- We don't have a purpose given to us, but we are allowed to make one up
+- My meta-purpose is to increase quality time (with myself, with others, and with my interests)
+- The best strategy to increase quality time: weaken the circumstances that hinder quality time, and strengthen the circumstances that encourage quality time
 - He who dies having experienced the most quality time wins
+
+## On personal conduct
+- I must strive to know what I really believe
+- I must not dilly-dally
+- I must be my word
+- I must have good intentions
+- I must admit to being the maker of my own meaning
+- I must not feel sorry for myself
+- I must have a vision that I'm are striving for
+- I must rally others with my vision
+- I must tie creativity and experimentation with survival
+- I must be the change I want to see
+- I must stake my reputation on my better self
+- I must be comfortable with the consequences of being who I am
+- I must make my own advice and take it
+- I must manage my stress, health, and clarity
+- I must study my mistakes
+- I must retry things I don’t like every once in a while
+- I must go slow, work hard, and avoid shortcuts
+- I must cultivate quality time with myself, with others, and with my interests
+- I must face things that make me uncomfortable
 
 ## On Morality
 - Being good/moral increasingly becomes our default state as we learn more about the world and are more connected with others

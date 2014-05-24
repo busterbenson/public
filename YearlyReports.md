@@ -1,4 +1,4 @@
-# Birthday Mottos
+# Yearly reports
 Review every year on my birthday ([README](README.md)).
 
 37: [More kiloslogs](http://wayoftheduck.com/37) (2013)
