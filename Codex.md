@@ -18,15 +18,17 @@ Things I'd like to check in on at the beginning of every month.
 
 1. Review items in the list to Review Every Day
 2. Review the Lexicon
-3. Write a new Monthly Report and share
+3. Review my Beliefs
+4. Review my Personal Canon
+4. Write a new Monthly Report and share
 
 ## Review Every Year
 Things I've learned and want to remind myself of every year on my birthday (May 28).
 
 1. Review items in the list to Review Every Month
-2. Review my Beliefs File
-3. Review my Personal Canon
-4. Review my Lexicon
+2. Review my Lexicon
+3. Review my Beliefs
+4. Review my Personal Canon
 5. Write a new Yearly Review and share
 6. Review items in the list to Review Every Year
 
