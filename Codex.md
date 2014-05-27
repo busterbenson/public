@@ -29,8 +29,9 @@ Things I've learned and want to remind myself of every year on my birthday (May 
 2. Review my Lexicon
 3. Review my Beliefs
 4. Review my Personal Canon
-5. Write a new Yearly Review and share
-6. Review items in the list to Review Every Year
+5. Review my Monthly Reports from the year
+6. Write a new Yearly Review and share
+7. Review items in the list to Review Every Year
 
 ## Lexicon
 This is an list of ideas that have gotten hopelessly stuck in my brain. 
