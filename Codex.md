@@ -7,69 +7,76 @@
 3. **Every year:** On your birthday, scroll down to Review Every Year
 
 ## Review Every Day
-Things I'd like to have primed in my brain every morning.
+Things I’d like to have primed in my brain every morning. This is stuff currently churning in the front of my brain, which probably has high turnover but which also has a good chance of getting somewhere new.
 
-1. **Look at what's uncomfortable:** Don't avoid the unresolved, unwanted, conflicted things that would benefit from attention. 
-2. **Slog towards riding a bike on my 100th birthday:** Eat mostly plants. Exercise regularly. Think decades, not days.
-3. **Seek quality time:** With myself, with other people, and with my interests.
+1. **Seek quality time:** With myself, with other people, and with my interests.
+2. **Look at what's uncomfortable:** Don't avoid the unresolved, unwanted, conflicted things that would benefit from attention. 
+3. **Slog towards riding a bike on my 100th birthday:** Eat mostly plants. Exercise regularly. Think decades, not days.
+4. Review/update this list
 
 ## Review Every Month 
-Things I'd like to check in on at the beginning of every month.
+Things I’d like to check in on the 1st of every month.
 
-1. Review items in the list to Review Every Day
-2. Review the Lexicon
-3. Write a new Monthly Report and share
+1. Review the Lexicon
+2. Review the Beliefs
+3. Review the Personal Canon
+4. Write a new Monthly Report and share
+5. Review/update this list
 
 ## Review Every Year
 Things I've learned and want to remind myself of every year on my birthday (May 28).
 
-1. Review items in the list to Review Every Month
-2. Review my Beliefs File
-3. Review my Personal Canon
-4. Review my Lexicon
-5. Write a new Yearly Review and share
-6. Review items in the list to Review Every Year
+1. Review my Monthly Reports from the year
+2. Review my Yearly Reports
+4. Write a new Yearly Review and share
+5. Review/update this list
 
 ## Lexicon
 This is an list of ideas that have gotten hopelessly stuck in my brain. 
 
 ### Codex Vitae
 
-The idea is simple: write a book that, to the best of its ability, contains the most concise yet accurate essence of the things that I learned about myself and the universe during my life. When the essence of a thing can't be captured, resort to sign posts, bread crumbs, whatever is the closest hint or clue about the thing that I *could* capture. I have pretty much lifted this idea wholesale from Robin Sloan's book, *Mr Penumbra's 24-Hour Bookstore*. A quote from the book: "And this is the other treasure. Following in the Founder’s footsteps, every member of this fellowship produces his or her own codex vitae, or book of life. It is the task of the unbound. Fedorov, for example, who you know"—he nods to me—"is one of these. When he is finished, he will have poured everything he has learned, all his knowledge, into a book like these." I wrote up some notes on [Way of the Duck](http://wayoftheduck.com/codex-vitae) shortly after reading the book, and I haven't really been able to stop thinking about it since. Hence this entire codex itself.
-
-In order to write a codex vitae, I'd have to first learn things about myself and the universe. In this way, a prerequisite for even getting started is that I spend some quality time in my own head and eventually "[find my must](https://medium.com/medium-long/90c75eb7c5b0)" as Elle Luna would say.
-
-If the Singularity ever happens and the technology to download our brains ever comes about, you could say that the riddle of the codex vitae will have been solved. Until then, silly projects like <a href="http://wayoftheduck.com/diy-horse-ebooks">@buster_ebooks</a> will sprout up, and I'll keep working on this somewhat more primitive attempt.
+This is an idea coined by Robin Sloan in his book [Mr Penumbra's 24-Hour Bookstore](http://www.amazon.com/Mr-Penumbras-24-Hour-Bookstore-Novel/dp/1250037751). The idea is that you write a book, the Codex Vitae or Book of Life, that represents everything you have learned in your life. And it gets stored and read by a privileged few upon your death. Expanding a bit further on it, I think this is a great way of thinking about self-expression. Our lives are filled with a desire to know the universe, and to be known. To leave a dent. This is just my English-major-y way of representing the dent in the form of a text, because words are so cool. Maybe one day we'll be able to download our brains into a computer and that would more directly represent our full body of knowledge from life.
 
 ### Quality Time
 
-**Notes:**
-* I'm circling around the idea in several posts: [How I track my life](https://medium.com/buster-benson/7da6f22b8e2c), [Live like a hydra](https://medium.com/better-humans/c02337782a89), [Make better resolutions](https://medium.com/buster-benson/69cda443d387), [Experimenting with subjectivity](http://wayoftheduck.com/subjectivity), [If you lived 100 times](https://readtapestry.com/s/RVwPvalHq/).
-* 3 kinds: quality time with your self, with your people, and with your interests
+My own Codex Vitae's first chapter could possibly be about quality time and its role as the primary ends (and means) for a fulfilled life. I see 3 kinds of quality time that we should seek out. The first is quality time with our own selves. Know thyself, and in the process find our deep interests and find people that we can connect deeply with. The second is quality time with those interests, and the third is quality time with those people we can connect deeply with. They each feed into each other, you can't really connect deeply with others until you know yourself sufficiently well. And often times interests are strengthened by having people you can connect with and share with. It seems pretty ungameable to me. Seek quality time with yourself, your interests, and others and you will not regret anything on your death bed (see [The Death Bed Game](https://medium.com/better-humans/20cc8d9c7494) for more thoughts around that).
 
 ### Kiloslog
 
-**Notes:**
-* My original thoughts posted on [Way of the Duck](https://medium.com/better-humans/52167e196771).
-* It's the flip side of the Quality Time coin. Before you can be in the flow, you need to dig the trenches... that's the slog. 
-* Related to belief-change, identity-change, and circumstance-change.
+My 37th year started off on an exploration of the kiloslog, which is my made-up word representing the idea of working slowly towards a distant goal (see [1 Metric Kiloslog](https://medium.com/better-humans/52167e196771) for a full explanation). I set the goal to do 1,000 small things that would get me closer to running a marathon. I've been thinking about this all year and ended up finally going on a couple 5+ mile runs in the last few weeks after spending almost an entire year working on knee issues. I actually felt quite victorious even with this small goal since the frustration of this particular knee issue has felt extremely frustrating in its lack of progress despite PT, stretching, and lots of patience. I'm still not entirely sure that I'll be able to fully recover without giving in to knee surgery, but since it's gotten a bit better recently I'm holding out hope. That said, I also have a referral for a good local orthopedic surgeon to take a look the second I lose hope. I did stop using technology to track my progress around 900/1000, because I found that the work of tracking was as difficult as the work itself. A common theme in my frustrations with quantified self and self-tracking in general.
 
-### Antifragility
+In addition to working on the kiloslog towards running a marathon, I've also started fixating on an even longer-term health vision: to ride a bike on my 100th birthday. I like thinking about this for a couple reasons:
 
-**Notes:**
-* Basically a combination of several great ideas: optionality, feedback loops, and natural selection.
-* Explored in great clarity and depth in [Antifragile](http://www.amazon.com/Antifragile-Things-That-Gain-Disorder/dp/1400067820/).
-* I wrote about several of the ideas in [Live like a hydra](https://medium.com/better-humans/c02337782a89).
+1. **It's a silly visualization.** I can actually sort of picture myself, aged 100, getting on a bike and wobbling down the street. Perhaps a crowd is cheering me on. Perhaps we live in a cloud city and we're all cyborgs. The daydream is ripe with material to play around with.
+2. **It's gives my progress towards health a purpose.** The intrinsic motivation that this taps into is part of my core quality of life motivation. I want to enjoy a long, healthy life, for the purposes of enjoying it all the way through to a simple activity on my 100th birthday.
+3. **It's flexible in the short-term but encourages long-term consistency.** I don't have to sweat the small things that aren't going to make a long-term impact, simply because they are part of some program that's supposed to have a short term impact.
 
-### Umwelt
+This single, silly, vivid health vision informs my eating habits, my exercise routine (for the kiloslog and other stuff), my stress levels, my creativity, and my social habits. It's a single ribbon that ties it all together, paces me, keeps and makes me happy to think about.
 
-They say that the brain is the only thing to ever name itself. Emily Dickenson also says, "The Brain — is wider than the Sky — For — put them side by side — The one the other will contain With ease — and You — beside." The simplest way for me to describe what "umwelt" means to me: it is the representation of the universe in our brain. The mental model of not only the universe, but the self, and of even the concept of an umwelt itself. As humans, we are fully contained in our umwelt, and we can't think outside the umwelt.
+### Optionality
 
-It's a super fascinating idea once you dive into it a bit. A couple links: [Wikipedia](http://en.wikipedia.org/wiki/Umwelt), the [XKCD comic about it](http://xkcd.com/1037/) (with [explanation](http://www.explainxkcd.com/wiki/index.php/1037:_Umwelt)), my [original blog post](http://wayoftheduck.com/know-thy-umwelt) about it, and this great post, [UX and the Civilizing Process](http://kevinsimler.quora.com/UX-and-the-Civilizing-Process) by Kevin Simler, specifically the quote, "The concept of a person is arguably the most important interface ever developed."
+Or, as Nassim Nicolas Taleb calls it: [antifragility](http://www.amazon.com/Antifragile-Things-That-Gain-Disorder/dp/1400067820/). I like the word optionality because it seems more neutral, almost boring even, and yet it is probably one of the most simple and powerful ideas that I've ever encountered. The easiest way to describe it is the degree to which your eggs are in different baskets. The more baskets, and the more eggs, and the more evenly distributed those eggs are in those baskets, the higher the optionality. The beauty of optionality is that it has both protective and self-strengthening qualities. Say that you have 12 eggs in 1 basket. If something happens to that basket, all of your eggs are doomed (low optionality). On the other hand, say that you have 12 eggs in 6 baskets (2 in each). If something happens to one of the baskets, you still have 10 eggs (higher optionality). Now imagine that you have 12 eggs in 12 baskets, and every time one of the baskets is destroyed, one of the other eggs hatches and creates 2 new eggs and you get 2 new baskets. Now, say that all of the eggs are different colors, and that there is some connection between their color and their likelihood of being destroyed. Over time, as the colors that have colors that tend to be destroyed... get destroyed... and the other eggs multiple, the collection of eggs will become less likely to be destroyed. The set of eggs will become stronger over time. This is how high optionality works. The final twist is that in order for this to really work, it has to have some level of randomness involved... because what if whatever is destroying the eggs also learns over time and begins to prefer new colors of eggs... there needs to be enough variation in the colors that *some* eggs will always survive... and that those eggs will grow in population relative to their strength. Optionality is the key to natural selection and evolution. It's also the key to idea generation, investment strategy, product management, and many other things. Qualities of high optionality things include: 
 
-Mental models are explored in pretty good depth in a couple books I've read: [The Fifth Discipline](http://www.amazon.com/The-Fifth-Discipline-Practice-Organization/dp/0553456342), [Creativity, Inc](http://www.amazon.com/Creativity-Inc-Overcoming-Unseen-Inspiration/dp/0804127441), and [Thinking Fast and Slow](http://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555).
+1. A variety of options that aren't connected to one another. For example, if you have 3 green eggs in 3 baskets and a green-egg eating monster comes, you're going to lose all of your eggs even though they were in different baskets. Same if you own 3 different houses that are all on the same block and it gets hit by a flood, or 3 different emerging tech stocks when the equity markets dry up. True variety would imply that a disaster of any kind won't take out all of your options... at least 1 must survive. Another word to describe this is that the options must be diversified.
+2. There should be relatively quick feedback loops. The period of time between "something bad happens" and "the population shifts to favor the stronger options" should be short. If 10 bad things happen before the population adapts, the optionality is lower than if it only takes 1 or 2 bad things to adapt.  
+3. The adaptations must have some element of randomness. In other words, variety must not lower over time, even if the environment becomes predictable. Eventually the environment will change in a new way, and then the variety will need to be sufficient to survive an unexpected change. If a green-egg eating monster turns into a red-egg eating monster, there should be some non-red eggs, and maybe even some green eggs, around. 
 
-Emily Dickenson is actually a bit misleading in her poem. The actual universe is made up of not only the sea, but also all of our ideas of the sea, our mental models of the sea, and our mental models of the universe. But the quirks involved in how we *seem* to fit the universe in our heads is the trail head for a ton of super interesting ideas: mental models, systems thinking, concept of the self, the manufactured normalcy field, priming, and pattern matching. 
+This makes logical sense, but in practice it seems counter-intuitive to build systems with high optionality. We tend to build systems that converge on a single design over time (see monocultures) because they are predictable and efficient in a given environment. But environments change, and without the ability to predict how those changes will happen ahead of time, optionality is required even in the safest of environments.
+
+### Soloverse
+
+**Soloverse:** This is the least-fully-formed idea of the bunch and something that I'm sure will shift over time. The universe is this giant space/time situation that we are all a part of. The *soloverse* is our mental model of the universe that our brain uses to *think about* the universe and everything in it. It turns out, we can't really think about the universe directly, we can only think about our mental model of the universe as it exists in our soloverse. 
+
+I first learned about this idea last year and found some interesting explorations of the idea referenced by the word *umwelt*, which is German for "environment" or "surroundings" and pronounced *ooom-velt*. I just made up the term soloverse because it's easier for me to think of it as a private universe in our minds.
+
+A few thoughts about soloverses:
+
+1. **The soloverse is our local cache of the universe.** When we're babies, our caches are not very complete, and we are forced to take in the full firehose of the universe... unsorted, uncategorized, raw. It's overwhelming. The soloverse is built up from basic building blocks like light and dark, smells, sounds, and eventually patterns (mom, hungry, cold, soft), and then eventually concepts (blanket, food) and meanings (safe, scared, good, bad). 
+2. **What we think of as the universe is actually our soloverse.** From these basic building blocks we create beliefs and build simulations that allow us to predict future occurrences (if I cry, mom will come to me). At some point we arrive at a concept of our own selves and other people. *"The concept of a person is arguably the most important interface ever developed."* - [Kevin Smokler](http://kevinsimler.quora.com/UX-and-the-Civilizing-Process)
+3. **The soloverse contains gods and archetypes.** Some of our most powerful beliefs and traditional characters (God, the hero, the devil, the wizard, the fairy godmother) all exist only in our soloverses. Unicorns, dragons, Santa, astrology, luck, fairness, truth, good and evil, beginning middle and end, physics, etc are all shadows of the structure that our soloverse is running on (our brains, and the pattern matching hierarchies that they are built from) and most likely absent from the universe that they are attempting to model. This quirk is actually really fascinating to explore.
+4. **The soloverse is the most powerful tool we have.** The model of the universe that we each have is highly personal, and idiosyncratic to the experiences we've had. There are also large portions of which there is probably lots of overlap (common sense, myths, popular culture, things we learn in school, etc). An unhealthy soloverse could lead to poor/misinformed decision-making. An unhealthy soloverse could be responsible for cruelty, prejudice, hatred, wars, and all kinds of other unfortunate things. What could we do to help ourselves and each other have healthier soloverses? Could we address this issue directly and have an impact?
+5. **A comprehensively complete soloverse must also model every other soloverse that exists.** In order to build a real "to scale" model of the universe it has to also include every other soloverse out there, including itself. We can't escape the soloverse, but we can make it a more hospitable place to live in the meantime.
 
 
 ## Beliefs
