@@ -397,6 +397,8 @@ Deutsch
 
 # Yearly Reports
 
+38: [Cultivate quality time](https://medium.com/p/5e72aa44b857) (2014)
+
 37: [More kiloslogs](http://wayoftheduck.com/37) (2013)
 
 36: [Talk it out](http://bustr.me/post/23934784635/on-being-36) (2012)
