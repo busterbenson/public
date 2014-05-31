@@ -236,6 +236,7 @@ Deutsch
 
 ### My own favorite writing
 
+* [38 is great](https://medium.com/p/5e72aa44b857): my 5 favorite ideas with my annual review
 * [How I track my life](https://medium.com/buster-benson/7da6f22b8e2c): Tracking quality of life with Reporter
 * [Live Like a Hydra](https://medium.com/better-humans/c02337782a89): Thoughts on how to get stronger when things are chaotic.
 * [The Death Bed Game](https://medium.com/better-humans/20cc8d9c7494): He/she who dies with the most death bed points, wins.
@@ -245,7 +246,16 @@ Deutsch
 
 # Monthly Reports
 
-### 2014: ++---
+### 2014: ++----
+
+##### June 1st 2014: 
+*Weight:* 177.3 (+2.6) 
+
+*Outcome of previous goal:* Super miss. I did 60 slow pushups in May (6 out of 31 days: 19%). My 5 month streak of doing fewer pushups each month continues... in fact it was a pretty indulgent and lazy month all around. We spent a week in Richmond for Mother's Day, half-brother meeting, and Rick Webb birthday celebrating. We had the Pixels as guests, we spent a couple days camping in the Redwoods, and even spent a day in Yountville eating at The French Laundry and other delicious restaurants and wineries. We celebrated both Niko and my birthdays. So I gained almost 3 pounds, did barely any pushups, and had a ton of fun doing it all.
+
+*New goal:* Do pushups on 6 or more days. I'm going to focus for a few months on getting back into a daily (or at least semi-daily) pushup routine and not focus on how many. 
+
+*Notes:* I also spent some time re-thinking this monthly review, and have decided to create a bit of a framework that involves a set of things I want to remind myself of daily, monthly, and yearly. My [birthday review](https://medium.com/p/5e72aa44b857) sums it up. And I started a new side project (the first I've allowed myself since shutting down Habit Labs) called [Hyoomans](http://hyoomans.com) which is an attempt to create a game largely inspired by iterated prisoner's dilemma. It's still very early and completely unplayable, but it has been fun to work on when the spare minute arises.
 
 ##### May 1st 2014: 
 *Weight:* 174.7 (+1.4) 
