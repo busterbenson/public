@@ -275,7 +275,7 @@ Deutsch
 *Changes to codex:* 
 * Added descriptions about my top 5 favorite ideas to the lexicon
 * Broke out "on privacy" as a separate section in my beliefs
-* 
+* Added "iterated prisoner's dilemma" to lexicon
 
 ##### May 1st 2014: 
 *Weight:* 174.7 (+1.4) 
