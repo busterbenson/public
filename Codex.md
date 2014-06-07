@@ -9,7 +9,7 @@
 ## Review Every Day
 Things I’d like to have primed in my brain every morning. This is stuff currently churning in the front of my brain, which probably has high turnover but which also has a good chance of getting somewhere new.
 
-1. **Seek quality time:** With myself, with other people, and with my interests.
+1. **Cultivate quality time:** With myself, with other people, and with my interests.
 2. **Look at what's uncomfortable:** Don't avoid the unresolved, unwanted, conflicted things that would benefit from attention. 
 3. **Slog towards riding a bike on my 100th birthday:** Eat mostly plants. Exercise regularly. Think decades, not days.
 4. Review/update this list
