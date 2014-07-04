@@ -263,6 +263,15 @@ Deutsch
 
 ### 2014: ++----
 
+##### July 1st 2014:
+*Weight:* 179.4 (+2.1 - hmmm.)
+
+*Outcome of previous goal:* Hit! Did pushups on 19 out of the 31 days. Also tied my record for slow pushups. Hoping to continue this trend this month.
+
+*New goal:* Do pushups on 19 or more days.
+
+*Notes:* Spent some time this month working on [busterbenson.com](http://busterbenson.com). Added a full-lifetime visualization, and links to my online archive by week. 
+
 ##### June 1st 2014: 
 *Weight:* 177.3 (+2.6) 
 
