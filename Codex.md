@@ -36,11 +36,11 @@ This is an list of ideas that have gotten hopelessly stuck in my brain.
 
 ### Codex Vitae
 
-This is an idea coined by Robin Sloan in his book [Mr Penumbra's 24-Hour Bookstore](http://www.amazon.com/Mr-Penumbras-24-Hour-Bookstore-Novel/dp/1250037751). The idea is that you write a book, the Codex Vitae or Book of Life, that represents everything you have learned in your life. And it gets stored and read by a privileged few upon your death. Expanding a bit further on it, I think this is a great way of thinking about self-expression. Our lives are filled with a desire to know the universe, and to be known. To leave a dent. This is just my English-major-y way of representing the dent in the form of a text, because words are so cool. Maybe one day we'll be able to download our brains into a computer and that would more directly represent our full body of knowledge from life.
+This is an idea coined by Robin Sloan in his book [Mr Penumbra's 24-Hour Bookstore](http://www.amazon.com/Mr-Penumbras-24-Hour-Bookstore-Novel/dp/1250037751). The idea is that you write a book, the Codex Vitae or Book of Life, that represents everything you have learned in your life. And it gets stored and read by a privileged few upon your death. Expanding a bit further on it, I think this is a great way of thinking about self-expression. Our lives are filled with a desire to know the universe, and to be known. To leave a dent. This is just my English-major-y way of representing the dent in the form of a text, because words are pretty great. Maybe one day we'll be able to download our brains into a computer and that would more directly represent our full body of knowledge from life.
 
 ### Quality Time
 
-My own Codex Vitae's first chapter could possibly be about quality time and its role as the primary ends (and means) for a fulfilled life. I see 3 kinds of quality time that we should seek out. The first is quality time with our own selves. Know thyself, and in the process find our deep interests and find people that we can connect deeply with. The second is quality time with those interests, and the third is quality time with those people we can connect deeply with. They each feed into each other, you can't really connect deeply with others until you know yourself sufficiently well. And often times interests are strengthened by having people you can connect with and share with. It seems pretty ungameable to me. Seek quality time with yourself, your interests, and others and you will not regret anything on your death bed (see [The Death Bed Game](https://medium.com/better-humans/20cc8d9c7494) for more thoughts around that).
+My own Codex Vitae's first chapter could possibly be about quality time and its role as the primary ends (and means) for a life well lived. I see 3 kinds of quality time that we should seek out. The first is quality time with our own selves. Know thyself, and in the process find our deep interests and find people that we can connect deeply with. The second is quality time with those interests, and the third is quality time with those people we can connect deeply with. They each feed into each other, you can't really connect deeply with others until you know yourself sufficiently well. And often times interests are strengthened by having people you can connect with and share with. It seems pretty ungameable to me. Seek quality time with yourself, your interests, and others and you will not regret anything on your death bed (see [The Death Bed Game](https://medium.com/better-humans/20cc8d9c7494) for more thoughts around that).
 
 ### Kiloslog
 
@@ -96,7 +96,7 @@ For now I'm just dabbling my toes in the idea, but I hope to slowly make progres
 
 ### On the purpose of life
 1. We don't have a purpose given to us, but we are allowed to make one up
-2. My meta-purpose is to increase quality time (with myself, with others, and with my interests)
+2. My meta-purpose is to enjoy quality time (with myself, with others, and with my interests)
 3. The best strategy to increase quality time: weaken the circumstances that hinder quality time, and strengthen the circumstances that encourage quality time
 4. He who dies having experienced the most quality time wins
 
@@ -226,6 +226,7 @@ For now I'm just dabbling my toes in the idea, but I hope to slowly make progres
 
 ### Articles I've come back to a bunch of times
 
+* [The Technology](http://paulbuchheit.blogspot.com/2014/07/the-technology.html) - Paul Buchheit
 * [Neurons Gone Wild](http://kevinsimler.quora.com/Neurons-Gone-Wild) - Kevin Simler
 * [When We Build](http://vimeo.com/34017777) - Wilson Miner
 * [We Aren't the World](http://www.psmag.com/magazines/magazine-feature-story-magazines/joe-henrich-weird-ultimatum-game-shaking-up-psychology-economics-53135/) - Ethan Watters
@@ -261,12 +262,23 @@ Deutsch
 
 # Monthly Reports
 
-### 2014: ++----
+### 2014: ++----+-
+
+##### August 1st 2014:
+*Summary:* Looked at open houses every Sunday, made an offer on a house, lost. Shipped something cool at work. Started a new side project: [Valleyball](http://valleyball.co). Went to yoga at work, once, and failed to go back again (even though I'd like to).
+
+*Weight:* didn't weigh myself this month - my scale is out of batteries
+
+*Outcome of previous goal:* Miss. Did pushups on 9 out of 31 days... definitely did not continue the trend from last month. Circumstances shifted: lots of guests this month, getting my morning routine out of whack, and we were distracted by making an offer on a house (and all the errands that entails). Also, lots of work stuff: shipping Tweet activity dash, starting a new project, performance reviews, etc. As circumstances shift back into the morning routine's favor, I'm hopping back on the pushup wagon this month.
+
+*New goal:* Do pushups on 9 or more days.
+
+*Codex edits:* Added Paul Buchheit's [Startup School talk](http://paulbuchheit.blogspot.com/2014/07/the-technology.html) to my personal canon. 
 
 ##### July 1st 2014:
 *Weight:* 179.4 (+2.1 - hmmm.)
 
-*Outcome of previous goal:* Hit! Did pushups on 19 out of the 31 days. Also tied my record for slow pushups. Hoping to continue this trend this month.
+*Outcome of previous goal:* Hit! Did pushups on 19 out of the 30 days. Also tied my record for slow pushups. Hoping to continue this trend this month.
 
 *New goal:* Do pushups on 19 or more days.
 
