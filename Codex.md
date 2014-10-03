@@ -243,6 +243,7 @@ For now I'm just dabbling my toes in the idea, but I hope to slowly make progres
 
 ### Books I've read that have changed how I see the world
 
+* [Waking Up](http://www.amazon.com/Waking-Up-Spirituality-Without-Religion/dp/1451636016) - Sam Harris
 * [Creativity, Inc](http://www.amazon.com/Creativity-Inc-Overcoming-Unseen-Inspiration/dp/0804127441) - Ed Catmull
 * [The Fifth Discipline](http://www.amazon.com/The-Fifth-Discipline-Practice-Organization/dp/0553456342) - Peter M. Senge
 * [Antifragile](http://www.amazon.com/Antifragile-Things-That-Gain-Disorder/dp/1400067820/) - Nassim Nicholas Taleb
@@ -262,7 +263,25 @@ Deutsch
 
 # Monthly Reports
 
-### 2014: ++----+-
+### 2014: ++----+---
+
+##### October 1st 2014:
+*Summary:* Amongst other things (that I can't really remember): bought a house, moved in.
+
+*Weight:* 179.0 (-0.4)
+
+*Outcome of previous goal:* Miss. Did pushups on 0 out of 30 days. Completely fell off the wagon.
+
+*New goal:* Do pushups on 2 or more days (low bars ftw)
+
+##### September 1st 2014:
+*Summary:* Amongst other things (that I can't really remember): visited Seattle, went to a wedding.
+
+*Weight:* didn't weigh myself this month - my scale is out of batteries
+
+*Outcome of previous goal:* Miss. Did pushups on 1 out of 30 days. Completely fell off the wagon.
+
+*New goal:* Didn't make a goal for this month. Circumstances have disabled my goal-making momentum.
 
 ##### August 1st 2014:
 *Summary:* Looked at open houses every Sunday, made an offer on a house, lost. Shipped something cool at work. Started a new side project: [Valleyball](http://valleyball.co). Went to yoga at work, once, and failed to go back again (even though I'd like to).
