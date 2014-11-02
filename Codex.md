@@ -115,7 +115,7 @@ For now I'm just dabbling my toes in the idea, but I hope to slowly make progres
 4. I must have good intentions
 5. I must admit to being the maker of my own meaning
 6. I must not feel sorry for myself
-7. I must have a vision that I'm are striving for
+7. I must have a vision that I'm striving for
 8. I must rally others with my vision
 9. I must tie creativity and experimentation with survival
 10. I must be the change I want to see
