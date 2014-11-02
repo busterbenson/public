@@ -11,7 +11,7 @@ Things I’d like to have primed in my brain every morning. This is stuff curren
 
 1. **Cultivate quality time:** With myself, with other people, and with my interests.
 2. **Look at what's uneasy:** Don't avoid the unresolved, unwanted, conflicted things that would benefit from attention. 
-3. **Slog towards riding a bike on my 100th birthday:** Eat mostly plants. Exercise regularly. Think decades, not days.
+3. **Slog towards riding a bike on my 100th birthday:** Eat mostly plants. Exercise regularly. Get sleep. Think decades.
 4. Review/update this list
 
 ## Review Every Month 
@@ -38,9 +38,13 @@ This is an list of ideas that have gotten hopelessly stuck in my brain.
 
 This is an idea coined by Robin Sloan in his book [Mr Penumbra's 24-Hour Bookstore](http://www.amazon.com/Mr-Penumbras-24-Hour-Bookstore-Novel/dp/1250037751). The idea is that you write a book, the Codex Vitae or Book of Life, that represents everything you have learned in your life. And it gets stored and read by a privileged few upon your death. Expanding a bit further on it, I think this is a great way of thinking about self-expression. Our lives are filled with a desire to know the universe, and to be known. To leave a dent. This is just my English-major-y way of representing the dent in the form of a text, because words are pretty great. Maybe one day we'll be able to download our brains into a computer and that would more directly represent our full body of knowledge from life.
 
+Posts about this topic: [What would you write in your codex vitae](http://branch.com/b/what-would-you-write-in-your-codex-vitae).
+
 ### Quality Time
 
-My own Codex Vitae's first chapter could possibly be about quality time and its role as the primary ends (and means) for a life well lived. I see 3 kinds of quality time that we should seek out. The first is quality time with our own selves. Know thyself, and in the process find our deep interests and find people that we can connect deeply with. The second is quality time with those interests, and the third is quality time with those people we can connect deeply with. They each feed into each other, you can't really connect deeply with others until you know yourself sufficiently well. And often times interests are strengthened by having people you can connect with and share with. It seems pretty ungameable to me. Seek quality time with yourself, your interests, and others and you will not regret anything on your death bed (see [The Death Bed Game](https://medium.com/better-humans/20cc8d9c7494) for more thoughts around that).
+My own Codex Vitae's first chapter could possibly be about quality time and its role as the primary ends (and means) for a life well lived. I see 3 kinds of quality time that we should seek out. The first is quality time with our own selves. Know thyself, and in the process find our deep interests and find people that we can connect deeply with. The second is quality time with those interests, and the third is quality time with those people we can connect deeply with. They each feed into each other, you can't really connect deeply with others until you know yourself sufficiently well. And often times interests are strengthened by having people you can connect with and share with. It seems pretty ungameable to me. Seek quality time with yourself, your interests, and others and you will not regret anything on your death bed.
+
+Posts about this topic: [The Death Bed Game](https://medium.com/better-humans/20cc8d9c7494), [How I track my life](https://medium.com/buster-benson/how-i-track-my-life-7da6f22b8e2c), [Live like a hydra](https://medium.com/@buster/live-like-a-hydra-c02337782a89).
 
 ### Kiloslog
 
@@ -53,6 +57,8 @@ In addition to working on the kiloslog towards running a marathon, I've also sta
 3. *It's flexible in the short-term but encourages long-term consistency.* I don't have to sweat the small things that aren't going to make a long-term impact, simply because they are part of some program that's supposed to have a short term impact.
 
 This single, silly, vivid health vision informs my eating habits, my exercise routine (for the kiloslog and other stuff), my stress levels, my creativity, and my social habits. It's a single ribbon that ties it all together, paces me, keeps and makes me happy to think about.
+
+Posts about this topic: [1 metric kiloslog](https://medium.com/@buster/1-metric-kiloslog-52167e196771).
 
 ### Optionality
 
@@ -80,9 +86,11 @@ A few thoughts about soloverses:
 4. *The soloverse is the most powerful tool we have.* The model of the universe that we each have is highly personal, and idiosyncratic to the experiences we’ve had. There are also large portions of which there is probably lots of overlap (common sense, myths, popular culture, things we learn in school, etc). An unhealthy soloverse could lead to poor/misinformed decision-making. An unhealthy soloverse could be responsible for cruelty, prejudice, hatred, wars, and all kinds of other unfortunate things. What could we do to help ourselves and each other have healthier soloverses? Could we address this issue directly and have an impact?
 5. *A comprehensively complete soloverse must also model every other soloverse that exists.* In order to build a real “to scale” model of the universe it has to also include every other soloverse out there, including itself. We can’t escape our personal soloverse, but we can make it a more hospitable place to live in the meantime.
 
+Posts about this topic: [Universe ↔ Soloverse](https://medium.com/thought-experiments/universe-soloverse-d174549e00d7), [Know thy umwelt](http://wayoftheduck.com/know-thy-umwelt).
+
 ### Iterated prisoner's dilemma
 
-I started a [new side project](http://hyoomans.com) in May of 2014 to explore the world of iterated prisoner's dilemma strategies. Basically, an attempt to solve, through games, a philosophical problem: what is the right strategy for being nice vs mean in an unpredictable and changing world? ([background on iterated prisoner's dilemma](http://hyoomans.com/t/welcome-to-hyoomans/6))
+I started a [side project](http://hyoomans.com) in May of 2014 to explore the world of iterated prisoner's dilemma strategies. Basically, an attempt to solve, through games, a philosophical problem: what is the right strategy for being nice vs mean in an unpredictable and changing world?
 
 This interests me for a number of reasons.
 
@@ -90,7 +98,7 @@ This interests me for a number of reasons.
 2. It has been explored to some extent, but there is by no means a full exploration of the space. The space to explore is finite, but extremely complex. There is an opportunity for a sufficiently flexible system to make progress on this problem fairly easily.
 3. I like the idea of using technology to solve a fundamental psychological riddle. It's fun.
 
-For now I'm just dabbling my toes in the idea, but I hope to slowly make progress on it on [hyoomans.com](http://hyoomans.com). So far it's probably still too amorphous to have much popular interest. The hook is still buried in technicalities. Hoping to change that in the next couple months.
+For now I'm just dabbling my toes in the idea, but I hope to slowly make progress on it on [hyoomans.com](http://play.hyoomans.com). So far it's probably still too amorphous to have much popular interest. The hook is still buried in technicalities. Hoping to change that in the next couple months.
 
 ## Beliefs
 
@@ -126,7 +134,7 @@ For now I'm just dabbling my toes in the idea, but I hope to slowly make progres
 2. Gay marriage should be legal everywhere
 3. Abortion should be legal everywhere
 4. Assisted suicide should be legal everywhere
-5. Health care should be available to everyone who needs it
+5. Health care should be available and affordable to everyone who needs it
 6. The death penalty should be used in extreme and certain cases to protect the public
 7. Prisons should be about protecting the public, not about punishment
 8. Marijuana should be legal to grow, sell, buy, and carry
@@ -158,7 +166,7 @@ For now I'm just dabbling my toes in the idea, but I hope to slowly make progres
 
 ### On Health
 1. We can change our behavior and habits (it requires a lot of energy)
-2. Consistently eating well and exercising is the only way to be sustainably healthy
+2. Consistently eating well, exercising, and getting enough sleep is the only way to be sustainably healthy
 3. Acupuncture works, somehow
 4. Vaccinations are good for babies and society
 
@@ -173,6 +181,7 @@ For now I'm just dabbling my toes in the idea, but I hope to slowly make progres
 2. Pure altruism is an illusion (but kindness is not)
 3. We tell stories in order to create and remember meaning
 4. Consciousness is the result of a feedback loop between our story-making cortex and our subconscious, so that it can better predict/act on long-term threats
+5. We are all running an incomplete simulation of the universe in our heads and usually mistake it for the real universe
 
 ### On Privacy
 1. Privacy is just a side effect of people not being truly connected
@@ -186,6 +195,7 @@ For now I'm just dabbling my toes in the idea, but I hope to slowly make progres
 
 ### On Education
 1. Something will replace universities as we currently know them by 2030
+2. Playing games (of any kind: video, board, card, etc) in your youth will make you smarter than people who don't 
 
 ### On Politics & The Economy
 1. Most jobs lost between 2008-2012 aren't going to come back, new ones have to be created from scratch (or not)
@@ -200,7 +210,7 @@ For now I'm just dabbling my toes in the idea, but I hope to slowly make progres
 4. The number of living languages in the world will drop to under 100
 5. Genetically modified foods will become the norm
 6. Coral reefs and the ocean ecosystems are going to break with unknown consequences
-7. Solar and wind will slowly replace gas and oil 
+7. Solar will slowly overcome gas and oil in usage
 
 ### On Biases
 1. We tend to favor the beautiful
@@ -253,6 +263,7 @@ Deutsch
 
 ### My own favorite writing
 
+* [Better than meditation](https://medium.com/better-humans/better-than-meditation-12532d29f6cd?recommendNoteId=fd448809351b): free-writing as an alternative to meditation
 * [38 is great](https://medium.com/p/5e72aa44b857): my 5 favorite ideas with my annual review
 * [How I track my life](https://medium.com/buster-benson/7da6f22b8e2c): Tracking quality of life with Reporter
 * [Live Like a Hydra](https://medium.com/better-humans/c02337782a89): Thoughts on how to get stronger when things are chaotic.
@@ -263,7 +274,16 @@ Deutsch
 
 # Monthly Reports
 
-### 2014: ++----+---
+### 2014: ++----+----
+
+##### October 1st 2014:
+*Summary:* Started serious work on the outside of the house, attended my 20th year reunion, celebrated our 6th anniversary (Ajanta), and Kellianne's birthday (first party at the new house).
+
+*Weight:* 178
+
+*Outcome of previous goal:* Miss. Did pushups on 0 out of 30 days. Still entirely off the wagon.
+
+*New goal:* Write 750 words on 20 or more days.
 
 ##### October 1st 2014:
 *Summary:* Amongst other things (that I can't really remember): bought a house, moved in.
