@@ -276,7 +276,7 @@ Deutsch
 
 ### 2014: ++----+----
 
-##### October 1st 2014:
+##### November 1st 2014:
 *Summary:* Started serious work on the outside of the house, attended my 20th year reunion, celebrated our 6th anniversary (Ajanta), and Kellianne's birthday (first party at the new house).
 
 *Weight:* 178
