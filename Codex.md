@@ -10,7 +10,7 @@
 Things I’d like to have primed in my brain every morning. This is stuff currently churning in the front of my brain, which probably has high turnover but which also has a good chance of getting somewhere new.
 
 1. **Cultivate quality time:** With myself, with other people, and with my interests.
-2. **Look at what's uneasy:** Don't avoid the unresolved, unwanted, conflicted things that would benefit from attention. 
+2. **Look at what's uneasy:** Don't avoid the unresolved, unwanted, conflicted things that would benefit from detailed attention. 
 3. **Slog towards riding a bike on my 100th birthday:** Eat mostly plants. Exercise regularly. Get sleep. Think decades.
 4. Review/update this list
 
@@ -36,7 +36,7 @@ This is an list of ideas that have gotten hopelessly stuck in my brain.
 
 ### Codex Vitae
 
-This is an idea coined by Robin Sloan in his book [Mr Penumbra's 24-Hour Bookstore](http://www.amazon.com/Mr-Penumbras-24-Hour-Bookstore-Novel/dp/1250037751). The idea is that you write a book, the Codex Vitae or Book of Life, that represents everything you have learned in your life. And it gets stored and read by a privileged few upon your death. Expanding a bit further on it, I think this is a great way of thinking about self-expression. Our lives are filled with a desire to know the universe, and to be known. To leave a dent. This is just my English-major-y way of representing the dent in the form of a text, because words are pretty great. Maybe one day we'll be able to download our brains into a computer and that would more directly represent our full body of knowledge from life.
+This is an idea coined by Robin Sloan in his book [Mr Penumbra's 24-Hour Bookstore](http://www.amazon.com/Mr-Penumbras-24-Hour-Bookstore-Novel/dp/1250037751). The idea is that you write a book, the Codex Vitae or Book of Life, that represents everything you have learned in your life. And it gets stored and read by a privileged few upon your death. Expanding a bit further on it, I think this is a great way of thinking about self-expression. Our lives are filled with a desire to know the universe, and to be known. To leave a dent. This is just my English-major-y way of representing the dent in the form of a text, because words are pretty great. Maybe one day we'll be able to download our brains onto our credit cards and that would more directly represent our full body of knowledge from life.
 
 Posts about this topic: [What would you write in your codex vitae](http://branch.com/b/what-would-you-write-in-your-codex-vitae).
 
@@ -103,9 +103,9 @@ For now I'm just dabbling my toes in the idea, but I hope to slowly make progres
 ## Beliefs
 
 ### On the purpose of life
-1. We don't have a purpose given to us, but we are allowed to make one up
+1. We don't have a purpose given to us, but it's okay if we make one up
 2. My meta-purpose is to enjoy quality time (with myself, with others, and with my interests)
-3. The best strategy to increase quality time: weaken the circumstances that hinder quality time, and strengthen the circumstances that encourage quality time
+3. The best strategy to increase quality time: weave around the obstacles that hinder quality time
 4. He who dies having experienced the most quality time wins
 
 ### On personal conduct
@@ -198,10 +198,11 @@ For now I'm just dabbling my toes in the idea, but I hope to slowly make progres
 2. Playing games (of any kind: video, board, card, etc) in your youth will make you smarter than people who don't 
 
 ### On Politics & The Economy
-1. Most jobs lost between 2008-2012 aren't going to come back, new ones have to be created from scratch (or not)
-2. In the future, working will be more thoroughly decoupled from having the means to live (see disability trends as proxy for this)
-3. We'll have a President that admits to being atheist or agnostic by 2025
-4. Power will be more quickly redistributed when it gets too heavy at the top
+1. It should be easier and more expedient to put neglectful and irresponsible public servants in prison than the average citizen, not slower and more difficult
+2. Most jobs lost between 2008-2012 aren't going to come back, new ones have to be created from scratch (or not)
+3. In the future, working will be more thoroughly decoupled from having the means to live (see disability trends as proxy for this)
+4. We'll have a President that admits to being atheist or agnostic by 2025
+5. Power will be more quickly redistributed when it gets too heavy at the top
 
 ### On The Future Of Earth (2100)
 1. Global warming is real and will continue to cause bigger and bigger problems
@@ -274,7 +275,16 @@ Deutsch
 
 # Monthly Reports
 
-### 2014: ++----+----
+### 2014: ++----+----+
+
+##### December 1st 2014:
+*Summary:* Venessa and Lillia visited us for a week; sis, Ryan, and Adelyn visited for 3 days and for Thanksgiving; first big Thanksgiving at the new house (we have chairs); work on front of the house continues, the worst is probably over.
+
+*Weight:* 180 (+2)
+
+*Outcome of previous goal:* Hit! Wrote 750 Words on 22 days.
+
+*New goal:* Write 750 words on 20 or more days, again, because that was good.
 
 ##### November 1st 2014:
 *Summary:* Started serious work on the outside of the house, attended my 20th year reunion, celebrated our 6th anniversary (Ajanta), and Kellianne's birthday (first party at the new house).
