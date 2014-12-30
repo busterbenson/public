@@ -11,9 +11,8 @@ Things I’d like to have primed in my brain every morning. Basically attempts t
 
 1. **Steer toward quality time:** Look for opportunities to enjoy quality time with myself, other people, and my interests.
 2. **Notice anomalies:** Notice when something is unresolved, unwanted, or in conflict with my beliefs -- resist the urge to move these anomalies into blind spots.
-3. **Listen to the voices:** Many of my beliefs (correct and incorrect) can be traced back to voices in my thoughts. I shouldn't assume they're always right.
+3. **Notice the voices:** Many of my beliefs about myself and the world are really just automated voices passing off beliefs that have been hard-coded in my head over time as indisputable facts. I shouldn't assume they're always right.
 4. **Remember the soloverse:** What I think is the universe is actually my mental model of the universe (the soloverse). Don't forget.
-3. Review/update this list
 
 ## Review Every Month 
 Things I’d like to check in on the 1st of every month.
@@ -22,7 +21,7 @@ Things I’d like to check in on the 1st of every month.
 2. Review the Beliefs
 3. Review the Personal Canon
 4. Write a new Monthly Report and share
-5. Review/update this list
+5. Review/update this list and the Review Every Day list
 
 ## Review Every Year
 Things I've learned and want to remind myself of every year on my birthday (May 28).
