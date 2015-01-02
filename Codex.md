@@ -255,7 +255,18 @@ Deutsch
 
 # Monthly Reports
 
-### 2014: ++----+----+
+### 2015: 
+
+##### January 2015
+*Last month summary:* Launched mobile analytics on iPhone before the holidays, had a great visit from Chris Finley (old highschool friend) and his wife while KA and Niko were in Delaware, celebrated a quiet Christmas (got Niko into Little Bits though), and did NYE at Amy and Thors (where Niko stayed up past midnight for the first time).
+
+*Weight:* 181.2 (+1.2 m/m, +7 y/y -- bad trend!)
+
+*Outcome of previous goal:* MISS. Wrote my 750 words on 11 days (hoping for 20). 
+
+*New goal:* Upholding the yearly tradition of health month in January with some friends: no alcohol, coffee, drugs, refined flour/sugar, dairy, white rice, or red meat. I'm allowing 1 amnesty day where I can break all the rules. Write 750 words on 11 or more days.
+
+### 2014: ++----+----+-
 
 ##### December 1st 2014:
 *Summary:* Venessa and Lillia visited us for a week; sis, Ryan, and Adelyn visited for 3 days and for Thanksgiving; first big Thanksgiving at the new house (we have chairs); work on front of the house continues, the worst is probably over.
