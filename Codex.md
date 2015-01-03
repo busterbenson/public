@@ -266,6 +266,11 @@ Deutsch
 
 *New goal:* Upholding the yearly tradition of health month in January with some friends: no alcohol, coffee, drugs, refined flour/sugar, dairy, white rice, or red meat. I'm allowing 1 amnesty day where I can break all the rules. Write 750 words on 11 or more days.
 
+*Interests:*
+* Co-active coaching, Motivational coaching
+* Quantum realism: read all of Brian Whitworth's [published chapters](http://brianwhitworth.com/BW-VRT1.pdf)
+* History of the Transformers shows/comics: starting with [Wikipedia](http://en.wikipedia.org/wiki/Transformers) and ending up on [Unicron's tfwiki.net page](http://tfwiki.net/wiki/Unicron)
+
 ### 2014: ++----+----+-
 
 ##### December 1st 2014:
