@@ -9,10 +9,9 @@
 ## Review Every Day
 Things I’d like to have primed in my brain every morning. Basically attempts to set a part of my brain to always be on the lookout for specific things that I want to be sure to catch. Use my subconscious to my advantage. 
 
-1. **Steer toward quality time:** Look for opportunities to enjoy quality time with myself, other people, and my interests.
-2. **Notice anomalies:** Notice when something is unresolved, unwanted, or in conflict with my beliefs -- resist the urge to move these anomalies into blind spots.
-3. **Notice the voices:** Many of my beliefs about myself and the world are really just automated voices passing off beliefs that have been hard-coded in my head over time as indisputable facts. I shouldn't assume they're always right.
-4. **Remember the soloverse:** What I think is the universe is actually my mental model of the universe (the soloverse). Don't forget.
+1. **Remember the soloverse:** What I think is the universe is actually my mental model of the universe (the soloverse). Don't forget.
+2. **Look for invisible things:** *Anomalies* are inconsistencies between my internal model of the universe / soloverse, and new information. Resist the urge to move these anomalies into the trash bin, they are clues. *Life circumstances* fade into the background but can both hinder and enable my growth if used correctly. *Internal, automated, voices* whisper stories that have been hard-coded in my head over time as indisputable facts. All three of these invisible things (anomalies, circumstances, voices) naturally live in my blind spot, but noticing them could be useful.
+3. **Engineer quality time:** Look for opportunities to enjoy quality time with myself, other people, and my interests.
 
 ## Review Every Month 
 Things I’d like to check in on the 1st of every month.
@@ -233,6 +232,7 @@ I'm still learning about this and definitely couldn't explain or defend it, but 
 
 ### Books I've read that have changed how I see the world
 
+* [On Intelligence](http://www.amazon.com/On-Intelligence-Jeff-Hawkins/dp/0805078533) - Jeff Hawkins
 * [Waking Up](http://www.amazon.com/Waking-Up-Spirituality-Without-Religion/dp/1451636016) - Sam Harris
 * [Creativity, Inc](http://www.amazon.com/Creativity-Inc-Overcoming-Unseen-Inspiration/dp/0804127441) - Ed Catmull
 * [The Fifth Discipline](http://www.amazon.com/The-Fifth-Discipline-Practice-Organization/dp/0553456342) - Peter M. Senge
