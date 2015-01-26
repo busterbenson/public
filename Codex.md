@@ -244,6 +244,7 @@ Deutsch
 ### My own favorite writing
 
 * [Better than meditation](https://medium.com/better-humans/better-than-meditation-12532d29f6cd?recommendNoteId=fd448809351b): free-writing as an alternative to meditation
+* [3-lane product development](https://medium.com/building-products-people-love/3-lane-product-development-30d64d376cd0): how to build products (and companies) that people love
 * [38 is great](https://medium.com/p/5e72aa44b857): my 5 favorite ideas with my annual review
 * [How I track my life](https://medium.com/buster-benson/7da6f22b8e2c): Tracking quality of life with Reporter
 * [Make better resolutions](https://medium.com/buster-benson/make-better-resolutions-69cda443d387): 5 tips 
