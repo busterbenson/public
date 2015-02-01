@@ -261,6 +261,19 @@ Deutsch
 ##### January 2015
 *Last month summary:* Launched mobile analytics on iPhone before the holidays, had a great visit from Chris Finley (old highschool friend) and his wife while KA and Niko were in Delaware, celebrated a quiet Christmas (got Niko into Little Bits though), and did NYE at Amy and Thors (where Niko stayed up past midnight for the first time).
 
+*Weight:* 177.5 (-3.7 m/m)
+
+*Outcome of previous goal:* HIT. Wrote my 750 words on 11 days, tying last month. And stuck pretty closely to health month rules. 
+
+*New goal:* Continuing my health month into February, with 5 Amnesty Days since I'll be in Seattle for a wedding. I want to continue to write 750 words on 11 or more days.
+
+*Interests:*
+* Hierarchical pattern matching from Jeff Hawkin's On Intelligence book
+* Financial planning from Tony Robbin's Money book
+
+##### January 2015
+*Last month summary:* Launched mobile analytics on iPhone before the holidays, had a great visit from Chris Finley (old highschool friend) and his wife while KA and Niko were in Delaware, celebrated a quiet Christmas (got Niko into Little Bits though), and did NYE at Amy and Thors (where Niko stayed up past midnight for the first time).
+
 *Weight:* 181.2 (+1.2 m/m, +7 y/y -- bad trend!)
 
 *Outcome of previous goal:* MISS. Wrote my 750 words on 11 days (hoping for 20). 
