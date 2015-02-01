@@ -256,9 +256,9 @@ Deutsch
 
 # Monthly Reports
 
-### 2015: 
+### 2015: +
 
-##### January 2015
+##### February 2015
 *Last month summary:* Launched mobile analytics on iPhone before the holidays, had a great visit from Chris Finley (old highschool friend) and his wife while KA and Niko were in Delaware, celebrated a quiet Christmas (got Niko into Little Bits though), and did NYE at Amy and Thors (where Niko stayed up past midnight for the first time).
 
 *Weight:* 177.5 (-3.7 m/m)
