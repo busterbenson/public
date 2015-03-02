@@ -9,9 +9,11 @@
 ## Review Every Day
 Things I’d like to have primed in my brain every morning. Basically attempts to set a part of my brain to always be on the lookout for specific things that I want to be sure to catch. Use my subconscious to my advantage. 
 
-1. **Remember the soloverse:** What I think is the universe is actually my mental model of the universe (the soloverse). Don't forget.
-2. **Look for invisible things:** *Anomalies* are inconsistencies between my internal model of the universe / soloverse, and new information. Resist the urge to move these anomalies into the trash bin, they are clues. *Life circumstances* fade into the background but can both hinder and enable my growth if used correctly. *Internal, automated, voices* whisper stories that have been hard-coded in my head over time as indisputable facts. All three of these invisible things (anomalies, circumstances, voices) naturally live in my blind spot, but noticing them could be useful.
-3. **Engineer quality time:** Look for opportunities to enjoy quality time with myself, other people, and my interests.
+1. **The soloverse:** What I think is the universe is actually my mental model of the universe (the soloverse). Don't forget.
+2. **Anomalies:** Notice inconsistencies between what I expect to see and what I actually see. Resist the urge to move these anomalies into the trash bin. 
+3. **Quality time:** Always look for new ways to enjoy quality time with myself, other people, and my interests.
+4. **Levitas:** The opposite of gravitas. 
+5. **Lucidity:** This is happening.
 
 ## Review Every Month 
 Things I’d like to check in on the 1st of every month.
@@ -77,6 +79,10 @@ Posts about this topic: [Universe ↔ Soloverse](https://medium.com/thought-expe
 Quantum realism is a term I first learned from [an article](http://listverse.com/2014/11/26/10-reasons-why-our-universe-is-a-virtual-reality/) by Brian Whitmore, a senior lecturer in computing at Massey University. The idea is in opposition to "physical realism" (that belief that the physical world we see is real and exists by itself, alone). Quantum realism asserts that the physical world isn't real in itself, but merely the output (or shadow, or result, or projected image) of a quantum reality that is generating it. It's basically a virtual reality, or a simulation.
 
 I'm still learning about this and definitely couldn't explain or defend it, but I'm fascinated by the idea and keep thinking about it.
+
+### Primes 
+
+We experience life and the world through a series of lenses, and these lenses are colored by the ideas that have recently been activated in our brains. This idea has been popping up in my zeitgeist lately, and it seems like it's related to the soloverse, to anomalies, to beliefs, to behavior, to identity, even to quality time (the only way to really enjoy quality time is to be primed for it)... basically all of my favorite ideas. I'm creating this as a place-holder for now and will fill it in as the interest develops and I'm able to articulate it better.
 
 ## Beliefs
 
@@ -148,8 +154,8 @@ I'm still learning about this and definitely couldn't explain or defend it, but 
 4. Vaccinations are good for babies and society
 
 ### On Technology
-1. Computers will be building better computers than humans by 2050 (the Singularity)
-2. Humans, computers, and Earth will evolve into a super organism by 2200 (if we're still around)
+1. Computers will be building better computers than humans by 2050
+2. Humans, computers, and Earth will evolve into a super organism (or super organisms) by 2200
 3. Humans that embrace change (and give up some of their humanity) will survive the Singularity
 4. Technology will eventually disrupt all other human-created institutions (politics, religion, identity, economics, energy)
 
@@ -257,6 +263,20 @@ Deutsch
 # Monthly Reports
 
 ### 2015: +
+
+##### March 2015
+*Last month summary:* 
+
+*Weight:* 175.9 (-1.6 m/m)
+
+*Outcome of previous goal:* HIT. Wrote my 750 words on 11 days, tying last month again. Fell off of Health Month near the end.
+
+*New goal:* Write 750 words on 11 or more days. Go running on my newly mostly-healed knee at least 2 times.
+
+*Books and movies I enjoyed:*
+* Birdman
+* Boyhood
+* The art of learning, by Joshua Waitzkin
 
 ##### February 2015
 *Last month summary:* Launched mobile analytics on iPhone before the holidays, had a great visit from Chris Finley (old highschool friend) and his wife while KA and Niko were in Delaware, celebrated a quiet Christmas (got Niko into Little Bits though), and did NYE at Amy and Thors (where Niko stayed up past midnight for the first time).
