@@ -9,8 +9,8 @@
 ## Review Every Day
 Things I’d like to have primed in my brain every morning. Basically attempts to set a part of my brain to always be on the lookout for specific things that I want to be sure to catch. Use my subconscious to my advantage. 
 
-1. **The soloverse:** What I think is the universe is actually my mental model of the universe (the soloverse). Don't forget.
-2. **Anomalies:** Notice inconsistencies between what I expect to see and what I actually see. Resist the urge to move these anomalies into the trash bin. 
+1. **Primes:** Notice what is primed in my brain currently, and prime things I want to notice more of.
+2. **The soloverse:** What I think is the universe is actually my mental model of the universe (the soloverse). Don't forget.
 3. **Quality time:** Always look for new ways to enjoy quality time with myself, other people, and my interests.
 4. **Levitas:** The opposite of gravitas. 
 5. **Lucidity:** This is happening.
@@ -38,13 +38,13 @@ This is an list of ideas that have gotten hopelessly stuck in my brain.
 
 ### Codex Vitae
 
-This is an idea coined by Robin Sloan in his book [Mr Penumbra's 24-Hour Bookstore](http://www.amazon.com/Mr-Penumbras-24-Hour-Bookstore-Novel/dp/1250037751). The idea is that you write a book, the Codex Vitae or Book of Life, that represents everything you have learned in your life. And it gets stored and read by a privileged few upon your death. Expanding a bit further on it, I think this is a great way of thinking about self-expression and capturing the meaning that we create in our lives. 
+This is an idea coined by Robin Sloan in his book [Mr Penumbra's 24-Hour Bookstore](http://www.amazon.com/Mr-Penumbras-24-Hour-Bookstore-Novel/dp/1250037751). The idea is to write a book, the Codex Vitae or Book of Life, that represents everything I have learned in my life. If I lost all of my memories somehow, this could be something that helped me remember who I am. 
 
 Posts about this topic: [What would you write in your codex vitae](http://branch.com/b/what-would-you-write-in-your-codex-vitae).
 
 ### Quality Time
 
-My own Codex Vitae's first chapter could possibly be about quality time and its role as the primary ends (and means) for a life well lived. I see 3 kinds of quality time that we should seek out. The first is quality time with our own selves. Know thyself, and in the process find our deep interests and find people that we can connect deeply with. The second is quality time with those interests, and the third is quality time with those people we can connect deeply with. They each feed into each other: you can't really connect deeply with others until you know yourself sufficiently well; often times interests are strengthened by having people you can connect with and share with. It seems pretty ungameable to me. Seek quality time with yourself, your interests, and others and you will not regret anything on your death bed.
+My own Codex Vitae's first chapter could possibly be about quality time and its role as the primary ends (and means) for a life well lived. There are 3 kinds of quality time that I want to seek out. The first is quality time with myself. Find my favorite ideas, core interests, and people that I can connect deeply with. The second is quality time with those favorite ideas and core interests, and the third is quality time with those people I can connect deeply with. They each feed into each other: I can't really connect deeply with others until I know myself sufficiently well; often times interests are strengthened by having people I can connect with and share with. It seems pretty ungameable to me. Seek quality time with myself, my interests, and others and I won't regret anything on my death bed.
 
 Posts about this topic: [The Death Bed Game](https://medium.com/better-humans/20cc8d9c7494), [How I track my life](https://medium.com/buster-benson/how-i-track-my-life-7da6f22b8e2c), [Live like a hydra](https://medium.com/@buster/live-like-a-hydra-c02337782a89).
 
@@ -52,7 +52,7 @@ Posts about this topic: [The Death Bed Game](https://medium.com/better-humans/20
 
 Or, as Nassim Nicolas Taleb calls it: [antifragility](http://www.amazon.com/Antifragile-Things-That-Gain-Disorder/dp/1400067820/). I like the word optionality because it seems more neutral, almost boring even, and yet it is probably one of the most simple and powerful ideas that I’ve ever encountered. The easiest way to describe it is the degree to which your eggs are in different baskets. 
 
-The more baskets, and the more eggs, and the more evenly distributed those eggs are in those baskets, the greater your chances that any single event won't wipe you out of eggs entirely, and the greater your chances that one of those eggs is going to be amazing. The beauty of optionality is that it has both protective and self-strengthening qualities. Sticking with the metaphor, say that you have 12 eggs in 1 basket. If something happens to that basket, all of your eggs are doomed (low optionality). On the other hand, say that you have 12 eggs in 6 baskets (2 in each). If something happens to one of the baskets, you still have 10 eggs (higher optionality). Now imagine that you have 12 eggs in 12 baskets, all of the eggs are different colors, and there are monsters that prefer certain colors of eggs for breakfast. As the monsters wake up every morning and have breakfast, the type of eggs that they like will become more rare. There will be more remaining eggs with colors that they don’t like. In a way, the remaining set of eggs has become stronger (less likely to be eaten) than the set was previously. This is how high optionality works. The final twist is that in order for this to really work, it has to have some level of randomness involved… because what if the monster also adapts over time and begins to prefer new colors of eggs? In order for the eggs to be safe from complete elimination, there should be enough variation in the colors that some eggs won’t get eaten, and those eggs will need to hatch and grow and the population of future eggs will represent eggs that are less appetizing to monster. Optionality is the key to natural selection and evolution. It’s also the key to idea generation, investment strategy, product management, and many other things. 
+The more baskets, and the more eggs, and the more evenly distributed those eggs are in those baskets, the greater my chances that any single event won't wipe me out of eggs entirely, and the greater my chances that one of those eggs is going to be amazing. The beauty of optionality is that it has both protective and self-strengthening qualities. Sticking with the metaphor, say that I have 12 eggs in 1 basket. If something happens to that basket, all of my eggs are doomed (low optionality). On the other hand, say that I have 12 eggs in 6 baskets (2 in each). If something happens to one of the baskets, I still have 10 eggs (higher optionality). Now imagine that I have 12 eggs in 12 baskets, all of the eggs are different colors, and there are monsters that prefer certain colors of eggs for breakfast. As the monsters wake up every morning and have breakfast, the type of eggs that they like will become more rare. There will be more remaining eggs with colors that they don’t like. In a way, the remaining set of eggs has become stronger (less likely to be eaten) than the set was previously. This is how high optionality works. The final twist is that in order for this to really work, it has to have some level of randomness involved… because what if the monster also adapts over time and begins to prefer new colors of eggs? In order for the eggs to be safe from complete elimination, there should be enough variation in the colors that some eggs won’t get eaten, and those eggs will need to hatch and grow and the population of future eggs will represent eggs that are less appetizing to monster. Optionality is the key to natural selection and evolution. It’s also the key to idea generation, investment strategy, product management, and many other things. 
 
 In practice it seems counter-intuitive to build systems with high optionality. We tend to build systems that converge on a single design over time (see monocultures) because they are predictable and efficient in a given environment. But environments change, and without the ability to predict how those changes will happen ahead of time, optionality is required even in the safest of environments.
 
@@ -60,13 +60,13 @@ Posts about this topic: [Live like a hydra](https://medium.com/better-humans/c02
 
 ### Soloverse
 
-**Soloverse:** This is my word for an idea I'm obsessed with. It goes something like this: the universe is this giant space/time environment that we are all a part of. The *soloverse* is our mental model of that universe that our brain uses to *think about* the universe and everything in it. It turns out, we can’t really think about the universe directly (it’s way too big), we can only think about our mental model of the universe as it exists in our soloverse. Lots of interesting (to me) side effects result from this distinction.
+**Soloverse:** This is my word for a particular idea I'm obsessed with. It goes something like this: the universe is this giant space/time environment that we are all a part of. The *soloverse* is our mental model of that universe that our brain uses to *think about* the universe and everything in it. I can’t really think about the universe directly (it’s way too big), I can only think about my mental model of the universe as it exists in my soloverse. Lots of interesting (to me) side effects result from this distinction.
 
-I first came across this idea last year and found some interesting explorations of the idea referenced by the word *umwelt*, which is German for “environment” or “surroundings” and pronounced *oom-velt*. I just made up the term soloverse because it’s easier for me to think of it as a private universe in our minds.
+I first came across this idea in 2013 and found some interesting explorations of the idea referenced by the word *umwelt*, which is German for “environment” or “surroundings” and pronounced *oom-velt*. I just made up the term soloverse because it’s easier for me to think of it as a private universe in our minds.
 
 A few thoughts about soloverses:
 
-1. *The soloverse is our local cache of the universe.* When we’re babies, our caches are not very full, and we're forced to take in the full firehose of the universe… unsorted, uncategorized, raw. It’s overwhelming. Our brains are designed to start building this soloverse almost immediately in order to gain some foothold on the raw craziness of all the information coming in. The soloverse is built up from basic building blocks like light and dark, smells, sounds, and eventually patterns (mom, hungry, cold, soft), and then eventually concepts (blanket, food) and meanings (safe, scared, good, bad).
+1. *The soloverse is our local cache of the universe.* When we were babies, our caches weren't very full, and we were forced to take in the full firehose of the universe: unsorted, uncategorized, raw. It was overwhelming. Our brains are designed to start building this soloverse almost immediately in order to gain some foothold on the raw craziness of all the information coming in. The soloverse is built up from basic building blocks like light and dark, smells, sounds, and eventually patterns (mom, hungry, cold, soft), and then eventually concepts (blanket, food) and meanings (safe, scared, good, bad).
 2. *What we think of as the universe is actually our soloverse.* From these basic building blocks we create beliefs and build simulations that allow us to predict future occurrences (if I cry, mom will come to me). At some point we arrive at a concept of our own selves and other people. “The concept of a person is arguably the most important interface ever developed.” — [Kevin Smokler](http://kevinsimler.quora.com/UX-and-the-Civilizing-Process)
 3. *The soloverse contains gods and archetypes and the self.* Some of our most powerful beliefs and traditional characters (God, the hero, the devil, the wizard, the fairy godmother, even our concept of our self) all exist only in our soloverses. Unicorns, dragons, Santa, astrology, luck, fairness, truth, good and evil, beginning middle and end, physics, etc are all shadows of the structure that our soloverse is running on (our brains, and the pattern matching hierarchies that they are built from) and most likely absent from the universe that they are attempting to model. This quirk is actually really fascinating to explore.
 4. *The soloverse is the most powerful tool we have.* The model of the universe that we each have is highly personal, and idiosyncratic to the experiences we’ve had. There are also large portions of which there is probably lots of overlap (common sense, myths, popular culture, things we learn in school, etc). An unhealthy soloverse will lead to poor/misinformed decision-making. An unhealthy soloverse could be responsible for cruelty, prejudice, hatred, wars, and all kinds of other unfortunate things. What could we do to help ourselves and each other have healthier soloverses? Could we address this issue directly and have an impact?
@@ -76,9 +76,9 @@ Posts about this topic: [Universe ↔ Soloverse](https://medium.com/thought-expe
 
 ### Quantum realism
 
-Quantum realism is a term I first learned from [an article](http://listverse.com/2014/11/26/10-reasons-why-our-universe-is-a-virtual-reality/) by Brian Whitmore, a senior lecturer in computing at Massey University. The idea is in opposition to "physical realism" (that belief that the physical world we see is real and exists by itself, alone). Quantum realism asserts that the physical world isn't real in itself, but merely the output (or shadow, or result, or projected image) of a quantum reality that is generating it. It's basically a virtual reality, or a simulation.
+Quantum realism is a term I first learned from [an article](http://listverse.com/2014/11/26/10-reasons-why-our-universe-is-a-virtual-reality/) by Brian Whitworth, a senior lecturer in computing at Massey University. The idea is in opposition to "physical realism" (that belief that the physical world we see is real and exists by itself, alone). Quantum realism asserts that the physical world isn't real in itself, but merely the output (or shadow, or result, or projected image) of a quantum reality that is generating it. It's basically a virtual reality, or a simulation.
 
-I'm still learning about this and definitely couldn't explain or defend it, but I'm fascinated by the idea and keep thinking about it.
+I'm still learning about this and definitely couldn't explain or defend it, but I'm fascinated by the idea and keep thinking about it. I need to read [this](http://thephysicalworldisvirtual.com/) a few more times.
 
 ### Primes 
 
@@ -220,6 +220,7 @@ We experience life and the world through a series of lenses, and these lenses ar
 
 ### Articles I've come back to a bunch of times
 
+* [The Web's Grain](http://frankchimero.com/talks/the-webs-grain/transcript/) - Frank Chimero
 * [Ten Reasons Why Our Universe Is A Virtual Reality](http://listverse.com/2014/11/26/10-reasons-why-our-universe-is-a-virtual-reality/) - Brian Whitworth
 * [The Technology](http://paulbuchheit.blogspot.com/2014/07/the-technology.html) - Paul Buchheit
 * [Neurons Gone Wild](http://kevinsimler.quora.com/Neurons-Gone-Wild) - Kevin Simler
@@ -238,6 +239,7 @@ We experience life and the world through a series of lenses, and these lenses ar
 
 ### Books I've read that have changed how I see the world
 
+* [You're It](http://www.amazon.com/Youre-It-Hiding-Seeking-Being/dp/1591797349) - Alan Watts
 * [On Intelligence](http://www.amazon.com/On-Intelligence-Jeff-Hawkins/dp/0805078533) - Jeff Hawkins
 * [Waking Up](http://www.amazon.com/Waking-Up-Spirituality-Without-Religion/dp/1451636016) - Sam Harris
 * [Creativity, Inc](http://www.amazon.com/Creativity-Inc-Overcoming-Unseen-Inspiration/dp/0804127441) - Ed Catmull
@@ -262,7 +264,20 @@ Deutsch
 
 # Monthly Reports
 
-### 2015: +
+### 2015: +++
+
+##### April 2015
+*Last month summary:* 
+
+*Weight:* 176.5 (+0.6 m/m)
+
+*Outcome of previous goal:* HIT. Wrote my 750 words on 11 days, and ran two times.
+
+*New goal:* Write 750 words on 11 or more days. Go running at least 2 times, in preparation for Bay to Breakers.
+
+*Books, movies, articles I enjoyed:*
+* You're It, by Alan Watts (12 hours of talks)
+* The Web's Grain, by Frank Chimero (edge less ness)
 
 ##### March 2015
 *Last month summary:* 
