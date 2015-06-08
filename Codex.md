@@ -36,7 +36,7 @@
 - [my writing](#my-writing)
 
 #### Changelog
-- [changes to this document](https://github.com/busterbenson/public/commits/master/Codex.md)
+- [history of changes to this document](https://github.com/busterbenson/public/commits/master/Codex.md)
 - [monthly reports](https://github.com/busterbenson/public/commits/master/Monthly.md)
 - [yearly reports](#yearly-reports)
 
@@ -231,7 +231,7 @@ Posts about this topic: [Universe ↔ Soloverse](https://medium.com/thought-expe
 ### Primes
 We experience life and the world through a series of lenses, and these lenses are colored by the ideas that have recently been activated in our brains. This idea has been popping up in my zeitgeist lately, and it seems like it's related to the soloverse, to anomalies, to beliefs, to behavior, to identity, even to quality time (the only way to really enjoy quality time is to be primed for it)... basically all of my favorite ideas. I'm creating this as a place-holder for now and will fill it in as the interest develops and I'm able to articulate it better.
 
-### Qualitytime
+### Quality time
 My own Codex Vitae's first chapter could possibly be about quality time and its role as the primary ends (and means) for a life well lived. There are 3 kinds of quality time that I want to seek out. The first is quality time with myself. Find my favorite ideas, core interests, and people that I can connect deeply with. The second is quality time with those favorite ideas and core interests, and the third is quality time with those people I can connect deeply with. They each feed into each other: I can't really connect deeply with others until I know myself sufficiently well; often times interests are strengthened by having people I can connect with and share with. It seems pretty ungameable to me. Seek quality time with myself, my interests, and others and I won't regret anything on my death bed.
 
 Posts about this topic: [The Death Bed Game](https://medium.com/better-humans/20cc8d9c7494), [How I track my life](https://medium.com/buster-benson/how-i-track-my-life-7da6f22b8e2c), [Live like a hydra](https://medium.com/@buster/live-like-a-hydra-c02337782a89).
@@ -293,6 +293,7 @@ Stuff that I've written that means something to me.
 * [Man Versus Himself](http://www.amazon.com/Versus-Himself-Erik-Keith-Benson/dp/0595283535): a novel I wrote about an 89-year old man who is CEO of 2 companies and gets stabbed in the eye.
 
 ## Changelog
+[History of changes to this document](https://github.com/busterbenson/public/commits/master/Codex.md) &middot; [Monthly reports](https://github.com/busterbenson/public/commits/master/Monthly.md)
 
 ### Yearly reports
 
