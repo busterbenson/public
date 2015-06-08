@@ -37,7 +37,7 @@
 
 #### Changelog
 - [history of changes to this document](https://github.com/busterbenson/public/commits/master/Codex.md)
-- [monthly reports](https://github.com/busterbenson/public/commits/master/Monthly.md)
+- [monthly reports](https://github.com/busterbenson/public/blob/master/Monthly.md)
 - [yearly reports](#yearly-reports)
 
 ## Beliefs
@@ -293,7 +293,7 @@ Stuff that I've written that means something to me.
 * [Man Versus Himself](http://www.amazon.com/Versus-Himself-Erik-Keith-Benson/dp/0595283535): a novel I wrote about an 89-year old man who is CEO of 2 companies and gets stabbed in the eye.
 
 ## Changelog
-[History of changes to this document](https://github.com/busterbenson/public/commits/master/Codex.md) &middot; [Monthly reports](https://github.com/busterbenson/public/commits/master/Monthly.md)
+[History of changes to this document](https://github.com/busterbenson/public/commits/master/Codex.md) &middot; [Monthly reports](https://github.com/busterbenson/public/blob/master/Monthly.md)
 
 ### Yearly reports
 
