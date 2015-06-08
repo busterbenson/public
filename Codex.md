@@ -244,7 +244,7 @@ I'm still learning about this and definitely couldn't explain or defend it, but 
 ### Needs definition
 - Rational emotive behavior therapy ([wikipedia](http://en.wikipedia.org/wiki/Rational_emotive_behavior_therapy))
 
-## Personal Canon
+## Personal canon
 
 ### Articles 
 Writing I've loved and come back to a bunch of times.
