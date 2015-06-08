@@ -34,7 +34,7 @@ Things I've learned and want to remind myself of every year on my birthday (May 
 5. Review/update this list
 
 ## Favorite Ideas
-This is an list of ideas that have gotten hopelessly stuck in my brain. 
+This is a list of ideas that have gotten hopelessly stuck in my brain. 
 
 ### Codex Vitae
 
