@@ -5,7 +5,7 @@
 #### Instructions
 
 - *If you’re Buster:*
-     1. As often as you can: re-read your [Type 3 beliefs](#type_3_opinions) (opinions).
+     1. As often as you can: re-read your [Type 3 beliefs](#type-3-opinions) (opinions).
      2. At the beginning of every month, review the whole document, make any necessary edits, and write a new monthly report.
      3. Around your birthday every year, write a new yearly report.
 - *If you’re a first time reader:* read the [Glossary](#glossary) for a general intro to my favorite ideas, starting with [What is this?](#what_is_this), then come back and read through the [Beliefs](#beliefs) that seem interesting to you. 
@@ -13,34 +13,32 @@
 
 #### Beliefs
 
-- [Type 1: Metabeliefs: beliefs about beliefs](#type_1_metabeliefs)
-- [Type 2: Perceptions: beliefs about how reality seems to be](#type_2_perceptions)
-- [Type 3: Opinions: beliefs about the meaning of reality and how myself and others should approach life](#type_3_opinions)
-- [Type 4: Predictions: beliefs about how things will be in the future](#type_4_predictions)
+- [Type 1: Metabeliefs: beliefs about beliefs](#type-1-metabeliefs)
+- [Type 2: Perceptions: beliefs about how reality seems to be](#type-2-perceptions)
+- [Type 3: Opinions: beliefs about the meaning of reality and how myself and others should approach life](#type-3-opinions)
+- [Type 4: Predictions: beliefs about how things will be in the future](#type-4-predictions)
 
 #### Glossary
  
-- [What is this?](#what_is_this)
-- [Codex vitae](#codex_vitae)
-- [Hume’s fork](#humes_fork)
+- [What is this?](#what-is-this)
+- [Codex vitae](#codex-vitae)
+- [Hume’s fork](#humes-fork)
 - [Optionality](#optionality)
 - [Soloverse](#soloverse)
 - [Primes](#primes)
-- [Quality time](#quality_time)
-- [Quantum realism](#quantum_realism)
-- [Needs definition](#needs_definition)
+- [Quality time](#quality-time)
+- [Quantum realism](#quantum-realism)
+- [Needs definition](#needs-definition)
 
 #### Personal canon
 - [articles](#articles)
 - [books](#books)
-- [my writing](#my_writing)
+- [my writing](#my-writing)
 
 #### Changelog
 - [changes to this document](https://github.com/busterbenson/public/commits/master/Codex.md)
 - [monthly reports](https://github.com/busterbenson/public/commits/master/Monthly.md)
-- [yearly reports](#yearly_reports)
-
------
+- [yearly reports](#yearly-reports)
 
 ## Beliefs
 
@@ -189,8 +187,6 @@ How I think things will be in the future, based on the approximate year I think 
 #### 4: Predictions: By 2200
 - Humans, computers, and Earth will evolve into at least one super organism or networked brain.
 
------
-
 ## Glossary
  
 ### What is this?
@@ -248,8 +244,6 @@ I'm still learning about this and definitely couldn't explain or defend it, but 
 ### Needs definition
 - Rational emotive behavior therapy ([wikipedia](http://en.wikipedia.org/wiki/Rational_emotive_behavior_therapy))
 
------
-
 ## Personal Canon
 
 ### Articles 
@@ -297,8 +291,6 @@ Stuff that I've written that means something to me.
 * [The Death Bed Game](https://medium.com/better-humans/20cc8d9c7494): He/she who dies with the most death bed points, wins.
 * [If You Live 100 Times](https://readtapestry.com/s/RVwPvalHq/): A tappable essay that plays out 100 lives that you could live.
 * [Man Versus Himself](http://www.amazon.com/Versus-Himself-Erik-Keith-Benson/dp/0595283535): a novel I wrote about an 89-year old man who is CEO of 2 companies and gets stabbed in the eye.
-
------
 
 ## Changelog
 
