@@ -112,7 +112,7 @@ Science, politics, and the universe.
 - Vaccinations are good for babies and society.
 
 ### Type 3: Opinions
-Beliefs how I interpret my perceptions and synthesize the meaning of reality. 3A is about what this means for my own approach to life, and 3B is about how I believe society should be structured.
+Beliefs about how I interpret my perceptions and synthesize the meaning of reality. 3A is about what this means for my own approach to life, and 3B is about how I believe society should be structured.
 
 #### 3A: Opinions
 How I believe I should approach life. These are all opt-in and apply only to myself.
