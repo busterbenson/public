@@ -117,7 +117,7 @@ Beliefs about how I interpret my perceptions and synthesize the meaning of reali
 #### 3A: Opinions
 How I believe I should approach life. These are all opt-in and apply only to myself.
 
-- I should regularly verify that I want to continue opting-in to items everything in this document on the first of every month. 
+- I should regularly verify that I want to continue opting-in to everything in this document on the first of every month. 
 - I should create a new monthly report on the first of every month.
 - I should create a new yearly report every year on my birthday.
 - I should strive to know what I really believe, and to make sure my beliefs work well together.
