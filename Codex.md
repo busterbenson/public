@@ -297,6 +297,8 @@ Stuff that I've written that means something to me.
 
 ### Yearly reports
 
+39: [Make wiggle room](https://medium.com/buster-benson/39-make-wiggle-room-2546b44b9804) (2015)
+
 38: [Cultivate quality time](https://medium.com/p/5e72aa44b857) (2014)
 
 37: [More kiloslogs](http://wayoftheduck.com/37) (2013)
