@@ -190,7 +190,7 @@ How I think things will be in the future, based on the approximate year I think 
 ## Glossary
  
 ### What is this?
-This document was started in [April of 2012](https://github.com/busterbenson/public/blob/cb1481ae0d2458474d61d79cde6d9bef05a55a8c/Beliefs.md) as a result of an experiment one Sunday. Though I didn’t realize it at the time, maintaining this document has become one of the most valuable things in my life. It’s a way for me to remember who I am, catch inconsistencies in how I respond to different events in the world, and to react to current events from a position of how I believe the world is, should be, and will become rather than feeling helpless. Since starting it, 
+This document was started in [April of 2012](https://github.com/busterbenson/public/blob/cb1481ae0d2458474d61d79cde6d9bef05a55a8c/Beliefs.md) as a result of an experiment one Sunday. Though I didn’t realize it at the time, maintaining this document has become one of the most valuable things in my life. It’s a way for me to remember who I am, catch inconsistencies in how I respond to different events in the world, and to react to current events from a position of how I believe the world is, should be, and will become rather than feeling helpless. 
 
 Posts about this topic: [My Sunday experiment: what do I believe?](http://bustr.me/post/21579186643/my-sunday-experiment-what-do-i-believe)
 
