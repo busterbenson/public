@@ -58,7 +58,7 @@ How reality seems to be. 2A is about how my mind seems to work, 2B is about my t
 #### 2A Perceptions
 Personal mental and physical abilities, constraints, and biases.
 
-- Perception and sensation is the awareness of changing contrast. We are blind to everything else. 
+- Perception and sensation is the awareness of things changing. We can't sense things that don't change. 
 - Free will is mostly an illusion, but a nice one to keep.
 - Pure altruism is an illusion.
 - We are all building an incomplete model of the universe in our heads and usually operate under the assumption that it's the real universe (it’s just easier that way).
@@ -143,7 +143,7 @@ How I believe I should approach life. These are all opt-in and apply only to mys
 #### 3B: Opinions
 How I believe society should be structured.
 
-- Gay marriage should be legal everywhere.
+- Gay marriage should be legal everywhere (and now IS in the United States!)
 - Abortion should be legal everywhere.
 - Assisted suicide should be legal everywhere.
 - Health care should be available and affordable to everyone who needs it.
@@ -249,6 +249,7 @@ I'm still learning about this and definitely couldn't explain or defend it, but 
 ### Articles 
 Writing I've loved and come back to a bunch of times.
 
+* [On conversational UIs](http://interconnected.org/home/2015/06/16/conversational_uis) - Matt Webb
 * [The Web's Grain](http://frankchimero.com/talks/the-webs-grain/transcript/) - Frank Chimero
 * [Ten Reasons Why Our Universe Is A Virtual Reality](http://listverse.com/2014/11/26/10-reasons-why-our-universe-is-a-virtual-reality/) - Brian Whitworth
 * [The Technology](http://paulbuchheit.blogspot.com/2014/07/the-technology.html) - Paul Buchheit
