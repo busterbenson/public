@@ -2,54 +2,7 @@
 
 ### 2015: +++
 
-##### June 2015
-*Last month summary:* 
-
-*Weight:* unknown (battery is dead)
-
-*Outcome of previous goal:* MISS. No goal was made in May.
-
-*New goal:* Write at least 10 blog posts on BART. ([#writtenonbart](https://medium.com/tag/written-on-bart)) 
-
-##### April 2015
-*Last month summary:* 
-
-*Weight:* 176.5 (+0.6 m/m)
-
-*Outcome of previous goal:* HIT. Wrote my 750 words on 11 days, and ran two times.
-
-*New goal:* Write 750 words on 11 or more days. Go running at least 2 times, in preparation for Bay to Breakers.
-
-*Books, movies, articles I enjoyed:*
-* You're It, by Alan Watts (12 hours of talks)
-* The Web's Grain, by Frank Chimero (edge less ness)
-
-##### March 2015
-*Last month summary:* 
-
-*Weight:* 175.9 (-1.6 m/m)
-
-*Outcome of previous goal:* HIT. Wrote my 750 words on 11 days, tying last month again. Fell off of Health Month near the end.
-
-*New goal:* Write 750 words on 11 or more days. Go running on my newly mostly-healed knee at least 2 times.
-
-*Books and movies I enjoyed:*
-* Birdman
-* Boyhood
-* The art of learning, by Joshua Waitzkin
-
-##### February 2015
-*Last month summary:* Launched mobile analytics on iPhone before the holidays, had a great visit from Chris Finley (old highschool friend) and his wife while KA and Niko were in Delaware, celebrated a quiet Christmas (got Niko into Little Bits though), and did NYE at Amy and Thors (where Niko stayed up past midnight for the first time).
-
-*Weight:* 177.5 (-3.7 m/m)
-
-*Outcome of previous goal:* HIT. Wrote my 750 words on 11 days, tying last month. And stuck pretty closely to health month rules. 
-
-*New goal:* Continuing my health month into February, with 5 Amnesty Days since I'll be in Seattle for a wedding. I want to continue to write 750 words on 11 or more days.
-
-*Interests:*
-* Hierarchical pattern matching from Jeff Hawkin's On Intelligence book
-* Financial planning from Tony Robbin's Money book
+[Posting these on Medium now](https://medium.com/@buster/buster-s-monthly-reports-2015-730f5fdb6e7f).
 
 ##### January 2015
 *Last month summary:* Launched mobile analytics on iPhone before the holidays, had a great visit from Chris Finley (old highschool friend) and his wife while KA and Niko were in Delaware, celebrated a quiet Christmas (got Niko into Little Bits though), and did NYE at Amy and Thors (where Niko stayed up past midnight for the first time).
