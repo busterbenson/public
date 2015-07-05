@@ -294,7 +294,7 @@ Stuff that I've written that means something to me.
 * [Man Versus Himself](http://www.amazon.com/Versus-Himself-Erik-Keith-Benson/dp/0595283535): a novel I wrote about an 89-year old man who is CEO of 2 companies and gets stabbed in the eye.
 
 ## Changelog
-[History of changes to this document](https://github.com/busterbenson/public/commits/master/Codex.md) &middot; [Monthly reports](https://github.com/busterbenson/public/blob/master/Monthly.md)
+[History of changes to this document](https://github.com/busterbenson/public/commits/master/Codex.md) &middot; [Monthly reports](https://medium.com/@buster/buster-s-monthly-reports-2015-730f5fdb6e7f)
 
 ### Yearly reports
 
