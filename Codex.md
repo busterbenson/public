@@ -55,7 +55,7 @@ Beliefs about beliefs.
 ### Type 2: Perceptions
 How reality seems to be. 2A is about how my mind seems to work, 2B is about my take on spirituality, and 2C is about how I think the external world is based on the information I have.
 
-#### 2A Perceptions
+#### 2A Perceptions: Senses
 Personal mental and physical abilities, constraints, and biases.
 
 - Perception and sensation is the awareness of things changing. We can't sense things that don't change. 
@@ -63,32 +63,33 @@ Personal mental and physical abilities, constraints, and biases.
 - Pure altruism is an illusion.
 - We are all building an incomplete model of the universe in our heads and usually operate under the assumption that it's the real universe (it’s just easier that way).
 - Our mental model of the universe evolved so we could better predict and act on long-term threats and opportunities.
+- Stories enable us to create and remember meaning because they fit well in our mental model of the universe.
 - Consciousness is the sensation of our mental model of the universe telling a story to itself, about itself.
-- Consciousness evolved to help the mental model examine, repair, and improve itself.
-- We tell stories in order to create and remember meaning because they fit well in our brains.
+- Consciousness evolved to allow our mental model of the universe to examine, repair, and improve itself.
 - Playing lots of games (of any kind: video, board, card, other) will make us build more accurate models of the universe than people who don’t.
 - We can change our behavior and habits but it requires a ridiculous amount of energy.
 - Most of the time we don’t change ourselves, but are rather changed by other things. That doesn’t mean we can’t tell a story about how we changed ourselves, and believe it.
 - Consistently eating well, exercising, and getting enough sleep is the only way to be sustainably healthy.
-- We tend to favor the beautiful.
-- We tend to see what we expect to see.
+- We create mental heuristics to reduce the amount of energy to retrieve, sort, and select from lists of likely possibilities.
+- The biproduct of mental heuristics is that we are biased at all times in proportion to the number of heuristics we use.
+- We tend to favor the beautiful, the reaffirming, and the expected.
 - We tend to attribute too much credit to success (and under-credit luck).
 
-#### 2B Perceptions
+#### 2B Perceptions: Supersenses
 My take on the spiritual and supernatural.
 
 - We don't have a purpose given to us, but it's okay if we make one up.
 - My self-declared purpose is to enjoy quality time (with myself, with others, and with my interests) by discovering and removing obstacles that hinder quality time
 - Frequently remembering we will die increases the quality of our life
 - Souls don't exist as separate from the physical body.
-- The Gods of organized religion don't exist.
-- Intention can't create reality (it just primes our perception of it.
+- The gods of organized religion don't exist.
+- Intention can't create reality (it just primes our perception of it).
 - Astrology is (fun) entertainment, like the Myers Briggs test.
 - Magic and miracles don't exist outside the explanations of science.
 - There is no heaven or hell.
 - We have no cosmic significance.
 
-#### 2C Perceptions
+#### 2C Perceptions: Explanatory
 Science, politics, and the universe.
 
 - We probably live in a simulation (see digital realism).
@@ -98,15 +99,15 @@ Science, politics, and the universe.
 - Something existed before the Big Bang (outside of time and space as we know them).
 - Nothing in our universe can travel faster than light.
 - The human brain (in its current state of evolution) can't comprehend the universe.
-- Aliens exist.
 - Non-carbon-based life forms exist.
+- Aliens exist, but we will most likely discover their creations (ie. robots they made) before we discover them. 
 - The vast majority of intelligenct beings throughout the universe are probably more similar to robots and cyborgs than organically evolved life.
 - Perception of time can be sped up or slowed down, but not reversed (forwards time travel is possible, backwards is not).
 - Technology will eventually disrupt all other human-created institutions (politics, religion, identity, economics, energy).
-- Power will be more quickly redistributed when it gets too heavy at the top.
+- As history progresses, power will tend to be more quickly redistributed when it gets too heavy at the top.
 - Privacy is just a side effect of people not being truly connected.
 - Being good/moral increasingly becomes our default state as we learn more about the world and are more connected with others.
-- Most questions have no answer (asking them anyway is sometimes entertaining anyway).
+- Most questions have no answer (but asking them anyway is often entertaining).
 - Logic is a helpful tool, but has flaws and can't be relied on entirely.
 - Acupuncture works, somehow.
 - Vaccinations are good for babies and society.
@@ -114,7 +115,7 @@ Science, politics, and the universe.
 ### Type 3: Opinions
 Beliefs about how I interpret my perceptions and synthesize the meaning of reality. 3A is about what this means for my own approach to life, and 3B is about how I believe society should be structured.
 
-#### 3A: Opinions
+#### 3A: Opinions: Shoulds
 How I believe I should approach life. These are all opt-in and apply only to myself.
 
 - I should regularly verify that I want to continue opting-in to everything in this document on the first of every month. 
@@ -140,10 +141,10 @@ How I believe I should approach life. These are all opt-in and apply only to mys
 - I should face things that make me uncomfortable.
 - I should take responsibility for things I find important, even if I can’t fully control them.
 
-#### 3B: Opinions
+#### 3B: Opinions: Society
 How I believe society should be structured.
 
-- Gay marriage should be legal everywhere (and now IS in the United States!)
+- Gay marriage should be legal everywhere (and now IS in the United States).
 - Abortion should be legal everywhere.
 - Assisted suicide should be legal everywhere.
 - Health care should be available and affordable to everyone who needs it.
@@ -153,12 +154,13 @@ How I believe society should be structured.
 - Owning a gun should require certification from a firearms officer verifying that they've taken a safety course, are free of criminal record, and pass a psychological mental health check every few years.
 - It should be easier and more expedient to put neglectful and irresponsible public servants in prison than the average citizen, not slower and more difficult.
 - Guaranteed basic income should be a thing.
+- Free college education should be available to everyone who wants it.
 
 ### Type 4: Predictions
 How I think things will be in the future, based on the approximate year I think they’ll come true.
 
 #### 4: Predictions: By 2016
-- Wager with Rick Webb: by March 1st, descendants of Google Glass will be seen regularly in the wild (in the same way that Fitbits, NikeFuel bands, and retina MacBook Pros are in 2013). (I’m gonna lose this one, but would go double or nothing for 2025. Rick?)
+- Wager with Rick Webb: by March 1st, descendants of Google Glass will be seen regularly in the wild (in the same way that Fitbits, NikeFuel bands, and retina MacBook Pros are in 2013). (I’m gonna lose this one, but hoping to go double or nothing for 2025. Rick?)
 
 #### 4. Predictions: By 2025
 - Global warming will severely impact the global economy in some way and threaten the livelihood of people in some parts of the world.
@@ -200,7 +202,7 @@ This is an idea coined by Robin Sloan in his book [Mr Penumbra's 24-Hour Booksto
 Posts about this topic: [Codex Vitae](http://wayoftheduck.com/codex-vitae). 
 
 ### Hume’s fork
-The gist is that there are two kinds of knowledge: matters of fact, and relations of ideas. However, matters of fact aren’t accessible to us… we can never know something for certain. All we can do is create a self-referencing network of ideas that are related to each other. What we think of as truth is merely the ability for a particular idea to fit in the network of ideas. 
+The gist is that there are two kinds of knowledge: matters of fact, and relations of ideas. Matters of fact aren’t accessible to us--we can never know something for certain, only that it hasn't been proven wrong yet. We can only create a self-referencing network of ideas that are related to each other. What we think of as truth is merely the ability for a particular idea to fit into this network of ideas without causing irreconcilable contradictions. 
 
 See [the entry on Wikipedia](http://en.wikipedia.org/wiki/Hume%27s_fork) for a good intro to the idea.
  
