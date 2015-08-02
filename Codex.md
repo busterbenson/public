@@ -202,7 +202,7 @@ This is an idea coined by Robin Sloan in his book [Mr Penumbra's 24-Hour Booksto
 Posts about this topic: [Codex Vitae](http://wayoftheduck.com/codex-vitae). 
 
 ### Hume’s fork
-The gist is that there are two kinds of knowledge: matters of fact, and relations of ideas. Matters of fact aren’t accessible to us--we can never know something for certain, only that it hasn't been proven wrong yet. We can only create a self-referencing network of ideas that are related to each other. What we think of as truth is merely the ability for a particular idea to fit into this network of ideas without causing irreconcilable contradictions. 
+The gist is that there are two kinds of knowledge: matters of fact, and relations of ideas. Matters of fact aren’t accessible to us&mdash;we can never know something for certain, only that it hasn't been proven wrong yet. We can only create a self-referencing network of ideas that are related to each other. What we think of as truth is merely the ability for a particular idea to fit into this network of ideas without causing irreconcilable contradictions. 
 
 See [the entry on Wikipedia](http://en.wikipedia.org/wiki/Hume%27s_fork) for a good intro to the idea.
  
