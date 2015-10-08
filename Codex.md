@@ -46,30 +46,31 @@
 Beliefs about beliefs.
 
 - Making and maintaining this document is useful and fun.
-- This document attempts to capture my beliefs about the universe.
+- It's purpose is to capture my beliefs about the universe.
 - This document is incomplete and out of date.
 - Some of these beliefs will be proven wrong.
-- I’m open to changing my mind at any time about any belief by evidence, persuasion, or chance. 
-- I believe beliefs can be categorized into four types: beliefs about beliefs (metabeliefs), beliefs about perceptions (how reality seems to be), beliefs about the meaning of reality (opinions about how myself and others should approach life), and beliefs about the future (predictions about how things will be in the future).
+- I’m open to changing my mind at any time about any belief by evidence, persuasion, whimsy, or chance. 
+- I believe beliefs are best categorized into four types: beliefs about beliefs (metabeliefs), beliefs about perceptions (how reality seems to be), beliefs about the meaning of reality (opinions about how myself and others should approach life), and beliefs about the future (predictions about how things will be in the future).
 
 ### Type 2: Perceptions
-How reality seems to be. 2A is about how my mind seems to work, 2B is about my take on spirituality, and 2C is about how I think the external world is based on the information I have.
+How reality seems to be. 2A is about how my mind and senses seem to work, 2B is about my take on spirituality, and 2C is about how I think the external world is based on the information I have.
 
 #### 2A Perceptions: Senses
 Personal mental and physical abilities, constraints, and biases.
 
-- Perception and sensation is the awareness of things changing. We can't sense things that don't change. 
+- Perception/sensation is the awareness of things changing. We can't perceive or sense things that aren't changing. 
 - Free will is mostly an illusion, but a nice one to keep.
 - Pure altruism is an illusion.
-- We are all building an incomplete model of the universe in our heads and usually operate under the assumption that it's the real universe (it’s just easier that way).
-- Our mental model of the universe evolved so we could better predict and act on long-term threats and opportunities.
-- Stories enable us to create and remember meaning because they fit well in our mental model of the universe.
-- Consciousness is the sensation of our mental model of the universe telling a story to itself, about itself.
+- We are all building an incomplete model of the universe in our heads and usually operate under the assumption that this model is the real universe (it’s just easier that way).
+- Our mental model of the universe evolved so we could better predict and act on long-term threats and opportunities. 
+- The best way for our brains to model predictions is to create stories.
+- Consciousness is a stream of observer moments. 
+- Each observer moment is a static model of the universe captured in freeze frame, with a frozen picture of the past, present, future, and every concept. It gets updated anew each moment, along with a fading memory of past moments.
+- Consciousness is the sensation of our mental model of the universe constantly changing itself to integrate new information.
 - Consciousness evolved to allow our mental model of the universe to examine, repair, and improve itself.
 - Playing lots of games (of any kind: video, board, card, other) will make us build more accurate models of the universe than people who don’t.
 - We can change our behavior and habits but it requires a ridiculous amount of energy.
 - Most of the time we don’t change ourselves, but are rather changed by other things. That doesn’t mean we can’t tell a story about how we changed ourselves, and believe it.
-- Consistently eating well, exercising, and getting enough sleep is the only way to be sustainably healthy.
 - We create mental heuristics to reduce the amount of energy to retrieve, sort, and select from lists of likely possibilities.
 - The biproduct of mental heuristics is that we are biased at all times in proportion to the number of heuristics we use.
 - We tend to favor the beautiful, the reaffirming, and the expected.
@@ -79,8 +80,9 @@ Personal mental and physical abilities, constraints, and biases.
 My take on the spiritual and supernatural.
 
 - We don't have a purpose given to us, but it's okay if we make one up.
-- My self-declared purpose is to enjoy quality time (with myself, with others, and with my interests) by discovering and removing obstacles that hinder quality time
-- Frequently remembering we will die increases the quality of our life
+- My self-declared purpose is to enjoy quality time (with myself, with others, and with my interests) by discovering and removing obstacles that hinder quality time.
+- Frequently remembering we will die increases the quality of our life.
+- Life is already lost. The only honest way to approach it is from a perspective of gratitude.
 - Souls don't exist as separate from the physical body.
 - The gods of organized religion don't exist.
 - Intention can't create reality (it just primes our perception of it).
@@ -101,6 +103,7 @@ Science, politics, and the universe.
 - The human brain (in its current state of evolution) can't comprehend the universe.
 - Non-carbon-based life forms exist.
 - Aliens exist, but we will most likely discover their creations (ie. robots they made) before we discover them. 
+- Aliens will probably discover our own robots before they discover us.
 - The vast majority of intelligenct beings throughout the universe are probably more similar to robots and cyborgs than organically evolved life.
 - Perception of time can be sped up or slowed down, but not reversed (forwards time travel is possible, backwards is not).
 - Technology will eventually disrupt all other human-created institutions (politics, religion, identity, economics, energy).
@@ -133,7 +136,7 @@ How I believe I should approach life. These are all opt-in and apply only to mys
 - I should stake my reputation on my better self.
 - I should be comfortable with the consequences of being who I am.
 - I should make my own advice and take it.
-- I should manage my stress, health, and clarity.
+- I should manage my stress, health, and clarity by consistently eating well, exercising, and getting enough sleep.
 - I should study my mistakes.
 - I should retry things I don’t like every once in a while.
 - I should go slow, work hard, and avoid shortcuts.
@@ -153,8 +156,9 @@ How I believe society should be structured.
 - Marijuana should be legal to grow, sell, buy, and carry.
 - Owning a gun should require certification from a firearms officer verifying that they've taken a safety course, are free of criminal record, and pass a psychological mental health check every few years.
 - It should be easier and more expedient to put neglectful and irresponsible public servants in prison than the average citizen, not slower and more difficult.
-- Guaranteed basic income should be a thing.
+- Guaranteed basic income should be a thing available to everyone.
 - Free college education should be available to everyone who wants it.
+- Hunting endangered animals in order to raise money to conserve them is okay if it can be proven to actually work.
 
 ### Type 4: Predictions
 How I think things will be in the future, based on the approximate year I think they’ll come true.
