@@ -104,7 +104,7 @@ Science, politics, and the universe.
 - Non-carbon-based life forms exist.
 - Aliens exist, but we will most likely discover their creations (ie. robots they made) before we discover them. 
 - Aliens will probably discover our own robots before they discover us.
-- The vast majority of intelligenct beings throughout the universe are probably more similar to robots and cyborgs than organically evolved life.
+- The vast majority of intelligent beings throughout the universe are probably more similar to robots and cyborgs than organically evolved life.
 - Perception of time can be sped up or slowed down, but not reversed (forwards time travel is possible, backwards is not).
 - Technology will eventually disrupt all other human-created institutions (politics, religion, identity, economics, energy).
 - As history progresses, power will tend to be more quickly redistributed when it gets too heavy at the top.
