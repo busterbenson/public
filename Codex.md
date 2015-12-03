@@ -255,6 +255,7 @@ I'm still learning about this and definitely couldn't explain or defend it, but 
 ### Articles 
 Writing I've loved and come back to a bunch of times.
 
+* [The Cook and the Chef: Musk's Secret Sauce](http://waitbutwhy.com/2015/11/the-cook-and-the-chef-musks-secret-sauce.html) - Tim Urban
 * [On conversational UIs](http://interconnected.org/home/2015/06/16/conversational_uis) - Matt Webb
 * [The Web's Grain](http://frankchimero.com/talks/the-webs-grain/transcript/) - Frank Chimero
 * [Ten Reasons Why Our Universe Is A Virtual Reality](http://listverse.com/2014/11/26/10-reasons-why-our-universe-is-a-virtual-reality/) - Brian Whitworth
