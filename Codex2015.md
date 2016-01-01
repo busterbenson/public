@@ -167,12 +167,12 @@ How I think things will be in the future, based on the approximate year I think 
 - Wager with Rick Webb: by March 1st, descendants of Google Glass will be seen regularly in the wild (in the same way that Fitbits, NikeFuel bands, and retina MacBook Pros are in 2013). (I’m gonna lose this one, but hoping to go double or nothing for 2025. Rick?)
 
 #### 4. Predictions: By 2025
+- We'll have a President that admits to being atheist or agnostic by 2025.
 - Global warming will severely impact the global economy in some way and threaten the livelihood of people in some parts of the world.
 - The technology to program DNA (via CRISPR) will allow us to easily and cheaply edit, remove, and add DNA in embryos. We will start with obvious applications (like preventing Alzheimers) but not stop there.
 - Self-driving vehicles will begin to replace truck drivers, impacting employment rates in the country.
 
 #### 4: Predictions: By 2030
-- We'll have a President that admits to being atheist or agnostic by 2025.
 - Most jobs lost between 2008-2012 aren't going to come back, new ones have to be created from scratch (or not)
 - Safe, genetically modified foods will become the norm.
 - Wager with Carinna: by 2028, the equivalent of a college education (both in breadth of knowledge and value to career) will be available to anyone with an internet connection.
