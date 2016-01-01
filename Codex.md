@@ -2,12 +2,14 @@
 
 #### Instructions
 
+- *If you’re a first time reader:* read the [Glossary](#glossary) for a general intro to my favorite ideas, starting with [What is this?](#what-is-this), then come back and read through the [Beliefs](#beliefs) that seem interesting to you. 
+- *If you're a returning reader:* check the [Changelog](https://github.com/busterbenson/public/commits/master/Codex.md) for updates since you last visited.
 - *If you’re Buster:*
      1. As often as you can: re-read your [Type 3 beliefs](#type-3-opinions) (opinions).
      2. At the beginning of every month, review the whole document, make any necessary edits, and write a new monthly report.
+     3. At the beginning of every year archive the document. Here's [2012](https://github.com/busterbenson/public/blob/master/Codex2012.md), [2013](https://github.com/busterbenson/public/blob/master/Codex2013.md), [2014](https://github.com/busterbenson/public/blob/master/Codex2014.md), [2015](https://github.com/busterbenson/public/blob/master/Codex2015.md).
      3. Around your birthday every year, write a new yearly report.
-- *If you’re a first time reader:* read the [Glossary](#glossary) for a general intro to my favorite ideas, starting with [What is this?](#what-is-this), then come back and read through the [Beliefs](#beliefs) that seem interesting to you. 
-- *Otherwise:* check the [Changelog](https://github.com/busterbenson/public/commits/master/Codex.md) for updates since you last visited.
+
 
 ## Table of contents
 
@@ -47,7 +49,7 @@ Beliefs about beliefs.
 
 - Making and maintaining this document is useful and fun.
 - It's purpose is to capture my beliefs about the universe.
-- This document is incomplete and out of date.
+- This document is always incomplete and out of date.
 - Some of these beliefs will be proven wrong.
 - I’m open to changing my mind at any time about any belief by evidence, persuasion, whimsy, or chance. 
 - I believe beliefs are best categorized into four types: beliefs about beliefs (metabeliefs), beliefs about perceptions (how reality seems to be), beliefs about the meaning of reality (opinions about how myself and others should approach life), and beliefs about the future (predictions about how things will be in the future).
@@ -196,7 +198,7 @@ How I think things will be in the future, based on the approximate year I think 
 ## Glossary
  
 ### What is this?
-This document was started in [April of 2012](https://github.com/busterbenson/public/blob/cb1481ae0d2458474d61d79cde6d9bef05a55a8c/Beliefs.md) as a result of an experiment one Sunday. Though I didn’t realize it at the time, maintaining this document has become one of the most valuable activities in my life. It’s a way for me to remember who I am, catch inconsistencies in how I respond to different events in the world, and to react to current events from a position of how I believe the world is, should be, and will become rather than feeling helpless. 
+This document was started in [April of 2012](https://github.com/busterbenson/public/blob/cb1481ae0d2458474d61d79cde6d9bef05a55a8c/Beliefs.md) as a result of an experiment one Sunday. Maintaining this document has become one of the most valuable activities in my life. It’s a way for me to remember who I am, catch inconsistencies in how I respond to different events in the world, and to react to current events from a position of how I believe the world is, should be, and will. 
 
 Posts about this topic: [My Sunday experiment: what do I believe?](http://bustr.me/post/21579186643/my-sunday-experiment-what-do-i-believe)
 

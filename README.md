@@ -4,7 +4,7 @@ My public self. AKA my attempt to discover how I view the world and express it a
 
 ## START HERE: [Codex](Codex.md)
 
-## Other misc
+## Other stuff:
 
 * [Tweet archive](tweets.zip)
 * [Raw download of my genome](Genome.txt)
