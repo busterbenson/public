@@ -293,7 +293,7 @@ Stuff that I've written that means something to me.
 * [Make better resolutions](https://medium.com/buster-benson/make-better-resolutions-69cda443d387): 5 tips 
 * [Live Like a Hydra](https://medium.com/better-humans/c02337782a89): Thoughts on how to get stronger when things are chaotic.
 * [The Death Bed Game](https://medium.com/better-humans/20cc8d9c7494): He/she who dies with the most death bed points, wins.
-* [If You Live 100 Times](https://readtapestry.com/s/RVwPvalHq/): A tappable essay that plays out 100 lives that you could live.
+* [If You Live 100 Times](http://cdn.readtapestry.com/stories/RVwPvalHq/index.html): A tappable essay that plays out 100 lives that you could live.
 * [Man Versus Himself](http://www.amazon.com/Versus-Himself-Erik-Keith-Benson/dp/0595283535): a novel I wrote about an 89-year old man who is CEO of 2 companies and gets stabbed in the eye.
 
 ## Changelog
