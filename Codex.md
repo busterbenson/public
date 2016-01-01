@@ -24,13 +24,13 @@
  
 - [What is this?](#what-is-this)
 - [Codex vitae](#codex-vitae)
+- [Quality time](#quality-time)
+- [Systems thinking](#systems-thinking)
+- [Soloverse](#soloverse)
 - [Hume’s fork](#humes-fork)
 - [Optionality](#optionality)
-- [Soloverse](#soloverse)
 - [Primes](#primes)
-- [Quality time](#quality-time)
 - [Quantum realism](#quantum-realism)
-- [Needs definition](#needs-definition)
 
 #### Personal canon
 - [articles](#articles)
@@ -198,14 +198,31 @@ How I think things will be in the future, based on the approximate year I think 
 ## Glossary
  
 ### What is this?
-This document was started in [April of 2012](https://github.com/busterbenson/public/blob/cb1481ae0d2458474d61d79cde6d9bef05a55a8c/Beliefs.md) as a result of an experiment one Sunday. Maintaining this document has become one of the most valuable activities in my life. It’s a way for me to remember who I am, catch inconsistencies in how I respond to different events in the world, and to react to current events from a position of how I believe the world is, should be, and will. 
+This document was started in [April of 2012](https://github.com/busterbenson/public/blob/cb1481ae0d2458474d61d79cde6d9bef05a55a8c/Beliefs.md) as a result of an experiment one Sunday. Maintaining this document has become one of the most treasured activities in my life. It’s a way for me to remember who I am, catch inconsistencies in how I respond to different events in the world, react to current events from a position of how I believe the world is, should be, and will become. 
 
-Posts about this topic: [My Sunday experiment: what do I believe?](http://bustr.me/post/21579186643/my-sunday-experiment-what-do-i-believe)
+How it started: [My Sunday experiment: what do I believe?](http://bustr.me/post/21579186643/my-sunday-experiment-what-do-i-believe)
 
 ### Codex vitae
 This is an idea coined by Robin Sloan in his book [Mr Penumbra's 24-Hour Bookstore](http://www.amazon.com/Mr-Penumbras-24-Hour-Bookstore-Novel/dp/1250037751). The idea is to write a book, the Codex Vitae or Book of Life, that represents everything I have learned in my life. If I lost all of my memories somehow, this could be something that helped me remember who I am. 
 
 Posts about this topic: [Codex Vitae](http://wayoftheduck.com/codex-vitae). 
+
+### Quality time
+My own Codex Vitae's first chapter could possibly be about quality time and its role as the primary ends (and means) for a life well lived. There are 3 kinds of quality time that I want to seek out. The first is quality time with myself. Find my favorite ideas, core interests, and people that I can connect deeply with. The second is quality time with those favorite ideas and core interests, and the third is quality time with those people I can connect deeply with. They each feed into each other: I can't really connect deeply with others until I know myself sufficiently well; often times interests are strengthened by having people I can connect with and share with. It seems pretty ungameable to me. Seek quality time with myself, my interests, and others and I won't regret anything on my death bed.
+
+Posts about this topic: [The Death Bed Game](https://medium.com/better-humans/20cc8d9c7494), [How I track my life](https://medium.com/buster-benson/how-i-track-my-life-7da6f22b8e2c), [Live like a hydra](https://medium.com/@buster/live-like-a-hydra-c02337782a89).
+
+### Systems thinking
+I first became obsessed with the concept of systems thinking after reading [The Fifth Discipline](http://www.amazon.com/The-Fifth-Discipline-Practice-Organization/dp/0553456342). It's often used in relation to natural systems (like the water cycle and the carbon cycle) in order to illustrate how certain resources cycle through various incarnations over time. However, it can be applied to so much more than just elements, and I've found that this way of thinking really changes how I think about all kinds of day to day things. I'm currently in the process of trying to write a children's book that explains systems thinking.
+
+Posts about this topic: [Systems Thinking for Kids](https://medium.com/@buster/systems-thinking-for-kids-ab273a47bbd4?source=your-stories), [Notes](https://medium.com/@buster/systems-thinking-for-kids-random-notes-part-1-1e2498391009?source=your-stories), [More notes](https://medium.com/@buster/systems-thinking-for-kids-random-notes-pt-2-19441108c9f5?source=your-stories), [Dirt](https://medium.com/@buster/dirt-f6907b34548f?source=your-stories).
+
+### Soloverse
+This is my word for a particular idea I'm obsessed with. It goes something like this: the universe is this giant space/time environment (or simulation?) that we are all a part of. The *soloverse* is our mental model of that universe that our brain uses to *think about* the universe and everything in it. You can’t really think about the universe directly (it’s way too big), you can only think about your mental model of the universe as it exists in your soloverse. Lots of interesting (to me) side effects result from this distinction.
+
+I first came across this idea in 2013 and found some interesting explorations of the idea referenced by the word *umwelt*, which is German for “environment” or “surroundings” and pronounced *oom-velt*. I just made up the term soloverse because it’s easier for me to think of it as a private, working model of the universe in our minds.
+
+Posts about this topic: [Universe ↔ Soloverse](https://medium.com/thought-experiments/universe-soloverse-d174549e00d7), [Know thy umwelt](http://wayoftheduck.com/know-thy-umwelt)
 
 ### Hume’s fork
 The gist is that there are two kinds of knowledge: matters of fact, and relations of ideas. Matters of fact aren’t accessible to us&mdash;we can never know something for certain, only that it hasn't been proven wrong yet. We can only create a self-referencing network of ideas that are related to each other. What we think of as truth is merely the ability for a particular idea to fit into this network of ideas without causing irreconcilable contradictions. 
@@ -215,48 +232,25 @@ See [the entry on Wikipedia](http://en.wikipedia.org/wiki/Hume%27s_fork) for a g
 ### Optionality
 Or, as Nassim Nicolas Taleb calls it: [antifragility](http://www.amazon.com/Antifragile-Things-That-Gain-Disorder/dp/1400067820/). I like the word optionality because it seems more neutral, almost boring even, and yet it is probably one of the most simple and powerful ideas that I’ve ever encountered.
 
-One simple way to describe it is the degree to which your eggs are in different baskets. The more baskets, and the more eggs, and the more evenly distributed those eggs are in those baskets, the greater your chances that any single event won't wipe you out of eggs entirely, and the greater your chances that one of those eggs is going to be amazing. The beauty of optionality is that it has both protective and self-strengthening qualities. Sticking with the metaphor, say that I have 12 eggs in 1 basket. If something happens to that basket, all of my eggs are doomed (low optionality). On the other hand, say that I have 12 eggs in 6 baskets (2 in each). If something happens to one of the baskets, I still have 10 eggs (higher optionality). Now imagine that I have 12 eggs in 12 baskets, all of the eggs are different colors, and there are monsters that prefer certain colors of eggs for breakfast. As the monsters wake up every morning and have breakfast, the type of eggs that they like will become more rare. There will be more remaining eggs with colors that they don’t like. In a way, the remaining set of eggs has become stronger (less likely to be eaten) than the set was previously. This is how high optionality works. The final twist is that in order for this to really work, it has to have some level of randomness involved… because what if the monster also adapts over time and begins to prefer new colors of eggs? In order for the eggs to be safe from complete elimination, there should be enough variation in the colors that some eggs won’t get eaten, and those eggs will need to hatch and grow and the population of future eggs will represent eggs that are less appetizing to monster. Optionality is the key to natural selection and evolution. It’s also the key to idea generation, investment strategy, product management, and many other things. 
-
-In practice it seems counter-intuitive to build systems with high optionality. We tend to build systems that converge on a single design over time (see monocultures) because they are predictable and efficient in a given environment. But environments change, and without the ability to predict how those changes will happen ahead of time, optionality is required even in the safest of environments.
+We tend to build systems that converge on a single design over time (see monocultures) because they are predictable and efficient in a given environment. But environments change, and without the ability to predict how those changes will happen ahead of time, optionality is required even in the safest of environments.
 
 Posts about this topic: [Live like a hydra](https://medium.com/better-humans/c02337782a89).
 
-### Soloverse
-This is my word for a particular idea I'm obsessed with. It goes something like this: the universe is this giant space/time environment (or simulation?) that we are all a part of. The *soloverse* is our mental model of that universe that our brain uses to *think about* the universe and everything in it. You can’t really think about the universe directly (it’s way too big), you can only think about your mental model of the universe as it exists in your soloverse. Lots of interesting (to me) side effects result from this distinction.
-
-I first came across this idea in 2013 and found some interesting explorations of the idea referenced by the word *umwelt*, which is German for “environment” or “surroundings” and pronounced *oom-velt*. I just made up the term soloverse because it’s easier for me to think of it as a private, working model of the universe in our minds.
-
-A few thoughts about soloverses:
-
-- *The soloverse is our local cache of the universe.* When we were babies, our caches weren't very full, and we were forced to take in the full firehose of the universe: unsorted, uncategorized, raw. It was overwhelming. Our brains are designed to start building this soloverse almost immediately in order to gain some foothold on the raw craziness of all the information coming in. The soloverse is built up from basic building blocks like light and dark, smells, sounds, and eventually patterns (mom, hungry, cold, soft), and then eventually concepts (blanket, food) and meanings (safe, scared, good, bad).
-- *What we think of as the universe is actually our soloverse.* From these basic building blocks we create beliefs (perceptions and opinions) and build simulations that allow us to predict future occurrences (if I hit someone, I will get in trouble). At some point we arrive at a concept of our own selves and other people. 
-- *The soloverse contains gods and archetypes and the self.* Some of our most powerful beliefs and traditional characters (God, the hero, the devil, the wizard, the fairy godmother, even our concept of our self) all exist only in our soloverses. Unicorns, dragons, Santa, astrology, luck, fairness, truth, good and evil, beginning middle and end, physics, etc are also characters and ideas that exist within this structure. Natural, supernatural, and fictional characters and ideas exist primarily in our soloverse, and not so much in the universe directly. This quirk is actually really fascinating to explore and has many implications that I haven’t fully unraveled yet.
-- *The soloverse is the most powerful tool we have.* The model of the universe that we each have is highly personal, and idiosyncratic to the experiences we’ve had. There are also large portions of which there is probably lots of overlap with other peoples’ solo verses (common sense, myths, popular culture, things we learn in school, etc). An unhealthy soloverse will lead to poor/misinformed decision-making. An unhealthy soloverse could be responsible for cruelty, prejudice, hatred, wars, and all kinds of other unfortunate things. What could we do to help ourselves and each other have healthier soloverses? Could we address this issue directly and have an impact?
-- *A comprehensively complete soloverse must also model every other soloverse that exists.* In order to build a real “to scale” model of the universe it has to also include every other soloverse out there, including itself. We can’t escape our personal soloverse, but we can make it a more hospitable place to live in the meantime.
-
-Posts about this topic: [Universe ↔ Soloverse](https://medium.com/thought-experiments/universe-soloverse-d174549e00d7), [Know thy umwelt](http://wayoftheduck.com/know-thy-umwelt)
-
 ### Primes
-We experience life and the world through a series of lenses, and these lenses are colored by the ideas that have recently been activated in our brains. This idea has been popping up in my zeitgeist lately, and it seems like it's related to the soloverse, to anomalies, to beliefs, to behavior, to identity, even to quality time (the only way to really enjoy quality time is to be primed for it)... basically all of my favorite ideas. I'm creating this as a place-holder for now and will fill it in as the interest develops and I'm able to articulate it better.
-
-### Quality time
-My own Codex Vitae's first chapter could possibly be about quality time and its role as the primary ends (and means) for a life well lived. There are 3 kinds of quality time that I want to seek out. The first is quality time with myself. Find my favorite ideas, core interests, and people that I can connect deeply with. The second is quality time with those favorite ideas and core interests, and the third is quality time with those people I can connect deeply with. They each feed into each other: I can't really connect deeply with others until I know myself sufficiently well; often times interests are strengthened by having people I can connect with and share with. It seems pretty ungameable to me. Seek quality time with myself, my interests, and others and I won't regret anything on my death bed.
-
-Posts about this topic: [The Death Bed Game](https://medium.com/better-humans/20cc8d9c7494), [How I track my life](https://medium.com/buster-benson/how-i-track-my-life-7da6f22b8e2c), [Live like a hydra](https://medium.com/@buster/live-like-a-hydra-c02337782a89).
+We experience life and the world through a series of lenses, and these lenses are colored by the ideas that have recently been activated in our brains. This idea has been popping up in my zeitgeist lately, and it seems like it's related to the soloverse, to anomalies, to beliefs, to behavior, to biases, to identity, even to quality time (the only way to really enjoy quality time is to be primed for it)... basically all of my favorite ideas. I'm creating this as a place-holder for now and will fill it in as the interest develops and I'm able to articulate it better.
 
 ### Quantum realism
 Quantum realism is a term I first learned from [an article](http://listverse.com/2014/11/26/10-reasons-why-our-universe-is-a-virtual-reality/) by Brian Whitworth, a senior lecturer in computing at Massey University. The idea is in opposition to "physical realism" (that belief that the physical world we see is real and exists by itself, alone). Quantum realism asserts that the physical world isn't real in itself, but merely the output (or shadow, or result, or projected image) of a quantum reality that is generating it. It's basically a virtual reality, or a simulation.
 
 I'm still learning about this and definitely couldn't explain or defend it, but I'm fascinated by the idea and keep thinking about it. I need to read [this](http://thephysicalworldisvirtual.com/) a few more times.
 
-### Needs definition
-- Rational emotive behavior therapy ([wikipedia](http://en.wikipedia.org/wiki/Rational_emotive_behavior_therapy))
 
 ## Personal canon
 
 ### Articles 
 Writing I've loved and come back to a bunch of times.
 
+* [Rational Emotive Behavior Therapy](http://en.wikipedia.org/wiki/Rational_emotive_behavior_therapy)
 * [The Cook and the Chef: Musk's Secret Sauce](http://waitbutwhy.com/2015/11/the-cook-and-the-chef-musks-secret-sauce.html) - Tim Urban
 * [On conversational UIs](http://interconnected.org/home/2015/06/16/conversational_uis) - Matt Webb
 * [The Web's Grain](http://frankchimero.com/talks/the-webs-grain/transcript/) - Frank Chimero
