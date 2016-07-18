@@ -6,7 +6,7 @@
 - *If you're a returning reader:* check the [Changelog](https://github.com/busterbenson/public/commits/master/Codex.md) for updates since you last visited.
 - *If you’re Buster:*
      1. As often as you can: re-read your [Type 3 beliefs](#type-3-opinions) (opinions).
-     2. At the beginning of every month, review the whole document, make any necessary edits, and write a new monthly report.
+     2. At the beginning of every month, read the whole thing and make any necessary edits.
      3. At the beginning of every year archive the document. Here's [2012](https://github.com/busterbenson/public/blob/master/Codex2012.md), [2013](https://github.com/busterbenson/public/blob/master/Codex2013.md), [2014](https://github.com/busterbenson/public/blob/master/Codex2014.md), [2015](https://github.com/busterbenson/public/blob/master/Codex2015.md).
      3. Around your birthday every year, write a new yearly report.
 
@@ -47,36 +47,37 @@
 ### Type 1: Metabeliefs
 Beliefs about beliefs.
 
-- Making and maintaining this document is useful and fun.
-- It's purpose is to capture my beliefs about the universe.
-- This document is always incomplete and out of date.
-- Some of these beliefs will be proven wrong.
+- This document's purpose is to capture my beliefs about the universe. 
+- This document's benefits grow in a compound interest kind of way, over time, as beliefs course correct over time, and build on one another.
+- It's always incomplete and out of date. 
+- Some of these beliefs will be proven wrong. Some won't be proven wrong but will be wrong anyway.
 - I’m open to changing my mind at any time about any belief by evidence, persuasion, whimsy, or chance. 
-- I believe beliefs are best categorized into four types: beliefs about beliefs (metabeliefs), beliefs about perceptions (how reality seems to be), beliefs about the meaning of reality (opinions about how myself and others should approach life), and beliefs about the future (predictions about how things will be in the future).
+- I believe beliefs are best categorized into four types: beliefs about beliefs (metabeliefs, i.e. this one), beliefs about perceptions (how reality seems to be), beliefs about the meaning of reality (opinions about how myself and others should approach life), and beliefs about the future (predictions about how things will be in the future).
+- Making and maintaining this document is useful and fun. And increasingly rewarding over time. 
 
 ### Type 2: Perceptions
-How reality seems to be. 2A is about how my mind and senses seem to work, 2B is about my take on spirituality, and 2C is about how I think the external world is based on the information I have.
+How reality seems to be. 2A is about how my mind and senses seem to work, 2B is about my take on spirituality, and 2C is about how I think the external world can be best explained based on the information I have.
 
 #### 2A Perceptions: Senses
 Personal mental and physical abilities, constraints, and biases.
 
 - Perception/sensation is the awareness of things changing. We can't perceive or sense things that aren't changing. 
-- Free will is mostly an illusion, but a nice one to keep.
-- Pure altruism is an illusion.
-- We are all building an incomplete model of the universe in our heads and usually operate under the assumption that this model is the real universe (it’s just easier that way).
+- Free will is mostly an illusion, but a nice one to keep because it is highly practical.
+- We are all building an incomplete model of the universe in our heads and usually operate under the assumption that this model is the real universe (again, it's practical).
 - Our mental model of the universe evolved so we could better predict and act on long-term threats and opportunities. 
 - The best way for our brains to model predictions is to create stories.
-- Consciousness is a stream of observer moments. 
-- Each observer moment is a static model of the universe captured in freeze frame, with a frozen picture of the past, present, future, and every concept. It gets updated anew each moment, along with a fading memory of past moments.
+- Consciousness receives a stream of observer moments and turns them into stories. 
+- Each observer moment is a static model of the universe captured in freeze frame, with a frozen model of the past, present, future, and every concept. It gets updated anew each moment, along with a fading memory of past moments.
 - Consciousness is the sensation of our mental model of the universe constantly changing itself to integrate new information.
 - Consciousness evolved to allow our mental model of the universe to examine, repair, and improve itself.
 - Playing lots of games (of any kind: video, board, card, other) will make us build more accurate models of the universe than people who don’t.
 - We can change our behavior and habits but it requires a ridiculous amount of energy.
-- Most of the time we don’t change ourselves, but are rather changed by other things. That doesn’t mean we can’t tell a story about how we changed ourselves, and believe it.
-- We create mental heuristics to reduce the amount of energy to retrieve, sort, and select from lists of likely possibilities.
+- Most of the time (if not all of the time) we don’t change ourselves, but are rather changed by other things. That doesn’t mean we can’t tell a story about how we changed ourselves, and believe it.
+- We create mental heuristics to reduce the amount of energy to retrieve, sort, and select from lists of likely possibilities. 
 - The biproduct of mental heuristics is that we are biased at all times in proportion to the number of heuristics we use.
-- We tend to favor the beautiful, the reaffirming, and the expected.
-- We tend to attribute too much credit to success (and under-credit luck).
+- We are the sum of our biases. 
+- To name a few: We tend to favor the beautiful, the reaffirming, and the expected. We tend to attribute too much credit to success (and under-credit luck).
+- We will die.
 
 #### 2B Perceptions: Supersenses
 My take on the spiritual and supernatural.
@@ -87,11 +88,11 @@ My take on the spiritual and supernatural.
 - Life is already lost. The only honest way to approach it is from a perspective of gratitude.
 - Souls don't exist as separate from the physical body.
 - The gods of organized religion don't exist.
-- Intention can't create reality (it just primes our perception of it).
+- Intention can't create reality (it just primes our perception of it, and makes us more likely to notice opportunities).
 - Astrology is (fun) entertainment, like the Myers Briggs test.
-- Magic and miracles don't exist outside the explanations of science.
+- Science can't explain everything. Most in the "not yet" bucket, but some in the "never" bucket.
 - There is no heaven or hell.
-- We have no cosmic significance.
+- We have no cosmic significance. Other than that the cosmos is significant and we are part of it.
 
 #### 2C Perceptions: Explanatory
 Science, politics, and the universe.
@@ -166,6 +167,7 @@ How I believe society should be structured.
 How I think things will be in the future, based on the approximate year I think they’ll come true.
 
 #### 4: Predictions: By 2016
+- Hillary will win the election
 - Wager with Rick Webb: by March 1st, descendants of Google Glass will be seen regularly in the wild (in the same way that Fitbits, NikeFuel bands, and retina MacBook Pros are in 2013). (I’m gonna lose this one, but hoping to go double or nothing for 2025. Rick?)
 
 #### 4. Predictions: By 2025
