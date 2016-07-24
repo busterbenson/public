@@ -1,6 +1,6 @@
 # Codex Vitae
 
-#### Instructions
+## Instructions
 
 **If you are Buster:**
 
