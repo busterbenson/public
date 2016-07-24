@@ -2,14 +2,18 @@
 
 #### Instructions
 
-- *If you’re a first time reader:* read the [Glossary](#glossary) for a general intro to my favorite ideas, starting with [What is this?](#what-is-this), then come back and read through the [Beliefs](#beliefs) that seem interesting to you. 
-- *If you're a returning reader:* check the [Changelog](https://github.com/busterbenson/public/commits/master/Codex.md) for updates since you last visited.
-- *If you’re Buster:*
-     1. As often as you can: re-read your [Type 3 beliefs](#type-3-opinions) (opinions).
-     2. At the beginning of every month, read the whole thing and make any necessary edits.
-     3. At the beginning of every year archive the document. Here's [2012](https://github.com/busterbenson/public/blob/master/Codex2012.md), [2013](https://github.com/busterbenson/public/blob/master/Codex2013.md), [2014](https://github.com/busterbenson/public/blob/master/Codex2014.md), [2015](https://github.com/busterbenson/public/blob/master/Codex2015.md).
-     3. Around your birthday every year, write a new yearly report.
+**If you are Buster:**
 
+1. As often as you can: re-read your [Type 3 beliefs](#type-3-opinions) (opinions).
+2. At the beginning of every month, read the whole thing and make any necessary edits.
+3. At the beginning of every year archive the document. Here's [2012](https://github.com/busterbenson/public/blob/master/Codex2012.md), [2013](https://github.com/busterbenson/public/blob/master/Codex2013.md), [2014](https://github.com/busterbenson/public/blob/master/Codex2014.md), [2015](https://github.com/busterbenson/public/blob/master/Codex2015.md).
+4. Around your birthday every year, write a new yearly report.
+
+**If you aren't Buster:**
+
+1. Read the [Glossary](#glossary) for a general intro to my favorite ideas, starting with [What is this?](#what-is-this), then come back and read through the [Beliefs](#beliefs) that seem interesting to you. 
+2. Check the [Changelog](https://github.com/busterbenson/public/commits/master/Codex.md) for updates since you last visited.
+3. Consider creating your own Codex ([here's a template](https://www.penflip.com/terrie/codex-vitae-template))
 
 ## Table of contents
 
@@ -302,6 +306,8 @@ Stuff that I've written that means something to me.
 [History of changes to this document](https://github.com/busterbenson/public/commits/master/Codex.md) &middot; [Monthly reports](https://medium.com/@buster/buster-s-monthly-reports-2015-730f5fdb6e7f)
 
 ### Yearly reports
+
+40: [Mind the loops](https://medium.com/@buster/40-mind-the-loops-9e0c6ba35a87) (2016)
 
 39: [Make wiggle room](https://medium.com/buster-benson/39-make-wiggle-room-2546b44b9804) (2015)
 
