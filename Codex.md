@@ -2,19 +2,19 @@
 
 ## Instructions
 
+**If you aren't Buster:**
+
+1. Read this with the understanding that you are different than me — the way I live my life is not the way you should live yours.
+2. Read the [Glossary](#glossary) for a general intro to my favorite ideas, starting with [What is this?](#what-is-this), then come back and read through the [Beliefs](#beliefs) that seem interesting to you. 
+3. Check the [Changelog](https://github.com/busterbenson/public/commits/master/Codex.md) for updates since you last visited.
+4. Consider creating your own Codex ([here's a template](https://medium.com/@coachdotme/562e2a24d7d)).
+
 **If you are Buster:**
 
 1. As often as you can: re-read your [Type 3 beliefs](#type-3-opinions) (opinions).
 2. At the beginning of every month, read the whole thing and make any necessary edits.
 3. At the beginning of every year archive the document. Here's [2012](https://github.com/busterbenson/public/blob/master/Codex2012.md), [2013](https://github.com/busterbenson/public/blob/master/Codex2013.md), [2014](https://github.com/busterbenson/public/blob/master/Codex2014.md), [2015](https://github.com/busterbenson/public/blob/master/Codex2015.md).
 4. Around your birthday every year, write a new yearly report.
-
-**If you aren't Buster:**
-
-1. Read this with the understanding that you are different than me — the way I live my life is not the way you should live yours.
-2. Read the [Glossary](#glossary) for a general intro to my favorite ideas, starting with [What is this?](#what-is-this), then come back and read through the [Beliefs](#beliefs) that seem interesting to you. 
-3. Check the [Changelog](https://github.com/busterbenson/public/commits/master/Codex.md) for updates since you last visited.
-4. Consider creating your own Codex ([here's a template](https://www.penflip.com/terrie/codex-vitae-template))
 
 ## Table of contents
 
@@ -61,13 +61,24 @@ Beliefs about beliefs.
 - Making and maintaining this document is useful and fun. And increasingly rewarding over time. 
 
 ### Type 2: Perceptions
-How reality seems to be. 2A is about how my mind and senses seem to work, 2B is about my take on spirituality, and 2C is about how I think the external world can be best explained based on the information I have.
+How reality seems to be. 2A is about cognitive biases, 2B is about how my mind and senses seem to work, 2C is about my take on spirituality, and 2D is about how I think the external world can be best explained based on the information I have.
 
-#### 2A Perceptions: Senses
-Personal mental and physical abilities, constraints, and biases.
+#### 2A Perceptions: Cognitive biases
+A summary of the ways that I believe my mind distorts what it sees.
+
+- All of my sensing and thinking and behavior is subject to biases. Knowing that this is true doesn't stop it from being true.
+- Misjudgment due to biases isn't correlated with intelligence. 
+- I filter out most information about the world before I even have a chance to notice it. 
+- Information I do notice tends to be stuff that I've recently thought about or need for a current situation, repeatedly thought about, or is reassuring or confirming in some way.
+- I fill in the gaps when presented with bits of information (confabulate), so that it makes sense within my existing lattic of mental models.
+- I act on information in a way designed to favor the status quo, defer risk to another party, prevent loss, or perserve optionality  
+
+#### 2B Perceptions: Senses
+Personal mental and physical abilities, and constraints.
 
 - Perception/sensation is the awareness of things changing. We can't perceive or sense things that aren't changing. 
 - Free will is mostly an illusion, but a nice one to keep because it is highly practical.
+- The rational brain is a good tool for understanding but it is not the only tool. Intuition, heart, soul, spirit, senses, body: all of these are also good.
 - We are all building an incomplete model of the universe in our heads and usually operate under the assumption that this model is the real universe (again, it's practical).
 - Our mental model of the universe evolved so we could better predict and act on long-term threats and opportunities. 
 - The best way for our brains to model predictions is to create stories.
@@ -79,12 +90,10 @@ Personal mental and physical abilities, constraints, and biases.
 - We can change our behavior and habits but it requires a ridiculous amount of energy.
 - Most of the time (if not all of the time) we don’t change ourselves, but are rather changed by other things. That doesn’t mean we can’t tell a story about how we changed ourselves, and believe it.
 - We create mental heuristics to reduce the amount of energy to retrieve, sort, and select from lists of likely possibilities. 
-- The biproduct of mental heuristics is that we are biased at all times in proportion to the number of heuristics we use.
-- We are the sum of our biases. 
-- To name a few: We tend to favor the beautiful, the reaffirming, and the expected. We tend to attribute too much credit to success (and under-credit luck).
 - We will die.
 
-#### 2B Perceptions: Supersenses
+
+#### 2C Perceptions: Supersenses
 My take on the spiritual and supernatural.
 
 - We don't have a purpose given to us, but it's okay if we make one up.
@@ -99,7 +108,7 @@ My take on the spiritual and supernatural.
 - There is no heaven or hell.
 - We have no cosmic significance. Other than that the cosmos is significant and we are part of it.
 
-#### 2C Perceptions: Explanatory
+#### 2D Perceptions: Explanatory
 Science, politics, and the universe.
 
 - We probably live in a simulation (see digital realism).
@@ -123,10 +132,21 @@ Science, politics, and the universe.
 - Acupuncture works, somehow.
 - Vaccinations are good for babies and society.
 
+#### 2C Perceptions: Self
+Beliefs about myself.
+
+- I have many implicit associations that lead to bias.
+- I have a slight automatic preference for straight people over gay people.
+- I have a strong preference of more attractive people over less attractive people.
+- I have a strong automatic association between guns and danger.
+- I'm susceptible to many cognitive biases and logical fallacies.
+- The Myers Briggs test has somewhat consistently described me as an INTP (introvert, intuitive, thinking, perceiving). 
+- My strengths according to the Gallup Strengths Finder are, in order: Individualization, Learner, Relator, Achiever, Analytical
+
 ### Type 3: Opinions
 Beliefs about how I interpret my perceptions and synthesize the meaning of reality. 3A is about what this means for my own approach to life, and 3B is about how I believe society should be structured.
 
-#### 3A: Opinions: Shoulds
+#### 3A: Opinions: Personal principles
 How I believe I should approach life. These are all opt-in and apply only to myself.
 
 - I should regularly verify that I want to continue opting-in to everything in this document on the first of every month. 
