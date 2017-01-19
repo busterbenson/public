@@ -79,7 +79,7 @@ Personal mental and physical abilities, constraints, and biases.
 - We can change our behavior and habits but it requires a ridiculous amount of energy.
 - Most of the time (if not all of the time) we don’t change ourselves, but are rather changed by other things. That doesn’t mean we can’t tell a story about how we changed ourselves, and believe it.
 - We create mental heuristics to reduce the amount of energy to retrieve, sort, and select from lists of likely possibilities. 
-- The biproduct of mental heuristics is that we are biased at all times in proportion to the number of heuristics we use.
+- The byproduct of mental heuristics is that we are biased at all times in proportion to the number of heuristics we use.
 - We are the sum of our biases. 
 - To name a few: We tend to favor the beautiful, the reaffirming, and the expected. We tend to attribute too much credit to success (and under-credit luck).
 - We will die.
