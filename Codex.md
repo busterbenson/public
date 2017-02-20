@@ -150,7 +150,7 @@ Beliefs about myself, based on periodic implicit bias testing and other assessme
 ### Type 3: Opinions
 Beliefs about how I interpret my perceptions and synthesize the meaning of reality. 3A is about what this means for my own approach to life, and 3B is about how I believe society should be structured, and 3C is my personal pledge that I invite others to hold me to.
 
-#### 3A: Opinions: Personal principles
+#### 3A Opinions: Personal principles
 How I believe I should approach life. These are all opt-in and apply only to myself.
 
 - I should regularly verify that I want to continue opting-in to everything in this document on the first of every month. 
@@ -176,7 +176,7 @@ How I believe I should approach life. These are all opt-in and apply only to mys
 - I should face things that make me uncomfortable.
 - I should take responsibility for things I find important, even if I can’t fully control them.
 
-#### 3B: Opinions: Society
+#### 3B Opinions: Society
 How I believe society should be structured.
 
 - Gay marriage should be legal everywhere (and now IS in the United States).
@@ -192,7 +192,7 @@ How I believe society should be structured.
 - Free college education should be available to everyone who wants it.
 - Hunting endangered animals in order to raise money to conserve them is okay if it can be proven to actually work.
 
-#### 3C: Opinions: Well-Intentioned Conversationalist's Pledge
+#### 3C Opinions: Well-intentioned conversationalist's pledge
 If you see me breaking any of the above pledges in public or private conversations, please call me out during any point in the conversation and point me to which above item(s) I’m breaking, and I’ll pay you $10 (limit to 1 payout per violation). Uncollected payouts will go to a charity of my choosing at the end of every month. 
 
 1. Truth exists, is discoverable, and is useful. I believe that truth can be approached via an honest examination of evidence and an open mind. This truth leads to better predictions and strategies for living life in a meaningful and productive way. Therefore, it’s worth my time to have conversations about beliefs, evidence, and objective reality.
@@ -206,7 +206,7 @@ If you see me breaking any of the above pledges in public or private conversatio
 How I think things will be in the future, based on the approximate year I think they’ll come true.
 
 #### 4A Predictions: By 2018
-- TBD
+- Ugh. TBD
 
 #### 4B Predictions: By 2025
 - Global warming will severely impact the global economy in some way and threaten the livelihood of people in some parts of the world.
