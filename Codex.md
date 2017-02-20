@@ -1,4 +1,5 @@
 # Codex Vitae
+This document's purpose is to capture my beliefs about the universe, track how my thoughts change over time, and act an invitation to others to hold me accountable to my beliefs and commitments. 
 
 ## Instructions
 
@@ -12,7 +13,7 @@
 **If you are Buster:**
 
 1. As often as you can: re-read your [Type 3 beliefs](#type-3-opinions) (opinions).
-2. At the beginning of every month, read the whole thing and make any necessary edits.
+2. As things happen in the world, revisit and edit this document to reflect your changing beliefs.
 3. At the beginning of every year archive the document. Here's [2012](https://github.com/busterbenson/public/blob/master/Codex2012.md), [2013](https://github.com/busterbenson/public/blob/master/Codex2013.md), [2014](https://github.com/busterbenson/public/blob/master/Codex2014.md), [2015](https://github.com/busterbenson/public/blob/master/Codex2015.md).
 4. Around your birthday every year, write a new yearly report.
 
@@ -36,6 +37,7 @@
 - [Optionality](#optionality)
 - [Primes](#primes)
 - [Quantum realism](#quantum-realism)
+- [Poetic naturalism](#poetic-naturalism)
 
 #### Personal canon
 - [articles](#articles)
@@ -44,7 +46,6 @@
 
 #### Changelog
 - [history of changes to this document](https://github.com/busterbenson/public/commits/master/Codex.md)
-- [monthly reports](https://github.com/busterbenson/public/blob/master/Monthly.md)
 - [yearly reports](#yearly-reports)
 
 ## Beliefs
@@ -59,6 +60,7 @@ Beliefs about beliefs.
 - I’m open to changing my mind at any time about any belief by evidence, persuasion, whimsy, or chance. 
 - I believe beliefs are best categorized into four types: beliefs about beliefs (metabeliefs, i.e. this one), beliefs about perceptions (how reality seems to be), beliefs about the meaning of reality (opinions about how myself and others should approach life), and beliefs about the future (predictions about how things will be in the future).
 - Making and maintaining this document is useful and fun. And increasingly rewarding over time. 
+- If anyone finds errors or can suggest improvements to the contents of this document, please let me know about them!
 
 ### Type 2: Perceptions
 How reality seems to be. 2A is about cognitive biases, 2B is about how my mind and senses seem to work, 2C is about my take on spirituality, and 2D is about how I think the external world can be best explained based on the information I have.
@@ -66,12 +68,15 @@ How reality seems to be. 2A is about cognitive biases, 2B is about how my mind a
 #### 2A Perceptions: Cognitive biases
 A summary of the ways that I believe my mind distorts what it sees.
 
+- There are 4 qualities of the universe that limit our own intelligence and the intelligence of every other person, collective, organism, machine, alien, or imaginable god. 
+- All 200ish of our known biases are attempts to work around these conundrums.
 - All of my sensing and thinking and behavior is subject to biases. Knowing that this is true doesn't stop it from being true.
 - Misjudgment due to biases isn't correlated with intelligence. 
-- I filter out most information about the world before I even have a chance to notice it. 
-- Information I do notice tends to be stuff that I've recently thought about or need for a current situation, repeatedly thought about, or is reassuring or confirming in some way.
-- I fill in the gaps when presented with bits of information (confabulate), so that it makes sense within my existing lattic of mental models.
-- I act on information in a way designed to favor the status quo, defer risk to another party, prevent loss, or perserve optionality  
+- The 1st conundrum is that there’s too much information in the universe for any individual within the universe to process it all.
+- The 2nd conundrum is that the process of turning raw information into something meaningful requires connecting the dots between the limited information that’s made it to you and the catalog of mental models, beliefs, symbols, and associations that you’ve stored from previous experiences.
+- The 3rd conundrum is that there just isn’t enough time in the moment/day/lifetime to thoroughly consider and analyze all possibilities to make sure we’re making the right decisions and taking the right actions.
+- The 4th conundrum is that there’s not enough space in our brains, or in all of the matter in the universe, to store all the raw information, all the symbols and stories, and all of the past decisions that we’ve made.
+- The more we know about biases, the more susceptible we are to thinking we're no longer affected by them. This makes us even blinder to them.
 
 #### 2B Perceptions: Senses
 Personal mental and physical abilities, and constraints.
@@ -90,21 +95,20 @@ Personal mental and physical abilities, and constraints.
 - We can change our behavior and habits but it requires a ridiculous amount of energy.
 - Most of the time (if not all of the time) we don’t change ourselves, but are rather changed by other things. That doesn’t mean we can’t tell a story about how we changed ourselves, and believe it.
 - We create mental heuristics to reduce the amount of energy to retrieve, sort, and select from lists of likely possibilities. 
-- We will die.
-
 
 #### 2C Perceptions: Supersenses
 My take on the spiritual and supernatural.
 
+- We will die.
+- Frequently remembering we will die increases the quality of our life.
 - We don't have a purpose given to us, but it's okay if we make one up.
 - My self-declared purpose is to enjoy quality time (with myself, with others, and with my interests) by discovering and removing obstacles that hinder quality time.
-- Frequently remembering we will die increases the quality of our life.
 - Life is already lost. The only honest way to approach it is from a perspective of gratitude.
 - Souls don't exist as separate from the physical body.
 - The gods of organized religion don't exist.
 - Intention can't create reality (it just primes our perception of it, and makes us more likely to notice opportunities).
 - Astrology is (fun) entertainment, like the Myers Briggs test.
-- Science can't explain everything. Most in the "not yet" bucket, but some in the "never" bucket.
+- Science can't explain everything, it can only prove things wrong. 
 - There is no heaven or hell.
 - We have no cosmic significance. Other than that the cosmos is significant and we are part of it.
 
@@ -133,7 +137,7 @@ Science, politics, and the universe.
 - Vaccinations are good for babies and society.
 
 #### 2C Perceptions: Self
-Beliefs about myself.
+Beliefs about myself, based on periodic implicit bias testing and other assessments.
 
 - I have many implicit associations that lead to bias.
 - I have a slight automatic preference for straight people over gay people.
@@ -144,7 +148,7 @@ Beliefs about myself.
 - My strengths according to the Gallup Strengths Finder are, in order: Individualization, Learner, Relator, Achiever, Analytical
 
 ### Type 3: Opinions
-Beliefs about how I interpret my perceptions and synthesize the meaning of reality. 3A is about what this means for my own approach to life, and 3B is about how I believe society should be structured.
+Beliefs about how I interpret my perceptions and synthesize the meaning of reality. 3A is about what this means for my own approach to life, and 3B is about how I believe society should be structured, and 3C is my personal pledge that I invite others to hold me to.
 
 #### 3A: Opinions: Personal principles
 How I believe I should approach life. These are all opt-in and apply only to myself.
@@ -188,39 +192,52 @@ How I believe society should be structured.
 - Free college education should be available to everyone who wants it.
 - Hunting endangered animals in order to raise money to conserve them is okay if it can be proven to actually work.
 
+#### 3C: Opinions: Well-Intentioned Conversationalist's Pledge
+If you see me breaking any of the above pledges in public or private conversations, please call me out during any point in the conversation and point me to which above item(s) I’m breaking, and I’ll pay you $10 (limit to 1 payout per violation). Uncollected payouts will go to a charity of my choosing at the end of every month. 
+
+1. Truth exists, is discoverable, and is useful. I believe that truth can be approached via an honest examination of evidence and an open mind. This truth leads to better predictions and strategies for living life in a meaningful and productive way. Therefore, it’s worth my time to have conversations about beliefs, evidence, and objective reality.
+2. I’m willing to be wrong. I admit that I’ve reached the wrong conclusion about some number of things&mdash;I just don’t know which conclusions are the wrong ones. Therefore, I will not shut anyone down merely because they have reached a different conclusion about something.
+3. I’m curious about alternative perspectives. I invite other well-intentioned conversationalists to challenge me by introducing new evidence that contradicts or supports any of my positions, or to request further evidence on any point.
+4. I will integrate new evidence, and consider changing my mind. I have an interest in examining evidence that contradicts my current position, so that if I’m wrong I can change my position on those topics. Therefore, I will explore new information with an open mind and try to suspend disbelief long enough to allow a thorough analysis to occur. And I will ask follow-up questions about the evidence in order to make sure I understand it fully.
+5. I will understand first, then attempt to be understood. After I understand the alternative positions and evidence, I will try to articulate my positions in as much detail as possible, surfacing both the strongly supported points and the weakly supported points. Therefore, I invite people to present new evidence related to any of those points, or request more detail on my positions.
+6. I won’t make it personal and will act with good intentions. I’ll try to refrain from personal attacks, broad generalizations, and condescending tones, and focus on evidence. I’ll act with a strong conviction that I am currently not wrong about my positions, because I will never be able to be entirely certain about things, and need to act.
+
 ### Type 4: Predictions
 How I think things will be in the future, based on the approximate year I think they’ll come true.
 
-#### 4: Predictions: By 2016
-- Hillary will win the election
-- Wager with Rick Webb: by March 1st, descendants of Google Glass will be seen regularly in the wild (in the same way that Fitbits, NikeFuel bands, and retina MacBook Pros are in 2013). (I’m gonna lose this one, but hoping to go double or nothing for 2025. Rick?)
+#### 4A Predictions: By 2018
+- TBD
 
-#### 4. Predictions: By 2025
+#### 4B Predictions: By 2025
 - Global warming will severely impact the global economy in some way and threaten the livelihood of people in some parts of the world.
 - The technology to program DNA (via CRISPR) will allow us to easily and cheaply edit, remove, and add DNA in embryos. We will start with obvious applications (like preventing Alzheimers) but not stop there.
 - Self-driving vehicles will begin to replace truck drivers, impacting employment rates in the country.
 
-#### 4: Predictions: By 2030
+#### 4C Predictions: By 2030
 - We'll have a President that admits to being atheist or agnostic by 2025.
 - Most jobs lost between 2008-2012 aren't going to come back, new ones have to be created from scratch (or not)
 - Safe, genetically modified foods will become the norm.
 - Wager with Carinna: by 2028, the equivalent of a college education (both in breadth of knowledge and value to career) will be available to anyone with an internet connection.
 
-#### 4: Predictions: By 2050
+#### 4D Predictions: By 2050
 - Computers will be building better computers than humans.
 - Guaranteed basic income will be available in a majority of first world countries. Employment will be decoupled from having the means to live.
 - People, organizations, and governments will exchange almost all privacy of personal data for interpersonal connection and technology personalization by machine learning services. It will be the norm.
 - Solar will overcome gas and oil in usage.
 
-#### 4: Predictions: By 2100
+#### 4E Predictions: By 2100
 - There will be 10 billion people on the planet at once.
 - 80% of people will live in cities and new mega-cities.
 - Physical travel will be completely unnecessary due to virtual reality technology.
 - The number of living languages in the world will have dropped from about 7,000 in 2009 to under 100.
 - Coral reefs and the ocean ecosystems are going to break with unknown consequences.
 
-#### 4: Predictions: By 2200
+#### 4F Predictions: By 2200
 - Humans, computers, and Earth will evolve into at least one super organism or networked brain.
+
+#### 4G Past Predictions
+- LOST: In 2016, Hillary will win the election
+- LOST wager with Rick Webb: By March 1st, 2016, descendants of Google Glass will be seen regularly in the wild (in the same way that Fitbits, NikeFuel bands, and retina MacBook Pros were in 2013). 
 
 ## Glossary
  
@@ -271,6 +288,9 @@ Quantum realism is a term I first learned from [an article](http://listverse.com
 
 I'm still learning about this and definitely couldn't explain or defend it, but I'm fascinated by the idea and keep thinking about it. I need to read [this](http://thephysicalworldisvirtual.com/) a few more times.
 
+### Poetic Naturalism
+Naturalism is a philosophy that believes there's only one world: the natural world (made of matter, energy, space, time, etc). It can be explored and tested and understood through the scientific method. There's no "supernatural" world that can't be explained as part of the natural world. The "poetic" qualifier comes from Sean Carroll, which I learned about through his book "The Big Picture". He does a good job of making the case for an appreciation of not only the natural world, but "ways of talking about it" through stories, mental models, theories, etc. To the extent that these various ways of talking about the natural world are useful and consistent with what we know about the natural world, they can be considered "real". In his words: "A poetic naturalist will deny that notions like “right and wrong,” “purpose and duty,” or “beauty and ugliness” are part of the fundamental architecture of the world. The world is just the world, unfolding according to the patterns of nature, free of any judgmental attributes. But these moral and ethical and aesthetic vocabularies can be perfectly useful ways of talking about the world. The criteria for choosing the best such ways of talking will necessarily be different that the criteria we use for purely descriptive, scientific vocabularies. There won’t be a single rational way to delineate good from bad, sublime from repulsive. But we can still speak in such terms, and put in the hard work to make our actions live up to our own internal aspirations. We just have to admit that judgments come from within ourselves." This resonates with me quite a bit.
+
 
 ## Personal canon
 
@@ -301,7 +321,11 @@ Writing I've loved and come back to a bunch of times.
 ### Books 
 Each of these books has changed how I see the world.
 
+* [The Big Picture](https://www.amazon.com/Big-Picture-Origins-Meaning-Universe/dp/0525954821) - Sean Carroll
+* [Liminal Thinking](https://www.amazon.com/Liminal-Thinking-Create-Change-Changing-ebook/dp/B01LZS4SLO) - Dave Gray
+* [I Am a Strange Loop](https://www.amazon.com/Am-Strange-Loop-Douglas-Hofstadter-ebook/dp/B004PYDBS0) - Douglas Hoftstadter
 * [You're It](http://www.amazon.com/Youre-It-Hiding-Seeking-Being/dp/1591797349) - Alan Watts
+* [The Wisdom of Insecurity](https://www.amazon.com/Wisdom-Insecurity-Alan-W-Watts-ebook/dp/B005YNPBH0) - Alan Watts
 * [On Intelligence](http://www.amazon.com/On-Intelligence-Jeff-Hawkins/dp/0805078533) - Jeff Hawkins
 * [Waking Up](http://www.amazon.com/Waking-Up-Spirituality-Without-Religion/dp/1451636016) - Sam Harris
 * [Creativity, Inc](http://www.amazon.com/Creativity-Inc-Overcoming-Unseen-Inspiration/dp/0804127441) - Ed Catmull
@@ -314,18 +338,20 @@ Deutsch
 ### My writing
 Stuff that I've written that means something to me.
 
-* [Better than meditation](https://medium.com/better-humans/better-than-meditation-12532d29f6cd?recommendNoteId=fd448809351b): free-writing as an alternative to meditation
-* [3-lane product development](https://medium.com/building-products-people-love/3-lane-product-development-30d64d376cd0): how to build products (and companies) that people love
-* [38 is great](https://medium.com/p/5e72aa44b857): my 5 favorite ideas with my annual review
+* [Cognitive Bias Cheat Sheet, Simplified](https://medium.com/thinking-is-hard/4-conundrums-of-intelligence-2ab78d90740f): Simplifying my cognitive bias cheat sheet a bit further
+* [Cognitive Bias Cheat Sheet](https://betterhumans.coach.me/cognitive-bias-cheat-sheet-55a472476b18): Summarizing the list of cognitive biases page on Wikipedia
+* [Better than meditation](https://medium.com/better-humans/better-than-meditation-12532d29f6cd?recommendNoteId=fd448809351b): Free-writing as an alternative to meditation
+* [3-lane product development](https://medium.com/building-products-people-love/3-lane-product-development-30d64d376cd0): How to build products (and companies) that people love
+* [38 is great](https://medium.com/p/5e72aa44b857): My 5 favorite ideas with my annual review
 * [How I track my life](https://medium.com/buster-benson/7da6f22b8e2c): Tracking quality of life with Reporter
 * [Make better resolutions](https://medium.com/buster-benson/make-better-resolutions-69cda443d387): 5 tips 
 * [Live Like a Hydra](https://medium.com/better-humans/c02337782a89): Thoughts on how to get stronger when things are chaotic.
 * [The Death Bed Game](https://medium.com/better-humans/20cc8d9c7494): He/she who dies with the most death bed points, wins.
 * [If You Live 100 Times](http://cdn.readtapestry.com/stories/RVwPvalHq/index.html): A tappable essay that plays out 100 lives that you could live.
-* [Man Versus Himself](http://www.amazon.com/Versus-Himself-Erik-Keith-Benson/dp/0595283535): a novel I wrote about an 89-year old man who is CEO of 2 companies and gets stabbed in the eye.
+* [Man Versus Himself](http://www.amazon.com/Versus-Himself-Erik-Keith-Benson/dp/0595283535): A novel I wrote about an 89-year old man who is CEO of 2 companies and gets stabbed in the eye.
 
 ## Changelog
-[History of changes to this document](https://github.com/busterbenson/public/commits/master/Codex.md) &middot; [Monthly reports](https://medium.com/@buster/buster-s-monthly-reports-2015-730f5fdb6e7f)
+[History of changes to this document](https://github.com/busterbenson/public/commits/master/Codex.md) 
 
 ### Yearly reports
 
