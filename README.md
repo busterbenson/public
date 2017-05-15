@@ -1,10 +1,7 @@
 # About /public
 
-My public self. AKA my attempt to discover how I view the world and express it as concisely and honestly as possible. [Let me know](mailto:busterbenson@gmail.com?subject=/public) if you fork this and maintain own public self repository.
+This is a my attempt to have a public, accountable self. My goal is to discover how I view the world, and express it as concisely and honestly as possible so that others can let me know when I'm full of shit or missing something. 
 
-## START HERE: [Codex](Codex.md)
+The Book of Beliefs should mostly be fairly self-explanatory from there, but definitely let me know (by adding a comment here, or DMing me (on Twitter)[https://twitter.com/buster]) if you have any questions or comments about anything at all!
 
-## Other stuff:
-
-* [Tweet archive](tweets.zip)
-* [Raw download of my genome](Genome.txt)
+## Start here: [Book of Beliefs](https://buster.gitbooks.io/public/content/book-of-beliefs.md)
