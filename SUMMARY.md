@@ -1,6 +1,6 @@
 # Summary
 
-* [Introduction](README.md)
+* [README](README.md)
 * [Book of Beliefs](book-of-beliefs.md)
-* [Current status](Now.md)
+* [Current Status](Now.md)
 
