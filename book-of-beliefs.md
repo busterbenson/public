@@ -402,9 +402,9 @@ Stuff that I've written that means something to me.
 
 35: [Love the struggle](http://bustr.me/post/5929491429/on-being-35) \(2011\)
 
-34: [Cultivating the core](http://enjoymentland.com/2010/05/28/turning-34-cultivating-the-core/) \(2010\)
+34: [Cultivating the core](https://github.com/busterbenson/public/blob/master/files/yearly-report-34.md) \(2010\)
 
-33: [Frugal to the max](http://enjoymentland.com/2009/05/28/turning-33-frugal-to-the-max/) \(2009\)
+33: [Frugal to the max](https://github.com/busterbenson/public/blob/master/files/yearly-report-33.md) \(2009\)
 
 32: [No problem](http://busterbenson.livejournal.com/204717.html) \(2008\)
 
