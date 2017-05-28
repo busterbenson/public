@@ -1,6 +1,6 @@
 # Book of Beliefs
 
-_Last updated by Buster Benson on May 27th, 2017._
+_Last updated by Buster Benson on May 28th, 2017._
 
 This document's purpose is to capture my beliefs about the universe, track how my thoughts change over time, and act an invitation to others to hold me accountable to my beliefs and commitments.
 
@@ -10,7 +10,7 @@ This document's purpose is to capture my beliefs about the universe, track how m
 
 1. Read this with the understanding that you are different than me — the way I live my life is not the way you should live yours.
 2. Read the [Glossary](#glossary) for a general intro to my favorite ideas, starting with [What is this?](#what-is-this), then come back and read through the [Beliefs](#beliefs) that seem interesting to you. 
-3. Check the [Changelog](https://github.com/busterbenson/public/commits/master/Codex.md) for updates since you last visited.
+3. Check the [Changelog](https://github.com/busterbenson/public/commits/master) for updates since you last visited.
 4. Consider creating your own Codex \([here's a template](https://medium.com/@coachdotme/562e2a24d7d), or see how I started mine [back in 2012](https://github.com/busterbenson/public/blob/master/book-of-beliefs-2012.md)\).
 
 **If you **_**are**_** Buster:**
@@ -18,7 +18,7 @@ This document's purpose is to capture my beliefs about the universe, track how m
 1. As often as you can: re-read your [Type 3 beliefs](#type-3-opinions) \(opinions\).
 2. As things happen in the world, revisit and edit this document to reflect your changing beliefs.
 3. At the beginning of every year archive the document. Here's [2012](https://github.com/busterbenson/public/blob/master/book-of-beliefs-2012.md), [2013](https://github.com/busterbenson/public/blob/master/book-of-beliefs-2013.md), [2014](https://github.com/busterbenson/public/blob/master/book-of-beliefs-2014.md), [2015](https://github.com/busterbenson/public/blob/master/book-of-beliefs-2015.md), [2016](https://github.com/busterbenson/public/blob/master/book-of-beliefs-2016.md).
-4. Around your birthday every year, write a new yearly report.
+4. Around your birthday every year, write a new [yearly report](#yearly-reports).
 
 ## Table of contents
 
@@ -301,7 +301,7 @@ Posts about this topic: [Universe ↔ Soloverse](https://medium.com/thought-expe
 
 The gist is that there are two kinds of knowledge: matters of fact, and relations of ideas. Matters of fact aren’t accessible to us—we can never know something for certain, only that it hasn't been proven wrong yet. We can only create a self-referencing network of ideas that are related to each other. What we think of as truth is merely the ability for a particular idea to fit into this network of ideas without causing irreconcilable contradictions.
 
-See \[the entry on Wikipedia\]\(\[[http://en.wikipedia.org/wiki/Hume's\_fork\]\(http://en.wikipedia.org/wiki/Hume's\_fork\)\](http://en.wikipedia.org/wiki/Hume's_fork]%28http://en.wikipedia.org/wiki/Hume's_fork%29\)\) for a good intro to the idea.
+See \[the entry on Wikipedia\]\(\[\[[http://en.wikipedia.org/wiki/Hume's\_fork\]\(http://en.wikipedia.org/wiki/Hume's\_fork\)\]\(http://en.wikipedia.org/wiki/Hume's\_fork\]\(http://en.wikipedia.org/wiki/Hume's\_fork\)\)\](http://en.wikipedia.org/wiki/Hume's_fork]%28http://en.wikipedia.org/wiki/Hume's_fork%29]%28http://en.wikipedia.org/wiki/Hume's_fork]%28http://en.wikipedia.org/wiki/Hume's_fork%29%29\)\) for a good intro to the idea.
 
 ### Optionality
 
@@ -388,29 +388,22 @@ Stuff that I've written that means something to me.
 
 ## Changelog
 
-[History of changes to this document](https://github.com/busterbenson/public/commits/master/Codex.md)
+[History of changes to this document](https://github.com/busterbenson/public/commits/master)
 
 ### Yearly reports
 
-40: [Mind the loops](https://medium.com/@buster/40-mind-the-loops-9e0c6ba35a87) \(2016\)
+* 41: [Seek endarkenment](https://medium.com/@buster/41-seek-endarkenment-9700663dea67) \(2017\)
+* 40: [Mind the loops](https://medium.com/@buster/40-mind-the-loops-9e0c6ba35a87) \(2016\)
+* 39: [Make wiggle room](https://medium.com/buster-benson/39-make-wiggle-room-2546b44b9804) \(2015\)
+* 38: [Cultivate quality time](https://medium.com/p/5e72aa44b857) \(2014\)
+* 37: [More kiloslogs](http://wayoftheduck.com/37) \(2013\)
+* 36: [Talk it out](http://bustr.me/post/23934784635/on-being-36) \(2012\)
+* 35: [Love the struggle](http://bustr.me/post/5929491429/on-being-35) \(2011\)
+* 34: [Cultivating the core](https://github.com/busterbenson/public/blob/master/files/yearly-report-34.md) \(2010\)
+* 33: [Frugal to the max](https://github.com/busterbenson/public/blob/master/files/yearly-report-33.md) \(2009\)
+* 32: [No problem](http://busterbenson.livejournal.com/204717.html) \(2008\)
+* 31: [Double down](http://busterbenson.livejournal.com/120184.html) \(2007\)
+* 30: [Higher highs and lower lows](http://busterbenson.livejournal.com/85489.html) \(2006\)
 
-39: [Make wiggle room](https://medium.com/buster-benson/39-make-wiggle-room-2546b44b9804) \(2015\)
 
-38: [Cultivate quality time](https://medium.com/p/5e72aa44b857) \(2014\)
-
-37: [More kiloslogs](http://wayoftheduck.com/37) \(2013\)
-
-36: [Talk it out](http://bustr.me/post/23934784635/on-being-36) \(2012\)
-
-35: [Love the struggle](http://bustr.me/post/5929491429/on-being-35) \(2011\)
-
-34: [Cultivating the core](https://github.com/busterbenson/public/blob/master/files/yearly-report-34.md) \(2010\)
-
-33: [Frugal to the max](https://github.com/busterbenson/public/blob/master/files/yearly-report-33.md) \(2009\)
-
-32: [No problem](http://busterbenson.livejournal.com/204717.html) \(2008\)
-
-31: [Double down](http://busterbenson.livejournal.com/120184.html) \(2007\)
-
-30: [Higher highs and lower lows](http://busterbenson.livejournal.com/85489.html) \(2006\)
 
