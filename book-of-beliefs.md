@@ -11,7 +11,7 @@ This document's purpose is to capture my beliefs about the universe, track how m
 1. Read this with the understanding that you are different than me — the way I live my life is not the way you should live yours.
 2. Read the [Glossary](#glossary) for a general intro to my favorite ideas, starting with [What is this?](#what-is-this), then come back and read through the [Beliefs](#beliefs) that seem interesting to you. 
 3. Check the [Changelog](https://github.com/busterbenson/public/commits/master/Codex.md) for updates since you last visited.
-4. Consider creating your own Codex \([here's a template](https://medium.com/@coachdotme/562e2a24d7d), or see how I started mine back in 2012\).
+4. Consider creating your own Codex \([here's a template](https://medium.com/@coachdotme/562e2a24d7d), or see how I started mine [back in 2012](https://github.com/busterbenson/public/blob/master/book-of-beliefs-2012.md)\).
 
 **If you **_**are**_** Buster:**
 
@@ -301,7 +301,7 @@ Posts about this topic: [Universe ↔ Soloverse](https://medium.com/thought-expe
 
 The gist is that there are two kinds of knowledge: matters of fact, and relations of ideas. Matters of fact aren’t accessible to us—we can never know something for certain, only that it hasn't been proven wrong yet. We can only create a self-referencing network of ideas that are related to each other. What we think of as truth is merely the ability for a particular idea to fit into this network of ideas without causing irreconcilable contradictions.
 
-See \[the entry on Wikipedia\]\([http://en.wikipedia.org/wiki/Hume's\_fork](http://en.wikipedia.org/wiki/Hume's_fork)\) for a good intro to the idea.
+See \[the entry on Wikipedia\]\(\[[http://en.wikipedia.org/wiki/Hume's\_fork\]\(http://en.wikipedia.org/wiki/Hume's\_fork\)\](http://en.wikipedia.org/wiki/Hume's_fork]%28http://en.wikipedia.org/wiki/Hume's_fork%29\)\) for a good intro to the idea.
 
 ### Optionality
 
