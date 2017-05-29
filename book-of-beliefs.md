@@ -1,6 +1,3 @@
-
----
-
 # Book of Beliefs
 
 _Last updated by Buster Benson on May 28th, 2017._
