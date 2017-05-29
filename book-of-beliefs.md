@@ -388,7 +388,9 @@ Stuff that I've written that means something to me.
 
 ## Changelog
 
-[History of changes to this document](https://github.com/busterbenson/public/commits/master)
+### Commit history
+
+* [History of changes to this document](https://github.com/busterbenson/public/commits/master)
 
 ### Yearly reports
 
