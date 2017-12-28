@@ -301,7 +301,7 @@ Posts about this topic: [Universe ↔ Soloverse](https://medium.com/thought-expe
 
 The gist is that there are two kinds of knowledge: matters of fact, and relations of ideas. Matters of fact aren’t accessible to us—we can never know something for certain, only that it hasn't been proven wrong yet. We can only create a self-referencing network of ideas that are related to each other. What we think of as truth is merely the ability for a particular idea to fit into this network of ideas without causing irreconcilable contradictions.
 
-See \[the entry on Wikipedia\]\(\[\[\[[http://en.wikipedia.org/wiki/Hume's\_fork\]\(http://en.wikipedia.org/wiki/Hume's\_fork\)\]\(http://en.wikipedia.org/wiki/Hume's\_fork\]\(http://en.wikipedia.org/wiki/Hume's\_fork\)\)\]\(http://en.wikipedia.org/wiki/Hume's\_fork\]\(http://en.wikipedia.org/wiki/Hume's\_fork\)\]\(http://en.wikipedia.org/wiki/Hume's\_fork\]\(http://en.wikipedia.org/wiki/Hume's\_fork\)\)\)\](http://en.wikipedia.org/wiki/Hume's_fork]%28http://en.wikipedia.org/wiki/Hume's_fork%29]%28http://en.wikipedia.org/wiki/Hume's_fork]%28http://en.wikipedia.org/wiki/Hume's_fork%29%29]%28http://en.wikipedia.org/wiki/Hume's_fork]%28http://en.wikipedia.org/wiki/Hume's_fork%29]%28http://en.wikipedia.org/wiki/Hume's_fork]%28http://en.wikipedia.org/wiki/Hume's_fork%29%29%29\)\) for a good intro to the idea.
+See [the entry on Wikipedia](https://en.wikipedia.org/wiki/Hume%27s_fork) for a good intro to the idea.
 
 ### Optionality
 
