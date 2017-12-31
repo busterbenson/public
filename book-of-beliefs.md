@@ -1,6 +1,6 @@
 # Book of Beliefs
 
-_Last updated by Buster Benson on May 28th, 2017._
+_Last updated by Buster Benson on December 31st, 2017._
 
 This document's purpose is to capture my beliefs about the universe, track how my thoughts change over time, and act an invitation to others to hold me accountable to my beliefs and commitments.
 
