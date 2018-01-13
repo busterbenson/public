@@ -9,39 +9,65 @@ _Last updated by Buster Benson on December 31st, 2017._
 ## Sections
 * [Beliefs](#beliefs)
 * [Well-said things](#well-said-things)
-* [Personal self-reflection](#personal-self-reflection)
+* [Personal self-reflections](#personal-self-reflections)
 * [History of changes](https://github.com/busterbenson/public/commits/master)
 * [Definitions](#definitions)
 
 ## Beliefs
 A belief is an personal interpretation of available experience and data on a given subject. The subject can be anything, from "what is the best burger in SF?" to "how did the universe begin, and how will it end?" to "how easy should it be to buy a gun?" and beyond. I've broken them up into three broad categories: 1) beliefs about how the nature, consciousness, and the universe seem to be to me (both objectively and subjectively), and 2) what I believe are the best realistically enforceable legal and policy frameworks for us to protect, inspire, and govern society by on a number of topics.
 
-### REALITY: On the nature of reality
+### HOW THINGS ARE: On the nature of reality and how things are
 How nature, consciousness, and the universe seem to be to me (both objectively and subjectively).
 
 *Earth: climate change*
 
+*Earth: long-term trends towards progress*
+* Technology has or will eventually disrupt all other human-created institutions (politics, religion, identity, economics, energy).
+* As history progresses, power will tend to be more quickly redistributed when it gets too heavy at the top.
+* Being good/moral increasingly becomes our default state as we learn more about the world and are more connected with others.
+
 *Earth: existential threats*
 
 *Life: aliens*
+* Non-carbon-based life forms exist.
+* Aliens exist, but we will most likely discover their creations (ie. robots they made) before we discover them. 
+* Aliens will probably discover our own robots before they discover us.
+* The vast majority of intelligent beings throughout the universe are probably more similar to robots and cyborgs than organically evolved life.
 
 *Life: consciousness and free will*
 
 *Life: medicine*
+* Acupuncture works, somehow.
 
 *Life: origins*
 
 *Life: evolution*
+* Micro and macro evolution happens.
 
 *Philosophy: death and the afterlife*
+* We will die.
+* There is no afterlife.
 
 *Philosophy: purpose of life*
+* There is no official purpose or meaning granted to our lives. 
+* It's okay to identify our own objectives in life and call them a purpose.
+* Memento mori is a useful tool for remembering you're alive.
+
+*Philosophy: search for truth*
+* Most questions have no answer (but asking them and talking about them anyway is often entertaining).
+* I subscribe to Hume's Fork, which claims that there are two kinds of knowledge: matters of fact, and relations of ideas. Matters of fact aren’t accessible to us—we can never know something for certain, only that it hasn't been proven wrong yet. We can only create a self-referencing network of ideas that are related to each other. "2 + 2 = 4" and "My name is Buster" are both conclusively true if we agree to the definitions and relations between each word and symbol.
+* Logic is a helpful tool, but has flaws and can't be relied on entirely.
 
 *Philosophy: Stoicism*
 
 *Pseudoscience: astrology*
+* Astrology can be fun entertainment, like the Myers Briggs test.
+* Astrology can stunt healthier forms of analysis if taken literally and seriously.
 
-*Psychology: cognitive biases*
+*Psychology: cognitive limits and biases*
+* The human brain (in its current state of evolution) can't comprehend the universe.
+* We have many implicit associations that lead to bias.
+* We're susceptible to many cognitive biases and logical fallacies, because our brains require them to get any thinking done within our constraints of time and energy.
 
 *Psychology: prayer and meditation*
 
@@ -50,12 +76,19 @@ How nature, consciousness, and the universe seem to be to me (both objectively a
 *Psychology: personality tests*
 
 *Physics: laws of physics*
+* Nothing in our universe can travel faster than light.
+* Perception of time can be sped up or slowed down, but not reversed (forwards time travel is possible, backwards is not).
 
-*Spirituality: God*
-
-*Spirituality: souls*
+*Spirituality: God, angels, demons, and souls*
+* Souls don't exist as separate from the physical body.
+* The gods of organized religion don't exist.
+* Angels, demons, and other spirits exist as antropomorphised agents in our minds that are useful shortcuts for abstract concepts (see tulpas).
+* There is no heaven or hell.
 
 *Supernatural: ghosts*
+
+*Supernatural: law of attraction*
+* Intention can't create reality (it just primes our perception of it, and makes us more likely to notice opportunities).
 
 *Technology: artificial intelligence*
 
@@ -64,13 +97,17 @@ How nature, consciousness, and the universe seem to be to me (both objectively a
 *Technology: time travel*
 
 *Universe: origins*
+* Something like the Big Bang happened, and will probably happen again.
+* Something existed before the Big Bang (outside of time and space as we know them).
 
 *Universe: multiverse*
+* Other dimensions and universes exist.
 
 *Universe: structure*
+* We probably live in a simulation.
 
 
-### SOCIETY: On rights, laws, and governance of society
+### HOW THINGS SHOULD BE: On rights, laws, governance of society, and how things should be
 What I believe are the best realistically enforceable legal and policy frameworks for us to protect, inspire, and govern society by.
 
 *Abortion and birth control*
@@ -127,7 +164,7 @@ Writing I've loved and come back to a bunch of times.
 
 ### Articles that have changed how I think
 
-* [Rational Emotive Behavior Therapy](http://en.wikipedia.org/wiki/Rational_emotive_behavior_therapy)
+* [Rational Emotive Behavior Therapy](http://en.wikipedia.org/wiki/Rational_emotive_behavior_therapy) - Wikipedia
 * [The Cook and the Chef: Musk's Secret Sauce](http://waitbutwhy.com/2015/11/the-cook-and-the-chef-musks-secret-sauce.html) - Tim Urban
 * [Your Life in Weeks](http://waitbutwhy.com/2014/05/life-weeks.html) - Tim Urban
 * [On conversational UIs](http://interconnected.org/home/2015/06/16/conversational_uis) - Matt Webb
@@ -150,6 +187,7 @@ Writing I've loved and come back to a bunch of times.
 
 ### Books that have changed how I think
 
+* [Everyone's an aliebn when ur a aliebn too](https://www.harpercollins.com/9780062569028/everyones-a-aliebn-when-ur-a-aliebn-too) - Jomny Sun
 * [The Enigma of Reason](https://www.amazon.com/dp/B06XWFM3PP) - Hugo Mercier
 * [The Big Picture](https://www.amazon.com/Big-Picture-Origins-Meaning-Universe/dp/0525954821) - Sean Carroll
 * [Liminal Thinking](https://www.amazon.com/Liminal-Thinking-Create-Change-Changing-ebook/dp/B01LZS4SLO) - Dave Gray
@@ -165,7 +203,7 @@ Writing I've loved and come back to a bunch of times.
 * [Strangers To Ourselves](http://www.amazon.com/Strangers-Ourselves-Discovering-Adaptive-Unconscious/dp/0674013824) - Timothy D. Wilson
   Deutsch
 
-## Personal self-reflection
+## Personal self-reflections
 
 As things happen in the world, I plan to revisit and edit this document to reflect my changing beliefs. In addition, I do a lot of writing that includes self-reflection, including a very specific self-reflection around the month of my birthday each year.
 
