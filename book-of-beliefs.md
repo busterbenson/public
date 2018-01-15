@@ -1,32 +1,34 @@
-# Buster's beliefs about life, the universe, and everything
+# Beliefs about how things are and how things should be
 
-_Last updated by Buster Benson on December 31st, 2017._
+_Last updated on January 15th, 2018._
 
-*About this document:* This public, living, document was created in April of 2012 and attempts to capture my beliefs about the nature of life, the universe, and everything in as few words as possible. All changes are tracked. Rather than attempting to avoid all errors in this doc, I'm attempting to be as specific as possible and to quickly correct errors when they become obvious.
+*Who's beliefs are these?* I'm Buster Benson. These beliefs are my best guess and articulation of my own beliefs, which were inherited and molded party by the environment I've lived in and party by my own interpretation of life experiences. Your mileage may vary. Caveat lector.
 
-*Objectives:* My primary goal here is to get smarter over time by identifying new connections and inconsistencies so I can course-correct when necessary. Secondarily, I'd also like to extend an invitiation for others to spark conversations with me about anything they find interesting and to also help keep me accountable.
+*What is this document?* This public, living, document was created in April of 2012 and attempts to capture my beliefs about the nature of life, the universe, and everything in as few words as possible. I've updated it at least once a year since 2012, and all changes are tracked. Rather than attempting to avoid all errors in this doc, I'm attempting to be as specific as possible and to quickly correct errors when they become apparent.
+
+*Why does it exist?* My primary goal here is to get smarter over time by identifying new connections and inconsistencies so I can course-correct when necessary. Secondarily, I'd also like to extend an invitiation for others to spark conversations with me about anything they find interesting and to also help keep me accountable.
 
 ## Sections
 * [Beliefs](#beliefs)
 * [Well-said things](#well-said-things)
 * [Personal self-reflections](#personal-self-reflections)
-* [History of changes](https://github.com/busterbenson/public/commits/master)
 * [Definitions](#definitions)
 
 ## Beliefs
-A belief is an personal interpretation of available experience and data on a given subject. The subject can be anything, from "what is the best burger in SF?" to "how did the universe begin, and how will it end?" to "how easy should it be to buy a gun?" and beyond. I've broken them up into three broad categories: 1) beliefs about how the nature, consciousness, and the universe seem to be to me (both objectively and subjectively), and 2) what I believe are the best realistically enforceable legal and policy frameworks for us to protect, inspire, and govern society by on a number of topics.
+A belief is a personal interpretation of available experience and data on a given subject. The subject can be anything, from "what is the best burrito in SF?" to "how did the universe begin and how will it end?" to "how easy should it be to buy a gun?" and beyond. I've broken them up into three broad categories: 1) beliefs about how things are / seem to be (both objectively and subjectively), and 2) how I believe things should be (aka the change I want to see in the world).
 
 ### HOW THINGS ARE: On the nature of reality and how things are
 How nature, consciousness, and the universe seem to be to me (both objectively and subjectively).
 
 *Earth: climate change*
+* Human-influenced climate change is real, and it's appropriate to panic.
+* Climate change is of particular importance to humans, because it poses an existential risk to our survival.
 
-*Earth: long-term trends towards progress*
+*Earth: civilization's arrow of progress*
 * Technology has or will eventually disrupt all other human-created institutions (politics, religion, identity, economics, energy).
 * As history progresses, power will tend to be more quickly redistributed when it gets too heavy at the top.
+* When power is redistributed (through disruption, revolution, or disaster), it will have undesirable short-term consequences. 
 * Being good/moral increasingly becomes our default state as we learn more about the world and are more connected with others.
-
-*Earth: existential threats*
 
 *Life: aliens*
 * Non-carbon-based life forms exist.
@@ -35,18 +37,34 @@ How nature, consciousness, and the universe seem to be to me (both objectively a
 * The vast majority of intelligent beings throughout the universe are probably more similar to robots and cyborgs than organically evolved life.
 
 *Life: consciousness and free will*
+* The sensation of consciousness is real.
+* Free will exists within constraints, in the same way a goldfish has freedom and autonomy within its fishbowl.
 
 *Life: medicine*
+* A lot about health and medicine is mental, which opens the door for things like placebo effect and fake remedies.
 * Acupuncture works, somehow.
 
 *Life: origins*
+* We were not created in the way described in any of the major holy texts, if you take a literal interpretation.
+* Within this universe, we evolved through natural systems that required no outside intervention.
+* Micro and macro evolution really happen.
 
-*Life: evolution*
-* Micro and macro evolution happens.
+*Life: existential threats to us*
+* Disrupting the world's ecology (through deforestation, overfishing, monocultures, etc) poses a 5% existential threat to us.
+* Climate change poses a 5% existential threat to us.
+* Nuclear war poses a 3% existential threat to us.
+* The supervolcano erupting poses an 2% existential threat to us.
+* Asteroid impact poses a 1% existential threat to us.
+* A runaway artificial intelligence poses a <1% existential threat to us.
+* The magnetic poles reversing poses a <1% existential threat to us.
+* Aliens pose a <0.001% existential threat to us.
+* If and when humans become extinct, the Earth will barely notice (perhaps just giving a long sigh of relief).
 
 *Philosophy: death and the afterlife*
 * We will die.
 * There is no afterlife.
+* We are part of a larger system that cycles materials through processes that include what we call life, as well as many other things (like tectonic movement, weather systems, the magnetic field, the cycling of water, carbon, and many other molecules and compounds).
+* Dirt is what living things do in times between being alive.
 
 *Philosophy: purpose of life*
 * There is no official purpose or meaning granted to our lives. 
@@ -70,14 +88,24 @@ How nature, consciousness, and the universe seem to be to me (both objectively a
 * We're susceptible to many cognitive biases and logical fallacies, because our brains require them to get any thinking done within our constraints of time and energy.
 
 *Psychology: prayer and meditation*
+* Useful as a mental maintenance tool, but doesn't tap into any special lines of communication to powerful beings.
+* For beginners, private journaling and going on a long walk are both better than sitting on a pillow and trying not to think.
 
 *Psychology: tulpas*
-
-*Psychology: personality tests*
+* Tulpa are super weird, but extremely fascinating as a concept.
+* "Tulpa" is a term that refers to our internal thoughtforms of conscious entities. For example, while Santa may not exist in the real world, we all have an internal tulpa of Santa that we've trained to essentially simulate Santa in our minds. Tulpa can exist for living people, dead people, historical people, and even our concept of ourselves is a tulpa in some ways.
+* The idea of tulpa as personal thoughtforms explains a whole lot.
+* Some tulpa are trained off of our religious cultures: Santa, God, Jesus, etc.
+* Some tulpa are trained off of our memories of people who have passed away: ghosts, dreams.
+* All of our classic mental archetypes for father, mother, grandfather, grandmother, boss, teacher, etc are loosely defined tulpa that will pull partly from cultural sources, and partly from personal experiences.
+* Even our personal sense of identity is a tulpa that we feed, act through, and help train other people on as they get to know us.
 
 *Physics: laws of physics*
 * Nothing in our universe can travel faster than light.
 * Perception of time can be sped up or slowed down, but not reversed (forwards time travel is possible, backwards is not).
+* Teleportation, if it's ever invented, is more likely to resemble the creation of copies than "true" teleportation. 
+* Our universe began with low entropy and continues on a long, slow path to high entropy, powering literally everything along the way.
+* The universe, at the most fundamental level, may just be a mathematical structure (ala Max Tegmark's The Mathematical Universe).
 
 *Spirituality: God, angels, demons, and souls*
 * Souls don't exist as separate from the physical body.
@@ -86,15 +114,16 @@ How nature, consciousness, and the universe seem to be to me (both objectively a
 * There is no heaven or hell.
 
 *Supernatural: ghosts*
+* Ghosts don't exist outside of our minds. (See "Psychology: Tulpa")
 
 *Supernatural: law of attraction*
 * Intention can't create reality (it just primes our perception of it, and makes us more likely to notice opportunities).
 
 *Technology: artificial intelligence*
-
-*Technology: teleportation*
-
-*Technology: time travel*
+* Machines will eventually become more intelligent than humans are today.
+* Machines will make humans more intelligent than we are today.
+* Intelligence isn't a single skill that can be acquired all at once, but the result of learning processes that take in one or more flows of new information, and communicate out analysis of the data in meaningful ways. Every flow of data will favor different intelligences, and intelligences that exist on one or more flows of data won't necessarily be adapted for other flows of data. 
+* The advent of super artificial intelligence does pose some existential risk to humanity (see "Life: Existential threats to us") but it is not the biggest threat.
 
 *Universe: origins*
 * Something like the Big Bang happened, and will probably happen again.
@@ -102,6 +131,7 @@ How nature, consciousness, and the universe seem to be to me (both objectively a
 
 *Universe: multiverse*
 * Other dimensions and universes exist.
+* The laws of physics (See "Physics: laws of physics") likely prevent us from ever proving that other universes exist.
 
 *Universe: structure*
 * We probably live in a simulation.
@@ -241,3 +271,12 @@ As things happen in the world, I plan to revisit and edit this document to refle
 * 31: [Double down](http://busterbenson.livejournal.com/120184.html) \(2007\)
 * 30: [Higher highs and lower lows](http://busterbenson.livejournal.com/85489.html) \(2006\)
 
+### Beliefs changelog
+
+* [2017](https://github.com/busterbenson/public/blob/master/book-of-beliefs-2017.md)
+* [2016](https://github.com/busterbenson/public/blob/master/book-of-beliefs-2016.md)
+* [2015](https://github.com/busterbenson/public/blob/master/book-of-beliefs-2015.md)
+* [2014](https://github.com/busterbenson/public/blob/master/book-of-beliefs-2014.md)
+* [2013](https://github.com/busterbenson/public/blob/master/book-of-beliefs-2013.md)
+* [2012](https://github.com/busterbenson/public/blob/master/book-of-beliefs-2012.md)
+* [History of all changes](https://github.com/busterbenson/public/commits/master/Codex.md)
