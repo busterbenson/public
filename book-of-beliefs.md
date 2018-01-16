@@ -141,52 +141,45 @@ How nature, consciousness, and the universe seem to be to me (both objectively a
 What I believe are the best realistically enforceable legal and policy frameworks for us to protect, inspire, and govern society by.
 
 *Abortion and birth control*
+* Abortion and birth control should be legal and readily accessible to everyone who needs it.
+* Birth control should be made available for free to people who need it and can't afford it.
 
 *Assisted suicide*
+* Assisted suicide should be legal and available to people in a certain set of dire situations that they feel prevent them from having any chance of a pleasant future.
 
 *Death penalty*
+* The death penalty should be used in extreme and certain cases to protect the public.
 
-*Discrimination: general*
-
-*Discrimination: gender*
-
-*Discrimination: racial*
+*Discrimination, harrassment, and abuse*
+* Power often becomes motivated to remain in power, which results in systemic discrimination, harrassment, and abuse. It is against power's first-order objectives to build structures that might lead to them being removed from power, but as awareness of this dynamic increases, so should accountability. It will be a very slow uphill battle with many movements backwards, but all the more reason to always push on increasing awareness and accountability within all systems.
 
 *Drugs*
+* Marijuana should be legal to grow, sell, buy, carry, and use.
 
 *Education*
+* Free college education should be available to everyone who wants it.
 
 *Elections and voting*
-
-*Extinction*
+* The electoral college is out-dated and too easily manipulated. It should be replaced by something like delegative democracy.
 
 *Free speech*
+* Speech is a form of power, and just like power, free speech has constraints and is never absolute. However, because speech is often regulated by those in power, it's important to make sure they are not in charge or even capable of determining the constraints of free speech. 
 
 *Gun control*
-
-*Harassment and abuse*
+* Owning a gun should require certification from a firearms officer verifying that they've taken a safety course, are free of criminal record, and pass a psychological mental health check every few years.
 
 *Health care*
+* Health care should be available and affordable to everyone who needs it.
 
 *Hunting*
+* Hunting endangered animals in order to raise money to conserve them is okay if it can be proven to actually work.
 
-*Immigration*
-
-*Income: inequality*
-
-*Income: universal basic income*
-
-*Income: welfare*
-
-*Marriage*
-
-*Nuclear weapons*
+*Income inequality and wage disparity*
+* Guaranteed basic income should be a thing available to everyone.
 
 *Prison and sentences*
-
-*Privacy*
-
-*Vaccinations*
+* Prisons should be about protecting the public, not about punishment.
+* There should be special measures made to insure that criminal behavior by people in high-power positions get punished with equal or higher frequency than criminal behavior by people in lower-power positions.
 
 ## Well-said things
 
@@ -236,10 +229,6 @@ Writing I've loved and come back to a bunch of times.
 ## Personal self-reflections
 
 As things happen in the world, I plan to revisit and edit this document to reflect my changing beliefs. In addition, I do a lot of writing that includes self-reflection, including a very specific self-reflection around the month of my birthday each year.
-
-### My public commitments and philosophy for life
-
-*Seeking truth* 
 
 ### My writing that attempts to capture how I think
 
