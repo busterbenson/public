@@ -147,7 +147,7 @@ Science, politics, and the universe.
 * Acupuncture works, somehow.
 * Vaccinations are good for babies and society.
 
-#### 2E Perceptions: Self
+#### 2C Perceptions: Self
 
 Beliefs about myself, based on periodic implicit bias testing and other assessments.
 
@@ -406,4 +406,3 @@ Stuff that I've written that means something to me.
 * 32: [No problem](http://busterbenson.livejournal.com/204717.html) \(2008\)
 * 31: [Double down](http://busterbenson.livejournal.com/120184.html) \(2007\)
 * 30: [Higher highs and lower lows](http://busterbenson.livejournal.com/85489.html) \(2006\)
-
