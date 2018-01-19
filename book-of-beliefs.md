@@ -1,173 +1,234 @@
-# Book of Beliefs
+# Beliefs about how things are and how they should be
+Author: Buster Benson
 
-_Last updated by Buster Benson on May 28th, 2017._
+*What is this document?* This public, living, document was created as an experiement one Sunday in April of 2012. Maintaining this document has become one of the most treasured activities in my life. It’s a way for me to remember who I am, catch inconsistencies in how I respond to different events in the world, react to current events from a position of how I believe the world is, should be, and will become. I've updated it at least once a year since 2012, and all changes are tracked. Rather than attempting to avoid all errors in this doc, I'm attempting to be as specific as possible and to quickly correct errors when they become apparent.
 
-This document's purpose is to capture my beliefs about the universe, track how my thoughts change over time, and act an invitation to others to hold me accountable to my beliefs and commitments.
+*Why does it exist?* My main goal here is to get smarter over time by identifying new connections and inconsistencies so I can course-correct when necessary. A secondary goal is that I'd also like to extend an invitiation for others to spark conversations with me about anything they find interesting and to also help keep me accountable.
 
-## Instructions
+*Who's beliefs are these?* I'm Buster Benson. These beliefs are my best guess and articulation of my own beliefs, which were inherited and molded party by the environment I've lived in and party by my own interpretation of life experiences. Your mileage may vary. Caveat lector. 
 
-**If you **_**are not**_** Buster:**
-
-1. Read this with the understanding that you are different than me — the way I live my life is not the way you should live yours.
-2. Read the [Glossary](#glossary) for a general intro to my favorite ideas, starting with [What is this?](#what-is-this), then come back and read through the [Beliefs](#beliefs) that seem interesting to you. 
-3. Check the [Changelog](https://github.com/busterbenson/public/commits/master) for updates since you last visited.
-4. Consider creating your own Codex \([here's a template](https://medium.com/@coachdotme/562e2a24d7d), or see how I started mine [back in 2012](https://github.com/busterbenson/public/blob/master/book-of-beliefs-2012.md)\).
-
-**If you **_**are**_** Buster:**
-
-1. As often as you can: re-read your [Type 3 beliefs](#type-3-opinions) \(opinions\).
-2. As things happen in the world, revisit and edit this document to reflect your changing beliefs.
-3. At the beginning of every year archive the document. Here's [2012](https://github.com/busterbenson/public/blob/master/book-of-beliefs-2012.md), [2013](https://github.com/busterbenson/public/blob/master/book-of-beliefs-2013.md), [2014](https://github.com/busterbenson/public/blob/master/book-of-beliefs-2014.md), [2015](https://github.com/busterbenson/public/blob/master/book-of-beliefs-2015.md), [2016](https://github.com/busterbenson/public/blob/master/book-of-beliefs-2016.md).
-4. Around your birthday every year, write a new [yearly report](#yearly-reports).
-
-## Table of contents
-
-#### Beliefs
-
-* [Type 1: Metabeliefs: beliefs about beliefs](#type-1-metabeliefs)
-* [Type 2: Perceptions: beliefs about how reality seems to be](#type-2-perceptions)
-* [Type 3: Opinions: beliefs about the meaning of reality and how myself and others should approach life](#type-3-opinions)
-* [Type 4: Predictions: beliefs about how things will be in the future](#type-4-predictions)
-
-#### Glossary
-
-* [What is this?](#what-is-this)
-* [Codex vitae](#codex-vitae)
-* [Quality time](#quality-time)
-* [Systems thinking](#systems-thinking)
-* [Soloverse](#soloverse)
-* [Hume’s fork](#humes-fork)
-* [Optionality](#optionality)
-* [Primes](#primes)
-* [Quantum realism](#quantum-realism)
-* [Poetic naturalism](#poetic-naturalism)
-
-#### Personal canon
-
-* [Articles](#articles)
-* [Books](#books)
-* [My writing](#my-writing)
-
-#### Changelog
-
-* [History of changes to this document](https://github.com/busterbenson/public/commits/master/Codex.md)
-* [Yearly reports](#yearly-reports)
+## Sections
+* [Beliefs](#beliefs)
+* [Well-said things](#well-said-things)
+* [Personal self-reflections](#personal-self-reflections)
+* [Definitions](#definitions)
 
 ## Beliefs
+A belief is a personal interpretation of available experience and data on a given subject. The subject can be anything, from "what is the best burrito in SF?" to "how did the universe begin and how will it end?" to "how easy should it be to buy a gun?" and beyond. I've broken them up into three broad categories: 1) beliefs about how things are / seem to be (both objectively and subjectively), and 2) how I believe things should be (aka the change I want to see in the world).
 
-### Type 1: Metabeliefs
+### HOW THINGS ARE: On the nature of reality and how things are
+How nature, consciousness, and the universe seem to be to me (both objectively and subjectively).
 
-Beliefs about beliefs.
+*Earth: climate change*
+* Human-influenced climate change is real, and it's appropriate to panic.
+* Climate change is of particular importance to humans, because it poses an existential risk to our survival.
 
-* This document's purpose is to capture my beliefs about the universe. 
-* This document's benefits grow in a compound interest kind of way, over time, as beliefs course correct over time, and build on one another.
-* It's always incomplete and out of date. 
-* Some of these beliefs will be proven wrong. Some won't be proven wrong but will be wrong anyway.
-* I’m open to changing my mind at any time about any belief by evidence, persuasion, whimsy, or chance. 
-* I believe beliefs are best categorized into four types: beliefs about beliefs \(metabeliefs, i.e. this one\), beliefs about perceptions \(how reality seems to be\), beliefs about the meaning of reality \(opinions about how myself and others should approach life\), and beliefs about the future \(predictions about how things will be in the future\).
-* Making and maintaining this document is useful and fun. And increasingly rewarding over time. 
-* If anyone finds errors or can suggest improvements to the contents of this document, please let me know about them!
+*Earth: civilization's arrow of progress*
+* Technology has or will eventually disrupt all other human-created institutions (politics, religion, identity, economics, energy).
+* As history progresses, power will tend to be more quickly redistributed when it gets too heavy at the top.
+* When power is redistributed (through disruption, revolution, or disaster), it will have undesirable short-term consequences. 
+* Being good/moral increasingly becomes our default state as we learn more about the world and are more connected with others.
 
-### Type 2: Perceptions
-
-How reality seems to be. 2A is about cognitive biases, 2B is about how my mind and senses seem to work, 2C is about my take on spirituality, and 2D is about how I think the external world can be best explained based on the information I have.
-
-#### 2A Perceptions: Cognitive biases
-
-A summary of the ways that I believe my mind distorts what it sees.
-
-* There are 4 qualities of the universe that limit our own intelligence and the intelligence of every other person, collective, organism, machine, alien, or imaginable god. 
-* All 200ish of our known biases are attempts to work around these conundrums.
-* All of my sensing and thinking and behavior is subject to biases. Knowing that this is true doesn't stop it from being true.
-* Misjudgment due to biases isn't correlated with intelligence. 
-* The 1st conundrum is that there’s too much information in the universe for any individual within the universe to process it all.
-* The 2nd conundrum is that the process of turning raw information into something meaningful requires connecting the dots between the limited information that’s made it to you and the catalog of mental models, beliefs, symbols, and associations that you’ve stored from previous experiences.
-* The 3rd conundrum is that there just isn’t enough time in the moment/day/lifetime to thoroughly consider and analyze all possibilities to make sure we’re making the right decisions and taking the right actions.
-* The 4th conundrum is that there’s not enough space in our brains, or in all of the matter in the universe, to store all the raw information, all the symbols and stories, and all of the past decisions that we’ve made.
-* The more we know about biases, the more susceptible we are to thinking we're no longer affected by them. This makes us even blinder to them.
-
-#### 2B Perceptions: Senses
-
-Personal mental and physical abilities, and constraints.
-
-* Perception/sensation is the awareness of things changing. We can't perceive or sense things that aren't changing. 
-* Free will is mostly an illusion, but a nice one to keep because it is highly practical.
-* The rational brain is a good tool for understanding but it is not the only tool. Intuition, heart, soul, spirit, senses, body: all of these are also good.
-* We are all building an incomplete model of the universe in our heads and usually operate under the assumption that this model is the real universe \(again, it's practical\).
-* Our mental model of the universe evolved so we could better predict and act on long-term threats and opportunities. 
-* The best way for our brains to model predictions is to create stories.
-* Consciousness receives a stream of observer moments and turns them into stories. 
-* Each observer moment is a static model of the universe captured in freeze frame, with a frozen model of the past, present, future, and every concept. It gets updated anew each moment, along with a fading memory of past moments.
-* Consciousness is the sensation of our mental model of the universe constantly changing itself to integrate new information.
-* Consciousness evolved to allow our mental model of the universe to examine, repair, and improve itself.
-* Playing lots of games \(of any kind: video, board, card, other\) will make us build more accurate models of the universe than people who don’t.
-* We can change our behavior and habits but it requires a ridiculous amount of energy.
-* Most of the time \(if not all of the time\) we don’t change ourselves, but are rather changed by other things. That doesn’t mean we can’t tell a story about how we changed ourselves, and believe it.
-* We create mental heuristics to reduce the amount of energy to retrieve, sort, and select from lists of likely possibilities. 
-
-#### 2C Perceptions: Supersenses
-
-My take on the spiritual and supernatural.
-
-* We will die.
-* Frequently remembering we will die increases the quality of our life.
-* We don't have a purpose given to us, but it's okay if we make one up.
-* My self-declared purpose is to enjoy quality time \(with myself, with others, and with my interests\) by discovering and removing obstacles that hinder quality time.
-* Life is already lost. The only honest way to approach it is from a perspective of gratitude.
-* Souls don't exist as separate from the physical body.
-* The gods of organized religion don't exist.
-* Intention can't create reality \(it just primes our perception of it, and makes us more likely to notice opportunities\).
-* Astrology is \(fun\) entertainment, like the Myers Briggs test.
-* Science can't explain everything, it can only prove things wrong. 
-* There is no heaven or hell.
-* We have no cosmic significance. Other than that the cosmos is significant and we are part of it.
-
-#### 2D Perceptions: Explanatory
-
-Science, politics, and the universe.
-
-* We probably live in a simulation \(see digital realism\).
-* Other dimensions and universes exist.
-* Micro and macro evolution happens.
-* Something like the Big Bang happened, and will probably happen again.
-* Something existed before the Big Bang \(outside of time and space as we know them\).
-* Nothing in our universe can travel faster than light.
-* The human brain \(in its current state of evolution\) can't comprehend the universe.
+*Life: aliens*
 * Non-carbon-based life forms exist.
-* Aliens exist, but we will most likely discover their creations \(ie. robots they made\) before we discover them. 
+* Aliens exist, but we will most likely discover their creations (ie. robots they made) before we discover them. 
 * Aliens will probably discover our own robots before they discover us.
 * The vast majority of intelligent beings throughout the universe are probably more similar to robots and cyborgs than organically evolved life.
-* Perception of time can be sped up or slowed down, but not reversed \(forwards time travel is possible, backwards is not\).
-* Technology will eventually disrupt all other human-created institutions \(politics, religion, identity, economics, energy\).
-* As history progresses, power will tend to be more quickly redistributed when it gets too heavy at the top.
-* Privacy is just a side effect of people not being truly connected.
-* Being good/moral increasingly becomes our default state as we learn more about the world and are more connected with others.
-* Most questions have no answer \(but asking them anyway is often entertaining\).
-* Logic is a helpful tool, but has flaws and can't be relied on entirely.
+
+*Life: consciousness and free will*
+* The sensation of consciousness is real.
+* Free will exists within constraints, in the same way a goldfish has freedom and autonomy within its fishbowl.
+
+*Life: medicine*
+* A lot about health and medicine is mental, which opens the door for things like placebo effect and fake remedies.
 * Acupuncture works, somehow.
-* Vaccinations are good for babies and society.
 
-#### 2E Perceptions: Self
+*Life: origins*
+* We were not created in the way described in any of the major holy texts, if you take a literal interpretation.
+* Within this universe, we evolved through natural systems that required no outside intervention.
+* Micro and macro evolution really happen.
 
-Beliefs about myself, based on periodic implicit bias testing and other assessments.
+*Life: existential threats to us*
+* Disrupting the world's ecology (through deforestation, overfishing, monocultures, etc) poses a 5% existential threat to us.
+* Climate change poses a 5% existential threat to us.
+* Nuclear war poses a 3% existential threat to us.
+* The supervolcano erupting poses an 2% existential threat to us.
+* Asteroid impact poses a 1% existential threat to us.
+* A runaway artificial intelligence poses a <1% existential threat to us.
+* The magnetic poles reversing poses a <1% existential threat to us.
+* Aliens pose a <0.001% existential threat to us.
+* If and when humans become extinct, the Earth will barely notice (perhaps just giving a long sigh of relief).
 
-* I have many implicit associations that lead to bias.
-* I have a slight automatic preference for straight people over gay people.
-* I have a strong preference of more attractive people over less attractive people.
-* I have a strong automatic association between guns and danger.
-* I'm susceptible to many cognitive biases and logical fallacies.
-* The Myers Briggs test has somewhat consistently described me as an INTP \(introvert, intuitive, thinking, perceiving\). 
-* My strengths according to the Gallup Strengths Finder are, in order: Individualization, Learner, Relator, Achiever, Analytical
+*Philosophy: death and the afterlife*
+* We will die.
+* There is no afterlife.
+* We are part of a larger system that cycles materials through processes that include what we call life, as well as many other things (like tectonic movement, weather systems, the magnetic field, the cycling of water, carbon, and many other molecules and compounds).
+* Dirt is what living things do in times between being alive.
 
-### Type 3: Opinions
+*Philosophy: purpose of life*
+* There is no official purpose or meaning granted to our lives. 
+* It's okay to identify our own objectives in life and call them a purpose.
+* Memento mori is a useful tool for remembering you're alive.
 
-Beliefs about how I interpret my perceptions and synthesize the meaning of reality. 3A is about what this means for my own approach to life, and 3B is about how I believe society should be structured, and 3C is my personal pledge that I invite others to hold me to.
+*Philosophy: search for truth*
+* Most questions have no answer (but asking them and talking about them anyway is often entertaining).
+* I subscribe to Hume's Fork, which claims that there are two kinds of knowledge: matters of fact, and relations of ideas. Matters of fact aren’t accessible to us—we can never know something for certain, only that it hasn't been proven wrong yet. We can only create a self-referencing network of ideas that are related to each other. "2 + 2 = 4" and "My name is Buster" are both conclusively true if we agree to the definitions and relations between each word and symbol.
+* Logic is a helpful tool, but has flaws and can't be relied on entirely.
+* Even if absolute truth about matters of fact aren't accessible to us, it's still possible to get closer to it. Especially in the context of making better predictions on limited data.
 
-#### 3A Opinions: Personal principles
+*Pseudoscience: astrology*
+* Astrology can be fun entertainment, like the Myers Briggs test.
+* Astrology can stunt healthier forms of analysis if taken literally and seriously.
 
-How I believe I should approach life. These are all opt-in and apply only to myself.
+*Psychology: cognitive limits and biases*
+* The human brain (in its current state of evolution) can't comprehend the universe.
+* We have many implicit associations that lead to bias.
+* We're susceptible to many cognitive biases and logical fallacies, because our brains require them to get any thinking done within our constraints of time and energy.
 
-* I should regularly verify that I want to continue opting-in to everything in this document on the first of every month. 
+*Psychology: prayer and meditation*
+* Useful as a mental maintenance tool, but doesn't tap into any special lines of communication to powerful beings.
+* For beginners, private journaling and going on a long walk are both better than sitting on a pillow and trying not to think.
+
+*Psychology: tulpas*
+* Tulpa are super weird, but extremely fascinating as a concept.
+* "Tulpa" is a term that refers to our internal thoughtforms of conscious entities. For example, while Santa may not exist in the real world, we all have an internal tulpa of Santa that we've trained to essentially simulate Santa in our minds. Tulpa can exist for living people, dead people, historical people, and even our concept of ourselves is a tulpa in some ways.
+* The idea of tulpa as personal thoughtforms explains a whole lot.
+* Some tulpa are trained off of our religious cultures: Santa, God, Jesus, etc.
+* Some tulpa are trained off of our memories of people who have passed away: ghosts, dreams.
+* All of our classic mental archetypes for father, mother, grandfather, grandmother, boss, teacher, etc are loosely defined tulpa that will pull partly from cultural sources, and partly from personal experiences.
+* Even our personal sense of identity is a tulpa that we feed, act through, and help train other people on as they get to know us.
+
+*Physics: laws of physics*
+* Nothing in our universe can travel faster than light.
+* Perception of time can be sped up or slowed down, but not reversed (forwards time travel is possible, backwards is not).
+* Teleportation, if it's ever invented, is more likely to resemble the creation of copies than "true" teleportation. 
+* Our universe began with low entropy and continues on a long, slow path to high entropy, powering literally everything along the way.
+* The universe, at the most fundamental level, may just be a mathematical structure (ala Max Tegmark's The Mathematical Universe).
+
+*Spirituality: God, angels, demons, and souls*
+* Souls don't exist as separate from the physical body.
+* The gods of organized religion don't exist.
+* Angels, demons, and other spirits exist as antropomorphised agents in our minds that are useful shortcuts for abstract concepts (see tulpas).
+* There is no heaven or hell.
+
+*Supernatural: ghosts*
+* Ghosts don't exist outside of our minds. (See "Psychology: tulpas")
+
+*Supernatural: law of attraction*
+* Intention can't create reality (it just primes our perception of it, and makes us more likely to notice opportunities).
+
+*Technology: artificial intelligence*
+* Machines will eventually become more intelligent than humans are today.
+* Machines will make humans more intelligent than we are today.
+* Intelligence isn't a single skill that can be acquired all at once, but the result of learning processes that take in one or more flows of new information, and communicate out analysis of the data in meaningful ways. Every flow of data will favor different intelligences, and intelligences that exist on one or more flows of data won't necessarily be adapted for other flows of data. 
+* The advent of super artificial intelligence does pose some existential risk to humanity (see "Life: Existential threats to us") but it is not the biggest threat.
+
+*Universe: origins*
+* Something like the Big Bang happened, and will probably happen again.
+* Something existed before the Big Bang (outside of time and space as we know them).
+
+*Universe: multiverse*
+* Other dimensions and universes exist.
+* The laws of physics (See "Physics: laws of physics") likely prevent us from ever proving that other universes exist.
+
+*Universe: structure*
+* We probably live in a simulation.
+
+### HOW THINGS SHOULD BE: On rights, laws, governance of society, and how things should be
+What I believe are the best realistically enforceable legal and policy frameworks for us to protect, inspire, and govern society by.
+
+*Abortion and birth control*
+* Abortion and birth control should be legal and readily accessible to everyone who needs it.
+* Birth control should be made available for free to people who need it and can't afford it.
+
+*Assisted suicide*
+* Assisted suicide should be legal and available to people in a certain set of dire situations that they feel prevent them from having any chance of a pleasant future.
+
+*Death penalty*
+* The death penalty should be used in extreme and certain cases to protect the public.
+
+*Discrimination, harrassment, and abuse*
+* Power often becomes motivated to remain in power, which results in systemic discrimination, harrassment, and abuse. It is against power's first-order objectives to build structures that might lead to them being removed from power, but as awareness of this dynamic increases, so should accountability. It will be a very slow uphill battle with many movements backwards, but all the more reason to always push on increasing awareness and accountability within all systems.
+
+*Drugs*
+* Marijuana should be legal to grow, sell, buy, carry, and use.
+
+*Education*
+* Free college education should be available to everyone who wants it.
+
+*Elections and voting*
+* The electoral college is out-dated and too easily manipulated. It should be replaced by something like delegative democracy.
+
+*Free speech*
+* Speech is a form of power, and just like power, free speech has constraints and is never absolute. However, because speech is often regulated by those in power, it's important to make sure they are not in charge or even capable of determining the constraints of free speech. 
+
+*Gun control*
+* Owning a gun should require certification from a firearms officer verifying that they've taken a safety course, are free of criminal record, and pass a psychological mental health check every few years.
+
+*Health care*
+* Health care should be available and affordable to everyone who needs it.
+
+*Hunting*
+* Hunting endangered animals in order to raise money to conserve them is okay if it can be proven to actually work.
+
+*Income inequality and wage disparity*
+* Guaranteed basic income should be a thing available to everyone.
+
+*Prison and sentences*
+* Prisons should be about protecting the public, not about punishment.
+* There should be special measures made to insure that criminal behavior by people in high-power positions get punished with equal or higher frequency than criminal behavior by people in lower-power positions.
+
+## Well-said things
+
+Writing I've loved and come back to a bunch of times.
+
+### Articles that have changed how I think
+
+* [Rational Emotive Behavior Therapy](http://en.wikipedia.org/wiki/Rational_emotive_behavior_therapy) - Wikipedia
+* [The Cook and the Chef: Musk's Secret Sauce](http://waitbutwhy.com/2015/11/the-cook-and-the-chef-musks-secret-sauce.html) - Tim Urban
+* [Your Life in Weeks](http://waitbutwhy.com/2014/05/life-weeks.html) - Tim Urban
+* [On conversational UIs](http://interconnected.org/home/2015/06/16/conversational_uis) - Matt Webb
+* [The Web's Grain](http://frankchimero.com/talks/the-webs-grain/transcript/) - Frank Chimero
+* [Ten Reasons Why Our Universe Is A Virtual Reality](http://listverse.com/2014/11/26/10-reasons-why-our-universe-is-a-virtual-reality/) - Brian Whitworth
+* [The Technology](http://paulbuchheit.blogspot.com/2014/07/the-technology.html) - Paul Buchheit
+* [Neurons Gone Wild](http://kevinsimler.quora.com/Neurons-Gone-Wild) - Kevin Simler
+* [When We Build](http://vimeo.com/34017777) - Wilson Miner
+* [We Aren't the World](http://www.psmag.com/magazines/magazine-feature-story-magazines/joe-henrich-weird-ultimatum-game-shaking-up-psychology-economics-53135/) - Ethan Watters
+* [The Elephants](https://medium.com/health-the-future/182870501589) - Nick Crocker
+* [Touching the Wild](https://seriouspony.exposure.co/touching-the-wild) - Kathy Sierra
+* [The Crossroads of Should and Must](https://medium.com/medium-long/90c75eb7c5b0) - Elle Luna
+* [Welcome to the Future Nauseous](http://www.ribbonfarm.com/2012/05/09/welcome-to-the-future-nauseous/) - Venkatesh Rao
+* [UX and the Civilizing Process](http://kevinsimler.quora.com/UX-and-the-Civilizing-Process) - Kevin Simler
+* [Navigating Stuckness](http://transom.org/?p=41667) - Jonathan Harris
+* [Stock and Flow](http://snarkmarket.com/2010/4890) - Robin Sloan
+* [WWIC](http://www.ftrain.com/wwic.html) - Paul Ford
+* [Top of Mind](http://www.paulgraham.com/top.html) - Paul Graham
+* [Fish](http://www.robinsloan.com/fish/) - Robin Sloan
+
+### Books that have changed how I think
+
+* [Everyone's an aliebn when ur a aliebn too](https://www.harpercollins.com/9780062569028/everyones-a-aliebn-when-ur-a-aliebn-too) - Jomny Sun
+* [The Enigma of Reason](https://www.amazon.com/dp/B06XWFM3PP) - Hugo Mercier
+* [The Big Picture](https://www.amazon.com/Big-Picture-Origins-Meaning-Universe/dp/0525954821) - Sean Carroll
+* [Liminal Thinking](https://www.amazon.com/Liminal-Thinking-Create-Change-Changing-ebook/dp/B01LZS4SLO) - Dave Gray
+* [I Am a Strange Loop](https://www.amazon.com/Am-Strange-Loop-Douglas-Hofstadter-ebook/dp/B004PYDBS0) - Douglas Hoftstadter
+* [You're It](http://www.amazon.com/Youre-It-Hiding-Seeking-Being/dp/1591797349) - Alan Watts
+* [The Wisdom of Insecurity](https://www.amazon.com/Wisdom-Insecurity-Alan-W-Watts-ebook/dp/B005YNPBH0) - Alan Watts
+* [On Intelligence](http://www.amazon.com/On-Intelligence-Jeff-Hawkins/dp/0805078533) - Jeff Hawkins
+* [Waking Up](http://www.amazon.com/Waking-Up-Spirituality-Without-Religion/dp/1451636016) - Sam Harris
+* [Creativity, Inc](http://www.amazon.com/Creativity-Inc-Overcoming-Unseen-Inspiration/dp/0804127441) - Ed Catmull
+* [The Fifth Discipline](http://www.amazon.com/The-Fifth-Discipline-Practice-Organization/dp/0553456342) - Peter M. Senge
+* [Antifragile](http://www.amazon.com/Antifragile-Things-That-Gain-Disorder/dp/1400067820/) - Nassim Nicholas Taleb
+* [Thinking Fast and Slow](http://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555) - Daniel Kahneman
+* [Strangers To Ourselves](http://www.amazon.com/Strangers-Ourselves-Discovering-Adaptive-Unconscious/dp/0674013824) - Timothy D. Wilson
+
+## Personal self-reflections
+
+As things happen in the world, I plan to revisit and edit this document to reflect my changing beliefs. In addition, I do a lot of writing that includes self-reflection, including a very specific self-reflection around the month of my birthday each year.
+
+### My rules to live by
+These are rules I *try* to live by, but obviously it won't always happen. If you catch me breaking one of these rules, please call me out on it. It's easier to spot inconsistencies in other people than yourself, so that's why I'm asking for your help to catch my own inconsistencies. And if I appear annoyed by you when you do this, just remind me that I asked you to do this. Thanks!
+* I should regularly verify that I want to continue opting-in to everything in this document on the first of every month.
 * I should create a new monthly report on the first of every month.
 * I should create a new yearly report every year on my birthday.
 * I should strive to know what I really believe, and to make sure my beliefs work well together.
@@ -190,63 +251,31 @@ How I believe I should approach life. These are all opt-in and apply only to mys
 * I should face things that make me uncomfortable.
 * I should take responsibility for things I find important, even if I can’t fully control them.
 
-#### 3B Opinions: Society
-
-How I believe society should be structured.
-
-* Gay marriage should be legal everywhere \(and now IS in the United States\).
-* Abortion should be legal everywhere.
-* Assisted suicide should be legal everywhere.
-* Health care should be available and affordable to everyone who needs it.
-* The death penalty should be used in extreme and certain cases to protect the public.
-* Prisons should be about protecting the public, not about punishment.
-* Marijuana should be legal to grow, sell, buy, and carry.
-* Owning a gun should require certification from a firearms officer verifying that they've taken a safety course, are free of criminal record, and pass a psychological mental health check every few years.
-* It should be easier and more expedient to put neglectful and irresponsible public servants in prison than the average citizen, not slower and more difficult.
-* Guaranteed basic income should be a thing available to everyone.
-* Free college education should be available to everyone who wants it.
-* Hunting endangered animals in order to raise money to conserve them is okay if it can be proven to actually work.
-
-#### 3C Opinions: Well-intentioned conversationalist's pledge
-
-If you see me breaking any of the above pledges in public or private conversations, please call me out during any point in the conversation and point me to which above item\(s\) I’m breaking, and I’ll pay you $10 \(limit to 1 payout per violation\). Uncollected payouts will go to a charity of my choosing at the end of every month.
-
-1. Truth exists, is discoverable, and is useful. I believe that truth can be approached via an honest examination of evidence and an open mind. This truth leads to better predictions and strategies for living life in a meaningful and productive way. Therefore, it’s worth my time to have conversations about beliefs, evidence, and objective reality.
-2. I’m willing to be wrong. I admit that I’ve reached the wrong conclusion about some number of things—I just don’t know which conclusions are the wrong ones. Therefore, I will not shut anyone down merely because they have reached a different conclusion about something.
-3. I’m curious about alternative perspectives. I invite other well-intentioned conversationalists to challenge me by introducing new evidence that contradicts or supports any of my positions, or to request further evidence on any point.
-4. I will integrate new evidence, and consider changing my mind. I have an interest in examining evidence that contradicts my current position, so that if I’m wrong I can change my position on those topics. Therefore, I will explore new information with an open mind and try to suspend disbelief long enough to allow a thorough analysis to occur. And I will ask follow-up questions about the evidence in order to make sure I understand it fully.
-5. I will understand first, then attempt to be understood. After I understand the alternative positions and evidence, I will try to articulate my positions in as much detail as possible, surfacing both the strongly supported points and the weakly supported points. Therefore, I invite people to present new evidence related to any of those points, or request more detail on my positions.
-6. I won’t make it personal and will act with good intentions. I’ll try to refrain from personal attacks, broad generalizations, and condescending tones, and focus on evidence. I’ll act with a strong conviction that I am currently not wrong about my positions, because I will never be able to be entirely certain about things, and need to act.
-
-### Type 4: Predictions
+### My predictions about the future
 
 How I think things will be in the future, based on the approximate year I think they’ll come true.
 
-#### 4A Predictions: By 2018
-
-* Ugh. TBD
-
-#### 4B Predictions: By 2025
+#### By 2025
 
 * Global warming will severely impact the global economy in some way and threaten the livelihood of people in some parts of the world.
 * The technology to program DNA \(via CRISPR\) will allow us to easily and cheaply edit, remove, and add DNA in embryos. We will start with obvious applications \(like preventing Alzheimers\) but not stop there.
 * Self-driving vehicles will begin to replace truck drivers, impacting employment rates in the country.
 
-#### 4C Predictions: By 2030
+#### By 2030
 
 * We'll have a President that admits to being atheist or agnostic by 2025.
 * Most jobs lost between 2008-2012 aren't going to come back, new ones have to be created from scratch \(or not\)
 * Safe, genetically modified foods will become the norm.
 * Wager with Carinna: by 2028, the equivalent of a college education \(both in breadth of knowledge and value to career\) will be available to anyone with an internet connection.
 
-#### 4D Predictions: By 2050
+#### By 2050
 
 * Computers will be building better computers than humans.
 * Guaranteed basic income will be available in a majority of first world countries. Employment will be decoupled from having the means to live.
 * People, organizations, and governments will exchange almost all privacy of personal data for interpersonal connection and technology personalization by machine learning services. It will be the norm.
 * Solar will overcome gas and oil in usage.
 
-#### 4E Predictions: By 2100
+#### By 2100
 
 * There will be 10 billion people on the planet at once.
 * 80% of people will live in cities and new mega-cities.
@@ -254,56 +283,31 @@ How I think things will be in the future, based on the approximate year I think 
 * The number of living languages in the world will have dropped from about 7,000 in 2009 to under 100.
 * Coral reefs and the ocean ecosystems are going to break with unknown consequences.
 
-#### 4F Predictions: By 2200
+#### By 2200
 
 * Humans, computers, and Earth will evolve into at least one super organism or networked brain.
 
-#### 4G Past Predictions
+#### Past Predictions
 
 * LOST: In 2016, Hillary will win the election
-* LOST wager with Rick Webb: By March 1st, 2016, descendants of Google Glass will be seen regularly in the wild \(in the same way that Fitbits, NikeFuel bands, and retina MacBook Pros were in 2013\). 
+* LOST wager with Rick Webb: By March 1st, 2016, descendants of Google Glass will be seen regularly in the wild (in the same way that Fitbits, NikeFuel bands, and retina MacBook Pros were in 2013). 
 
-## Glossary
+### My favorite ideas
+*In alphabetical order*
 
-### What is this?
-
-This document was started in [April of 2012](https://github.com/busterbenson/public/blob/cb1481ae0d2458474d61d79cde6d9bef05a55a8c/Beliefs.md) as a result of an experiment one Sunday. Maintaining this document has become one of the most treasured activities in my life. It’s a way for me to remember who I am, catch inconsistencies in how I respond to different events in the world, react to current events from a position of how I believe the world is, should be, and will become.
-
-How it started: [My Sunday experiment: what do I believe?](http://bustr.me/post/21579186643/my-sunday-experiment-what-do-i-believe)
-
-### Codex vitae
+#### Codex vitae
 
 This is an idea coined by Robin Sloan in his book [Mr Penumbra's 24-Hour Bookstore](http://www.amazon.com/Mr-Penumbras-24-Hour-Bookstore-Novel/dp/1250037751). The idea is to write a book, the Codex Vitae or Book of Life, that represents everything I have learned in my life. If I lost all of my memories somehow, this could be something that helped me remember who I am.
 
-Posts about this topic: [Codex Vitae](http://wayoftheduck.com/codex-vitae).
+Posts about this topic: [Codex Vitae](http://buster.svbtle.com/codex-vitae).
 
-### Quality time
-
-My own Codex Vitae's first chapter could possibly be about quality time and its role as the primary ends \(and means\) for a life well lived. There are 3 kinds of quality time that I want to seek out. The first is quality time with myself. Find my favorite ideas, core interests, and people that I can connect deeply with. The second is quality time with those favorite ideas and core interests, and the third is quality time with those people I can connect deeply with. They each feed into each other: I can't really connect deeply with others until I know myself sufficiently well; often times interests are strengthened by having people I can connect with and share with. It seems pretty ungameable to me. Seek quality time with myself, my interests, and others and I won't regret anything on my death bed.
-
-Posts about this topic: [The Death Bed Game](https://medium.com/better-humans/20cc8d9c7494), [How I track my life](https://medium.com/buster-benson/how-i-track-my-life-7da6f22b8e2c), [Live like a hydra](https://medium.com/@buster/live-like-a-hydra-c02337782a89).
-
-### Systems thinking
-
-I first became obsessed with the concept of systems thinking after reading [The Fifth Discipline](http://www.amazon.com/The-Fifth-Discipline-Practice-Organization/dp/0553456342). It's often used in relation to natural systems \(like the water cycle and the carbon cycle\) in order to illustrate how certain resources cycle through various incarnations over time. However, it can be applied to so much more than just elements, and I've found that this way of thinking really changes how I think about all kinds of day to day things. I'm currently in the process of trying to write a children's book that explains systems thinking.
-
-Posts about this topic: [Systems Thinking for Kids](https://medium.com/@buster/systems-thinking-for-kids-ab273a47bbd4?source=your-stories), [Notes](https://medium.com/@buster/systems-thinking-for-kids-random-notes-part-1-1e2498391009?source=your-stories), [More notes](https://medium.com/@buster/systems-thinking-for-kids-random-notes-pt-2-19441108c9f5?source=your-stories), [Dirt](https://medium.com/@buster/dirt-f6907b34548f?source=your-stories).
-
-### Soloverse
-
-This is my word for a particular idea I'm obsessed with. It goes something like this: the universe is this giant space/time environment \(or simulation?\) that we are all a part of. The _soloverse_ is our mental model of that universe that our brain uses to _think about_ the universe and everything in it. You can’t really think about the universe directly \(it’s way too big\), you can only think about your mental model of the universe as it exists in your soloverse. Lots of interesting \(to me\) side effects result from this distinction.
-
-I first came across this idea in 2013 and found some interesting explorations of the idea referenced by the word _umwelt_, which is German for “environment” or “surroundings” and pronounced _oom-velt_. I just made up the term soloverse because it’s easier for me to think of it as a private, working model of the universe in our minds.
-
-Posts about this topic: [Universe ↔ Soloverse](https://medium.com/thought-experiments/universe-soloverse-d174549e00d7), [Know thy umwelt](http://wayoftheduck.com/know-thy-umwelt)
-
-### Hume’s fork
+#### Hume’s fork
 
 The gist is that there are two kinds of knowledge: matters of fact, and relations of ideas. Matters of fact aren’t accessible to us—we can never know something for certain, only that it hasn't been proven wrong yet. We can only create a self-referencing network of ideas that are related to each other. What we think of as truth is merely the ability for a particular idea to fit into this network of ideas without causing irreconcilable contradictions.
 
 See [the entry on Wikipedia](https://en.wikipedia.org/wiki/Hume%27s_fork) for a good intro to the idea.
 
-### Optionality
+#### Optionality
 
 Or, as Nassim Nicolas Taleb calls it: [antifragility](http://www.amazon.com/Antifragile-Things-That-Gain-Disorder/dp/1400067820/). I like the word optionality because it seems more neutral, almost boring even, and yet it is probably one of the most simple and powerful ideas that I’ve ever encountered.
 
@@ -311,69 +315,39 @@ We tend to build systems that converge on a single design over time \(see monocu
 
 Posts about this topic: [Live like a hydra](https://medium.com/better-humans/c02337782a89).
 
-### Primes
+#### Poetic Naturalism
 
-We experience life and the world through a series of lenses, and these lenses are colored by the ideas that have recently been activated in our brains. This idea has been popping up in my zeitgeist lately, and it seems like it's related to the soloverse, to anomalies, to beliefs, to behavior, to biases, to identity, even to quality time \(the only way to really enjoy quality time is to be primed for it\)... basically all of my favorite ideas. I'm creating this as a place-holder for now and will fill it in as the interest develops and I'm able to articulate it better.
+Naturalism is a philosophy that believes there's only one world: the natural world \(made of matter, energy, space, time, etc\). It can be explored and tested and understood through the scientific method. There's no "supernatural" world that can't be explained as part of the natural world. The "poetic" qualifier comes from Sean Carroll, which I learned about through his book "The Big Picture". He does a good job of making the case for an appreciation of not only the natural world, but "ways of talking about it" through stories, mental models, theories, etc. To the extent that these various ways of talking about the natural world are useful and consistent with what we know about the natural world, they can be considered "real". In his words: "A poetic naturalist will deny that notions like “right and wrong,” “purpose and duty,” or “beauty and ugliness” are part of the fundamental architecture of the world. The world is just the world, unfolding according to the patterns of nature, free of any judgmental attributes. But these moral and ethical and aesthetic vocabularies can be perfectly useful ways of talking about the world. The criteria for choosing the best such ways of talking will necessarily be different that the criteria we use for purely descriptive, scientific vocabularies. There won’t be a single rational way to delineate good from bad, sublime from repulsive. But we can still speak in such terms, and put in the hard work to make our actions live up to our own internal aspirations. We just have to admit that judgments come from within ourselves." This resonates with me quite a bit.
 
-### Quantum realism
+#### Quality time
+
+This is my long-time answer to a self-determined purpose of life. There are 3 kinds of quality time that I want to seek out. The first is quality time with myself. Find my favorite ideas, core interests, and people that I can connect deeply with. The second is quality time with those favorite ideas and core interests, and the third is quality time with those people I can connect deeply with. They each feed into each other: I can't really connect deeply with others until I know myself sufficiently well; often times interests are strengthened by having people I can connect with and share with. It seems pretty ungameable to me. Seek quality time with myself, my interests, and others and I won't regret anything on my death bed.
+
+Posts about this topic: [The Death Bed Game](https://medium.com/better-humans/20cc8d9c7494), [How I track my life](https://medium.com/buster-benson/how-i-track-my-life-7da6f22b8e2c), [Live like a hydra](https://medium.com/@buster/live-like-a-hydra-c02337782a89).
+
+#### Quantum realism
 
 Quantum realism is a term I first learned from [an article](http://listverse.com/2014/11/26/10-reasons-why-our-universe-is-a-virtual-reality/) by Brian Whitworth, a senior lecturer in computing at Massey University. The idea is in opposition to "physical realism" \(that belief that the physical world we see is real and exists by itself, alone\). Quantum realism asserts that the physical world isn't real in itself, but merely the output \(or shadow, or result, or projected image\) of a quantum reality that is generating it. It's basically a virtual reality, or a simulation.
 
 I'm still learning about this and definitely couldn't explain or defend it, but I'm fascinated by the idea and keep thinking about it. I need to read [this](http://thephysicalworldisvirtual.com/) a few more times.
 
-### Poetic Naturalism
+#### Soloverse
 
-Naturalism is a philosophy that believes there's only one world: the natural world \(made of matter, energy, space, time, etc\). It can be explored and tested and understood through the scientific method. There's no "supernatural" world that can't be explained as part of the natural world. The "poetic" qualifier comes from Sean Carroll, which I learned about through his book "The Big Picture". He does a good job of making the case for an appreciation of not only the natural world, but "ways of talking about it" through stories, mental models, theories, etc. To the extent that these various ways of talking about the natural world are useful and consistent with what we know about the natural world, they can be considered "real". In his words: "A poetic naturalist will deny that notions like “right and wrong,” “purpose and duty,” or “beauty and ugliness” are part of the fundamental architecture of the world. The world is just the world, unfolding according to the patterns of nature, free of any judgmental attributes. But these moral and ethical and aesthetic vocabularies can be perfectly useful ways of talking about the world. The criteria for choosing the best such ways of talking will necessarily be different that the criteria we use for purely descriptive, scientific vocabularies. There won’t be a single rational way to delineate good from bad, sublime from repulsive. But we can still speak in such terms, and put in the hard work to make our actions live up to our own internal aspirations. We just have to admit that judgments come from within ourselves." This resonates with me quite a bit.
+This is my word for a particular idea I'm obsessed with. It goes something like this: the universe is this giant space/time environment \(or simulation?\) that we are all a part of. The _soloverse_ is our mental model of that universe that our brain uses to _think about_ the universe and everything in it. You can’t really think about the universe directly \(it’s way too big\), you can only think about your mental model of the universe as it exists in your soloverse. Lots of interesting \(to me\) side effects result from this distinction.
 
-## Personal canon
+I first came across this idea in 2013 and found some interesting explorations of the idea referenced by the word _umwelt_, which is German for “environment” or “surroundings” and pronounced _oom-velt_. I just made up the term soloverse because it’s easier for me to think of it as a private, working model of the universe in our minds.
 
-### Articles
+Posts about this topic: [Universe ↔ Soloverse](https://medium.com/thought-experiments/universe-soloverse-d174549e00d7), [Know thy umwelt](http://buster.svbtle.com/know-thy-umwelt)
 
-Writing I've loved and come back to a bunch of times.
+#### Systems thinking
 
-* [Rational Emotive Behavior Therapy](http://en.wikipedia.org/wiki/Rational_emotive_behavior_therapy)
-* [The Cook and the Chef: Musk's Secret Sauce](http://waitbutwhy.com/2015/11/the-cook-and-the-chef-musks-secret-sauce.html) - Tim Urban
-* [Your Life in Weeks](http://waitbutwhy.com/2014/05/life-weeks.html) - Tim Urban
-* [On conversational UIs](http://interconnected.org/home/2015/06/16/conversational_uis) - Matt Webb
-* [The Web's Grain](http://frankchimero.com/talks/the-webs-grain/transcript/) - Frank Chimero
-* [Ten Reasons Why Our Universe Is A Virtual Reality](http://listverse.com/2014/11/26/10-reasons-why-our-universe-is-a-virtual-reality/) - Brian Whitworth
-* [The Technology](http://paulbuchheit.blogspot.com/2014/07/the-technology.html) - Paul Buchheit
-* [Neurons Gone Wild](http://kevinsimler.quora.com/Neurons-Gone-Wild) - Kevin Simler
-* [When We Build](http://vimeo.com/34017777) - Wilson Miner
-* [We Aren't the World](http://www.psmag.com/magazines/magazine-feature-story-magazines/joe-henrich-weird-ultimatum-game-shaking-up-psychology-economics-53135/) - Ethan Watters
-* [The Elephants](https://medium.com/health-the-future/182870501589) - Nick Crocker
-* [Touching the Wild](https://seriouspony.exposure.co/touching-the-wild) - Kathy Sierra
-* [The Crossroads of Should and Must](https://medium.com/medium-long/90c75eb7c5b0) - Elle Luna
-* [Welcome to the Future Nauseous](http://www.ribbonfarm.com/2012/05/09/welcome-to-the-future-nauseous/) - Venkatesh Rao
-* [UX and the Civilizing Process](http://kevinsimler.quora.com/UX-and-the-Civilizing-Process) - Kevin Simler
-* [Navigating Stuckness](http://transom.org/?p=41667) - Jonathan Harris
-* [Stock and Flow](http://snarkmarket.com/2010/4890) - Robin Sloan
-* [WWIC](http://www.ftrain.com/wwic.html) - Paul Ford
-* [Top of Mind](http://www.paulgraham.com/top.html) - Paul Graham
-* [Fish](http://www.robinsloan.com/fish/) - Robin Sloan
+I first became obsessed with the concept of systems thinking after reading [The Fifth Discipline](http://www.amazon.com/The-Fifth-Discipline-Practice-Organization/dp/0553456342). It's often used in relation to natural systems \(like the water cycle and the carbon cycle\) in order to illustrate how certain resources cycle through various incarnations over time. However, it can be applied to so much more than just elements, and I've found that this way of thinking really changes how I think about all kinds of day to day things. I'm currently in the process of trying to write a children's book that explains systems thinking.
 
-### Books
+Posts about this topic: [Systems Thinking for Kids](https://medium.com/@buster/systems-thinking-for-kids-ab273a47bbd4?source=your-stories), [Notes](https://medium.com/@buster/systems-thinking-for-kids-random-notes-part-1-1e2498391009?source=your-stories), [More notes](https://medium.com/@buster/systems-thinking-for-kids-random-notes-pt-2-19441108c9f5?source=your-stories), [Dirt](https://medium.com/@buster/dirt-f6907b34548f?source=your-stories).
 
-Each of these books has changed how I see the world.
+### My writing that attempts to capture how I think
 
-* [The Big Picture](https://www.amazon.com/Big-Picture-Origins-Meaning-Universe/dp/0525954821) - Sean Carroll
-* [Liminal Thinking](https://www.amazon.com/Liminal-Thinking-Create-Change-Changing-ebook/dp/B01LZS4SLO) - Dave Gray
-* [I Am a Strange Loop](https://www.amazon.com/Am-Strange-Loop-Douglas-Hofstadter-ebook/dp/B004PYDBS0) - Douglas Hoftstadter
-* [You're It](http://www.amazon.com/Youre-It-Hiding-Seeking-Being/dp/1591797349) - Alan Watts
-* [The Wisdom of Insecurity](https://www.amazon.com/Wisdom-Insecurity-Alan-W-Watts-ebook/dp/B005YNPBH0) - Alan Watts
-* [On Intelligence](http://www.amazon.com/On-Intelligence-Jeff-Hawkins/dp/0805078533) - Jeff Hawkins
-* [Waking Up](http://www.amazon.com/Waking-Up-Spirituality-Without-Religion/dp/1451636016) - Sam Harris
-* [Creativity, Inc](http://www.amazon.com/Creativity-Inc-Overcoming-Unseen-Inspiration/dp/0804127441) - Ed Catmull
-* [The Fifth Discipline](http://www.amazon.com/The-Fifth-Discipline-Practice-Organization/dp/0553456342) - Peter M. Senge
-* [Antifragile](http://www.amazon.com/Antifragile-Things-That-Gain-Disorder/dp/1400067820/) - Nassim Nicholas Taleb
-* [Thinking Fast and Slow](http://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555) - Daniel Kahneman
-* [Strangers To Ourselves](http://www.amazon.com/Strangers-Ourselves-Discovering-Adaptive-Unconscious/dp/0674013824) - Timothy D. Wilson
-  Deutsch
-
-### My writing
-
-Stuff that I've written that means something to me.
-
+* [Rational person's 1-minute guide to why rational thinking often fails to persuade people](https://medium.com/thinking-is-hard/a-rational-thinkers-guide-to-why-rational-thinking-often-fails-to-persuade-people-b3e65cac11e0)
 * [Cognitive Bias Cheat Sheet, Simplified](https://medium.com/thinking-is-hard/4-conundrums-of-intelligence-2ab78d90740f): Simplifying my cognitive bias cheat sheet a bit further
 * [Cognitive Bias Cheat Sheet](https://betterhumans.coach.me/cognitive-bias-cheat-sheet-55a472476b18): Summarizing the list of cognitive biases page on Wikipedia
 * [Better than meditation](https://medium.com/better-humans/better-than-meditation-12532d29f6cd?recommendNoteId=fd448809351b): Free-writing as an alternative to meditation
@@ -386,24 +360,29 @@ Stuff that I've written that means something to me.
 * [If You Live 100 Times](http://cdn.readtapestry.com/stories/RVwPvalHq/index.html): A tappable essay that plays out 100 lives that you could live.
 * [Man Versus Himself](http://www.amazon.com/Versus-Himself-Erik-Keith-Benson/dp/0595283535): A novel I wrote about an 89-year old man who is CEO of 2 companies and gets stabbed in the eye.
 
-## Changelog
-
-### Commit history
-
-* [History of changes to this document](https://github.com/busterbenson/public/commits/master)
-
 ### Yearly reports
 
 * 41: [Seek endarkenment](https://medium.com/@buster/41-seek-endarkenment-9700663dea67) \(2017\)
 * 40: [Mind the loops](https://medium.com/@buster/40-mind-the-loops-9e0c6ba35a87) \(2016\)
 * 39: [Make wiggle room](https://medium.com/buster-benson/39-make-wiggle-room-2546b44b9804) \(2015\)
 * 38: [Cultivate quality time](https://medium.com/p/5e72aa44b857) \(2014\)
-* 37: [More kiloslogs](http://wayoftheduck.com/37) \(2013\)
-* 36: [Talk it out](http://bustr.me/post/23934784635/on-being-36) \(2012\)
-* 35: [Love the struggle](http://bustr.me/post/5929491429/on-being-35) \(2011\)
+* 37: [More kiloslogs](http://buster.svbtle.com/37) \(2013\)
+* 36: [Talk it out](http://bustr.tumblr.com/post/23934784635/on-being-36) \(2012\)
+* 35: [Love the struggle](http://bustr.tumblr.com/post/5929491429/on-being-35) \(2011\)
 * 34: [Cultivating the core](https://github.com/busterbenson/public/blob/master/files/yearly-report-34.md) \(2010\)
 * 33: [Frugal to the max](https://github.com/busterbenson/public/blob/master/files/yearly-report-33.md) \(2009\)
 * 32: [No problem](http://busterbenson.livejournal.com/204717.html) \(2008\)
 * 31: [Double down](http://busterbenson.livejournal.com/120184.html) \(2007\)
 * 30: [Higher highs and lower lows](http://busterbenson.livejournal.com/85489.html) \(2006\)
 
+### Beliefs changelog
+
+* [2017](https://github.com/busterbenson/public/blob/master/book-of-beliefs-2017.md)
+* [2016](https://github.com/busterbenson/public/blob/master/book-of-beliefs-2016.md)
+* [2015](https://github.com/busterbenson/public/blob/master/book-of-beliefs-2015.md)
+* [2014](https://github.com/busterbenson/public/blob/master/book-of-beliefs-2014.md)
+* [2013](https://github.com/busterbenson/public/blob/master/book-of-beliefs-2013.md)
+* [2012](https://github.com/busterbenson/public/blob/master/book-of-beliefs-2012.md)
+* [History of all changes](https://github.com/busterbenson/public/commits/master/Codex.md)
+
+Stay foolish. Stay hungry.
