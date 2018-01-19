@@ -147,7 +147,7 @@ Science, politics, and the universe.
 * Acupuncture works, somehow.
 * Vaccinations are good for babies and society.
 
-#### 2C Perceptions: Self
+#### 2E Perceptions: Self
 
 Beliefs about myself, based on periodic implicit bias testing and other assessments.
 
