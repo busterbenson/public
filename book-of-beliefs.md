@@ -1,12 +1,11 @@
-# Beliefs about how things are and how things should be
+# Beliefs about how things are and how they should be
+Author: Buster Benson
 
-_Last updated on January 15th, 2018._
+*What is this document?* This public, living, document was created as an experiement one Sunday in April of 2012. Maintaining this document has become one of the most treasured activities in my life. It’s a way for me to remember who I am, catch inconsistencies in how I respond to different events in the world, react to current events from a position of how I believe the world is, should be, and will become. I've updated it at least once a year since 2012, and all changes are tracked. Rather than attempting to avoid all errors in this doc, I'm attempting to be as specific as possible and to quickly correct errors when they become apparent.
 
-*Who's beliefs are these?* I'm Buster Benson. These beliefs are my best guess and articulation of my own beliefs, which were inherited and molded party by the environment I've lived in and party by my own interpretation of life experiences. Your mileage may vary. Caveat lector.
+*Why does it exist?* My main goal here is to get smarter over time by identifying new connections and inconsistencies so I can course-correct when necessary. A secondary goal is that I'd also like to extend an invitiation for others to spark conversations with me about anything they find interesting and to also help keep me accountable.
 
-*What is this document?* This public, living, document was created in April of 2012 and attempts to capture my beliefs about the nature of life, the universe, and everything in as few words as possible. I've updated it at least once a year since 2012, and all changes are tracked. Rather than attempting to avoid all errors in this doc, I'm attempting to be as specific as possible and to quickly correct errors when they become apparent.
-
-*Why does it exist?* My primary goal here is to get smarter over time by identifying new connections and inconsistencies so I can course-correct when necessary. Secondarily, I'd also like to extend an invitiation for others to spark conversations with me about anything they find interesting and to also help keep me accountable.
+*Who's beliefs are these?* I'm Buster Benson. These beliefs are my best guess and articulation of my own beliefs, which were inherited and molded party by the environment I've lived in and party by my own interpretation of life experiences. Your mileage may vary. Caveat lector. 
 
 ## Sections
 * [Beliefs](#beliefs)
@@ -75,8 +74,7 @@ How nature, consciousness, and the universe seem to be to me (both objectively a
 * Most questions have no answer (but asking them and talking about them anyway is often entertaining).
 * I subscribe to Hume's Fork, which claims that there are two kinds of knowledge: matters of fact, and relations of ideas. Matters of fact aren’t accessible to us—we can never know something for certain, only that it hasn't been proven wrong yet. We can only create a self-referencing network of ideas that are related to each other. "2 + 2 = 4" and "My name is Buster" are both conclusively true if we agree to the definitions and relations between each word and symbol.
 * Logic is a helpful tool, but has flaws and can't be relied on entirely.
-
-*Philosophy: Stoicism*
+* Even if absolute truth about matters of fact aren't accessible to us, it's still possible to get closer to it. Especially in the context of making better predictions on limited data.
 
 *Pseudoscience: astrology*
 * Astrology can be fun entertainment, like the Myers Briggs test.
@@ -114,7 +112,7 @@ How nature, consciousness, and the universe seem to be to me (both objectively a
 * There is no heaven or hell.
 
 *Supernatural: ghosts*
-* Ghosts don't exist outside of our minds. (See "Psychology: Tulpa")
+* Ghosts don't exist outside of our minds. (See "Psychology: tulpas")
 
 *Supernatural: law of attraction*
 * Intention can't create reality (it just primes our perception of it, and makes us more likely to notice opportunities).
@@ -135,7 +133,6 @@ How nature, consciousness, and the universe seem to be to me (both objectively a
 
 *Universe: structure*
 * We probably live in a simulation.
-
 
 ### HOW THINGS SHOULD BE: On rights, laws, governance of society, and how things should be
 What I believe are the best realistically enforceable legal and policy frameworks for us to protect, inspire, and govern society by.
@@ -224,11 +221,129 @@ Writing I've loved and come back to a bunch of times.
 * [Antifragile](http://www.amazon.com/Antifragile-Things-That-Gain-Disorder/dp/1400067820/) - Nassim Nicholas Taleb
 * [Thinking Fast and Slow](http://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555) - Daniel Kahneman
 * [Strangers To Ourselves](http://www.amazon.com/Strangers-Ourselves-Discovering-Adaptive-Unconscious/dp/0674013824) - Timothy D. Wilson
-  Deutsch
 
 ## Personal self-reflections
 
 As things happen in the world, I plan to revisit and edit this document to reflect my changing beliefs. In addition, I do a lot of writing that includes self-reflection, including a very specific self-reflection around the month of my birthday each year.
+
+### My rules to live by
+These are rules I *try* to live by, but obviously it won't always happen. If you catch me breaking one of these rules, please call me out on it. It's easier to spot inconsistencies in other people than yourself, so that's why I'm asking for your help to catch my own inconsistencies. And if I appear annoyed by you when you do this, just remind me that I asked you to do this. Thanks!
+* I should regularly verify that I want to continue opting-in to everything in this document on the first of every month.
+* I should create a new monthly report on the first of every month.
+* I should create a new yearly report every year on my birthday.
+* I should strive to know what I really believe, and to make sure my beliefs work well together.
+* I should not dilly-dally.
+* I should be my word.
+* I should have good intentions.
+* I should admit to being the maker of my own meaning.
+* I should not feel sorry for myself and avoid competitive suffering.
+* I should have a vision that I'm striving for.
+* I should rally others with my vision.
+* I should be the change I want to see.
+* I should stake my reputation on my better self.
+* I should be comfortable with the consequences of being who I am.
+* I should make my own advice and take it.
+* I should manage my stress, health, and clarity by consistently eating well, exercising, and getting enough sleep.
+* I should study my mistakes.
+* I should retry things I don’t like every once in a while.
+* I should go slow, work hard, and avoid shortcuts.
+* I should cultivate quality time with myself, with others, and with my interests.
+* I should face things that make me uncomfortable.
+* I should take responsibility for things I find important, even if I can’t fully control them.
+
+### My predictions about the future
+
+How I think things will be in the future, based on the approximate year I think they’ll come true.
+
+#### By 2025
+
+* Global warming will severely impact the global economy in some way and threaten the livelihood of people in some parts of the world.
+* The technology to program DNA \(via CRISPR\) will allow us to easily and cheaply edit, remove, and add DNA in embryos. We will start with obvious applications \(like preventing Alzheimers\) but not stop there.
+* Self-driving vehicles will begin to replace truck drivers, impacting employment rates in the country.
+
+#### By 2030
+
+* We'll have a President that admits to being atheist or agnostic by 2025.
+* Most jobs lost between 2008-2012 aren't going to come back, new ones have to be created from scratch \(or not\)
+* Safe, genetically modified foods will become the norm.
+* Wager with Carinna: by 2028, the equivalent of a college education \(both in breadth of knowledge and value to career\) will be available to anyone with an internet connection.
+
+#### By 2050
+
+* Computers will be building better computers than humans.
+* Guaranteed basic income will be available in a majority of first world countries. Employment will be decoupled from having the means to live.
+* People, organizations, and governments will exchange almost all privacy of personal data for interpersonal connection and technology personalization by machine learning services. It will be the norm.
+* Solar will overcome gas and oil in usage.
+
+#### By 2100
+
+* There will be 10 billion people on the planet at once.
+* 80% of people will live in cities and new mega-cities.
+* Physical travel will be completely unnecessary due to virtual reality technology.
+* The number of living languages in the world will have dropped from about 7,000 in 2009 to under 100.
+* Coral reefs and the ocean ecosystems are going to break with unknown consequences.
+
+#### By 2200
+
+* Humans, computers, and Earth will evolve into at least one super organism or networked brain.
+
+#### Past Predictions
+
+* LOST: In 2016, Hillary will win the election
+* LOST wager with Rick Webb: By March 1st, 2016, descendants of Google Glass will be seen regularly in the wild (in the same way that Fitbits, NikeFuel bands, and retina MacBook Pros were in 2013). 
+
+### My favorite ideas
+*In alphabetical order*
+
+#### Codex vitae
+
+This is an idea coined by Robin Sloan in his book [Mr Penumbra's 24-Hour Bookstore](http://www.amazon.com/Mr-Penumbras-24-Hour-Bookstore-Novel/dp/1250037751). The idea is to write a book, the Codex Vitae or Book of Life, that represents everything I have learned in my life. If I lost all of my memories somehow, this could be something that helped me remember who I am.
+
+Posts about this topic: [Codex Vitae](http://buster.svbtle.com/codex-vitae).
+
+#### Hume’s fork
+
+The gist is that there are two kinds of knowledge: matters of fact, and relations of ideas. Matters of fact aren’t accessible to us—we can never know something for certain, only that it hasn't been proven wrong yet. We can only create a self-referencing network of ideas that are related to each other. What we think of as truth is merely the ability for a particular idea to fit into this network of ideas without causing irreconcilable contradictions.
+
+See [the entry on Wikipedia](https://en.wikipedia.org/wiki/Hume%27s_fork) for a good intro to the idea.
+
+#### Optionality
+
+Or, as Nassim Nicolas Taleb calls it: [antifragility](http://www.amazon.com/Antifragile-Things-That-Gain-Disorder/dp/1400067820/). I like the word optionality because it seems more neutral, almost boring even, and yet it is probably one of the most simple and powerful ideas that I’ve ever encountered.
+
+We tend to build systems that converge on a single design over time \(see monocultures\) because they are predictable and efficient in a given environment. But environments change, and without the ability to predict how those changes will happen ahead of time, optionality is required even in the safest of environments.
+
+Posts about this topic: [Live like a hydra](https://medium.com/better-humans/c02337782a89).
+
+#### Poetic Naturalism
+
+Naturalism is a philosophy that believes there's only one world: the natural world \(made of matter, energy, space, time, etc\). It can be explored and tested and understood through the scientific method. There's no "supernatural" world that can't be explained as part of the natural world. The "poetic" qualifier comes from Sean Carroll, which I learned about through his book "The Big Picture". He does a good job of making the case for an appreciation of not only the natural world, but "ways of talking about it" through stories, mental models, theories, etc. To the extent that these various ways of talking about the natural world are useful and consistent with what we know about the natural world, they can be considered "real". In his words: "A poetic naturalist will deny that notions like “right and wrong,” “purpose and duty,” or “beauty and ugliness” are part of the fundamental architecture of the world. The world is just the world, unfolding according to the patterns of nature, free of any judgmental attributes. But these moral and ethical and aesthetic vocabularies can be perfectly useful ways of talking about the world. The criteria for choosing the best such ways of talking will necessarily be different that the criteria we use for purely descriptive, scientific vocabularies. There won’t be a single rational way to delineate good from bad, sublime from repulsive. But we can still speak in such terms, and put in the hard work to make our actions live up to our own internal aspirations. We just have to admit that judgments come from within ourselves." This resonates with me quite a bit.
+
+#### Quality time
+
+This is my long-time answer to a self-determined purpose of life. There are 3 kinds of quality time that I want to seek out. The first is quality time with myself. Find my favorite ideas, core interests, and people that I can connect deeply with. The second is quality time with those favorite ideas and core interests, and the third is quality time with those people I can connect deeply with. They each feed into each other: I can't really connect deeply with others until I know myself sufficiently well; often times interests are strengthened by having people I can connect with and share with. It seems pretty ungameable to me. Seek quality time with myself, my interests, and others and I won't regret anything on my death bed.
+
+Posts about this topic: [The Death Bed Game](https://medium.com/better-humans/20cc8d9c7494), [How I track my life](https://medium.com/buster-benson/how-i-track-my-life-7da6f22b8e2c), [Live like a hydra](https://medium.com/@buster/live-like-a-hydra-c02337782a89).
+
+#### Quantum realism
+
+Quantum realism is a term I first learned from [an article](http://listverse.com/2014/11/26/10-reasons-why-our-universe-is-a-virtual-reality/) by Brian Whitworth, a senior lecturer in computing at Massey University. The idea is in opposition to "physical realism" \(that belief that the physical world we see is real and exists by itself, alone\). Quantum realism asserts that the physical world isn't real in itself, but merely the output \(or shadow, or result, or projected image\) of a quantum reality that is generating it. It's basically a virtual reality, or a simulation.
+
+I'm still learning about this and definitely couldn't explain or defend it, but I'm fascinated by the idea and keep thinking about it. I need to read [this](http://thephysicalworldisvirtual.com/) a few more times.
+
+#### Soloverse
+
+This is my word for a particular idea I'm obsessed with. It goes something like this: the universe is this giant space/time environment \(or simulation?\) that we are all a part of. The _soloverse_ is our mental model of that universe that our brain uses to _think about_ the universe and everything in it. You can’t really think about the universe directly \(it’s way too big\), you can only think about your mental model of the universe as it exists in your soloverse. Lots of interesting \(to me\) side effects result from this distinction.
+
+I first came across this idea in 2013 and found some interesting explorations of the idea referenced by the word _umwelt_, which is German for “environment” or “surroundings” and pronounced _oom-velt_. I just made up the term soloverse because it’s easier for me to think of it as a private, working model of the universe in our minds.
+
+Posts about this topic: [Universe ↔ Soloverse](https://medium.com/thought-experiments/universe-soloverse-d174549e00d7), [Know thy umwelt](http://buster.svbtle.com/know-thy-umwelt)
+
+#### Systems thinking
+
+I first became obsessed with the concept of systems thinking after reading [The Fifth Discipline](http://www.amazon.com/The-Fifth-Discipline-Practice-Organization/dp/0553456342). It's often used in relation to natural systems \(like the water cycle and the carbon cycle\) in order to illustrate how certain resources cycle through various incarnations over time. However, it can be applied to so much more than just elements, and I've found that this way of thinking really changes how I think about all kinds of day to day things. I'm currently in the process of trying to write a children's book that explains systems thinking.
+
+Posts about this topic: [Systems Thinking for Kids](https://medium.com/@buster/systems-thinking-for-kids-ab273a47bbd4?source=your-stories), [Notes](https://medium.com/@buster/systems-thinking-for-kids-random-notes-part-1-1e2498391009?source=your-stories), [More notes](https://medium.com/@buster/systems-thinking-for-kids-random-notes-pt-2-19441108c9f5?source=your-stories), [Dirt](https://medium.com/@buster/dirt-f6907b34548f?source=your-stories).
 
 ### My writing that attempts to capture how I think
 
@@ -251,9 +366,9 @@ As things happen in the world, I plan to revisit and edit this document to refle
 * 40: [Mind the loops](https://medium.com/@buster/40-mind-the-loops-9e0c6ba35a87) \(2016\)
 * 39: [Make wiggle room](https://medium.com/buster-benson/39-make-wiggle-room-2546b44b9804) \(2015\)
 * 38: [Cultivate quality time](https://medium.com/p/5e72aa44b857) \(2014\)
-* 37: [More kiloslogs](http://wayoftheduck.com/37) \(2013\)
-* 36: [Talk it out](http://bustr.me/post/23934784635/on-being-36) \(2012\)
-* 35: [Love the struggle](http://bustr.me/post/5929491429/on-being-35) \(2011\)
+* 37: [More kiloslogs](http://buster.svbtle.com/37) \(2013\)
+* 36: [Talk it out](http://bustr.tumblr.com/post/23934784635/on-being-36) \(2012\)
+* 35: [Love the struggle](http://bustr.tumblr.com/post/5929491429/on-being-35) \(2011\)
 * 34: [Cultivating the core](https://github.com/busterbenson/public/blob/master/files/yearly-report-34.md) \(2010\)
 * 33: [Frugal to the max](https://github.com/busterbenson/public/blob/master/files/yearly-report-33.md) \(2009\)
 * 32: [No problem](http://busterbenson.livejournal.com/204717.html) \(2008\)
@@ -269,3 +384,5 @@ As things happen in the world, I plan to revisit and edit this document to refle
 * [2013](https://github.com/busterbenson/public/blob/master/book-of-beliefs-2013.md)
 * [2012](https://github.com/busterbenson/public/blob/master/book-of-beliefs-2012.md)
 * [History of all changes](https://github.com/busterbenson/public/commits/master/Codex.md)
+
+Stay foolish. Stay hungry.
