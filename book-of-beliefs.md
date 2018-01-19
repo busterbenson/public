@@ -34,9 +34,10 @@ How nature, consciousness, and the universe seem to be to me (both objectively a
 *Life: aliens*
 
 * Non-carbon-based life forms exist.
-* Aliens exist, but we will most likely discover their creations (ie. robots they made) before we discover them. 
-* Aliens will probably discover our own robots before they discover us.
+* Aliens exist, but for the same reaon most sci-fi adopts faster-than-light travel, cryogenics, and wormholes to facilitate travel, humans and physics as we currently understand them are not going to make this easy. More likely, I think we will discover their creations (ie. long-lived, patient robots they made) before we discover their biological species. 
+* Aliens will probably discover our own long-lived, patient robots before they discover us.
 * The vast majority of intelligent beings throughout the universe are probably more similar to robots and cyborgs than organically evolved life.
+* Aliens are unlikely to be aggressive. Any sufficient reason to come specifically to us is unlikely to be motivated by typical warlike intentions, because we don't have anything special in the universe that they can't get elsewhere for cheaper.
 
 *Life: consciousness and free will*
 
