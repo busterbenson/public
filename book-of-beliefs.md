@@ -162,7 +162,7 @@ What I believe are the best realistically enforceable legal and policy framework
 *Abortion and birth control*
 
 * Abortion and birth control should be legal and readily accessible to everyone who needs it.
-* Birth control should be made available for free to people who need it and can't afford it.
+* Abortion and birth control should be made available for free to people who need it and can't afford it.
 
 *Assisted suicide*
 
