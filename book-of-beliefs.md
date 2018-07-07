@@ -399,6 +399,7 @@ Posts about this topic: [Systems Thinking for Kids](https://medium.com/@buster/s
 
 ### Yearly reports
 
+* 42: [Dig deeper](https://medium.com/@buster/42-dig-deeper-e2278d1fe015) \(2018\)
 * 41: [Seek endarkenment](https://medium.com/@buster/41-seek-endarkenment-9700663dea67) \(2017\)
 * 40: [Mind the loops](https://medium.com/@buster/40-mind-the-loops-9e0c6ba35a87) \(2016\)
 * 39: [Make wiggle room](https://medium.com/buster-benson/39-make-wiggle-room-2546b44b9804) \(2015\)
