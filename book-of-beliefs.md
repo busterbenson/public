@@ -200,6 +200,32 @@ Some most definitely are. This document captures my best guesses and articulatio
 - We will die. Memento mori.
 - The only way to be invulnerable is to be dead. To live is to be vulnerable, because that's the only way we can be seen. And everything that can be seen can also be hurt.
 
+## Values I live by
+
+1. I value cultivating and articulating a clear vision for my life, standing behind it, and reviewing it often enough to make course-corrections along the way.
+2. I also value allowing space for distractions and contradictions to appear that might challenge or shift the vision.
+3. I value composing [Annual Reviews](https://paper.dropbox.com/doc/u0nwfC4elqUCSm5nHbvOH) around my birthday every year.
+4. I value practicing the art of productive disagreement when in conversation with people who have different perspectives from me.
+5. I value trying to avoid labeling groups of people unless they explicitly request it.
+6. I value speaking and being my word.
+7. I value being direct and speaking up when I feel something is wrong, even if it potentially disrupts the peace.
+8. I value being the change I want to see.
+9. I value not dilly-dallying if something needs to be done.
+10. I value having good intentions towards people I directly or indirectly impact.
+11. I value de-magnetizing myself from cultural identities I’ve inherited by asking, “What if I didn’t have to be masculine?” “What if I didn’t have to be successful?” “What if I didn’t have to change the world?” “What if I didn’t have to be an expert?”
+12. I value being the maker of my own meaning.
+13. I value making my own advice after consulting others, and then taking it.
+14. I value not feeling sorry for myself and avoiding competitive suffering.
+15. I value rallying others with my vision, even if it’s not perfect.
+16. I value staking my reputation on my better self, then striving to live up to it.
+17. I value living with the consequences who I am, even if they were unintentionally harmful.
+18. I value managing my stress, health, and clarity by consistently eating well, exercising, and getting enough sleep.
+19. I value savoring my mistakes so that I can learn from them.
+20. I value retrying things I don’t like every once in a while.
+21. I value going slow, working hard, and avoiding shortcuts.
+22. I value cultivating quality time with myself, with others, and with my interests.
+23. I value facing things that make me uncomfortable, to learn about the fears I'm holding inside the discomfort.
+
 ## Well-said things
 
 Writing I've loved and come back to a bunch of times.
