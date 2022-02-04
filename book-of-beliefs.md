@@ -1,218 +1,204 @@
-# Beliefs about how things are and how they should be
-Author: Buster Benson
+*Author: Buster Benson*
 
-*What is this document?* This public, living, document was created as an experiment one Sunday in April of 2012. Maintaining it has become one of the most treasured activities in my life. It’s a way for me to remember who I am, catch inconsistencies in how I respond to different events in the world, react to current events from a position of how I believe the world is, should be, and will become. I've updated it at least once a year since 2012, and all changes are tracked. Rather than attempting to avoid all errors in this doc, I'm attempting to be as specific as possible and to quickly correct errors when they become apparent.
+## What are beliefs?
+A belief is a personal perspective that was sharpened by all the random pieces of information and experiences we bump into during our lives. A belief can be a perspective on anything from “what is the best burrito in SF?” to “how did the universe begin and how will it end?” to “how easy should it be to buy a gun?” and beyond.
 
-*Why does it exist?* My main goal here is to get smarter over time by identifying new connections and inconsistencies so I can course-correct when necessary. A secondary goal is that I'd also like to extend an invitiation for others to spark conversations with me about anything they find interesting and to also help keep me accountable.
+## What is this document?
+This is a public, living, dying, document that I created as an experiment one Sunday in April of 2012 (see the Changelog below for a full history), and has been revised at least yearly ever since. Maintaining it has become one of the most treasured activities in my life. It’s a way for me to remember who I am, catch inconsistencies in how I respond to different events in the world, react to current events from a position of how I believe the world is, should be, and will become. I’ve updated it at least once a year since 2012, and all changes are tracked. Rather than attempting to avoid all errors in this doc, I’m attempting to be as specific as possible and to quickly correct errors when they become apparent.
 
-*Who's beliefs are these?* I'm Buster Benson. These beliefs are my best guess and articulation of my own beliefs, which were inherited and molded partly by the environment I've lived in and partly by my own interpretation of life experiences. Your mileage may vary. Caveat lector. 
+## Why does it exist?
+My main goal here is to get wiser over time by identifying new connections and inconsistencies in my beliefs. It’s tough to do this as a purely mental activity because specific beliefs are so difficult to get a firm grasp on. When you do, putting them on a page makes it possible to revisit again later. All of this is necessary in order to consistently course-correct over days, months, years, and decades. A secondary goal is that I’d also like to extend an invitiation for others to spark conversations with me about anything they find interesting, incorrect, or confusing and to also help keep me accountable.
 
-## Sections
-* [Beliefs](#beliefs)
-* [Well-said things](#well-said-things)
-* [Personal self-reflections](#personal-self-reflections)
-* [Definitions](#definitions)
+## What if some of my beliefs are wrong?
+Some most definitely are. This document captures my best guesses and articulations of my own beliefs, which were inherited and molded partly by the environment I’ve lived in, partly by the people around me, and partly by my own interpretation of life experiences. They are full of gaps, inconsistencies, and vagueness. 
 
-## Beliefs
-A belief is a personal interpretation of available experience and data on a given subject. The subject can be anything, from "what is the best burrito in SF?" to "how did the universe begin and how will it end?" to "how easy should it be to buy a gun?" and beyond. I've broken them up into three broad categories: 1) beliefs about how things are / seem to be (both objectively and subjectively), and 2) how I believe things should be (aka the change I want to see in the world).
+# The book of beliefs
 
-### HOW THINGS ARE: On the nature of reality and how things are
-How nature, consciousness, and the universe seem to be to me (both objectively and subjectively).
+*On aliens*
 
-*Earth: climate change*
+- Other intelligent life forms exist somewhere in this universe.
+- We’ll discover the creations of alien civilizations (ie. long-lived, patient robots they send into space) before we discover their original biological species.
+- Aliens will probably discover our own long-lived, patient robots before they discover us.
+- The vast majority of intelligent beings throughout the universe are probably more similar to robots and cyborgs than organically evolved life.
+- Aliens are unlikely to be aggressive. Any sufficient reason to come specifically to us is unlikely to be motivated by typical warlike intentions, because we don't have anything special in the universe that they can't get elsewhere for cheaper.
 
-* Human-influenced climate change is real, and it's appropriate to panic.
-* Climate change is of particular importance to humans, because it poses an existential risk to our survival.
+*On artificial intelligence*
 
-*Earth: civilization's arrow of progress*
+- Machines will eventually become more intelligent (in terms of practical applications of intelligence) than humans are today.
+- Machines will make humans more intelligent than we are today.
+- Intelligence isn't a single skill that can be acquired all at once, but the result of learning processes that take in one or more flows of new information, and communicate out analysis of the data in meaningful ways. Every flow of data will favor different intelligences, and intelligences that exist on one or more flows of data won't necessarily be adapted for other flows of data.
 
-* Technology has or will eventually disrupt all other human-created institutions (politics, religion, identity, economics, energy).
-* As history progresses, power will tend to be more quickly redistributed when it gets too heavy at the top.
-* When power is redistributed (through disruption, revolution, or disaster), it will have undesirable short-term consequences. 
-* Being good/moral increasingly becomes our default state as we learn more about the world and are more connected with others.
+*On cognitive biases*
 
-*Life: aliens*
+- We're susceptible to many cognitive biases and logical fallacies, because our brains require them to get any thinking done within our constraints of time and energy.
+- Every single person, including myself, has many implicit associations that lead to bias that they/I can't fully eradicate in ourselves. It's more effective to accept that fact, and account for it by being transparent about it, and looking for ways to repair damage caused by it, to try to hide it.
 
-* Non-carbon-based life forms exist.
-* Aliens exist, but for the same reaon most sci-fi adopts faster-than-light travel, cryogenics, and wormholes to facilitate travel, humans and physics as we currently understand them are not going to make this easy. More likely, I think we will discover their creations (ie. long-lived, patient robots they made) before we discover their biological species. 
-* Aliens will probably discover our own long-lived, patient robots before they discover us.
-* The vast majority of intelligent beings throughout the universe are probably more similar to robots and cyborgs than organically evolved life.
-* Aliens are unlikely to be aggressive. Any sufficient reason to come specifically to us is unlikely to be motivated by typical warlike intentions, because we don't have anything special in the universe that they can't get elsewhere for cheaper.
+*On consciousness*
 
-*Life: consciousness and free will*
+- The sensation of consciousness is real, but beyond that is tough to say.
+- Free will exists within constraints, in the same way a goldfish has freedom and autonomy within its fishbowl.
 
-* The sensation of consciousness is real.
-* Free will exists within constraints, in the same way a goldfish has freedom and autonomy within its fishbowl.
+*On critical thinking*
 
-*Life: medicine*
+- When assigning responsibility for life outcomes, there are two poles: one being a high-agency stance that treats individual freedom and responsibility as absolute, and the other a low-agency stance that treats choices as constrained so much by social structures that responsibility is best placed on the system as a whole. I think it's necessary to carry both of these positions simultaneously and to default to responsibility when considering our own agency.
+- Most questions have no answer (but asking them and talking about them anyway can be entertaining and even useful).
+- I subscribe to Hume's Fork, which claims that there are two kinds of knowledge: matters of fact, and relations of ideas. Matters of fact aren’t accessible to us—we can never know something for certain, only that it hasn't been proven wrong yet. We can only create a self-referencing network of ideas that are related to each other. '2 + 2 = 4' and 'My name is Buster' are both conclusively true if we agree to the definitions and relations between each word and symbol.
+- Logic is a helpful tool, but has flaws and if relied on too heavily it can cause more problems than it solves.
+- Even if absolute truth about matters of fact aren't accessible to us, it's still possible to get closer to it. Especially in the context of making better predictions on limited data.
+- The human brain (in its current state of evolution) can't comprehend the universe.
 
-* A lot about health and medicine is mental, which opens the door for things like placebo effect and fake remedies.
-* Acupuncture works, somehow.
+*On dialogue*
 
-*Life: origins*
+- The conversation is the relationship. If the conversation is going poorly between two or more people, so are the relationships. And vice versa.
+- If you're stuck in an unproductive or harmful conflict that seems impossible to resolve, the best course of action is to consider other alternatives to resolution like learning about how the other side thinks, connecting on a personal level, and inspiring action that both sides would benefit from.
+- There are several ways to make a conflict productive other than through resolution. For example: learning something that was previously hidden, connecting with someone at a deeper level, having fun, becoming inspired to act in collaboration, etc.
 
-* We were not created in the way described in any of the major holy texts, if you take a literal interpretation.
-* Within this universe, we evolved through natural systems that required no outside intervention.
-* Micro and macro evolution really happen.
+*On ecosystems*
 
-*Life: existential threats to us*
+- Human-influenced climate change is real, and it's appropriate to panic.
+- Climate change is of particular importance to humans, because it poses an existential risk to our survival, but it's not the only risk and not the greatest risk (see existential threats).
+- Within this universe, we evolved through natural systems that required no outside intervention.
+- Micro and macro evolution really happen.
+- Disrupting the world's ecology (through deforestation, overfishing, monocultures, etc) poses a 5% existential threat to us.
+- Climate change poses a 1% existential threat to us, partially because of the problem and partially because our solutions to it might backfire.
+- Nuclear war poses a 3% existential threat to us.
+- The supervolcano erupting poses an 2% existential threat to us.
+- Asteroid impact poses a 1% existential threat to us.
+- A runaway artificial intelligence poses a <1% existential threat to us.
+- The magnetic poles reversing poses a <1% existential threat to us.
+- Aliens pose a <0.001% existential threat to us.
+- If and when humans become extinct, the Earth will barely notice (perhaps just giving a long sigh of relief).
+- We are part of a larger system that cycles materials through processes that include what we call life, as well as many other things (like tectonic movement, weather systems, the magnetic field, the cycling of water, carbon, and many other molecules and compounds).
+- Dirt is what living things do in times between being alive.
 
-* Disrupting the world's ecology (through deforestation, overfishing, monocultures, etc) poses a 5% existential threat to us.
-* Climate change poses a 5% existential threat to us.
-* Nuclear war poses a 3% existential threat to us.
-* The supervolcano erupting poses an 2% existential threat to us.
-* Asteroid impact poses a 1% existential threat to us.
-* A runaway artificial intelligence poses a <1% existential threat to us.
-* The magnetic poles reversing poses a <1% existential threat to us.
-* Aliens pose a <0.001% existential threat to us.
-* If and when humans become extinct, the Earth will barely notice (perhaps just giving a long sigh of relief).
+*On game theory*
 
-*Philosophy: death and the afterlife*
+- The optimal strategy in a game like Iterated Prisoner's Dilemma dances around in response to all of the other strategies around it. Whenever a strategy is effective and gains popularity, it opens up an opportunity for another strategy to exploit those strengths and turn them into weaknesses.
 
-* We will die.
-* There is no afterlife.
-* We are part of a larger system that cycles materials through processes that include what we call life, as well as many other things (like tectonic movement, weather systems, the magnetic field, the cycling of water, carbon, and many other molecules and compounds).
-* Dirt is what living things do in times between being alive.
+*On government*
 
-*Philosophy: purpose of life*
+- As history progresses, power will tend to be more quickly redistributed when it gets too heavy at the top.
+- When power is redistributed (through disruption, revolution, or disaster), it will have undesirable short-term consequences.
+- Power often becomes motivated to remain in power, which results in systemic discrimination, harassment, and abuse. It is against power's first-order objectives to build structures that might lead to them being removed from power, but as awareness of this dynamic increases, so should accountability. It will be a very slow uphill battle with many movements backwards, but all the more reason to always push on increasing awareness and accountability within all systems.
 
-* There is no official purpose or meaning granted to our lives. 
-* It's okay to identify our own objectives in life and call them a purpose.
-* Memento mori is a useful tool for remembering you're alive.
+*On health*
 
-*Philosophy: search for truth*
+- A lot about health and medicine is mental, which opens the door for things like placebo effect and fake remedies.
+- Acupuncture works, somehow.
 
-* Most questions have no answer (but asking them and talking about them anyway is often entertaining).
-* I subscribe to Hume's Fork, which claims that there are two kinds of knowledge: matters of fact, and relations of ideas. Matters of fact aren’t accessible to us—we can never know something for certain, only that it hasn't been proven wrong yet. We can only create a self-referencing network of ideas that are related to each other. "2 + 2 = 4" and "My name is Buster" are both conclusively true if we agree to the definitions and relations between each word and symbol.
-* Logic is a helpful tool, but has flaws and can't be relied on entirely.
-* Even if absolute truth about matters of fact aren't accessible to us, it's still possible to get closer to it. Especially in the context of making better predictions on limited data.
+*On internal mental space*
 
-*Pseudoscience: astrology*
+- Tulpa are super weird, but extremely fascinating as a concept. 'Tulpa' is a term that refers to our internal thoughtforms of conscious entities. For example, while Santa may not exist in the real world, we all have an internal tulpa of Santa that we've trained to essentially simulate Santa in our minds. Tulpa can exist for living people, dead people, historical people, and even our concept of ourselves is a tulpa in some ways.
+- Some tulpa are trained off of our religious cultures: Santa, God, Jesus, etc. Others are trained off of our memories of people who have passed away: ghosts, dreams, and all of our internal voices.
+- All of our classic mental archetypes for father, mother, grandfather, grandmother, boss, teacher, etc are loosely defined tulpa that will pull partly from cultural sources, and partly from personal experiences.
+- Even our personal sense of self identity is a tulpa that we feed, act through, and help train other people on as they get to know us.
 
-* Astrology can be fun entertainment, like the Myers Briggs test.
-* Astrology can stunt healthier forms of analysis if taken literally and seriously.
+*On mindfulness*
 
-*Psychology: cognitive limits and biases*
+- For beginners, private journaling and going on a long walk are both better than sitting on a pillow and trying not to think (aka meditating) or talking to an imaginary omniscient being (aka prayer).
 
-* The human brain (in its current state of evolution) can't comprehend the universe.
-* We have many implicit associations that lead to bias.
-* We're susceptible to many cognitive biases and logical fallacies, because our brains require them to get any thinking done within our constraints of time and energy.
+*On the nature of reality*
 
-*Psychology: prayer and meditation*
+- Nothing in our universe can travel faster than light.
+- Perception of time can be sped up or slowed down, but not reversed (forwards time travel is possible, backwards is not).
+- Teleportation, if it's ever invented, is more likely to resemble the creation of copies than 'true' teleportation.
+- Our universe began with low entropy and continues on a long, slow path to high entropy, powering literally everything along the way.
+- The universe, at the most fundamental level, may just be a mathematical structure (ala Max Tegmark's The Mathematical Universe).
+- Something like the Big Bang happened, and will probably happen again.
+- Something existed before the Big Bang (outside of time and space as we know them).
+- Other dimensions and universes exist.
+- The laws of physics (see physics) likely prevent us from ever proving that other universes exist.
+- Our universe is probably a simulation or sandbox within a larger universe or set of universes.
 
-* Useful as a mental maintenance tool, but doesn't tap into any special lines of communication to powerful beings.
-* For beginners, private journaling and going on a long walk are both better than sitting on a pillow and trying not to think.
+*Policies: Body rights*
 
-*Psychology: tulpas*
+- Abortion and birth control should be made available for readily accessible and free to people who need it and can't afford it.
+- Assisted suicide (or medically-aided death) should be legal and available to people in a certain set of dire situations that they feel prevent them from having any chance of a pleasant future.
 
-* Tulpa are super weird, but extremely fascinating as a concept.
-* "Tulpa" is a term that refers to our internal thoughtforms of conscious entities. For example, while Santa may not exist in the real world, we all have an internal tulpa of Santa that we've trained to essentially simulate Santa in our minds. Tulpa can exist for living people, dead people, historical people, and even our concept of ourselves is a tulpa in some ways.
-* The idea of tulpa as personal thoughtforms explains a whole lot.
-* Some tulpa are trained off of our religious cultures: Santa, God, Jesus, etc.
-* Some tulpa are trained off of our memories of people who have passed away: ghosts, dreams.
-* All of our classic mental archetypes for father, mother, grandfather, grandmother, boss, teacher, etc are loosely defined tulpa that will pull partly from cultural sources, and partly from personal experiences.
-* Even our personal sense of identity is a tulpa that we feed, act through, and help train other people on as they get to know us.
+*Policies: Criminal justice system*
 
-*Physics: laws of physics*
+- The death penalty should be used only in very extreme and certain cases to protect the public, because of the risk of false-positives.
+- Prisons should be about protecting the public, not about punishment, and should be tested for efficacy alongside other interventions like restorative justice.
+- There should be special measures made to insure that criminal behavior by people in high-power positions get punished with equal or higher frequency than criminal behavior by people in lower-power positions, because those in higher-power positions are better equipped (and incentivized) to avoid accountability.
 
-* Nothing in our universe can travel faster than light.
-* Perception of time can be sped up or slowed down, but not reversed (forwards time travel is possible, backwards is not).
-* Teleportation, if it's ever invented, is more likely to resemble the creation of copies than "true" teleportation. 
-* Our universe began with low entropy and continues on a long, slow path to high entropy, powering literally everything along the way.
-* The universe, at the most fundamental level, may just be a mathematical structure (ala Max Tegmark's The Mathematical Universe).
+*Policies: Drugs*
 
-*Spirituality: God, angels, demons, and souls*
+- Marijuana should be legal to grow, sell, buy, carry, and use.
 
-* Souls don't exist as separate from the physical body.
-* The gods of organized religion don't exist.
-* Angels, demons, and other spirits exist as antropomorphised agents in our minds that are useful shortcuts for abstract concepts (see tulpas).
-* There is no heaven or hell.
+*Policies: Education*
 
-*Supernatural: ghosts*
-
-* Ghosts don't exist outside of our minds. (See "Psychology: tulpas")
-
-*Supernatural: law of attraction*
-
-* Intention can't create reality (it just primes our perception of it, and makes us more likely to notice opportunities).
-
-*Technology: artificial intelligence*
-
-* Machines will eventually become more intelligent than humans are today.
-* Machines will make humans more intelligent than we are today.
-* Intelligence isn't a single skill that can be acquired all at once, but the result of learning processes that take in one or more flows of new information, and communicate out analysis of the data in meaningful ways. Every flow of data will favor different intelligences, and intelligences that exist on one or more flows of data won't necessarily be adapted for other flows of data. 
-* The advent of super artificial intelligence does pose some existential risk to humanity (see "Life: Existential threats to us") but it is not the biggest threat.
-
-*Universe: origins*
-
-* Something like the Big Bang happened, and will probably happen again.
-* Something existed before the Big Bang (outside of time and space as we know them).
-
-*Universe: multiverse*
-
-* Other dimensions and universes exist.
-* The laws of physics (See "Physics: laws of physics") likely prevent us from ever proving that other universes exist.
-
-*Universe: structure*
-
-* We probably live in a simulation.
-
-### HOW THINGS SHOULD BE: On rights, laws, governance of society, and how things should be
-What I believe are the best realistically enforceable legal and policy frameworks for us to protect, inspire, and govern society by.
-
-*Abortion and birth control*
-
-* Abortion and birth control should be legal and readily accessible to everyone who needs it.
-* Abortion and birth control should be made available for free to people who need it and can't afford it.
-
-*Assisted suicide*
-
-* Assisted suicide should be legal and available to people in a certain set of dire situations that they feel prevent them from having any chance of a pleasant future.
-
-*Death penalty*
-
-* The death penalty should be used in extreme and certain cases to protect the public.
-
-*Discrimination, harrassment, and abuse*
-
-* Power often becomes motivated to remain in power, which results in systemic discrimination, harrassment, and abuse. It is against power's first-order objectives to build structures that might lead to them being removed from power, but as awareness of this dynamic increases, so should accountability. It will be a very slow uphill battle with many movements backwards, but all the more reason to always push on increasing awareness and accountability within all systems.
-
-*Drugs*
-
-* Marijuana should be legal to grow, sell, buy, carry, and use.
-
-*Education*
-
-* Free college education should be available to everyone who wants it.
+- Free college education should be available to everyone who wants it.
 
 *Elections and voting*
 
-* The electoral college is out-dated and too easily manipulated. It should be replaced by something like delegative democracy.
+- The electoral college is outdated and too easily manipulated. It should be replaced by something like delegative democracy or another simple system founded on popular vote.
+- As a citizen, you should make full use of your right to vote as a tool to influence the country's direction towards improvement. This right includes choosing not to vote, since that too influences the country's direction.
+- When using your right to vote to influence the country, you should weigh not only the direct outcome, but also the 2nd and 3rd order outcomes that ripple outward from the act (both intentional and unintentional).
 
-*Free speech*
+*Policies: Free speech*
 
-* Speech is a form of power, and just like power, free speech has constraints and is never absolute. However, because speech is often regulated by those in power, it's important to make sure they are not in charge or even capable of determining the constraints of free speech. 
+- Any sufficiently powerful entity to enforce the limits of free speech shouldn't be fully trusted to do so without bias for protecting their own power.
+- Speech is a form of power, and just like power, free speech has constraints and is never absolute. However, because speech is often regulated by those in power, it's important to make sure they are not in charge or even capable of determining the constraints of free speech.
+- The First Amendment protects us from having our speech restricted by the government, but says nothing about the equally important questions around how we cultivate and maintain environments where people feel safe to speak, and people are free to enter and leave the environment. This secondary context feels like an unsolved problem, and one of our biggest opportunities to level up the quality of public conversations.
+- Free vs censored is an important dimension to consider with speech, but it’s not the only one. We should also consider: 
+    - The divergent quality of the speech — does it contribute new ideas and perspectives to the conversation? 
+    - The convergent quality of the speech — does it simplify the conversation in a way that preserves the diverse perspectives?
+    - The vulnerability vs guardedness of the speech — does it increase the sense that vulnerability is welcome in the conversation or increase the sense that speech must be carefully edited or censored in order to protect the speaker or other relevant subjects?
 
-*Gun control*
+*Policies: Guns*
 
-* Owning a gun should require certification from a firearms officer verifying that they've taken a safety course, are free of criminal record, and pass a psychological mental health check every few years.
+- Owning a gun should require certification and licensing from a firearms officer verifying that they've taken a safety course, are free of criminal record, and pass a psychological mental health check every few years. The licenses should expire every couple years and require re-testing.
+- Hunting endangered animals in order to raise money to conserve them is okay if it can be proven to actually work.
 
-*Health care*
+*Policies: Health care*
 
-* Health care should be available and affordable to everyone who needs it.
+- Health care should be available and affordable to everyone who needs it.
 
-*Hunting*
+*Policies: Income inequality*
+- Guaranteed basic income should be a thing available to everyone that is living below the poverty level.
 
-* Hunting endangered animals in order to raise money to conserve them is okay if it can be proven to actually work.
+*Policies: Police reform*
 
-*Income inequality and wage disparity*
+- There should be a Misconduct Division of the DOJ (or something similar) to investigate reports of misconduct, prosecute offenders, and sentence them even more than the general public since it’s their duty to uphold peace, not propagate criminality.
+- Police forces with high levels of misconduct should be defunded.
+- Police officers charged with misconduct should be banned from ever working as police officers again, in any state.
 
-* Guaranteed basic income should be a thing available to everyone.
+*On protest*
 
-*Prison and sentences*
+- Protest is about challenging the status quo, and since the status quo determines “what is right” and “what is normal”, protests will necessarily be criticize for being conducted incorrectly. That’s part of why they exist, and part of what makes them powerful tools.
+- A protest does have a purpose, which may be fuzzy or clear, virtuous or criminal, and its effectiveness towards that end can be judged by its ability to bring the forward momentum to its purpose. 
+- Because a protest is generally about those with less power appealing to those with power, for failings perceived by those with less power, those who have been wronged should not be held to the same social contracts for conduct until their own grievances about broken social contracts have been heard and addressed.
+- In order to remain effective, protest are a social and political tool that must evolve over time as new tactics of counter-protest, infiltration, suppression, coordination, disruption, etc evolve to thwart them (because they challenge the status quo and the status quo will not take a neutral stance towards being challenged).
 
-* Prisons should be about protecting the public, not about punishment.
-* There should be special measures made to insure that criminal behavior by people in high-power positions get punished with equal or higher frequency than criminal behavior by people in lower-power positions.
+*On purpose*
+
+- Memento mori is a useful tool for remembering you're alive.
+- There is no official purpose or meaning granted to our lives.
+- It's okay to identify our own objectives in life and call them a purpose.
+
+*On spirituality*
+
+- Being good/moral increasingly becomes our default state as we learn more about the world and are more connected with others.
+- We were not created in the way described in any of the major holy texts, if you take a literal interpretation.
+- There is no afterlife.
+- Prayer is useful as a mental maintenance tool, but doesn't tap into any special lines of communication to powerful beings.
+- Souls don't exist as separate from the physical body.
+- The gods of organized religion don't exist in the way that they are currently defined.
+- There is no heaven or hell in the sense that they're currently defined.
+- Angels, demons, and other spirits exist as antropomorphised agents in our minds that are useful shortcuts for abstract concepts (see tulpas).
+- Ghosts don't exist outside of our minds (see tulpas).
+- The supposed law of attraction can't create reality through intention, it just primes our perception of it and makes us more likely to notice opportunities).
+- Astrology can be fun entertainment, like the Myers Briggs test, but there are no actual external forces powering it.
+- Astrology can stunt healthier forms of analysis if taken literally and seriously.
+
+*On technology*
+
+- Technology has or will eventually disrupt all other human-created institutions (politics, religion, identity, economics, energy).
+
+*On vulnerability*
+
+- We will die. Memento mori.
+- The only way to be invulnerable is to be dead. To live is to be vulnerable, because that's the only way we can be seen. And everything that can be seen can also be hurt.
 
 ## Well-said things
 
