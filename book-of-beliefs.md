@@ -286,7 +286,7 @@ How I think things will be in the future, based on the approximate year I think 
 
 #### By 2030
 
-* We'll have a President that admits to being atheist or agnostic by 2025.
+* We'll have had a President that admits to being atheist or agnostic.
 * Most jobs lost between 2008-2012 aren't going to come back, new ones have to be created from scratch \(or not\)
 * Safe, genetically modified foods will become the norm.
 * Wager with Carinna: by 2028, the equivalent of a college education \(both in breadth of knowledge and value to career\) will be available to anyone with an internet connection.
@@ -370,7 +370,9 @@ Posts about this topic: [Systems Thinking for Kids](https://medium.com/@buster/s
 
 ### My writing that attempts to capture how I think
 
-* [Rational person's 1-minute guide to why rational thinking often fails to persuade people](https://medium.com/thinking-is-hard/a-rational-thinkers-guide-to-why-rational-thinking-often-fails-to-persuade-people-b3e65cac11e0)
+* [Why We Should Create Personal Mythologies (And How)](https://medium.com/foolish-journey/why-we-should-create-personal-mythologies-and-how-69333b1d5e2b): An experiment in using mythic mode to confront the meaning crisis.
+* [What Can We Do About Our Bias](https://betterhumans.pub/what-can-we-do-about-our-bias-73c16eeb7dca): A 4-step roadmap for developing an always-on, honest relationship to bias.
+* [Rational person's 1-minute guide to why rational thinking often fails to persuade people](https://medium.com/thinking-is-hard/a-rational-thinkers-guide-to-why-rational-thinking-often-fails-to-persuade-people-b3e65cac11e0): It's rational to revisit why rational thinking isn't actually persuasive, and to find new strategies.
 * [Cognitive Bias Cheat Sheet, Simplified](https://medium.com/thinking-is-hard/4-conundrums-of-intelligence-2ab78d90740f): Simplifying my cognitive bias cheat sheet a bit further
 * [Cognitive Bias Cheat Sheet](https://betterhumans.coach.me/cognitive-bias-cheat-sheet-55a472476b18): Summarizing the list of cognitive biases page on Wikipedia
 * [Better than meditation](https://medium.com/better-humans/better-than-meditation-12532d29f6cd?recommendNoteId=fd448809351b): Free-writing as an alternative to meditation
@@ -385,6 +387,9 @@ Posts about this topic: [Systems Thinking for Kids](https://medium.com/@buster/s
 
 ### Yearly reports
 
+* 45: [Year of Reconstellation](https://buster.medium.com/45-year-of-reconstellation-38f7c0917c1b) \(2021\)
+* 44: [Year of the Amateur](https://paper.dropbox.com/doc/44-Year-of-the-Amateur--A1I6fGSn30hLhQMF5kpFCXC7AQ-xzFR0pPTrr36OFxt7h86h) \(2020\)
+* 43: [All in & with the flow](https://buster.medium.com/43-all-in-with-the-flow-e61e55b5dcf0) \(2019\)
 * 42: [Dig deeper](https://medium.com/@buster/42-dig-deeper-e2278d1fe015) \(2018\)
 * 41: [Seek endarkenment](https://medium.com/@buster/41-seek-endarkenment-9700663dea67) \(2017\)
 * 40: [Mind the loops](https://medium.com/@buster/40-mind-the-loops-9e0c6ba35a87) \(2016\)
@@ -401,6 +406,8 @@ Posts about this topic: [Systems Thinking for Kids](https://medium.com/@buster/s
 
 ### Beliefs changelog
 
+* [2019](https://busterbenson.com/beliefs/)
+* [2018](https://github.com/busterbenson/public/blob/ca6a024958862483f03a3ab16a381acc8fa2246c/book-of-beliefs.md)
 * [2017](https://github.com/busterbenson/public/blob/master/book-of-beliefs-2017.md)
 * [2016](https://github.com/busterbenson/public/blob/master/book-of-beliefs-2016.md)
 * [2015](https://github.com/busterbenson/public/blob/master/book-of-beliefs-2015.md)
