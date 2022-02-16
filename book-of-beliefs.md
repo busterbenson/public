@@ -4,7 +4,7 @@
 A belief is a personal perspective that was sharpened by all the random pieces of information and experiences we bump into during our lives. A belief can be a perspective on anything from “what is the best burrito in SF?” to “how did the universe begin and how will it end?” to “how easy should it be to buy a gun?” and beyond.
 
 ## What is this document?
-This is a public, living, dying, document that I created as an experiment one Sunday in April of 2012 (see the Changelog below for a full history), and has been revised at least yearly ever since. Maintaining it has become one of the most treasured activities in my life. It’s a way for me to remember who I am, catch inconsistencies in how I respond to different events in the world, react to current events from a position of how I believe the world is, should be, and will become. I’ve updated it at least once a year since 2012, and all changes are tracked. Rather than attempting to avoid all errors in this doc, I’m attempting to be as specific as possible and to quickly correct errors when they become apparent.
+This is a public, living, dying, document that I created as an experiment one Sunday in April of 2012 (see the [Changelog](https://github.com/busterbenson/public/blob/master/book-of-beliefs.md#Changelog) below for a full history), and has been revised at least yearly ever since. Maintaining it has become one of the most treasured activities in my life. It’s a way for me to remember who I am, catch inconsistencies in how I respond to different events in the world, react to current events from a position of how I believe the world is, should be, and will become. I’ve updated it at least once a year since 2012, and all changes are tracked. Rather than attempting to avoid all errors in this doc, I’m attempting to be as specific as possible and to quickly correct errors when they become apparent.
 
 ## Why does it exist?
 My main goal here is to get wiser over time by identifying new connections and inconsistencies in my beliefs. It’s tough to do this as a purely mental activity because specific beliefs are so difficult to get a firm grasp on. When you do, putting them on a page makes it possible to revisit again later. All of this is necessary in order to consistently course-correct over days, months, years, and decades. A secondary goal is that I’d also like to extend an invitiation for others to spark conversations with me about anything they find interesting, incorrect, or confusing and to also help keep me accountable.
@@ -408,7 +408,7 @@ Posts about this topic: [Systems Thinking for Kids](https://medium.com/@buster/s
 - 31: [Double down](http://busterbenson.livejournal.com/120184.html) (2007)
 - 30: [Higher highs and lower lows](http://busterbenson.livejournal.com/85489.html) (2006)
 
-### Belief changelog
+### Changelog
 
 - 2022: Moved back to Github.
 - [2021]((https://github.com/busterbenson/public/blob/8d9360c3d53720cabc65907d614cd2fbe195eb57/book-of-beliefs.md)): Minor updates and cleanup. 
