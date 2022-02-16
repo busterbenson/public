@@ -437,8 +437,8 @@ Posts about this topic: [Systems Thinking for Kids](https://medium.com/@buster/s
 * [2016](https://github.com/busterbenson/public/blob/690360cdc801f09654a6b9b48702bb3b0edaa01e/Codex.md)
 * [2015](https://github.com/busterbenson/public/blob/18a0691f2c357e53829098d7cde8ee84f32aefc9/Codex.md)
 * [2014](https://github.com/busterbenson/public/blob/d084b783b6ff753b43f7aab735a52943c704f74c/Codex.md)
-* [2013](https://github.com/busterbenson/public/blob/master/book-of-beliefs-2013.md)
-* [2012](https://github.com/busterbenson/public/blob/master/book-of-beliefs-2012.md)
+* [2013](https://github.com/busterbenson/public/blob/master/files/book-of-beliefs-2013.md)
+* [2012](https://github.com/busterbenson/public/blob/master/files/book-of-beliefs-2012.md)
 * [History of all changes](https://github.com/busterbenson/public/commits/master/Codex.md)
 
 Stay foolish. Stay hungry.
