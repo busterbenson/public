@@ -1,6 +1,6 @@
-# Monthly Reports
+# Moonthly Reports
 
-### 2015: +++
+### 2015: +++---------
 
 [Posting these on Medium now](https://medium.com/@buster/buster-s-monthly-reports-2015-730f5fdb6e7f).
 
@@ -212,7 +212,7 @@
 ##### Jun 2013:
 *Outcome of previous goal:* Miss
 
-*New goal:** Meditate at least 5 minutes 5 days a week.
+*New goal:* Meditate at least 5 minutes 5 days a week.
 
 ##### May 2013:
 *Outcome of previous goal:* Hit
