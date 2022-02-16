@@ -202,29 +202,30 @@ Some most definitely are. This document captures my best guesses and articulatio
 
 ## Values I live by
 
-1. I value cultivating and articulating a clear vision for my life, standing behind it, and reviewing it often enough to make course-corrections along the way.
-2. I also value allowing space for distractions and contradictions to appear that might challenge or shift the vision.
-3. I value composing [Annual Reviews](https://paper.dropbox.com/doc/u0nwfC4elqUCSm5nHbvOH) around my birthday every year.
-4. I value practicing the art of productive disagreement when in conversation with people who have different perspectives from me.
-5. I value trying to avoid labeling groups of people unless they explicitly request it.
-6. I value speaking and being my word.
-7. I value being direct and speaking up when I feel something is wrong, even if it potentially disrupts the peace.
-8. I value being the change I want to see.
-9. I value not dilly-dallying if something needs to be done.
-10. I value having good intentions towards people I directly or indirectly impact.
-11. I value de-magnetizing myself from cultural identities I’ve inherited by asking, “What if I didn’t have to be masculine?” “What if I didn’t have to be successful?” “What if I didn’t have to change the world?” “What if I didn’t have to be an expert?”
-12. I value being the maker of my own meaning.
-13. I value making my own advice after consulting others, and then taking it.
-14. I value not feeling sorry for myself and avoiding competitive suffering.
-15. I value rallying others with my vision, even if it’s not perfect.
-16. I value staking my reputation on my better self, then striving to live up to it.
-17. I value living with the consequences who I am, even if they were unintentionally harmful.
-18. I value managing my stress, health, and clarity by consistently eating well, exercising, and getting enough sleep.
-19. I value savoring my mistakes so that I can learn from them.
-20. I value retrying things I don’t like every once in a while.
-21. I value going slow, working hard, and avoiding shortcuts.
-22. I value cultivating quality time with myself, with others, and with my interests.
-23. I value facing things that make me uncomfortable, to learn about the fears I'm holding inside the discomfort.
+1. I value myself, all people, all living things, as they are, and believe we should participate in the world in a way that lives up to the dignity in each of us.
+2. I value cultivating and articulating a clear vision for my life, standing behind it, and reviewing it often enough to make course-corrections along the way.
+3. I also value allowing space for distractions and contradictions to appear that might challenge or shift the vision.
+4. I value composing [Annual Reviews](https://paper.dropbox.com/doc/u0nwfC4elqUCSm5nHbvOH) around my birthday every year.
+5. I value practicing the art of productive disagreement when in conversation with people who have different perspectives from me.
+6. I value trying to avoid labeling groups of people unless they explicitly request it.
+7. I value speaking and being my word.
+8. I value being direct and speaking up when I feel something is wrong, even if it potentially disrupts the peace.
+9. I value being the change I want to see.
+10. I value not dilly-dallying if something needs to be done.
+11. I value having good intentions towards people I directly or indirectly impact.
+12. I value de-magnetizing myself from cultural identities I’ve inherited by asking, “What if I didn’t have to be masculine?” “What if I didn’t have to be successful?” “What if I didn’t have to change the world?” “What if I didn’t have to be an expert?”
+13. I value being the maker of my own meaning.
+14. I value making my own advice after consulting others, and then taking it.
+15. I value not feeling sorry for myself and avoiding competitive suffering.
+16. I value rallying others with my vision, even if it’s not perfect.
+17. I value staking my reputation on my better self, then striving to live up to it.
+18. I value living with the consequences who I am, even if they were unintentionally harmful.
+19. I value managing my stress, health, and clarity by consistently eating well, exercising, and getting enough sleep.
+20. I value savoring my mistakes so that I can learn from them.
+21. I value retrying things I don’t like every once in a while.
+22. I value going slow, working hard, and avoiding shortcuts.
+23. I value cultivating quality time with myself, with others, and with my interests.
+24. I value facing things that make me uncomfortable, to learn about the fears I'm holding inside the discomfort.
 
 ## Well-said things
 
@@ -232,43 +233,45 @@ Writing I've loved and come back to a bunch of times.
 
 ### Articles that have changed how I think
 
-* [Rational Emotive Behavior Therapy](http://en.wikipedia.org/wiki/Rational_emotive_behavior_therapy) - Wikipedia
-* [The Cook and the Chef: Musk's Secret Sauce](http://waitbutwhy.com/2015/11/the-cook-and-the-chef-musks-secret-sauce.html) - Tim Urban
-* [Your Life in Weeks](http://waitbutwhy.com/2014/05/life-weeks.html) - Tim Urban
-* [On conversational UIs](http://interconnected.org/home/2015/06/16/conversational_uis) - Matt Webb
-* [The Web's Grain](http://frankchimero.com/talks/the-webs-grain/transcript/) - Frank Chimero
-* [Ten Reasons Why Our Universe Is A Virtual Reality](http://listverse.com/2014/11/26/10-reasons-why-our-universe-is-a-virtual-reality/) - Brian Whitworth
-* [The Technology](http://paulbuchheit.blogspot.com/2014/07/the-technology.html) - Paul Buchheit
-* [Neurons Gone Wild](http://kevinsimler.quora.com/Neurons-Gone-Wild) - Kevin Simler
-* [When We Build](http://vimeo.com/34017777) - Wilson Miner
-* [We Aren't the World](http://www.psmag.com/magazines/magazine-feature-story-magazines/joe-henrich-weird-ultimatum-game-shaking-up-psychology-economics-53135/) - Ethan Watters
-* [The Elephants](https://medium.com/health-the-future/182870501589) - Nick Crocker
-* [Touching the Wild](https://seriouspony.exposure.co/touching-the-wild) - Kathy Sierra
-* [The Crossroads of Should and Must](https://medium.com/medium-long/90c75eb7c5b0) - Elle Luna
-* [Welcome to the Future Nauseous](http://www.ribbonfarm.com/2012/05/09/welcome-to-the-future-nauseous/) - Venkatesh Rao
-* [UX and the Civilizing Process](http://kevinsimler.quora.com/UX-and-the-Civilizing-Process) - Kevin Simler
-* [Navigating Stuckness](http://transom.org/?p=41667) - Jonathan Harris
-* [Stock and Flow](http://snarkmarket.com/2010/4890) - Robin Sloan
-* [WWIC](http://www.ftrain.com/wwic.html) - Paul Ford
-* [Top of Mind](http://www.paulgraham.com/top.html) - Paul Graham
-* [Fish](http://www.robinsloan.com/fish/) - Robin Sloan
+- [Rational Emotive Behavior Therapy](http://en.wikipedia.org/wiki/Rational_emotive_behavior_therapy) - Wikipedia
+- [The Story of Us](https://waitbutwhy.com/2019/08/story-of-us.html) - Tim Urban
+- [Your Life in Weeks](http://waitbutwhy.com/2014/05/life-weeks.html) - Tim Urban
+- [On conversational UIs](http://interconnected.org/home/2015/06/16/conversational_uis) - Matt Webb
+- [The Web's Grain](http://frankchimero.com/talks/the-webs-grain/transcript/) - Frank Chimero
+- [Ten Reasons Why Our Universe Is A Virtual Reality](http://listverse.com/2014/11/26/10-reasons-why-our-universe-is-a-virtual-reality/) - Brian Whitworth
+- [The Technology](http://paulbuchheit.blogspot.com/2014/07/the-technology.html) - Paul Buchheit
+- [Neurons Gone Wild](http://kevinsimler.quora.com/Neurons-Gone-Wild) - Kevin Simler
+- [When We Build](http://vimeo.com/34017777) - Wilson Miner
+- [We Aren't the World](http://www.psmag.com/magazines/magazine-feature-story-magazines/joe-henrich-weird-ultimatum-game-shaking-up-psychology-economics-53135/) - Ethan Watters
+- [The Elephants](https://medium.com/health-the-future/182870501589) - Nick Crocker
+- [Touching the Wild](https://seriouspony.exposure.co/touching-the-wild) - Kathy Sierra
+- [The Crossroads of Should and Must](https://medium.com/medium-long/90c75eb7c5b0) - Elle Luna
+- [Welcome to the Future Nauseous](http://www.ribbonfarm.com/2012/05/09/welcome-to-the-future-nauseous/) - Venkatesh Rao
+- [UX and the Civilizing Process](http://kevinsimler.quora.com/UX-and-the-Civilizing-Process) - Kevin Simler
+- [Navigating Stuckness](http://transom.org/?p=41667) - Jonathan Harris
+- [Stock and Flow](http://snarkmarket.com/2010/4890) - Robin Sloan
+- [WWIC](http://www.ftrain.com/wwic.html) - Paul Ford
+- [Top of Mind](http://www.paulgraham.com/top.html) - Paul Graham
+- [Fish](http://www.robinsloan.com/fish/) - Robin Sloan
 
 ### Books that have changed how I think
 
-* [Everyone's an aliebn when ur a aliebn too](https://www.harpercollins.com/9780062569028/everyones-a-aliebn-when-ur-a-aliebn-too) - Jomny Sun
-* [The Enigma of Reason](https://www.amazon.com/dp/B06XWFM3PP) - Hugo Mercier
-* [The Big Picture](https://www.amazon.com/Big-Picture-Origins-Meaning-Universe/dp/0525954821) - Sean Carroll
-* [Liminal Thinking](https://www.amazon.com/Liminal-Thinking-Create-Change-Changing-ebook/dp/B01LZS4SLO) - Dave Gray
-* [I Am a Strange Loop](https://www.amazon.com/Am-Strange-Loop-Douglas-Hofstadter-ebook/dp/B004PYDBS0) - Douglas Hoftstadter
-* [You're It](http://www.amazon.com/Youre-It-Hiding-Seeking-Being/dp/1591797349) - Alan Watts
-* [The Wisdom of Insecurity](https://www.amazon.com/Wisdom-Insecurity-Alan-W-Watts-ebook/dp/B005YNPBH0) - Alan Watts
-* [On Intelligence](http://www.amazon.com/On-Intelligence-Jeff-Hawkins/dp/0805078533) - Jeff Hawkins
-* [Waking Up](http://www.amazon.com/Waking-Up-Spirituality-Without-Religion/dp/1451636016) - Sam Harris
-* [Creativity, Inc](http://www.amazon.com/Creativity-Inc-Overcoming-Unseen-Inspiration/dp/0804127441) - Ed Catmull
-* [The Fifth Discipline](http://www.amazon.com/The-Fifth-Discipline-Practice-Organization/dp/0553456342) - Peter M. Senge
-* [Antifragile](http://www.amazon.com/Antifragile-Things-That-Gain-Disorder/dp/1400067820/) - Nassim Nicholas Taleb
-* [Thinking Fast and Slow](http://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555) - Daniel Kahneman
-* [Strangers To Ourselves](http://www.amazon.com/Strangers-Ourselves-Discovering-Adaptive-Unconscious/dp/0674013824) - Timothy D. Wilson
+- [Creating Capabilities](https://www.amazon.com/Creating-Capabilities-Human-Development-Approach/dp/B009L64YW4) - Martha Nussbaum
+- [Sand Talk](https://www.amazon.com/Sand-Talk-Indigenous-Thinking-World/dp/B07WSHGCHQ/) - Tyson Yunkaporta
+- [Tao Te Ching](https://www.amazon.com/Lao-Tzu-Ching-About-Power/dp/1570623953) - Lao Tzu (Ursula K. Le Guin's translation in particular)
+- [Everyone's an aliebn when ur a aliebn too](https://www.harpercollins.com/9780062569028/everyones-a-aliebn-when-ur-a-aliebn-too) - Jomny Sun
+- [The Enigma of Reason](https://www.amazon.com/dp/B06XWFM3PP) - Hugo Mercier
+- [The Big Picture](https://www.amazon.com/Big-Picture-Origins-Meaning-Universe/dp/0525954821) - Sean Carroll
+- [Liminal Thinking](https://www.amazon.com/Liminal-Thinking-Create-Change-Changing-ebook/dp/B01LZS4SLO) - Dave Gray
+- [I Am a Strange Loop](https://www.amazon.com/Am-Strange-Loop-Douglas-Hofstadter-ebook/dp/B004PYDBS0) - Douglas Hoftstadter
+- [You're It](http://www.amazon.com/Youre-It-Hiding-Seeking-Being/dp/1591797349) - Alan Watts
+- [The Wisdom of Insecurity](https://www.amazon.com/Wisdom-Insecurity-Alan-W-Watts-ebook/dp/B005YNPBH0) - Alan Watts
+- [On Intelligence](http://www.amazon.com/On-Intelligence-Jeff-Hawkins/dp/0805078533) - Jeff Hawkins
+- [Creativity, Inc](http://www.amazon.com/Creativity-Inc-Overcoming-Unseen-Inspiration/dp/0804127441) - Ed Catmull
+- [The Fifth Discipline](http://www.amazon.com/The-Fifth-Discipline-Practice-Organization/dp/0553456342) - Peter M. Senge
+- [Antifragile](http://www.amazon.com/Antifragile-Things-That-Gain-Disorder/dp/1400067820/) - Nassim Nicholas Taleb
+- [Thinking Fast and Slow](http://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555) - Daniel Kahneman
+- [Strangers To Ourselves](http://www.amazon.com/Strangers-Ourselves-Discovering-Adaptive-Unconscious/dp/0674013824) - Timothy D. Wilson
 
 ## Personal self-reflections
 
@@ -277,79 +280,79 @@ As things happen in the world, I plan to revisit and edit this document to refle
 ### My rules to live by
 These are rules I *try* to live by, but obviously it won't always happen. If you catch me breaking one of these rules, please call me out on it. It's easier to spot inconsistencies in other people than yourself, so that's why I'm asking for your help to catch my own inconsistencies. And if I appear annoyed by you when you do this, just remind me that I asked you to do this. Thanks!
 
-* I should regularly verify that I want to continue opting-in to everything in this document on the first of every month.
-* I should create a new monthly report on the first of every month.
-* I should create a new yearly report every year on my birthday.
-* I should strive to know what I really believe, and to make sure my beliefs work well together.
-* I should not dilly-dally.
-* I should be my word.
-* I should have good intentions.
-* I should admit to being the maker of my own meaning.
-* I should not feel sorry for myself and avoid competitive suffering.
-* I should have a vision that I'm striving for.
-* I should rally others with my vision.
-* I should be the change I want to see.
-* I should stake my reputation on my better self.
-* I should be comfortable with the consequences of being who I am.
-* I should make my own advice and take it.
-* I should manage my stress, health, and clarity by consistently eating well, exercising, and getting enough sleep.
-* I should study my mistakes.
-* I should retry things I don’t like every once in a while.
-* I should go slow, work hard, and avoid shortcuts.
-* I should cultivate quality time with myself, with others, and with my interests.
-* I should face things that make me uncomfortable.
-* I should take responsibility for things I find important, even if I can’t fully control them.
+- I should regularly verify that I want to continue opting-in to everything in this document on the first of every month.
+- I should create a new monthly report on the first of every month.
+- I should create a new yearly report every year on my birthday.
+- I should strive to know what I really believe, and to make sure my beliefs work well together.
+- I should not dilly-dally.
+- I should be my word.
+- I should have good intentions.
+- I should admit to being the maker of my own meaning.
+- I should not feel sorry for myself and avoid competitive suffering.
+- I should have a vision that I'm striving for.
+- I should rally others with my vision.
+- I should be the change I want to see.
+- I should stake my reputation on my better self.
+- I should be comfortable with the consequences of being who I am.
+- I should make my own advice and take it.
+- I should manage my stress, health, and clarity by consistently eating well, exercising, and getting enough sleep.
+- I should study my mistakes.
+- I should retry things I don’t like every once in a while.
+- I should go slow, work hard, and avoid shortcuts.
+- I should cultivate quality time with myself, with others, and with my interests.
+- I should face things that make me uncomfortable.
+- I should take responsibility for things I find important, even if I can’t fully control them.
 
-### My predictions about the future
+### My uninformed predictions about the future
 
 How I think things will be in the future, based on the approximate year I think they’ll come true.
 
 #### By 2025
 
-* Global warming will severely impact the global economy in some way and threaten the livelihood of people in some parts of the world.
-* The technology to program DNA (via CRISPR) will allow us to easily and cheaply edit, remove, and add DNA in embryos. We will start with obvious applications (like preventing Alzheimers) but not stop there.
-* Self-driving vehicles will begin to replace truck drivers, impacting employment rates in the country.
+- Global warming will severely impact the global economy in some way and threaten the livelihood of people in some parts of the world.
+- The technology to program DNA (via CRISPR) will allow us to easily and cheaply edit, remove, and add DNA in embryos. We will start with obvious applications (like preventing Alzheimers) but not stop there.
+- Self-driving vehicles will begin to replace truck drivers, impacting employment rates in the country.
 
 #### By 2030
 
-* We'll have had a President that admits to being atheist or agnostic.
-* Safe, genetically modified foods will become the norm.
-* Wager with Carinna: by 2028, the equivalent of a college education (both in breadth of knowledge and value to career) will be available to anyone with an internet connection.
+- We'll have had a President that admits to being atheist or agnostic.
+- Safe, genetically modified foods will become the norm.
+- Wager with Carinna: by 2028, the equivalent of a college education (both in breadth of knowledge and value to career) will be available to anyone with an internet connection.
 
 #### By 2050
 
-* Computers will be building better computers than humans.
-* Guaranteed basic income will be available in a majority of first world countries. Employment will be decoupled from having the means to live.
-* People, organizations, and governments will exchange almost all privacy of personal data for interpersonal connection and technology personalization by machine learning services. It will be the norm.
-* Solar will overcome gas and oil in usage.
+- Computers will be building better computers than humans.
+- Guaranteed basic income will be available in a majority of first world countries. Employment will be decoupled from having the means to live.
+- People, organizations, and governments will exchange almost all privacy of personal data for interpersonal connection and technology personalization by machine learning services. It will be the norm.
+- Solar will overcome gas and oil in usage.
 
 #### By 2100
 
-* There will be 10 billion people on the planet at once.
-* 80% of people will live in cities and new mega-cities.
-* Physical travel will be completely unnecessary due to virtual reality technology.
-* The number of living languages in the world will have dropped from about 7,000 in 2009 to under 100.
-* Coral reefs and the ocean ecosystems are going to break with unknown consequences.
+- There will be 10 billion people on the planet at once.
+- 80% of people will live in cities and new mega-cities.
+- Physical travel will be completely unnecessary due to virtual reality technology.
+- The number of living languages in the world will have dropped from about 7,000 in 2009 to under 100.
+- Coral reefs and the ocean ecosystems are going to break with unknown consequences.
 
 #### By 2200
 
-* Humans, computers, and Earth will evolve into at least one super organism or networked brain.
+- Humans, computers, and Earth will evolve into at least one super organism or networked brain.
 
 #### Past Predictions
 
-* LOST: In 2016, Hillary will win the election
-* LOST wager with Rick Webb: By March 1st, 2016, descendants of Google Glass will be seen regularly in the wild (in the same way that Fitbits, NikeFuel bands, and retina MacBook Pros were in 2013). 
+- LOST: In 2016, Hillary will win the election
+- LOST wager with Rick Webb: By March 1st, 2016, descendants of Google Glass will be seen regularly in the wild (in the same way that Fitbits, NikeFuel bands, and retina MacBook Pros were in 2013). 
 
 ### Some of my favorite ideas
 *In alphabetical order*
 
-#### Codex vitae
+#### Codex Vitae / Book of Beliefs
 
 This is an idea coined by Robin Sloan in his book [Mr Penumbra's 24-Hour Bookstore](http://www.amazon.com/Mr-Penumbras-24-Hour-Bookstore-Novel/dp/1250037751). The idea is to write a book, the Codex Vitae or Book of Life, that represents everything I have learned in my life. If I lost all of my memories somehow, this could be something that helped me remember who I am.
 
 Posts about this topic: [Codex Vitae](http://buster.svbtle.com/codex-vitae).
 
-#### Hume’s fork
+#### Hume’s Fork
 
 The gist is that there are two kinds of knowledge: matters of fact, and relations of ideas. Matters of fact aren’t accessible to us--we can never know something for certain, only that it hasn't been proven wrong yet. We can only create a self-referencing network of ideas that are related to each other. What we think of as truth is merely the ability for a particular idea to fit into this network of ideas without causing irreconcilable contradictions.
 
@@ -367,13 +370,13 @@ Posts about this topic: [Live like a hydra](https://medium.com/better-humans/c02
 
 Naturalism is a philosophy that believes there's only one world: the natural world \(made of matter, energy, space, time, etc\). It can be explored and tested and understood through the scientific method. There's no "supernatural" world that can't be explained as part of the natural world. The "poetic" qualifier comes from Sean Carroll, which I learned about through his book "The Big Picture". He does a good job of making the case for an appreciation of not only the natural world, but "ways of talking about it" through stories, mental models, theories, etc. To the extent that these various ways of talking about the natural world are useful and consistent with what we know about the natural world, they can be considered "real". In his words: "A poetic naturalist will deny that notions like “right and wrong,” “purpose and duty,” or “beauty and ugliness” are part of the fundamental architecture of the world. The world is just the world, unfolding according to the patterns of nature, free of any judgmental attributes. But these moral and ethical and aesthetic vocabularies can be perfectly useful ways of talking about the world. The criteria for choosing the best such ways of talking will necessarily be different that the criteria we use for purely descriptive, scientific vocabularies. There won’t be a single rational way to delineate good from bad, sublime from repulsive. But we can still speak in such terms, and put in the hard work to make our actions live up to our own internal aspirations. We just have to admit that judgments come from within ourselves." This resonates with me quite a bit.
 
-#### Quality time
+#### Quality Time
 
 This is my long-time answer to a self-determined purpose of life. There are 3 kinds of quality time that I want to seek out. The first is quality time with myself. Find my favorite ideas, core interests, and people that I can connect deeply with. The second is quality time with those favorite ideas and core interests, and the third is quality time with those people I can connect deeply with. They each feed into each other: I can't really connect deeply with others until I know myself sufficiently well; often times interests are strengthened by having people I can connect with and share with. It seems pretty ungameable to me. Seek quality time with myself, my interests, and others and I won't regret anything on my death bed.
 
 Posts about this topic: [The Death Bed Game](https://medium.com/better-humans/20cc8d9c7494), [How I track my life](https://medium.com/buster-benson/how-i-track-my-life-7da6f22b8e2c), [Live like a hydra](https://medium.com/@buster/live-like-a-hydra-c02337782a89).
 
-#### Quantum realism
+#### Quantum Realism
 
 Quantum realism is a term I first learned from [an article](http://listverse.com/2014/11/26/10-reasons-why-our-universe-is-a-virtual-reality/) by Brian Whitworth, a senior lecturer in computing at Massey University. The idea is in opposition to "physical realism" \(that belief that the physical world we see is real and exists by itself, alone\). Quantum realism asserts that the physical world isn't real in itself, but merely the output \(or shadow, or result, or projected image\) of a quantum reality that is generating it. It's basically a virtual reality, or a simulation.
 
@@ -395,50 +398,52 @@ Posts about this topic: [Systems Thinking for Kids](https://medium.com/@buster/s
 
 ### My writing that attempts to capture how I think
 
-* [Why We Should Create Personal Mythologies (And How)](https://medium.com/foolish-journey/why-we-should-create-personal-mythologies-and-how-69333b1d5e2b): An experiment in using mythic mode to confront the meaning crisis.
-* [What Can We Do About Our Bias](https://betterhumans.pub/what-can-we-do-about-our-bias-73c16eeb7dca): A 4-step roadmap for developing an always-on, honest relationship to bias.
-* [Rational person's 1-minute guide to why rational thinking often fails to persuade people](https://medium.com/thinking-is-hard/a-rational-thinkers-guide-to-why-rational-thinking-often-fails-to-persuade-people-b3e65cac11e0): It's rational to revisit why rational thinking isn't actually persuasive, and to find new strategies.
-* [Cognitive Bias Cheat Sheet, Simplified](https://medium.com/thinking-is-hard/4-conundrums-of-intelligence-2ab78d90740f): Simplifying my cognitive bias cheat sheet a bit further
-* [Cognitive Bias Cheat Sheet](https://betterhumans.coach.me/cognitive-bias-cheat-sheet-55a472476b18): Summarizing the list of cognitive biases page on Wikipedia
-* [Better than meditation](https://medium.com/better-humans/better-than-meditation-12532d29f6cd?recommendNoteId=fd448809351b): Free-writing as an alternative to meditation
-* [3-lane product development](https://medium.com/building-products-people-love/3-lane-product-development-30d64d376cd0): How to build products \(and companies\) that people love
-* [38 is great](https://medium.com/p/5e72aa44b857): My 5 favorite ideas with my annual review
-* [How I track my life](https://medium.com/buster-benson/7da6f22b8e2c): Tracking quality of life with Reporter
-* [Make better resolutions](https://medium.com/buster-benson/make-better-resolutions-69cda443d387): 5 tips 
-* [Live Like a Hydra](https://medium.com/better-humans/c02337782a89): Thoughts on how to get stronger when things are chaotic.
-* [The Death Bed Game](https://medium.com/better-humans/20cc8d9c7494): He/she who dies with the most death bed points, wins.
-* [If You Live 100 Times](http://cdn.readtapestry.com/stories/RVwPvalHq/index.html): A tappable essay that plays out 100 lives that you could live.
-* [Man Versus Himself](http://www.amazon.com/Versus-Himself-Erik-Keith-Benson/dp/0595283535): A novel I wrote about an 89-year old man who is CEO of 2 companies and gets stabbed in the eye.
+- [Why We Should Create Personal Mythologies (And How)](https://medium.com/foolish-journey/why-we-should-create-personal-mythologies-and-how-69333b1d5e2b): An experiment in using mythic mode to confront the meaning crisis.
+- [What Can We Do About Our Bias](https://betterhumans.pub/what-can-we-do-about-our-bias-73c16eeb7dca): A 4-step roadmap for developing an always-on, honest relationship to bias.
+- [Rational person's 1-minute guide to why rational thinking often fails to persuade people](https://medium.com/thinking-is-hard/a-rational-thinkers-guide-to-why-rational-thinking-often-fails-to-persuade-people-b3e65cac11e0): It's rational to revisit why rational thinking isn't actually persuasive, and to find new strategies.
+- [Cognitive Bias Cheat Sheet, Simplified](https://medium.com/thinking-is-hard/4-conundrums-of-intelligence-2ab78d90740f): Simplifying my cognitive bias cheat sheet a bit further
+- [Cognitive Bias Cheat Sheet](https://betterhumans.coach.me/cognitive-bias-cheat-sheet-55a472476b18): Summarizing the list of cognitive biases page on Wikipedia
+- [Better than meditation](https://medium.com/better-humans/better-than-meditation-12532d29f6cd?recommendNoteId=fd448809351b): Free-writing as an alternative to meditation
+- [3-lane product development](https://medium.com/building-products-people-love/3-lane-product-development-30d64d376cd0): How to build products \(and companies\) that people love
+- [38 is great](https://medium.com/p/5e72aa44b857): My 5 favorite ideas with my annual review
+- [How I track my life](https://medium.com/buster-benson/7da6f22b8e2c): Tracking quality of life with Reporter
+- [Make better resolutions](https://medium.com/buster-benson/make-better-resolutions-69cda443d387): 5 tips 
+- [Live Like a Hydra](https://medium.com/better-humans/c02337782a89): Thoughts on how to get stronger when things are chaotic.
+- [The Death Bed Game](https://medium.com/better-humans/20cc8d9c7494): He/she who dies with the most death bed points, wins.
+- [If You Live 100 Times](http://cdn.readtapestry.com/stories/RVwPvalHq/index.html): A tappable essay that plays out 100 lives that you could live.
+- [Man Versus Himself](http://www.amazon.com/Versus-Himself-Erik-Keith-Benson/dp/0595283535): A novel I wrote about an 89-year old man who is CEO of 2 companies and gets stabbed in the eye.
 
 ### Yearly reports
 
-* 45: [Year of Reconstellation](https://buster.medium.com/45-year-of-reconstellation-38f7c0917c1b) \(2021\)
-* 44: [Year of the Amateur](https://paper.dropbox.com/doc/44-Year-of-the-Amateur--A1I6fGSn30hLhQMF5kpFCXC7AQ-xzFR0pPTrr36OFxt7h86h) \(2020\)
-* 43: [All in & with the flow](https://buster.medium.com/43-all-in-with-the-flow-e61e55b5dcf0) \(2019\)
-* 42: [Dig deeper](https://medium.com/@buster/42-dig-deeper-e2278d1fe015) \(2018\)
-* 41: [Seek endarkenment](https://medium.com/@buster/41-seek-endarkenment-9700663dea67) \(2017\)
-* 40: [Mind the loops](https://medium.com/@buster/40-mind-the-loops-9e0c6ba35a87) \(2016\)
-* 39: [Make wiggle room](https://medium.com/buster-benson/39-make-wiggle-room-2546b44b9804) \(2015\)
-* 38: [Cultivate quality time](https://medium.com/p/5e72aa44b857) \(2014\)
-* 37: [More kiloslogs](http://buster.svbtle.com/37) \(2013\)
-* 36: [Talk it out](http://bustr.tumblr.com/post/23934784635/on-being-36) \(2012\)
-* 35: [Love the struggle](http://bustr.tumblr.com/post/5929491429/on-being-35) \(2011\)
-* 34: [Cultivating the core](https://github.com/busterbenson/public/blob/master/files/yearly-report-34.md) \(2010\)
-* 33: [Frugal to the max](https://github.com/busterbenson/public/blob/master/files/yearly-report-33.md) \(2009\)
-* 32: [No problem](http://busterbenson.livejournal.com/204717.html) \(2008\)
-* 31: [Double down](http://busterbenson.livejournal.com/120184.html) \(2007\)
-* 30: [Higher highs and lower lows](http://busterbenson.livejournal.com/85489.html) \(2006\)
+- 45: [Year of Reconstellation](https://buster.medium.com/45-year-of-reconstellation-38f7c0917c1b) (2021)
+- 44: [Year of the Amateur](https://paper.dropbox.com/doc/44-Year-of-the-Amateur--A1I6fGSn30hLhQMF5kpFCXC7AQ-xzFR0pPTrr36OFxt7h86h) (2020)
+- 43: [All in & with the flow](https://buster.medium.com/43-all-in-with-the-flow-e61e55b5dcf0) (2019)
+- 42: [Dig deeper](https://medium.com/@buster/42-dig-deeper-e2278d1fe015) (2018)
+- 41: [Seek endarkenment](https://medium.com/@buster/41-seek-endarkenment-9700663dea67) (2017)
+- 40: [Mind the loops](https://medium.com/@buster/40-mind-the-loops-9e0c6ba35a87) (2016)
+- 39: [Make wiggle room](https://medium.com/buster-benson/39-make-wiggle-room-2546b44b9804) (2015)
+- 38: [Cultivate quality time](https://medium.com/p/5e72aa44b857) (2014)
+- 37: [More kiloslogs](http://buster.svbtle.com/37) (2013)
+- 36: [Talk it out](http://bustr.tumblr.com/post/23934784635/on-being-36) (2012)
+- 35: [Love the struggle](http://bustr.tumblr.com/post/5929491429/on-being-35) (2011)
+- 34: [Cultivating the core](https://github.com/busterbenson/public/blob/master/files/yearly-report-34.md) (2010)
+- 33: [Frugal to the max](https://github.com/busterbenson/public/blob/master/files/yearly-report-33.md) (2009)
+- 32: [No problem](http://busterbenson.livejournal.com/204717.html) (2008)
+- 31: [Double down](http://busterbenson.livejournal.com/120184.html) (2007)
+- 30: [Higher highs and lower lows](http://busterbenson.livejournal.com/85489.html) (2006)
 
-### Beliefs changelog
+### Belief changelog
 
-* [2021](https://github.com/busterbenson/public/blob/8d9360c3d53720cabc65907d614cd2fbe195eb57/book-of-beliefs.md)
-* [2018](https://github.com/busterbenson/public/blob/ca6a024958862483f03a3ab16a381acc8fa2246c/book-of-beliefs.md)
-* [2017](https://github.com/busterbenson/public/blob/b96a6b2243dd3559cf9eb40e9f5ff3ab618dc96d/book-of-beliefs.md)
-* [2016](https://github.com/busterbenson/public/blob/690360cdc801f09654a6b9b48702bb3b0edaa01e/Codex.md)
-* [2015](https://github.com/busterbenson/public/blob/18a0691f2c357e53829098d7cde8ee84f32aefc9/Codex.md)
-* [2014](https://github.com/busterbenson/public/blob/d084b783b6ff753b43f7aab735a52943c704f74c/Codex.md)
-* [2013](https://github.com/busterbenson/public/blob/master/files/book-of-beliefs-2013.md)
-* [2012](https://github.com/busterbenson/public/blob/master/files/book-of-beliefs-2012.md)
-* [History of all changes](https://github.com/busterbenson/public/commits/master/Codex.md)
+- 2022: Moved back to Github.
+- [2021]((https://github.com/busterbenson/public/blob/8d9360c3d53720cabc65907d614cd2fbe195eb57/book-of-beliefs.md)): Minor updates and cleanup. 
+- [2020](https://paper.dropbox.com/doc/Codex-Vitae--BcErrVa0dm4HejKenLm3mT8kAQ-rRJ8akyi4ky4Sdc8CQscV): Moved it yet again to Dropbox Paper. It’s part of the year of the amateur, but the hope was to see if the new location would make my beliefs easier to update (answer: not really).
+- [2019](https://busterbenson.com/beliefs): Moved it to a new place on busterbenson.com. The subject categories have been cleaned up a bit more, and I’ve shifted to using tags (marked by emoji) to show how some beliefs are about information (🧠 the head), values (❤️ the heart), and strategy (✋ the hand). And I also added a 🔥 tag to any that are particularly sensitive to me, and an indicator for how confident I am in the belief (💪 or 🤞). Line-by-line changes prior to this year are tracked here.
+- [2018](https://github.com/busterbenson/public/blob/ca6a024958862483f03a3ab16a381acc8fa2246c/book-of-beliefs.md): I refactored everything to come back to be organized by subject, but kept a bit of structure to separate beliefs that were about how I saw the world, and beliefs about how I thought the would should be. The first set includes beliefs that could potentially be proven wrong with new information, but the second set was more a matter of opinion. This turned out to be really useful in my continued exploration of biases and arguments, because this small difference in the belief makes a bit difference in how you form them, and how you talk about them.
+- [2017](https://github.com/busterbenson/public/blob/b96a6b2243dd3559cf9eb40e9f5ff3ab618dc96d/book-of-beliefs.md): More shuffling, more cleaning up. But I think I saw the writing on the wall this year and realized that this new structure wasn’t going to hold where this needed to go.
+- [2016](https://github.com/busterbenson/public/blob/690360cdc801f09654a6b9b48702bb3b0edaa01e/Codex.md): I stuck with this system for another year, cleaning it up, trying to explain it better and make it feel less intimidating. I continued to add new beliefs and change old ones as well, with the count growing to around 115. But my interests had shifted a bit to Cognitive Biases which were one level deeper than beliefs.
+- [2015](https://github.com/busterbenson/public/blob/18a0691f2c357e53829098d7cde8ee84f32aefc9/Codex.md): I tried something new this year, and attempted to organize by beliefs by the type of belief they were instead of by their subject. I was really interested in understanding the structure of beliefs, and coming up with language to describe how beliefs were shaped in our brains, and how they served different functions. I think this is where I lost a lot of people… whereas before people would see the Codex and say “Wow, I want to make one” now they said “Wow, that looks complicated. I could never do something like that.”
+- [2014](https://github.com/busterbenson/public/blob/d084b783b6ff753b43f7aab735a52943c704f74c/Codex.md): I added a bunch of stuff to the top and all around the beliefs to better explain the system of tracking beliefs over time and reviewing them frequently. I think I realized at this time just how valuable the project was to my own sense of well-being, and I hoped others would find it useful too. I also added a section for my “favorite ideas” because these too seemed to shift and grow over time in a way that was useful to occasionally review.
+- [2013](https://github.com/busterbenson/public/blob/master/files/book-of-beliefs-2013.md): It almost doubled in length in the second year to about 70 beliefs. It was still largely tracked on a subject basis.
+- [2012](https://github.com/busterbenson/public/blob/master/files/book-of-beliefs-2012.md): I listed about 40 beliefs the first time I sat down and tried to do this. Organized by subject, like “On Morality”, “On Science & the Universe”, etc.
 
-Stay foolish. Stay hungry.
+Amor fati.
