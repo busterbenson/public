@@ -202,6 +202,8 @@ Some most definitely are. This document captures my best guesses and articulatio
 
 ## Values I live by
 
+These are values I *try* to live by, but obviously it won't always happen. If you catch me compromising one of these values, I ask you to call me out on it. It's easier to spot inconsistencies in other people than in ourselves, so you can help to catch my own inconsistencies. And if I appear annoyed by you when you do this, just remind me that I asked you to do this. Thanks!
+
 1. I value myself, all people, all living things, as they are, and believe we should participate in the world in a way that lives up to the dignity in each of us.
 2. I value cultivating and articulating a clear vision for my life, standing behind it, and reviewing it often enough to make course-corrections along the way.
 3. I also value allowing space for distractions and contradictions to appear that might challenge or shift the vision.
@@ -276,32 +278,6 @@ Writing I've loved and come back to a bunch of times.
 ## Personal self-reflections
 
 As things happen in the world, I plan to revisit and edit this document to reflect my changing beliefs. In addition, I do a lot of writing that includes self-reflection, including a very specific self-reflection around the month of my birthday each year.
-
-### My rules to live by
-These are rules I *try* to live by, but obviously it won't always happen. If you catch me breaking one of these rules, please call me out on it. It's easier to spot inconsistencies in other people than yourself, so that's why I'm asking for your help to catch my own inconsistencies. And if I appear annoyed by you when you do this, just remind me that I asked you to do this. Thanks!
-
-- I should regularly verify that I want to continue opting-in to everything in this document on the first of every month.
-- I should create a new monthly report on the first of every month.
-- I should create a new yearly report every year on my birthday.
-- I should strive to know what I really believe, and to make sure my beliefs work well together.
-- I should not dilly-dally.
-- I should be my word.
-- I should have good intentions.
-- I should admit to being the maker of my own meaning.
-- I should not feel sorry for myself and avoid competitive suffering.
-- I should have a vision that I'm striving for.
-- I should rally others with my vision.
-- I should be the change I want to see.
-- I should stake my reputation on my better self.
-- I should be comfortable with the consequences of being who I am.
-- I should make my own advice and take it.
-- I should manage my stress, health, and clarity by consistently eating well, exercising, and getting enough sleep.
-- I should study my mistakes.
-- I should retry things I don’t like every once in a while.
-- I should go slow, work hard, and avoid shortcuts.
-- I should cultivate quality time with myself, with others, and with my interests.
-- I should face things that make me uncomfortable.
-- I should take responsibility for things I find important, even if I can’t fully control them.
 
 ### My uninformed predictions about the future
 
