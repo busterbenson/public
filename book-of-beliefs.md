@@ -307,15 +307,14 @@ How I think things will be in the future, based on the approximate year I think 
 #### By 2025
 
 * Global warming will severely impact the global economy in some way and threaten the livelihood of people in some parts of the world.
-* The technology to program DNA \(via CRISPR\) will allow us to easily and cheaply edit, remove, and add DNA in embryos. We will start with obvious applications \(like preventing Alzheimers\) but not stop there.
+* The technology to program DNA (via CRISPR) will allow us to easily and cheaply edit, remove, and add DNA in embryos. We will start with obvious applications (like preventing Alzheimers) but not stop there.
 * Self-driving vehicles will begin to replace truck drivers, impacting employment rates in the country.
 
 #### By 2030
 
 * We'll have had a President that admits to being atheist or agnostic.
-* Most jobs lost between 2008-2012 aren't going to come back, new ones have to be created from scratch \(or not\)
 * Safe, genetically modified foods will become the norm.
-* Wager with Carinna: by 2028, the equivalent of a college education \(both in breadth of knowledge and value to career\) will be available to anyone with an internet connection.
+* Wager with Carinna: by 2028, the equivalent of a college education (both in breadth of knowledge and value to career) will be available to anyone with an internet connection.
 
 #### By 2050
 
@@ -341,7 +340,7 @@ How I think things will be in the future, based on the approximate year I think 
 * LOST: In 2016, Hillary will win the election
 * LOST wager with Rick Webb: By March 1st, 2016, descendants of Google Glass will be seen regularly in the wild (in the same way that Fitbits, NikeFuel bands, and retina MacBook Pros were in 2013). 
 
-### My favorite ideas
+### Some of my favorite ideas
 *In alphabetical order*
 
 #### Codex vitae
@@ -352,7 +351,7 @@ Posts about this topic: [Codex Vitae](http://buster.svbtle.com/codex-vitae).
 
 #### Hume’s fork
 
-The gist is that there are two kinds of knowledge: matters of fact, and relations of ideas. Matters of fact aren’t accessible to us—we can never know something for certain, only that it hasn't been proven wrong yet. We can only create a self-referencing network of ideas that are related to each other. What we think of as truth is merely the ability for a particular idea to fit into this network of ideas without causing irreconcilable contradictions.
+The gist is that there are two kinds of knowledge: matters of fact, and relations of ideas. Matters of fact aren’t accessible to us--we can never know something for certain, only that it hasn't been proven wrong yet. We can only create a self-referencing network of ideas that are related to each other. What we think of as truth is merely the ability for a particular idea to fit into this network of ideas without causing irreconcilable contradictions.
 
 See [the entry on Wikipedia](https://en.wikipedia.org/wiki/Hume%27s_fork) for a good intro to the idea.
 
@@ -432,12 +431,12 @@ Posts about this topic: [Systems Thinking for Kids](https://medium.com/@buster/s
 
 ### Beliefs changelog
 
-* [2019](https://busterbenson.com/beliefs/)
+* [2021](https://github.com/busterbenson/public/blob/8d9360c3d53720cabc65907d614cd2fbe195eb57/book-of-beliefs.md)
 * [2018](https://github.com/busterbenson/public/blob/ca6a024958862483f03a3ab16a381acc8fa2246c/book-of-beliefs.md)
-* [2017](https://github.com/busterbenson/public/blob/master/book-of-beliefs-2017.md)
-* [2016](https://github.com/busterbenson/public/blob/master/book-of-beliefs-2016.md)
-* [2015](https://github.com/busterbenson/public/blob/master/book-of-beliefs-2015.md)
-* [2014](https://github.com/busterbenson/public/blob/master/book-of-beliefs-2014.md)
+* [2017](https://github.com/busterbenson/public/blob/b96a6b2243dd3559cf9eb40e9f5ff3ab618dc96d/book-of-beliefs.md)
+* [2016](https://github.com/busterbenson/public/blob/690360cdc801f09654a6b9b48702bb3b0edaa01e/Codex.md)
+* [2015](https://github.com/busterbenson/public/blob/18a0691f2c357e53829098d7cde8ee84f32aefc9/Codex.md)
+* [2014](https://github.com/busterbenson/public/blob/d084b783b6ff753b43f7aab735a52943c704f74c/Codex.md)
 * [2013](https://github.com/busterbenson/public/blob/master/book-of-beliefs-2013.md)
 * [2012](https://github.com/busterbenson/public/blob/master/book-of-beliefs-2012.md)
 * [History of all changes](https://github.com/busterbenson/public/commits/master/Codex.md)
