@@ -1,7 +1,7 @@
 *Author: Buster Benson*
 
 ## What are beliefs?
-A belief is a personal perspective that was sharpened by all the random pieces of information and experiences we bump into during our lives. A belief can be a perspective on anything from “what is the best burrito in SF?” to “how did the universe begin and how will it end?” to “how easy should it be to buy a gun?” and beyond.
+A belief is a personal perspective that was both sharpened and polished by all the random pieces of information and experiences we bump into during our lives. A belief can be a perspective on anything from “what is the best burrito in SF?” to “how did the universe begin and how will it end?” to “how easy should it be to buy a gun?” and beyond.
 
 ## What is this document?
 This is a public, living, dying, document that I created as an experiment one Sunday in April of 2012 (see the [Changelog](https://github.com/busterbenson/public/blob/master/book-of-beliefs.md#Changelog) below for a full history), and has been revised at least yearly ever since. Maintaining it has become one of the most treasured activities in my life. It’s a way for me to remember who I am, catch inconsistencies in how I respond to different events in the world, react to current events from a position of how I believe the world is, should be, and will become. I’ve updated it at least once a year since 2012, and all changes are tracked. Rather than attempting to avoid all errors in this doc, I’m attempting to be as specific as possible and to quickly correct errors when they become apparent.
@@ -129,7 +129,7 @@ Some most definitely are. This document captures my best guesses and articulatio
 
 - Free college education should be available to everyone who wants it.
 
-*Elections and voting*
+*Policies: Elections and voting*
 
 - The electoral college is outdated and too easily manipulated. It should be replaced by something like delegative democracy or another simple system founded on popular vote.
 - As a citizen, you should make full use of your right to vote as a tool to influence the country's direction towards improvement. This right includes choosing not to vote, since that too influences the country's direction.
@@ -235,45 +235,37 @@ Writing I've loved and come back to a bunch of times.
 
 ### Articles that have changed how I think
 
-- [Rational Emotive Behavior Therapy](http://en.wikipedia.org/wiki/Rational_emotive_behavior_therapy) - Wikipedia
-- [The Story of Us](https://waitbutwhy.com/2019/08/story-of-us.html) - Tim Urban
+- [Leverage Points](https://donellameadows.org/archives/leverage-points-places-to-intervene-in-a-system/) - Donella Meadows
 - [Your Life in Weeks](http://waitbutwhy.com/2014/05/life-weeks.html) - Tim Urban
-- [On conversational UIs](http://interconnected.org/home/2015/06/16/conversational_uis) - Matt Webb
-- [The Web's Grain](http://frankchimero.com/talks/the-webs-grain/transcript/) - Frank Chimero
 - [Ten Reasons Why Our Universe Is A Virtual Reality](http://listverse.com/2014/11/26/10-reasons-why-our-universe-is-a-virtual-reality/) - Brian Whitworth
-- [The Technology](http://paulbuchheit.blogspot.com/2014/07/the-technology.html) - Paul Buchheit
 - [Neurons Gone Wild](http://kevinsimler.quora.com/Neurons-Gone-Wild) - Kevin Simler
-- [When We Build](http://vimeo.com/34017777) - Wilson Miner
-- [We Aren't the World](http://www.psmag.com/magazines/magazine-feature-story-magazines/joe-henrich-weird-ultimatum-game-shaking-up-psychology-economics-53135/) - Ethan Watters
 - [The Elephants](https://medium.com/health-the-future/182870501589) - Nick Crocker
 - [Touching the Wild](https://seriouspony.exposure.co/touching-the-wild) - Kathy Sierra
 - [The Crossroads of Should and Must](https://medium.com/medium-long/90c75eb7c5b0) - Elle Luna
 - [Welcome to the Future Nauseous](http://www.ribbonfarm.com/2012/05/09/welcome-to-the-future-nauseous/) - Venkatesh Rao
-- [UX and the Civilizing Process](http://kevinsimler.quora.com/UX-and-the-Civilizing-Process) - Kevin Simler
-- [Navigating Stuckness](http://transom.org/?p=41667) - Jonathan Harris
 - [Stock and Flow](http://snarkmarket.com/2010/4890) - Robin Sloan
 - [WWIC](http://www.ftrain.com/wwic.html) - Paul Ford
-- [Top of Mind](http://www.paulgraham.com/top.html) - Paul Graham
 - [Fish](http://www.robinsloan.com/fish/) - Robin Sloan
 
 ### Books that have changed how I think
 
-- [Creating Capabilities](https://www.amazon.com/Creating-Capabilities-Human-Development-Approach/dp/B009L64YW4) - Martha Nussbaum
-- [Sand Talk](https://www.amazon.com/Sand-Talk-Indigenous-Thinking-World/dp/B07WSHGCHQ/) - Tyson Yunkaporta
-- [Tao Te Ching](https://www.amazon.com/Lao-Tzu-Ching-About-Power/dp/1570623953) - Lao Tzu (Ursula K. Le Guin's translation in particular)
-- [Everyone's an aliebn when ur a aliebn too](https://www.harpercollins.com/9780062569028/everyones-a-aliebn-when-ur-a-aliebn-too) - Jomny Sun
-- [The Enigma of Reason](https://www.amazon.com/dp/B06XWFM3PP) - Hugo Mercier
-- [The Big Picture](https://www.amazon.com/Big-Picture-Origins-Meaning-Universe/dp/0525954821) - Sean Carroll
-- [Liminal Thinking](https://www.amazon.com/Liminal-Thinking-Create-Change-Changing-ebook/dp/B01LZS4SLO) - Dave Gray
-- [I Am a Strange Loop](https://www.amazon.com/Am-Strange-Loop-Douglas-Hofstadter-ebook/dp/B004PYDBS0) - Douglas Hoftstadter
-- [You're It](http://www.amazon.com/Youre-It-Hiding-Seeking-Being/dp/1591797349) - Alan Watts
-- [The Wisdom of Insecurity](https://www.amazon.com/Wisdom-Insecurity-Alan-W-Watts-ebook/dp/B005YNPBH0) - Alan Watts
-- [On Intelligence](http://www.amazon.com/On-Intelligence-Jeff-Hawkins/dp/0805078533) - Jeff Hawkins
-- [Creativity, Inc](http://www.amazon.com/Creativity-Inc-Overcoming-Unseen-Inspiration/dp/0804127441) - Ed Catmull
-- [The Fifth Discipline](http://www.amazon.com/The-Fifth-Discipline-Practice-Organization/dp/0553456342) - Peter M. Senge
-- [Antifragile](http://www.amazon.com/Antifragile-Things-That-Gain-Disorder/dp/1400067820/) - Nassim Nicholas Taleb
-- [Thinking Fast and Slow](http://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555) - Daniel Kahneman
-- [Strangers To Ourselves](http://www.amazon.com/Strangers-Ourselves-Discovering-Adaptive-Unconscious/dp/0674013824) - Timothy D. Wilson
+- [All About Love](https://amzn.to/3LWqwp0) - bell hooks
+- [Radical Acceptance](https://amzn.to/3lVjVjY) - Tara Brach
+- [The Wild Edge of Sorrow](https://amzn.to/3lRoVpI) - Francis Weller
+- [Creating Capabilities](https://amzn.to/3wSVudp) - Martha Nussbaum
+- [Sand Talk](https://amzn.to/3wTPnFM) - Tyson Yunkaporta
+- [Tao Te Ching](https://amzn.to/3NBMTBg) - Lao Tzu, translated by Ursula K. Le Guin
+- [Everyone's an aliebn when ur a aliebn too](https://amzn.to/3N02Voz) - Jomny Sun
+- [The Enigma of Reason](https://amzn.to/3a3dzfM) - Hugo Mercier
+- [The Big Picture](https://amzn.to/3GxgB8b) - Sean Carroll
+- [I Am a Strange Loop](https://amzn.to/3N0vKkR) - Douglas Hoftstadter
+- [You're It](https://amzn.to/3LWqKMS) - Alan Watts
+- [The Wisdom of Insecurity](https://amzn.to/38sXa3X) - Alan Watts
+- [Creativity, Inc](https://amzn.to/3wSqCtw) - Ed Catmull
+- [Antifragile](https://amzn.to/3NHXLh3) - Nassim Nicholas Taleb
+- [Thinking Fast and Slow](https://amzn.to/3t2CpDd) - Daniel Kahneman
+- [Strangers To Ourselves](https://amzn.to/39YqAY1) - Timothy D. Wilson
+- [Fooled by Randomness](https://amzn.to/3LWDqTS) - Nassim Nicholas Taleb
 
 ## Personal self-reflections
 
@@ -340,7 +332,7 @@ Or, as Nassim Nicolas Taleb calls it: [antifragility](http://www.amazon.com/Anti
 
 We tend to build systems that converge on a single design over time \(see monocultures\) because they are predictable and efficient in a given environment. But environments change, and without the ability to predict how those changes will happen ahead of time, optionality is required even in the safest of environments.
 
-Posts about this topic: [Live like a hydra](https://medium.com/better-humans/c02337782a89).
+Posts about this topic: [Live Like a Hydra](https://medium.com/better-humans/c02337782a89).
 
 #### Poetic Naturalism
 
@@ -348,7 +340,7 @@ Naturalism is a philosophy that believes there's only one world: the natural wor
 
 #### Quality Time
 
-This is my long-time answer to a self-determined purpose of life. There are 3 kinds of quality time that I want to seek out. The first is quality time with myself. Find my favorite ideas, core interests, and people that I can connect deeply with. The second is quality time with those favorite ideas and core interests, and the third is quality time with those people I can connect deeply with. They each feed into each other: I can't really connect deeply with others until I know myself sufficiently well; often times interests are strengthened by having people I can connect with and share with. It seems pretty ungameable to me. Seek quality time with myself, my interests, and others and I won't regret anything on my death bed.
+This is my long-time answer to a self-determined purpose of life, and also my love language. There are 3 kinds of quality time that I want to seek out. The first is quality time with myself. Spend time with myself, quirks and flaws and all, and fully enjoy it as deeply as I would the company of anyone else. The second is quality time with my favorite ideas and core interests, and the third is quality time with those people I can connect deeply with. They each feed into each other: I can't really connect deeply with others until I know myself sufficiently well; often times interests are strengthened by having people I can connect with and share with. It seems pretty ungameable to me. Seek quality time with myself, my interests, and others and I won't regret anything on my death bed.
 
 Posts about this topic: [The Death Bed Game](https://medium.com/better-humans/20cc8d9c7494), [How I track my life](https://medium.com/buster-benson/how-i-track-my-life-7da6f22b8e2c), [Live like a hydra](https://medium.com/@buster/live-like-a-hydra-c02337782a89).
 
@@ -360,7 +352,7 @@ I'm still learning about this and definitely couldn't explain or defend it, but 
 
 #### Soloverse
 
-This is my word for a particular idea I'm obsessed with. It goes something like this: the universe is this giant space/time environment \(or simulation?\) that we are all a part of. The _soloverse_ is our mental model of that universe that our brain uses to _think about_ the universe and everything in it. You can’t really think about the universe directly \(it’s way too big\), you can only think about your mental model of the universe as it exists in your soloverse. Lots of interesting \(to me\) side effects result from this distinction.
+This is my word for a particular idea I've long been obsessed with. It goes something like this: the universe is this giant space/time environment \(or simulation?\) that we are all a part of. The _soloverse_ is our mental model of that universe that our brain uses to _think about_ the universe and everything in it. You can’t really think about the universe directly \(it’s way too big\), you can only think about your mental model of the universe as it exists in your soloverse. Lots of interesting \(to me\) side effects result from this distinction.
 
 I first came across this idea in 2013 and found some interesting explorations of the idea referenced by the word _umwelt_, which is German for “environment” or “surroundings” and pronounced _oom-velt_. I just made up the term soloverse because it’s easier for me to think of it as a private, working model of the universe in our minds.
 
@@ -368,12 +360,13 @@ Posts about this topic: [Universe ↔ Soloverse](https://medium.com/thought-expe
 
 #### Systems thinking
 
-I first became obsessed with the concept of systems thinking after reading [The Fifth Discipline](http://www.amazon.com/The-Fifth-Discipline-Practice-Organization/dp/0553456342). It's often used in relation to natural systems \(like the water cycle and the carbon cycle\) in order to illustrate how certain resources cycle through various incarnations over time. However, it can be applied to so much more than just elements, and I've found that this way of thinking really changes how I think about all kinds of day to day things. I'm currently in the process of trying to write a children's book that explains systems thinking.
+I first became obsessed with the concept of systems thinking after reading [The Fifth Discipline](http://www.amazon.com/The-Fifth-Discipline-Practice-Organization/dp/0553456342) and Donella Meadows' [Leverage Points](https://donellameadows.org/archives/leverage-points-places-to-intervene-in-a-system/) and other articles/books by her. It's often used in relation to natural systems \(like the water cycle and the carbon cycle\) in order to illustrate how certain resources cycle through various incarnations over time. However, it can be applied to so much more than just elements, and I've found that this way of thinking really changes how I think about all kinds of day to day things. I'm currently in the process of trying to write a children's book that explains systems thinking.
 
 Posts about this topic: [Systems Thinking for Kids](https://medium.com/@buster/systems-thinking-for-kids-ab273a47bbd4?source=your-stories), [Notes](https://medium.com/@buster/systems-thinking-for-kids-random-notes-part-1-1e2498391009?source=your-stories), [More notes](https://medium.com/@buster/systems-thinking-for-kids-random-notes-pt-2-19441108c9f5?source=your-stories), [Dirt](https://medium.com/@buster/dirt-f6907b34548f?source=your-stories).
 
 ### My writing that attempts to capture how I think
 
+- [Why Are We Yelling? The Art of Productive Disagreement](https://amzn.to/3PQooT1): My book that brings together many of the streams of thinking that I've been obsessed with for years: bias, systems thinking, disagreement as a meta-skill, and lots of silly doodles.
 - [Why We Should Create Personal Mythologies (And How)](https://medium.com/foolish-journey/why-we-should-create-personal-mythologies-and-how-69333b1d5e2b): An experiment in using mythic mode to confront the meaning crisis.
 - [What Can We Do About Our Bias](https://betterhumans.pub/what-can-we-do-about-our-bias-73c16eeb7dca): A 4-step roadmap for developing an always-on, honest relationship to bias.
 - [Rational person's 1-minute guide to why rational thinking often fails to persuade people](https://medium.com/thinking-is-hard/a-rational-thinkers-guide-to-why-rational-thinking-often-fails-to-persuade-people-b3e65cac11e0): It's rational to revisit why rational thinking isn't actually persuasive, and to find new strategies.
@@ -381,7 +374,6 @@ Posts about this topic: [Systems Thinking for Kids](https://medium.com/@buster/s
 - [Cognitive Bias Cheat Sheet](https://betterhumans.coach.me/cognitive-bias-cheat-sheet-55a472476b18): Summarizing the list of cognitive biases page on Wikipedia
 - [Better than meditation](https://medium.com/better-humans/better-than-meditation-12532d29f6cd?recommendNoteId=fd448809351b): Free-writing as an alternative to meditation
 - [3-lane product development](https://medium.com/building-products-people-love/3-lane-product-development-30d64d376cd0): How to build products \(and companies\) that people love
-- [38 is great](https://medium.com/p/5e72aa44b857): My 5 favorite ideas with my annual review
 - [How I track my life](https://medium.com/buster-benson/7da6f22b8e2c): Tracking quality of life with Reporter
 - [Make better resolutions](https://medium.com/buster-benson/make-better-resolutions-69cda443d387): 5 tips 
 - [Live Like a Hydra](https://medium.com/better-humans/c02337782a89): Thoughts on how to get stronger when things are chaotic.
@@ -398,15 +390,15 @@ Posts about this topic: [Systems Thinking for Kids](https://medium.com/@buster/s
 - 41: [Seek endarkenment](https://medium.com/@buster/41-seek-endarkenment-9700663dea67) (2017)
 - 40: [Mind the loops](https://medium.com/@buster/40-mind-the-loops-9e0c6ba35a87) (2016)
 - 39: [Make wiggle room](https://medium.com/buster-benson/39-make-wiggle-room-2546b44b9804) (2015)
-- 38: [Cultivate quality time](https://medium.com/p/5e72aa44b857) (2014)
-- 37: [More kiloslogs](http://buster.svbtle.com/37) (2013)
-- 36: [Talk it out](http://bustr.tumblr.com/post/23934784635/on-being-36) (2012)
-- 35: [Love the struggle](http://bustr.tumblr.com/post/5929491429/on-being-35) (2011)
-- 34: [Cultivating the core](https://github.com/busterbenson/public/blob/master/files/yearly-report-34.md) (2010)
-- 33: [Frugal to the max](https://github.com/busterbenson/public/blob/master/files/yearly-report-33.md) (2009)
-- 32: [No problem](http://busterbenson.livejournal.com/204717.html) (2008)
-- 31: [Double down](http://busterbenson.livejournal.com/120184.html) (2007)
-- 30: [Higher highs and lower lows](http://busterbenson.livejournal.com/85489.html) (2006)
+- 38: [Cultivate quality time](https://buster.medium.com/38-is-great-5e72aa44b857) (2014)
+- 37: [More kiloslogs](https://notes.busterbenson.com/2013/05/28/more-kiloslogs) (2013)
+- 36: [Talk it out](https://notes.busterbenson.com/2012/05/28/talk-it-out) (2012)
+- 35: [Love the struggle](https://notes.busterbenson.com/2011/05/28/love-the-struggle) (2011)
+- 34: [Cultivating the core](https://notes.busterbenson.com/2010/05/28/cultivate-the-core) (2010)
+- 33: [Frugal to the max](https://notes.busterbenson.com/2009/05/28/frugal-to-the-max) (2009)
+- 32: [No problem](https://notes.busterbenson.com/2008/05/27/no-problem) (2008)
+- 31: [Double down](https://notes.busterbenson.com/2007/05/29/double-down) (2007)
+- 30: [Higher highs and lower lows](https://notes.busterbenson.com/2006/05/31/higher-highs-lower-lows) (2006)
 
 ### Changelog
 
