@@ -1,5 +1,6 @@
 # Blagenflorble
 *Author: Buster Benson*
+*A disorganized collection of short notes with no center.*
 
 All that you touch
 you change.
@@ -14,6 +15,23 @@ to transform the world.
 The way forward is with a broken heart.
 &mdash; Alice Walker
 
-### A blagenflorble heart
+What does a life deserving of human dignity require?
+&mdash; Martha Nussman
+
+Embracing a love ethic means that we utilize all the dimensions of love — 'care, commitment, trust, responsibility, respect, and knowledge' — in our everyday lives. We can successfully do this only by cultivating awareness. Being aware enables us to critically examine our actions to see what is needed so that we can give care, be responsible, show respect, and indicate a willingness to learn. 
+&mdash; bell hooks in All About Love
+
+## A blagenflorble heart
 A [blagenflorble heart](https://buster.medium.com/46-a-blagenflorble-heart-31bc2a992a83) isn’t concerned with repairing itself after every heartbreak. That feels like futile task. A blagenflorble heart is about expanding the awareness of our hearts to allow ourselves to be both whole and broken at the same time. It’s about shifting from a mindset of feeling only one emotion at a time (and laboring to repair it each time it is hurt), to allowing all of the emotions to co-exist simultaneously, and being able to zoom in on each of them without negating the others. 
 
+## Blagenflorble ideas
+These are loosely connected ideas that have no center, and that will be in various stages of articulation and understanding. My hope is that by collecting them all in this box that they will eventually reconstellate into something novel and interesting. But they might not.
+
+*Notes to self that need definition*:
+
+- A life deserving of human dignity
+- A love ethic vs ethics of power and domination
+- The 5 gates of grief
+- Wicked problems and type 1 vs type 2 problems and solutions
+- Brackishness
+- Deep okayness
