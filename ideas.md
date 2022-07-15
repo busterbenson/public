@@ -21,6 +21,10 @@ What does a life deserving of human dignity require?
 
 ## In alphabetical order
 
+### The Capabilities Approach
+This is a moral and politicial philsophy that attempts to improve on the limitations of social contract theory and utilitarianism in a couple ways that I find very compelling. The central question that it strives to answer is "What does a life deserving of human dignity require?" One of the reasons I like it is because it avoids several pitfalls of a lot of the most popular moral and political philosophies. Instead of relying on explicit outcomes (like reports happiness or measurements of prosperity) it focuses on whether people feel like they have the capability / opportunity / agency to make certain choices about their own life, within their own circumstances. I like it because it treats each individual person as an end in themselves (not trying to do math about the greater good that often obscures and justifies inequalities). Here is [a list of capabilities](https://en.wikipedia.org/wiki/Capability_approach#:~:text=Nussbaum's%20capabilities%20approach%20is%20centered,persons%2C%20rather%20than%20to%20groups.) suggested by Martha Nussbaum in _Creating Capabilities_.
+
+
 ### Codex Vitae (aka Book of Life or Book of Beliefs)
 This is an idea coined by [Robin Sloan](https://www.robinsloan.com/) in his book [Mr Penumbra's 24-Hour Bookstore](https://www.robinsloan.com/books/penumbra/). The idea is to write a book, the Codex Vitae or Book of Life, that represents everything one has learned in their life. I think of it less as a perfect representation of my life or beliefs or thoughts, and more of a snapshot of how I saw the world and which parts of my worldview I would most like to pass on. It's not an easy thing to write, but it's quite rewarding to attempt. 
 
