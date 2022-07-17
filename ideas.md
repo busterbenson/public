@@ -1,5 +1,5 @@
 # Ideas I'm Mulling
-Author: Buster Benson • [Related blog](https://medium.com/blagenflorble)
+By [Buster Benson](https://busterbenson.com) • [Release notes](https://medium.com/blagenflorble)
 
 *A disorganized collection of short notes with no center.*
 
