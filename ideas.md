@@ -52,6 +52,11 @@ Here is an abbreviated list of capabilities suggested by Martha Nussbaum in _Cre
 - *Control Over One's Environment: Political.* Being able to participate effectively in political choices that govern one's life; having the right of political participation, protections of free speech and association.
 - *Control Over One's Environment: Material.* Being able to hold property (both land and movable goods), and having property rights on an equal basis with others; having the right to seek employment on an equal basis with others; having the freedom from unwarranted search and seizure. In work, being able to work as a human, exercising practical reason and entering into meaningful relationships of mutual recognition with other workers.
 
+*Updates:*
+
+- 07.12.2022: [The Capabilities Approach added to to the idea list](https://medium.com/blagenflorble/the-capabilities-approach-added-to-the-list-d8b63836903)
+
+
 
 ### Codex Vitae (aka Book of Life or Book of Beliefs)
 This is an idea coined by [Robin Sloan](https://www.robinsloan.com/) in his book [Mr Penumbra's 24-Hour Bookstore](https://www.robinsloan.com/books/penumbra/). The idea is to write a book, the Codex Vitae or Book of Life, that represents everything one has learned in their life. I think of it less as a perfect representation of my life or beliefs or thoughts, and more of a snapshot of how I saw the world and which parts of my worldview I would most like to pass on. It's not an easy thing to write, but it's quite rewarding to attempt. 
