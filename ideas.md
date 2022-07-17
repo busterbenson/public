@@ -21,10 +21,23 @@ What does a life deserving of human dignity require?
 
 ## In alphabetical order
 
+### Blagenflorble
+A word I made up in my [2022 annual review](https://buster.medium.com/46-a-blagenflorble-heart-31bc2a992a83?source=topics_v2---------2-84--------------------71fa620b_ad1c_47c2_b778_4082b217635b-------19) that essentially means to be whole and broken at the same time. Also related to the idea of brackishness: things that flow up and down at the same time. Things that are blagenflorble:
+
+- Politics: a completely messed up and broken system, and one that we should still wholeheartedly participate in.
+- Religion and spirituality: Deeply flawed and problematic in so many ways and yet still deeply wired in us as a primary mode for belonging and community and meaning-making. 
+- Relationships: the source of our deepest traumas and deepest connections. 
+- Careers: the path to independence and autonomy that requires giving up independence and autonomy.
+
+*Updates:*
+
+- 06.01.2022: [46: A Blagenflorble Heart (year in review)](https://buster.medium.com/46-a-blagenflorble-heart-31bc2a992a83)
+
+
 ### The Capabilities Approach
 This is a moral and politicial philsophy that attempts to improve on the limitations of social contract theory and utilitarianism in a couple ways that I find very compelling. The central question that it strives to answer is "What does a life deserving of human dignity require?" One of the reasons I like it is because it avoids several pitfalls of a lot of the most popular moral and political philosophies. Instead of relying on explicit outcomes (like reports happiness or measurements of prosperity) it focuses on whether people feel like they have the capability / opportunity / agency to make certain choices about their own life, within their own circumstances. I like it because it treats each individual person as an end in themselves (not trying to do math about the greater good that often obscures and justifies inequalities). 
 
-Here is [an abbreviated list of capabilities suggested by Martha Nussbaum in _Creating Capabilities_ ([via Wikipedia](https://en.wikipedia.org/wiki/Capability_approach#:~:text=Nussbaum's%20capabilities%20approach%20is%20centered,persons%2C%20rather%20than%20to%20groups.)).
+Here is an abbreviated list of capabilities suggested by Martha Nussbaum in _Creating Capabilities_ ([via Wikipedia](https://en.wikipedia.org/wiki/Capability_approach#:~:text=Nussbaum's%20capabilities%20approach%20is%20centered,persons%2C%20rather%20than%20to%20groups.)).
 
 - *Life.* Being able to live to the end of a human life of normal length; not dying prematurely, or before one's life is so reduced as to be not worth living.
 - *Bodily Health.* Being able to have good health, including reproductive health; to be adequately nourished; to have adequate shelter.
@@ -39,16 +52,22 @@ Here is [an abbreviated list of capabilities suggested by Martha Nussbaum in _Cr
 - *Control Over One's Environment: Political.* Being able to participate effectively in political choices that govern one's life; having the right of political participation, protections of free speech and association.
 - *Control Over One's Environment: Material.* Being able to hold property (both land and movable goods), and having property rights on an equal basis with others; having the right to seek employment on an equal basis with others; having the freedom from unwarranted search and seizure. In work, being able to work as a human, exercising practical reason and entering into meaningful relationships of mutual recognition with other workers.
 
+
 ### Codex Vitae (aka Book of Life or Book of Beliefs)
 This is an idea coined by [Robin Sloan](https://www.robinsloan.com/) in his book [Mr Penumbra's 24-Hour Bookstore](https://www.robinsloan.com/books/penumbra/). The idea is to write a book, the Codex Vitae or Book of Life, that represents everything one has learned in their life. I think of it less as a perfect representation of my life or beliefs or thoughts, and more of a snapshot of how I saw the world and which parts of my worldview I would most like to pass on. It's not an easy thing to write, but it's quite rewarding to attempt. 
+
+*Updates:*
 
 - 07.05.2022: [Codex Vitae added to to the idea list](https://medium.com/blagenflorble/codex-vitae-2022-285c2b0d25c8)
 - 05.28.2022: [The latest version of the Codex](https://github.com/busterbenson/public/blob/ed47676d8b9b885510babcf34dd9ad072b3092ea/book-of-beliefs.md)
 - 11.28.2012: [The Codex Vitae reference](https://buster.svbtle.com/codex-vitae)
 - 02.16.2012: [V1 of the beliefs file](https://github.com/busterbenson/public/blob/master/files/book-of-beliefs-2012.md)
 
+
 ### Prisoner's Dilemma
 I love everything about prisoner's dilemma ([wikipedia](https://en.wikipedia.org/wiki/Prisoner%27s_dilemma)) because it is a way to think about collaboration and competition directly, and to even experiment with different ideas to test their practicality in different kinds of situations. It's a little difficult to fully get at first, but then incredibly rich once you do. I've held 3 prisoner's dilemma tournaments the last couple years. The twist on the other games is that in my tournaments people decide on strategies within 3 teams, and so the "dilemma" takes a few different forms: the strategy you have against people on other teams, the strategy your team has against other teams, and the strategy you have within your own team. It has led to some really interesting results that I'm still trying to fully understand. It's a set of questions and ideas that my brain seems to return to when it has a little spare time between other projects.
+
+*Updates:*
 
 - 07.07.2021: [Prisoner's Dilemma added to the idea list](https://medium.com/blagenflorble/prisoners-dilemma-added-to-the-idea-list-407713bed889)
 - 11.13.2021: [Exploration of various strategies](https://dilemma-strategies.herokuapp.com/)
