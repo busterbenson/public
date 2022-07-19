@@ -80,3 +80,32 @@ I love everything about prisoner's dilemma ([wikipedia](https://en.wikipedia.org
 - 7.29.2018: [A prisoner’s dilemma cheat sheet](https://medium.com/thinking-is-hard/a-prisoners-dilemma-cheat-sheet-4d85fe289d87)
 - 7.21.2018: [2nd prisoner's dilemma tournament page](https://www.facebook.com/groups/245429776074442), [introduction](https://medium.com/thinking-is-hard/dilemma-d73bd4ec0d4e), [results](https://www.facebook.com/groups/dilemma/posts/282361202381299/)
 - 7.07.2018: [1st prisoner's dilemma tournament page](https://www.facebook.com/groups/prisonersdilemma), [results](https://www.facebook.com/groups/prisonersdilemma/posts/625786444443361/), [analysis](https://www.facebook.com/groups/prisonersdilemma/permalink/626003937754945/)
+
+
+### Wicked Problems 
+I'm obsessed with the kinds of problems that can't be solved by heroic acts -- the kind that don't fit into our narrative structures and therefore become almost invisible to us because they resist critical thinking and standard problem solving. I took all of the qualities from the [wicked problem Wikipedia page](https://en.wikipedia.org/wiki/Wicked_problem) and tried to combine them and group them into somewhat coherent categories.
+
+#### PERSONAL: We can’t avoid the problem
+- *Personal.* The problem affects us directly, but can’t be solved on our own.
+- *Not urgent.* Most of the impact is in the future, making it easy to delay treating it urgently right now. And yet, time is running out to implement potential solutions.
+- *Getting worse.* The problem gets harder to solve as time goes on. The effects of the problem and the resources needed to solve it increase over time.
+- *Existential.* The problem is ultimately fatal if left unaddressed.
+
+#### DIFFICULT: The solutions require incredible investment up front
+- *Expensive.* Every solution to a wicked problem, if they can even be imagined, is exorbitantly expensive.
+- *Unconvincing.* Proposed solutions that some think are good also spark great resistance from others. The ideal problem solvers are out of contact with the problems and potential solutions.
+- *Uncompromising.* Multiple solutions can work against each other, making it hard to execute on several at once.
+
+#### COMPLEX: The problem is hard to pin down
+- *Unique.* Every wicked problem has unique qualities that differentiate it from all previous problems it might be compared to.
+- *Multifaceted.* The scope and consequences of the problem can’t be fully understood from a single perspective. There’s no single holistic view of the entire problem.
+- *Ambiguous.* Different interpretations of the problem will generate contradictory solutions.
+- *Systemic.* There are numerous possible intervention points. No single intervention will solve the problem once and for all.
+- *Interconnected.* Most problems are symptoms of solutions to past problems, and most solutions will create new wicked problems while exacerbating existing ones.
+- *No accountability.* There’s no central authority responsible for the problem or for solving it. Affected parties have radically different world views, different frames for understanding the problem, and will be hurt by it to varying degrees.
+
+#### CONFLICTED: There’s vast disagreement about viable solutions
+- *Complicit.* Those seeking to solve the problem are also directly or indirectly benefiting from it in some way.
+- *Unviable.* Ideological constraints, cultural constraints, political constraints, and economic constraints make proposed solutions unviable.
+- *Unpredictable.* Some solutions include worst case scenarios that are worse than the problem, and oftentimes more immediate. Most predictive models of the problem generate unreliable predictions.
+- *Unmeasurable.* Data about the problem is often uncertain, ambiguous, or missing. Unintended consequences of proposed solutions are difficult to estimate or prevent before fully implementing them.
