@@ -109,3 +109,8 @@ I'm obsessed with the kinds of problems that can't be solved by heroic acts -- t
 - *Unviable.* Ideological constraints, cultural constraints, political constraints, and economic constraints make proposed solutions unviable.
 - *Unpredictable.* Some solutions include worst case scenarios that are worse than the problem, and oftentimes more immediate. Most predictive models of the problem generate unreliable predictions.
 - *Unmeasurable.* Data about the problem is often uncertain, ambiguous, or missing. Unintended consequences of proposed solutions are difficult to estimate or prevent before fully implementing them.
+
+*Updates:*
+
+- 07.19.2021: [Wicked Problems added to the idea list](https://medium.com/blagenflorble/wicked-problems-added-to-the-list-b9099afc20bf)
+- 12.2019-01.2020: [Foolish Journey posts on wicked problems](https://medium.com/foolish-journey/tagged/wicked-problem)
