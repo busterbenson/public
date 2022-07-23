@@ -1,7 +1,7 @@
 # Ideas I'm Mulling
 By [Buster Benson](https://busterbenson.com) • [Release notes](https://medium.com/blagenflorble)
 
-*A disorganized collection of short notes with no center.*
+*An alphabetized list of ideas I keep coming back to for some reason.*
 
 All that you touch
 you change.
@@ -67,6 +67,54 @@ This is an idea coined by [Robin Sloan](https://www.robinsloan.com/) in his book
 - 05.28.2022: [The latest version of the Codex](https://github.com/busterbenson/public/blob/ed47676d8b9b885510babcf34dd9ad072b3092ea/book-of-beliefs.md)
 - 11.28.2012: [The Codex Vitae reference](https://buster.svbtle.com/codex-vitae)
 - 02.16.2012: [V1 of the beliefs file](https://github.com/busterbenson/public/blob/master/files/book-of-beliefs-2012.md)
+
+
+### Cognitive biases
+There are around 200 cognitive biases that have been identified over the years. In 2016 I tried to find some way of understanding them through the lens of problems that they help our brains solve (instead of only focusing on their side effects) and published the [cognitive bias cheat sheet](https://betterhumans.pub/cognitive-bias-cheat-sheet-55a472476b18). John Manoogian III created the [poster version](https://www.designhacks.co/products/cognitive-bias-codex-poster) to go along with it. This post ended up going kind of viral (over 1.5M reads) and led to an editor reaching out to me and the 2019 publication of my book [Why Are We Yelling: The Art of Productive Disagreement](https://busterbenson.com/whyareweyelling/). 
+
+My biggest take-away from this whole arc of interest is that we have biases out of necessity, and they can never be "fixed". 
+
+#### The 3 conundrums
+There are 3 conundrums in the universe that limit our ability to be aware of it, make sense of it, and act on it. 
+
+1. *Information:* There’s too much information (so we must filter it). Noise becomes signal. The downside: we don’t see everything. Some of the information we filter out is actually useful and important.
+2. *Meaning:* There’s not enough meaning (so we use stories to make sense). Signal becomes a story. The downside: our search for meaning can conjure illusions. We sometimes imagine details that were filled in by our assumptions, and construct meaning and stories that aren’t really there.
+3. *Time:* There’s not enough time (so we motivate towards action). Stories become decisions. The downside: quick decisions can be seriously flawed. Some of the quick reactions and decisions we jump to are unfair, self-serving, and counter-productive.
+
+#### The 3 ways we compensate for the conundrums
+To compensate for these three conundrums, we've come up with 13 broad strategies. 
+
+1. We filter information...
+
+- By depending on the context
+- By accepting what comes to mind
+- By amplifying the bizarre
+- By noticing the new and surprising
+- By reducing to take-aways
+
+2. We confabulate stories...
+
+- By filling in the gaps
+- By favoring the familiar
+- By treating experience as reality
+- By simplifying mental math
+- By being overconfident
+
+3. We jump to conclusions...
+
+- By sticking to the status quo
+- By protecting existing beliefs
+- By doing the safe thing
+
+Instead of memorizing 200+ oddly named cognitive biases that each have a complicated scientific history (some of which is being seriously questioned these days) I've found that orienting around the 3 conundrums and 13 strategies has helped me not only notice situations where bias is going to have a harmful effect, but to also avoid solutions that reduce one kind of bias only to double down on another kind. 
+
+*Updates:* 
+
+- 06.03.2019: [What Can We Do About Our Bias](https://betterhumans.pub/what-can-we-do-about-our-bias-73c16eeb7dca)
+- 05.10.2019: [Pocket Biases](https://pocket-biases.glideapp.io/)
+- 01.07.2017: [The cognitive bias cheat sheet, simplified](https://medium.com/thinking-is-hard/4-conundrums-of-intelligence-2ab78d90740f)
+- 09.01.2016: [The cognitive bias cheat sheet](https://betterhumans.pub/cognitive-bias-cheat-sheet-55a472476b18)
+
 
 
 ### Prisoner's Dilemma
