@@ -110,6 +110,7 @@ Instead of memorizing 200+ oddly named cognitive biases that each have a complic
 
 *Updates:* 
 
+- 07.25.2022: [Cognitive Biases added to the idea list](https://medium.com/blagenflorble/cognitive-biases-added-to-the-idea-list-b4bf782db603)
 - 06.03.2019: [What Can We Do About Our Bias](https://betterhumans.pub/what-can-we-do-about-our-bias-73c16eeb7dca)
 - 05.10.2019: [Pocket Biases](https://pocket-biases.glideapp.io/)
 - 01.07.2017: [The cognitive bias cheat sheet, simplified](https://medium.com/thinking-is-hard/4-conundrums-of-intelligence-2ab78d90740f)
