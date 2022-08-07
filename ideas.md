@@ -69,7 +69,7 @@ This is an idea coined by [Robin Sloan](https://www.robinsloan.com/) in his book
 - 02.16.2012: [V1 of the beliefs file](https://github.com/busterbenson/public/blob/master/files/book-of-beliefs-2012.md)
 
 
-### Cognitive biases
+### Cognitive Biases
 There are around 200 cognitive biases that have been identified over the years. In 2016 I tried to find some way of understanding them through the lens of problems that they help our brains solve (instead of only focusing on their side effects) and published the [cognitive bias cheat sheet](https://betterhumans.pub/cognitive-bias-cheat-sheet-55a472476b18). John Manoogian III created the [poster version](https://www.designhacks.co/products/cognitive-bias-codex-poster) to go along with it. This post ended up going kind of viral (over 1.5M reads) and led to an editor reaching out to me and the 2019 publication of my book [Why Are We Yelling: The Art of Productive Disagreement](https://busterbenson.com/whyareweyelling/). 
 
 My biggest take-away from this whole arc of interest is that we have biases out of necessity, and they can never be "fixed". 
@@ -129,6 +129,38 @@ I love everything about prisoner's dilemma ([wikipedia](https://en.wikipedia.org
 - 7.29.2018: [A prisoner’s dilemma cheat sheet](https://medium.com/thinking-is-hard/a-prisoners-dilemma-cheat-sheet-4d85fe289d87)
 - 7.21.2018: [2nd prisoner's dilemma tournament page](https://www.facebook.com/groups/245429776074442), [introduction](https://medium.com/thinking-is-hard/dilemma-d73bd4ec0d4e), [results](https://www.facebook.com/groups/dilemma/posts/282361202381299/)
 - 7.07.2018: [1st prisoner's dilemma tournament page](https://www.facebook.com/groups/prisonersdilemma), [results](https://www.facebook.com/groups/prisonersdilemma/posts/625786444443361/), [analysis](https://www.facebook.com/groups/prisonersdilemma/permalink/626003937754945/)
+
+
+### Productive Disagreements
+Disagreements are conversations where there are two or more perspectives that differ in an unacceptable way. Those differing perspectives can exist within ourselves, between individuals, between groups, etc. If it's an acceptable difference, then it's not a disagreement. Within the realm of all disagreements, the productive disagreements* are conversations that result in one of four fruit: insight, connection, enjoyment, and/or security. Most unproductive disagreements fixate on the fruit of security above all else (getting a concession from the other side that they have let go of their difference), but I strongly believe that if we focus on the other three fruit first that the fourth one comes as a freebie. 
+
+The ability to have productive disagreements is, in my opinion, one of the most important meta-skills for us to cultivate. I wrote a book titled [Why Are We Yelling?: The Art of Productive Disagreement](https://busterbenson.com/whyareweyelling/) about 8 tips for cultivating this skill. They are:
+
+1. Watch how anxiety sparks
+2. Talk to your internal voices
+3. Develop honest bias
+4. Speak for yourself
+5. Ask questions that invite surprising answers
+6. Build arguments together
+7. Cultivate neutral spaces
+8. Accept reality, then participate in it
+
+As far as how this continues to be an idea that I am mulling, I think even with these 8 tips, there is a lifetime of practice and mastery required in order to actually be able to fully live up to the possibility of productive disagreement. I'm definitely no master, myself. Even the first step, of watching how anxiety sparks, encapsulates a lifetime of mastery. So maybe the real interest behind this interest is in continuing to keep these questions and practices alive in my life, and continue to follow the new paths that open up as a result of having productive disagreements with people in my life. 
+
+*Updates:*
+
+- 11.19.2019: [Why Are We Yelling? is published](https://busterbenson.com/whyareweyelling/). Available on [Amazon](http://links.penguinrandomhouse.com/type/affiliate/isbn/9780525540106/siteID/8001/retailerid/7/trackingcode/randohouseinc35324-20), [Barnes and Noble](http://links.penguinrandomhouse.com/type/affiliate/isbn/9780525540106/siteID/8001/retailerid/2/trackingcode/PRH8ECCEED34F), [Books-A-Million](http://links.penguinrandomhouse.com/type/affiliate/isbn/9780525540106/siteID/8001/retailerid/5/trackingcode/PRH8ECCEED34F), [IndieBound](http://links.penguinrandomhouse.com/type/affiliate/isbn/9780525540106/siteID/8001/retailerid/6/trackingcode/penguinrandom), and your favorite local bookstore.
+- 11.12.2019: [To Argue Productively, Meet in a Neutral Space](https://forge.medium.com/to-argue-productively-meet-in-a-neutral-space-f16d2d6c090)
+- 10.11.2019: [8 Ways to Practice the Art of Productive Disagreement](https://buster.medium.com/8-ways-to-practice-the-art-of-productive-disagreement-a69e9cc76e44)
+- 01.18.2019: [5 Guidelines for Productive Disagreement](https://medium.com/thinking-is-hard/guidelines-for-fruitful-dialogue-9d7d0b46da89)
+- 01.17.2019: [The Beginning of a Fruitful Dialogue](https://medium.com/thinking-is-hard/the-beginning-of-a-fruitful-dialogue-d0f67734985f)
+- 01.09.2019: [Can a friendly and diverse dialogue exist between liberals and conservatives on the internet?](https://medium.com/thinking-is-hard/can-a-friendly-and-diverse-dialogue-exist-between-liberals-and-conservatives-on-the-internet-3bd54025735b)
+- 10.27.2017: [A rational person’s 1-minute guide to why rational thinking often fails to persuade people](https://medium.com/thinking-is-hard/a-rational-thinkers-guide-to-why-rational-thinking-often-fails-to-persuade-people-b3e65cac11e0)
+- 08.25.2017: [Why is it so hard to convince other people that they're wrong?](https://medium.com/thinking-is-hard/why-is-it-so-hard-to-convince-other-people-that-theyre-wrong-b83e6bf9f8e0)
+- 08.17.2017: [Great Zinger!](https://medium.com/thinking-is-hard/great-zinger-72249cc34918)
+- 07.03.2017: [Me: seeking more interesting arguments](https://medium.com/thinking-is-hard/me-seeking-more-interesting-arguments-8f46cfe845e5)
+- 02.12.2017: [I’ll pay you $10 if you catch me breaking this well-intentioned conversationalist pledge](https://medium.com/thinking-is-hard/my-well-intentioned-conversationalist-pledge-e62fae745cd4)
+- 2016-2019: [Timeline of writing Why Are We Yelling?](https://busterbenson.com/book/timeline/)
 
 
 ### Wicked Problems 
