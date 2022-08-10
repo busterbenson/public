@@ -21,6 +21,14 @@ What does a life deserving of human dignity require?
 
 ## In alphabetical order
 
+- [Blagenflorble](#blagenflorble)
+- [The Capabilities Approach](#the-capabilities-approach)
+- [Codex Vitae](#codex-vitae-aka-book-of-life-or-book-of-beliefs)
+- [Cognitive Biases](#cognitive-biases)
+- [Prisoner's Dilemma](#prisoners-dilemma)
+- [Productive Disagreements](#productive-disagreements)
+- [Wicked Problems](#wicked-problems)
+
 ### Blagenflorble
 A word I made up in my [2022 annual review](https://buster.medium.com/46-a-blagenflorble-heart-31bc2a992a83?source=topics_v2---------2-84--------------------71fa620b_ad1c_47c2_b778_4082b217635b-------19) that essentially means to be whole and broken at the same time. Also related to the idea of brackishness: things that flow up and down at the same time. Things that are blagenflorble:
 
@@ -132,7 +140,9 @@ I love everything about prisoner's dilemma ([wikipedia](https://en.wikipedia.org
 
 
 ### Productive Disagreements
-Disagreements are conversations where there are two or more perspectives that differ in an unacceptable way. Those differing perspectives can exist within ourselves, between individuals, between groups, etc. If it's an acceptable difference, then it's not a disagreement. Within the realm of all disagreements, the productive disagreements* are conversations that result in one of four fruit: insight, connection, enjoyment, and/or security. Most unproductive disagreements fixate on the fruit of security above all else (getting a concession from the other side that they have let go of their difference), but I strongly believe that if we focus on the other three fruit first that the fourth one comes as a freebie. 
+I've been mulling this idea for a while… so there's a lot of context to include here.
+
+First, a definition: disagreements are conversations where there are two or more perspectives that differ in an unacceptable way. These differing perspectives can exist within ourselves, between individuals, between groups, etc. It's important to consider the word "unacceptable" here too, because if what we have is an difference that we find acceptable, for whatever reason, then it's not a disagreement. Within the realm of all disagreements, the productive ones are those that result in one of four fruit: insight, connection, enjoyment, and/or security. Most unproductive disagreements fixate on the fruit of security above all else (getting a concession from the other side that they have let go of their difference), but I strongly believe that if we focus on the other three fruit first that the fourth one comes as a freebie.
 
 The ability to have productive disagreements is, in my opinion, one of the most important meta-skills for us to cultivate. I wrote a book titled [Why Are We Yelling?: The Art of Productive Disagreement](https://busterbenson.com/whyareweyelling/) about 8 tips for cultivating this skill. They are:
 
