@@ -159,6 +159,7 @@ As far as how this continues to be an idea that I am mulling, I think even with 
 
 *Updates:*
 
+- 08.10.2022: [Productive Disagreements added to the idea list](https://medium.com/blagenflorble/productive-disagreement-added-to-the-idea-list-70e3553bb965)
 - 11.19.2019: [Why Are We Yelling? is published](https://busterbenson.com/whyareweyelling/). Available on [Amazon](http://links.penguinrandomhouse.com/type/affiliate/isbn/9780525540106/siteID/8001/retailerid/7/trackingcode/randohouseinc35324-20), [Barnes and Noble](http://links.penguinrandomhouse.com/type/affiliate/isbn/9780525540106/siteID/8001/retailerid/2/trackingcode/PRH8ECCEED34F), [Books-A-Million](http://links.penguinrandomhouse.com/type/affiliate/isbn/9780525540106/siteID/8001/retailerid/5/trackingcode/PRH8ECCEED34F), [IndieBound](http://links.penguinrandomhouse.com/type/affiliate/isbn/9780525540106/siteID/8001/retailerid/6/trackingcode/penguinrandom), and your favorite local bookstore.
 - 11.12.2019: [To Argue Productively, Meet in a Neutral Space](https://forge.medium.com/to-argue-productively-meet-in-a-neutral-space-f16d2d6c090)
 - 10.11.2019: [8 Ways to Practice the Art of Productive Disagreement](https://buster.medium.com/8-ways-to-practice-the-art-of-productive-disagreement-a69e9cc76e44)
