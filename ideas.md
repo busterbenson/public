@@ -64,18 +64,18 @@ Octavia Butler's book, The Parable of the Sower, repeats many times one of my fa
 
 *Updates:*
 
-- 08.15.2022: Brackishness added to the idea list
+- 08.15.2022: [Brackishness added to the idea list](https://medium.com/blagenflorble/brackishness-and-calendar-systems-added-to-the-idea-list-5c8a93cb7c27)
 - 04.12.2021: [Sleeping vs Waking](https://paper.dropbox.com/doc/Brackish-Notebook-Spring-2021--BnQequYbB_ucqFD3gQTN~KwQAg-ldOAQgyAP9e1LcU66n7Vp#:uid=995727778813742781616713&h2=%F0%9F%8C%91-Monday%2C-April-12th-%E2%80%A2-Sleepi)
 - 03.26.2021: [The brackish moon](https://paper.dropbox.com/doc/Brackish-Notebook-Spring-2021--BnQequYbB_ucqFD3gQTN~KwQAg-ldOAQgyAP9e1LcU66n7Vp#:uid=765799791732427262411488&h2=%F0%9F%8C%94-Friday%2C-March-26th-%E2%80%A2-The-br)
 - 03.25.2021: [The Mahicantuck River flows both ways](https://paper.dropbox.com/doc/Brackish-Notebook-Spring-2021--BnQequYbB_ucqFD3gQTN~KwQAg-ldOAQgyAP9e1LcU66n7Vp#:uid=758064923807163417641110&h2=%F0%9F%8C%94-Thursday%2C-March-25th-%E2%80%A2-The-)
 
 
 ### Calendar Systems
-I'm obsessed with calendar systems because they're such an old concept, that it doesn't even feel like an idea anymore: calendars feel like a fundamental part of nature and spacetime. They're also a perfect example of brackishness in action. We designed our calendar systems to better understand the natural world, and our calendar systems in turn have greatly influenced how we think about the natural world. Months were originally meant to approximate lunar cycles, but now we think of lunar cycles as loosely mapping to months. Seasons map to solar equinoxes and solstices. Weeks, and days of the week, on the other hand, have no counterpart in nature and yet Sunday feels as "real" as Summer. Monday feels as real as May. And, if aliens were observing us from afar, they may be able to changes in the world that map to days of the week (traffic patterns, business activity, etc) from space... so in a way our calendar systems shape nature whether they have any "real" connection to nature at all. In actuality, we are a part of nature, so the systems we create are also a real part of nature.
+I'm obsessed with calendars, and the various inventions we've come up with to track and measure and communicate and coordinate about time. They're one of our first inventions, going back many thousands of years... in some ways they don't even feel like an idea anymore. Calendars feel like a fundamental part of nature and spacetime. They're also a perfect example of brackishness in action. We designed our calendar systems to better understand the natural world, and our calendar systems in turn have greatly influenced how we think about the natural world. Seasons map very closely to solar equinoxes and solstices. Months were originally meant to approximate lunar cycles, but now we think of lunar cycles as loosely mapping to months. Weeks, and days of the week, on the other hand, have no counterpart in nature and yet Sunday feels as "real" as Summer. Monday feels as real as May. And, if aliens were observing us from afar, they may be able to observe changes in the world that map to days of the week (traffic patterns, business activity, etc) from space. In a very real way our calendar systems shape nature whether they have any "real" connection to nature at all. In actuality, we are a part of nature, so the systems we create are also a real part of nature.
 
 *Updates:*
 
-- 08.15.2022: Calendar systems added to the idea list
+- 08.15.2022: [Calendar systems added to the idea list](https://medium.com/blagenflorble/brackishness-and-calendar-systems-added-to-the-idea-list-5c8a93cb7c27)
 - 04.17.2021: [Personal calendars](https://paper.dropbox.com/doc/Brackish-Notebook-Spring-2021--BnQequYbB_ucqFD3gQTN~KwQAg-ldOAQgyAP9e1LcU66n7Vp#:uid=915585282587798767572895&h2=%F0%9F%8C%92-Saturday%2C-April-17th-%E2%80%A2-Pers)
 - 04.15.2021: [The Sumerian Calendar](https://paper.dropbox.com/doc/Brackish-Notebook-Spring-2021--BnQequYbB_ucqFD3gQTN~KwQAg-ldOAQgyAP9e1LcU66n7Vp#:uid=759621018704079096267480&h2=%F0%9F%8C%92-Friday%2C-April-16th-%E2%80%A2-The-Su)
 - 04.06.2021: [A loopy calendar](https://paper.dropbox.com/doc/Brackish-Notebook-Spring-2021--BnQequYbB_ucqFD3gQTN~KwQAg-ldOAQgyAP9e1LcU66n7Vp#:uid=357126509614436314907285&h2=%F0%9F%8C%98-Friday%2C-April-6th-%E2%80%A2-A-loopy)
