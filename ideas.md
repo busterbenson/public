@@ -1,8 +1,6 @@
 # Ideas I'm Mulling
 By [Buster Benson](https://busterbenson.com) • [Release notes](https://medium.com/blagenflorble)
 
-*An alphabetized list of ideas I keep coming back to for some reason.*
-
 All that you touch
 you change.
 All that you change
@@ -19,9 +17,12 @@ The way forward is with a broken heart.
 What does a life deserving of human dignity require?
 &mdash; Martha Nussman
 
-## In alphabetical order
+## Index of Ideas I'm Mulling
+*An alphabetized list of ideas I keep coming back to for some reason.*
 
 - [Blagenflorble](#blagenflorble)
+- [Brackishness](#brackishness)
+- [Calendar Systems](#calendar-systems)
 - [The Capabilities Approach](#the-capabilities-approach)
 - [Codex Vitae](#codex-vitae-aka-book-of-life-or-book-of-beliefs)
 - [Cognitive Biases](#cognitive-biases)
@@ -30,16 +31,55 @@ What does a life deserving of human dignity require?
 - [Wicked Problems](#wicked-problems)
 
 ### Blagenflorble
-A word I made up in my [2022 annual review](https://buster.medium.com/46-a-blagenflorble-heart-31bc2a992a83?source=topics_v2---------2-84--------------------71fa620b_ad1c_47c2_b778_4082b217635b-------19) that essentially means to be whole and broken at the same time. Also related to the idea of brackishness: things that flow up and down at the same time. Things that are blagenflorble:
+A word I made up in my [2022 annual review](https://buster.medium.com/46-a-blagenflorble-heart-31bc2a992a83?source=topics_v2---------2-84--------------------71fa620b_ad1c_47c2_b778_4082b217635b-------19) that essentially means to be whole and broken at the same time. Things that are blagenflorble:
 
 - Politics: a completely messed up and broken system, and one that we should still wholeheartedly participate in.
 - Religion and spirituality: Deeply flawed and problematic in so many ways and yet still deeply wired in us as a primary mode for belonging and community and meaning-making. 
 - Relationships: the source of our deepest traumas and deepest connections. 
 - Careers: the path to independence and autonomy that requires giving up independence and autonomy.
 
+Also related to the idea of brackishness: things that flow up and down at the same time. 
+
 *Updates:*
 
 - 06.01.2022: [46: A Blagenflorble Heart (year in review)](https://buster.medium.com/46-a-blagenflorble-heart-31bc2a992a83)
+
+
+### Brackishness
+The word brackish technically means "slightly salty, as is the mixture of river water and seawater in estuaries". Generally this happens when a fresh water river meets a salt-water ocean, and the movement of the tides alternatively pulls salt water into the river, as the river pushes fresh water into the sea. But I use this word to think about anything that has a two-way flow, where there is no perfectly delineated boundary between the two things, and neither of the things is has control of the other. 
+
+One of the strongest and most interesting examples of brackishness in my opinion is the concept of "ontological designing", which is the basic idea that everything we design in this world, in turn will in turn design us back. We shape our environment to suit us, and then our environment shapes us and influences what we design in the future. This two-way dialogue between us and not-us, which together make up the natural world, can be seen everywhere once you begin to look for it.
+
+Octavia Butler's book, The Parable of the Sower, repeats many times one of my favorite brackish lines of all time: 
+
+> All that you touch
+> you change.
+> All that you change
+> changes you.
+> The only lasting truth
+> is change.
+> God is change.
+
+*Other examples of brackish things:* debate, dialogue, conversations, the Hudson River, roads, neurons, feelings, plumbing, AC electrical current, cause and effect, brainstorming, language, maps, calendars, art, natural selection, service leadership, exercise, kinetic energy and motion, gravity, sleeping and waking, democracy, legal systems.
+
+*Updates:*
+
+- 08.15.2022: Brackishness added to the idea list
+- 04.12.2021: [Sleeping vs Waking](https://paper.dropbox.com/doc/Brackish-Notebook-Spring-2021--BnQequYbB_ucqFD3gQTN~KwQAg-ldOAQgyAP9e1LcU66n7Vp#:uid=995727778813742781616713&h2=%F0%9F%8C%91-Monday%2C-April-12th-%E2%80%A2-Sleepi)
+- 03.26.2021: [The brackish moon](https://paper.dropbox.com/doc/Brackish-Notebook-Spring-2021--BnQequYbB_ucqFD3gQTN~KwQAg-ldOAQgyAP9e1LcU66n7Vp#:uid=765799791732427262411488&h2=%F0%9F%8C%94-Friday%2C-March-26th-%E2%80%A2-The-br)
+- 03.25.2021: [The Mahicantuck River flows both ways](https://paper.dropbox.com/doc/Brackish-Notebook-Spring-2021--BnQequYbB_ucqFD3gQTN~KwQAg-ldOAQgyAP9e1LcU66n7Vp#:uid=758064923807163417641110&h2=%F0%9F%8C%94-Thursday%2C-March-25th-%E2%80%A2-The-)
+
+
+### Calendar Systems
+I'm obsessed with calendar systems because they're such an old concept, that it doesn't even feel like an idea anymore: calendars feel like a fundamental part of nature and spacetime. They're also a perfect example of brackishness in action. We designed our calendar systems to better understand the natural world, and our calendar systems in turn have greatly influenced how we think about the natural world. Months were originally meant to approximate lunar cycles, but now we think of lunar cycles as loosely mapping to months. Seasons map to solar equinoxes and solstices. Weeks, and days of the week, on the other hand, have no counterpart in nature and yet Sunday feels as "real" as Summer. Monday feels as real as May. And, if aliens were observing us from afar, they may be able to changes in the world that map to days of the week (traffic patterns, business activity, etc) from space... so in a way our calendar systems shape nature whether they have any "real" connection to nature at all. In actuality, we are a part of nature, so the systems we create are also a real part of nature.
+
+*Updates:*
+
+- 08.15.2022: Calendar systems added to the idea list
+- 04.17.2021: [Personal calendars](https://paper.dropbox.com/doc/Brackish-Notebook-Spring-2021--BnQequYbB_ucqFD3gQTN~KwQAg-ldOAQgyAP9e1LcU66n7Vp#:uid=915585282587798767572895&h2=%F0%9F%8C%92-Saturday%2C-April-17th-%E2%80%A2-Pers)
+- 04.15.2021: [The Sumerian Calendar](https://paper.dropbox.com/doc/Brackish-Notebook-Spring-2021--BnQequYbB_ucqFD3gQTN~KwQAg-ldOAQgyAP9e1LcU66n7Vp#:uid=759621018704079096267480&h2=%F0%9F%8C%92-Friday%2C-April-16th-%E2%80%A2-The-Su)
+- 04.06.2021: [A loopy calendar](https://paper.dropbox.com/doc/Brackish-Notebook-Spring-2021--BnQequYbB_ucqFD3gQTN~KwQAg-ldOAQgyAP9e1LcU66n7Vp#:uid=357126509614436314907285&h2=%F0%9F%8C%98-Friday%2C-April-6th-%E2%80%A2-A-loopy)
+- 04.05.2021: [Calendars are weird](https://paper.dropbox.com/doc/Brackish-Notebook-Spring-2021--BnQequYbB_ucqFD3gQTN~KwQAg-ldOAQgyAP9e1LcU66n7Vp#:uid=315569566060285607940785&h2=%F0%9F%8C%97-Monday%2C-April-5th-%E2%80%A2-Calenda)
 
 
 ### The Capabilities Approach
