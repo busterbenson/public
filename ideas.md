@@ -22,10 +22,11 @@ What does a life deserving of human dignity require?
 
 - [Blagenflorble](#blagenflorble)
 - [Brackishness](#brackishness)
-- [Calendar Systems](#calendar-systems)
+- [Calendar and Clock Systems](#calendar-and-clock-systems)
 - [The Capabilities Approach](#the-capabilities-approach)
 - [Codex Vitae](#codex-vitae-aka-book-of-life-or-book-of-beliefs)
 - [Cognitive Biases](#cognitive-biases)
+- [Personal Mythology](#personal-mythology)
 - [Prisoner's Dilemma](#prisoners-dilemma)
 - [Productive Disagreements](#productive-disagreements)
 - [Wicked Problems](#wicked-problems)
@@ -64,17 +65,18 @@ Octavia Butler's book, The Parable of the Sower, repeats many times one of my fa
 
 *Updates:*
 
-- 08.15.2022: [Brackishness added to the idea list](https://medium.com/blagenflorble/brackishness-and-calendar-systems-added-to-the-idea-list-5c8a93cb7c27)
+- 08.15.2022: [Brackishness added to the idea list](https://medium.com/blagenflorble/brackishness-and-calendar-systems-added-to-the-idea-list-5c8a93cb7c27 )
 - 04.12.2021: [Sleeping vs Waking](https://paper.dropbox.com/doc/Brackish-Notebook-Spring-2021--BnQequYbB_ucqFD3gQTN~KwQAg-ldOAQgyAP9e1LcU66n7Vp#:uid=995727778813742781616713&h2=%F0%9F%8C%91-Monday%2C-April-12th-%E2%80%A2-Sleepi)
 - 03.26.2021: [The brackish moon](https://paper.dropbox.com/doc/Brackish-Notebook-Spring-2021--BnQequYbB_ucqFD3gQTN~KwQAg-ldOAQgyAP9e1LcU66n7Vp#:uid=765799791732427262411488&h2=%F0%9F%8C%94-Friday%2C-March-26th-%E2%80%A2-The-br)
 - 03.25.2021: [The Mahicantuck River flows both ways](https://paper.dropbox.com/doc/Brackish-Notebook-Spring-2021--BnQequYbB_ucqFD3gQTN~KwQAg-ldOAQgyAP9e1LcU66n7Vp#:uid=758064923807163417641110&h2=%F0%9F%8C%94-Thursday%2C-March-25th-%E2%80%A2-The-)
 
 
-### Calendar Systems
-I'm obsessed with calendars, and the various inventions we've come up with to track and measure and communicate and coordinate about time. They're one of our first inventions, going back many thousands of years... in some ways they don't even feel like an idea anymore. Calendars feel like a fundamental part of nature and spacetime. They're also a perfect example of brackishness in action. We designed our calendar systems to better understand the natural world, and our calendar systems in turn have greatly influenced how we think about the natural world. Seasons map very closely to solar equinoxes and solstices. Months were originally meant to approximate lunar cycles, but now we think of lunar cycles as loosely mapping to months. Weeks, and days of the week, on the other hand, have no counterpart in nature and yet Sunday feels as "real" as Summer. Monday feels as real as May. And, if aliens were observing us from afar, they may be able to observe changes in the world that map to days of the week (traffic patterns, business activity, etc) from space. In a very real way our calendar systems shape nature whether they have any "real" connection to nature at all. In actuality, we are a part of nature, so the systems we create are also a real part of nature.
+### Calendar and Clock Systems
+I'm obsessed with clocks and calendars, and the various inventions we've come up with to track and measure and communicate and coordinate about time. They're one of our first inventions, going back many thousands of years... in some ways they don't even feel like an idea anymore. Calendars feel like a fundamental part of nature and spacetime. They're also a perfect example of brackishness in action. We designed our calendar systems to better understand the natural world, and our calendar systems in turn have greatly influenced how we think about the natural world. Seasons map very closely to solar equinoxes and solstices. Months were originally meant to approximate lunar cycles, but now we think of lunar cycles as loosely mapping to months. Weeks, and days of the week, on the other hand, have no counterpart in nature and yet Sunday feels as "real" as Summer. Monday feels as real as May. And, if aliens were observing us from afar, they may be able to observe changes in the world that map to days of the week (traffic patterns, business activity, etc) from space. In a very real way our calendar systems shape nature whether they have any "real" connection to nature at all. In actuality, we are a part of nature, so the systems we create are also a real part of nature.
 
 *Updates:*
 
+- 12.12.2022: [A Quirky Clock That Doesn't Track Time](https://medium.com/blagenflorble/a-quirky-clock-that-doesnt-track-time-25bbf66f3511?sk=768e8020f2bb03b91c27aed3d610f560)
 - 08.15.2022: [Calendar systems added to the idea list](https://medium.com/blagenflorble/brackishness-and-calendar-systems-added-to-the-idea-list-5c8a93cb7c27)
 - 04.17.2021: [Personal calendars](https://paper.dropbox.com/doc/Brackish-Notebook-Spring-2021--BnQequYbB_ucqFD3gQTN~KwQAg-ldOAQgyAP9e1LcU66n7Vp#:uid=915585282587798767572895&h2=%F0%9F%8C%92-Saturday%2C-April-17th-%E2%80%A2-Pers)
 - 04.15.2021: [The Sumerian Calendar](https://paper.dropbox.com/doc/Brackish-Notebook-Spring-2021--BnQequYbB_ucqFD3gQTN~KwQAg-ldOAQgyAP9e1LcU66n7Vp#:uid=759621018704079096267480&h2=%F0%9F%8C%92-Friday%2C-April-16th-%E2%80%A2-The-Su)
@@ -163,6 +165,11 @@ Instead of memorizing 200+ oddly named cognitive biases that each have a complic
 - 05.10.2019: [Pocket Biases](https://pocket-biases.glideapp.io/)
 - 01.07.2017: [The cognitive bias cheat sheet, simplified](https://medium.com/thinking-is-hard/4-conundrums-of-intelligence-2ab78d90740f)
 - 09.01.2016: [The cognitive bias cheat sheet](https://betterhumans.pub/cognitive-bias-cheat-sheet-55a472476b18)
+
+
+
+### Personal Mythology
+You know that kinda overused metaphor where we represent the world's history as a 24-hour day and talk about how recorded history started somewhere around 11:59pm (and 45 seconds, or whatever) as a way of gaining some perspective about our place within the Earth's timeline? 
 
 
 
