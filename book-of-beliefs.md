@@ -24,27 +24,25 @@ These are values I try to live by, but obviously it won't always happen. If you 
 1. I value myself, all people, all conscious/living things, as they are, and believe we should participate in the world in a way that lives up to the dignity in each of us.
 2. I value cultivating and articulating a clear vision for my life, putting some real weight on it in the form of actions/decisions, and reviewing it often enough to make course-corrections along the way.
 3. I also value allowing space for distractions and contradictions to appear that might challenge or shift the vision.
-4. I value composing [Annual Reviews](https://paper.dropbox.com/doc/u0nwfC4elqUCSm5nHbvOH) around my birthday every year.
+4. I value composing [Annual Reviews](https://busterbenson.com/pile/year-in-review/) around my birthday every year.
 5. I value practicing the art of productive disagreement with people who have different perspectives from me.
 6. I value trying to avoid labeling groups of people unless they explicitly request it.
 7. I value speaking and being my word.
 8. I value being direct and speaking up when I feel something is wrong, even if it potentially disrupts the peace.
 9. I value being the change I want to see.
-10. I value not dilly-dallying if something needs to be done.
-11. I value having good intentions towards people I directly or indirectly impact.
-12. I value de-magnetizing myself from cultural identities I’ve inherited by asking, “What if I didn’t have to be masculine?” “What if I didn’t have to be successful?” “What if I didn’t have to change the world?” “What if I didn’t have to be an expert?”
-13. I value being the maker of my own meaning.
-14. I value making my own advice after consulting others, and then taking it.
-15. I value not feeling sorry for myself and avoiding competitive suffering.
-16. I value rallying others with my vision, even if it’s not perfect.
-17. I value staking my reputation on my better self, then striving to live up to it.
-18. I value living with the consequences of who I am, even if they were unintentionally harmful.
-19. I value managing my stress, health, and clarity by consistently eating well, exercising, and getting enough sleep.
-20. I value savoring my mistakes so that I can learn from them.
-21. I value retrying things I don’t like every once in a while.
-22. I value going slow, working hard, and avoiding shortcuts.
-23. I value cultivating quality time with myself, with others, and with my interests.
-24. I value facing things that make me uncomfortable, to learn about the fears I'm holding inside the discomfort.
+10. I value having good intentions towards people I directly or indirectly impact.
+11. I value de-magnetizing myself from cultural identities I’ve inherited by asking, “What if I didn’t have to be masculine?” “What if I didn’t have to be successful?” “What if I didn’t have to change the world?” “What if I didn’t have to be an expert?”
+12. I value being the maker of my own meaning.
+13. I value making my own advice after consulting others, and then taking it.
+14. I value rallying others with my vision, even if it’s not perfect.
+15. I value staking my reputation on my better self, then striving to live up to it.
+16. I value living with the consequences of who I am, even if they were unintentionally harmful.
+17. I value managing my stress, health, and clarity by consistently eating well, exercising, and getting enough sleep.
+18. I value savoring my mistakes so that I can learn from them.
+19. I value retrying things I don’t like every once in a while.
+20. I value going slow, working hard, and avoiding shortcuts.
+21. I value cultivating quality time with myself, with others, and with my interests.
+22. I value facing things that make me uncomfortable, to learn about the fears I'm holding inside the discomfort.
 
 ## Chapter 2: Beliefs about the world
 
@@ -417,5 +415,6 @@ Posts about this topic: [Systems Thinking for Kids](https://medium.com/@buster/s
 - [2014](https://github.com/busterbenson/public/blob/d084b783b6ff753b43f7aab735a52943c704f74c/Codex.md): I added a bunch of stuff to the top and all around the beliefs to better explain the system of tracking beliefs over time and reviewing them frequently. I think I realized at this time just how valuable the project was to my own sense of well-being, and I hoped others would find it useful too. I also added a section for my “favorite ideas” because these too seemed to shift and grow over time in a way that was useful to occasionally review.
 - [2013](https://github.com/busterbenson/public/blob/master/files/book-of-beliefs-2013.md): It almost doubled in length in the second year to about 70 beliefs. It was still largely tracked on a subject basis.
 - [2012](https://github.com/busterbenson/public/blob/master/files/book-of-beliefs-2012.md): I listed about 40 beliefs the first time I sat down and tried to do this. Organized by subject, like “On Morality”, “On Science & the Universe”, etc.
+- [2007](https://buster.livejournal.com/104233.html): The very first version of this was a short post that I called the Unified Theory of Extraordinary Living, which just had the 11 things I took to be my own form of Commandments.
 
 Amor fati.
