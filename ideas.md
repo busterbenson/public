@@ -74,6 +74,21 @@ Octavia Butler's book, The Parable of the Sower, repeats many times one of my fa
 ### Calendar and Clock Systems
 I'm obsessed with clocks and calendars, and the various inventions we've come up with to track and measure and communicate and coordinate about time. They're one of our first inventions, going back many thousands of years... in some ways they don't even feel like an idea anymore. Calendars feel like a fundamental part of nature and spacetime. They're also a perfect example of brackishness in action. We designed our calendar systems to better understand the natural world, and our calendar systems in turn have greatly influenced how we think about the natural world. Seasons map very closely to solar equinoxes and solstices. Months were originally meant to approximate lunar cycles, but now we think of lunar cycles as loosely mapping to months. Weeks, and days of the week, on the other hand, have no counterpart in nature and yet Sunday feels as "real" as Summer. Monday feels as real as May. And, if aliens were observing us from afar, they may be able to observe changes in the world that map to days of the week (traffic patterns, business activity, etc) from space. In a very real way our calendar systems shape nature whether they have any "real" connection to nature at all. In actuality, we are a part of nature, so the systems we create are also a real part of nature.
 
+*The quirky calendar:*
+
+- The calendar's years start at the beginnning of our current geological epoch, the Holocene, represented by the end of the last glacial period (9700 BCE). The year 2023 of the Gregorian calendar corresponds to the year 11,723 of the quirky calendar (QC).
+- Days begin at sunrise.
+- Every day has 12 parts: 6 equal parts between sunrise and sunset (cyan, turquoise, green, chartreuse, yellow, orange), and 6 equal parts between sunset and sunrise (scarlet, red, magenta, violet, indigo, azure).
+- Months begin at the first sunrise after a new moon.
+- Every month has 12 equal parts based on the relationship between the sun and the moon at the beginning of the day (month names TBD).
+- The year's start, and the seasons, depend on which hemisphere you're in. 
+- Winter (and a new year) begins at the first sunrise after the first new moon after the longest night. 
+- Spring begins at the first sunrise after the first new moon after the equinox between Winter and Summer.
+- Summer begins at the first sunrise after the first new moon after the shortest night.
+- Fall begins at the first sunrise after the first new moon after equinox between Summer and Winter.
+- Every year has 4 seasons, every season has either 3 or 4 months, and every year has 12 or 13 months. 
+
+
 *Updates:*
 
 - 12.12.2022: [A Quirky Clock That Doesn't Track Time](https://medium.com/blagenflorble/a-quirky-clock-that-doesnt-track-time-25bbf66f3511?sk=768e8020f2bb03b91c27aed3d610f560)
