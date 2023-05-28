@@ -385,6 +385,8 @@ Posts about this topic: [Systems Thinking for Kids](https://medium.com/@buster/s
 
 ## Chapter 8: Annual reviews
 
+- 47: [CHALANT!](https://buster.medium.com/47-chalant-515c3ad09051) (2023)
+- 46: [A Blagenflorble Heart](https://buster.medium.com/46-a-blagenflorble-heart-31bc2a992a83) (2022)
 - 45: [Year of Reconstellation](https://buster.medium.com/45-year-of-reconstellation-38f7c0917c1b) (2021)
 - 44: [Year of the Amateur](https://paper.dropbox.com/doc/44-Year-of-the-Amateur--A1I6fGSn30hLhQMF5kpFCXC7AQ-xzFR0pPTrr36OFxt7h86h) (2020)
 - 43: [All in & with the flow](https://buster.medium.com/43-all-in-with-the-flow-e61e55b5dcf0) (2019)
@@ -404,8 +406,9 @@ Posts about this topic: [Systems Thinking for Kids](https://medium.com/@buster/s
 
 ## Changelog
 
-- 2022: Moved back to Github.
-- [2021]((https://github.com/busterbenson/public/blob/8d9360c3d53720cabc65907d614cd2fbe195eb57/book-of-beliefs.md)): Minor updates and cleanup. 
+- 2023: Retired a few values to live by, minor edits. 
+- [2022](https://github.com/busterbenson/public/blob/52a8369c25e9db797562277a58400a549b31081c/book-of-beliefs.md): Moved back to Github.
+- [2021](https://github.com/busterbenson/public/blob/8d9360c3d53720cabc65907d614cd2fbe195eb57/book-of-beliefs.md): Minor updates and cleanup. 
 - [2020](https://paper.dropbox.com/doc/Codex-Vitae--BcErrVa0dm4HejKenLm3mT8kAQ-rRJ8akyi4ky4Sdc8CQscV): Moved it yet again to Dropbox Paper. It’s part of the year of the amateur, but the hope was to see if the new location would make my beliefs easier to update (answer: not really).
 - [2019](https://busterbenson.com/beliefs): Moved it to a new place on busterbenson.com. The subject categories have been cleaned up a bit more, and I’ve shifted to using tags (marked by emoji) to show how some beliefs are about information (🧠 the head), values (❤️ the heart), and strategy (✋ the hand). And I also added a 🔥 tag to any that are particularly sensitive to me, and an indicator for how confident I am in the belief (💪 or 🤞). Line-by-line changes prior to this year are tracked here.
 - [2018](https://github.com/busterbenson/public/blob/ca6a024958862483f03a3ab16a381acc8fa2246c/book-of-beliefs.md): I refactored everything to come back to be organized by subject, but kept a bit of structure to separate beliefs that were about how I saw the world, and beliefs about how I thought the would should be. The first set includes beliefs that could potentially be proven wrong with new information, but the second set was more a matter of opinion. This turned out to be really useful in my continued exploration of biases and arguments, because this small difference in the belief makes a bit difference in how you form them, and how you talk about them.
