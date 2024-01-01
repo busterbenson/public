@@ -67,8 +67,9 @@ These are values I try to live by, but obviously it won't always happen. If you 
 
 *On consciousness*
 
-- The sensation of consciousness is real, but beyond that is tough to say.
-- Free will exists within constraints, in the same way a goldfish has freedom and autonomy within its fishbowl.
+- I subscribe to the general philosophy of a modern branch Idealism (poorly named, in my opinion) that is best articulated by Bernardo Kastrup and Donald Hoffman, which posits that consciousness is the primary nature of reality, and matter is secondary. The simplest way to think of it is that a cosmic consciousness is having a very large dream about the universe, and we are fractals of that consciousness in the same way that we can be a character in our own dreams.  
+- Free will exists within constraints, in the same way a goldfish has freedom and autonomy within its fishbowl. 
+- There is a quality of consciousness that is more valuable and fundamental than will, which is just pure experience and awareness. 
 
 *On critical thinking*
 

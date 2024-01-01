@@ -26,7 +26,6 @@ What does a life deserving of human dignity require?
 - [The Capabilities Approach](#the-capabilities-approach)
 - [Codex Vitae](#codex-vitae-aka-book-of-life-or-book-of-beliefs)
 - [Cognitive Biases](#cognitive-biases)
-- [Personal Mythology](#personal-mythology)
 - [Prisoner's Dilemma](#prisoners-dilemma)
 - [Productive Disagreements](#productive-disagreements)
 - [Wicked Problems](#wicked-problems)
@@ -180,11 +179,6 @@ Instead of memorizing 200+ oddly named cognitive biases that each have a complic
 - 05.10.2019: [Pocket Biases](https://pocket-biases.glideapp.io/)
 - 01.07.2017: [The cognitive bias cheat sheet, simplified](https://medium.com/thinking-is-hard/4-conundrums-of-intelligence-2ab78d90740f)
 - 09.01.2016: [The cognitive bias cheat sheet](https://betterhumans.pub/cognitive-bias-cheat-sheet-55a472476b18)
-
-
-
-### Personal Mythology
-You know that kinda overused metaphor where we represent the world's history as a 24-hour day and talk about how recorded history started somewhere around 11:59pm (and 45 seconds, or whatever) as a way of gaining some perspective about our place within the Earth's timeline? 
 
 
 
