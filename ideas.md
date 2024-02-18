@@ -17,6 +17,9 @@ The way forward is with a broken heart.
 What does a life deserving of human dignity require?
 &mdash; Martha Nussman
 
+Every atom belonging to me as good belongs to you. 
+&mdash; Walt Whitman
+
 ## Index of Ideas I'm Mulling
 *An alphabetized list of ideas I keep coming back to for some reason.*
 
@@ -24,6 +27,7 @@ What does a life deserving of human dignity require?
 - [Brackishness](#brackishness)
 - [Calendar and Clock Systems](#calendar-and-clock-systems)
 - [The Capabilities Approach](#the-capabilities-approach)
+- [Chalant](#chalant)
 - [Codex Vitae](#codex-vitae-aka-book-of-life-or-book-of-beliefs)
 - [Cognitive Biases](#cognitive-biases)
 - [Prisoner's Dilemma](#prisoners-dilemma)
@@ -119,6 +123,15 @@ Here is an abbreviated list of capabilities suggested by Martha Nussbaum in _Cre
 *Updates:*
 
 - 07.12.2022: [The Capabilities Approach added to to the idea list](https://medium.com/blagenflorble/the-capabilities-approach-added-to-the-list-d8b63836903)
+
+
+
+### Chalant
+Chalant is the opposite of nonchalant. Where nonchalance is cool, casual, and unaffected, chalant comes in hot, tries too hard, and is overly earnest and awkward. But on the other hand, it's also true to our unfiltered, uncurated, authentic self. It's the opposite of trying to fit in in order to get along with others. It's a refusal to be inauthentic in exchange for acceptance. A demand for authenticity, even at the risk of not being accepted. Permission to stay connected to what we really care about, and who we really are, even if it's not legible or rewarded by others or the world. 
+
+*Updates:*
+- 02.17.2024: [Chalant added to to the idea list](https://medium.com/@buster/chalant-added-to-the-idea-list-2f47fbdbc7ad)
+- 05.31.2023: [47 — CHALANT! ☄️](https://buster.medium.com/47-chalant-515c3ad09051)
 
 
 
